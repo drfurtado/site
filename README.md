@@ -21,7 +21,7 @@ To help us develop this template and software sustainably under the MIT license,
 
 ### [❤️ Click here to unlock rewards with sponsorship](https://wowchemy.com/plans/)
 
-## Ecosystem
+## Ecosystem changed
 
 * **[Wowchemy Admin](https://github.com/wowchemy/wowchemy-admin/):** An admin tool to import publications from BibTeX
 
