@@ -1,0 +1,36 @@
+---
+title: "Ovande Furtado, Jr"
+sidebar: false
+about:
+  template: trestles
+  image: profile.jpg
+  image-width: 12em
+  image-shape: round
+  links:
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/ofurtado
+    - icon: github
+      text: Github
+      href: https://github.com/drfurtado
+---
+
+Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.
+
+### Education
+
+Ph.D. in Motor Behavior, 2009 - University of Pittsburgh
+
+M.S. in Motor Behavior, 2004 - University of Pittsburgh
+
+B.A. in Physical Education K-12, 1998 - Federal University of Parana - Brazil
+
+### Experience
+
+**Associate Professor**<br> Cal State Northridge<br> Aug 2013 -- Present Northridge, CA<br> Teaches motor behavior and statistics courses.
+
+**Associate Professor**<br> Eastern Illinois University<br> Aug 2007 -- Jun 2013 Charleston, IL<br> Taught motor behavior and statistics courses.
+
+**Physical Educator Teacher K-12**<br> Falk Lab School<br> Aug 2006 -- Jun 2007 Pittsburgh, PA<br> Taught motor skill development for children K-12.
+
+**Kinder Kinetics Movement Program Co-Director**<br> University of Pittsburgh<br> Aug 2006 -- Jun 2007 Pittsburgh, PA
