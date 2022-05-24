@@ -3,7 +3,7 @@
   <meta charset="utf-8">
   <meta name="generator" content="quarto-0.9.80">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
-  <title>Dr.&nbsp;Furtado - Ovande Furtado, Jr</title>
+  <title>Dr.&nbsp;Furtado - Lesson 8: Correlation &amp; Bivariate Regression</title>
   <style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
@@ -13,22 +13,22 @@
     ul.task-list{list-style: none;}
   </style>
 
-  <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-  <script src="site_libs/quarto-nav/headroom.min.js"></script>
-  <script src="site_libs/clipboard/clipboard.min.js"></script>
-  <meta name="quarto:offset" content="./">
-  <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-  <script src="site_libs/quarto-search/fuse.min.js"></script>
-  <script src="site_libs/quarto-search/quarto-search.js"></script>
-  <script src="site_libs/quarto-html/quarto.js"></script>
-  <script src="site_libs/quarto-html/popper.min.js"></script>
-  <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-  <script src="site_libs/quarto-html/anchor.min.js"></script>
-  <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-  <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
-  <script src="site_libs/bootstrap/bootstrap.min.js"></script>
-  <link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-  <link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <script src="../../site_libs/quarto-nav/quarto-nav.js"></script>
+  <script src="../../site_libs/quarto-nav/headroom.min.js"></script>
+  <script src="../../site_libs/clipboard/clipboard.min.js"></script>
+  <meta name="quarto:offset" content="../../">
+  <script src="../../site_libs/quarto-search/autocomplete.umd.js"></script>
+  <script src="../../site_libs/quarto-search/fuse.min.js"></script>
+  <script src="../../site_libs/quarto-search/quarto-search.js"></script>
+  <script src="../../site_libs/quarto-html/quarto.js"></script>
+  <script src="../../site_libs/quarto-html/popper.min.js"></script>
+  <script src="../../site_libs/quarto-html/tippy.umd.min.js"></script>
+  <script src="../../site_libs/quarto-html/anchor.min.js"></script>
+  <link href="../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+  <link href="../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
+  <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+  <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
   <script id="quarto-search-options" type="application/json">{
     "location": "navbar",
     "copy-button": false,
@@ -48,17 +48,18 @@
       "search-submit-button-title": "Submit"
     }
   }</script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
   <!--[if lt IE 9]>
     <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
   <![endif]-->
-  <link rel="stylesheet" href="styles.css">
+  <link rel="stylesheet" href="../../styles.css">
 </head>
-<body class="fullcontent">
+<body class="docked">
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="./index.html">
+      <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Dr.&nbsp;Furtado</span>
   </a>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
@@ -67,13 +68,13 @@
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page">Home</a>
+    <a class="nav-link" href="../../index.html">Home</a>
   </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="button" data-bs-toggle="dropdown" aria-expanded="false">Teaching</a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
         <li>
-    <a class="dropdown-item" href="./courses/610/index.html"><i class="bi bi-book" role="img">
+    <a class="dropdown-item" href="../../courses/610/index.html"><i class="bi bi-bug" role="img">
 </i> 
  <span class="dropdown-text">KIN 610</span></a>
   </li>  
@@ -103,50 +104,82 @@
           </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
+  <nav class="quarto-secondary-nav" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+    <div class="container-fluid d-flex justify-content-between">
+      <h1 class="quarto-secondary-nav-title">Lesson 8: Correlation &amp; Bivariate Regression</h1>
+      <button type="button" class="quarto-btn-toggle btn">
+        <i class="bi bi-chevron-right"></i>
+      </button>
+    </div>
+  </nav>
 </header>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
+  <nav id="quarto-sidebar" class="sidebar collapse sidebar-navigation docked overflow-auto">
+    <div class="sidebar-menu-container"> 
+    <ul class="list-unstyled mt-1">
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../courses/610/index.html" class="sidebar-item-text sidebar-link">Intro</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../courses/610/syllabus.html" class="sidebar-item-text sidebar-link">Syllabus</a>
+  </div>
+</li>
+        <li class="sidebar-item sidebar-item-section">
+    <div class="sidebar-item-container"> 
+        <a class="sidebar-item-text sidebar-link text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-lessons" aria-expanded="false">Lessons</a>
+      <a class="sidebar-item-toggle text-start collapsed" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar-section-lessons" aria-expanded="false">
+        <i class="bi bi-chevron-right ms-2"></i>
+      </a>
+    </div>
+    <ul id="quarto-sidebar-section-lessons" class="collapse list-unstyled sidebar-section depth1 ">  
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../courses/610/lesson1.html" class="sidebar-item-text sidebar-link">1. Introduction to Stats</a>
+  </div>
+</li>
+        <li class="sidebar-item">
+  <div class="sidebar-item-container"> 
+  <a href="../../courses/610/lesson2.html" class="sidebar-item-text sidebar-link">2. Descriptive Stats</a>
+  </div>
+</li>
+    </ul>
+  </li>
+    </ul>
+    </div>
+</nav>
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc">
+<h2 id="toc-title">On this page</h2>
+<ul>
+<li><a href="#what-is-correlation" class="nav-link active" data-scroll-target="#what-is-correlation">What is Correlation?</a></li>
+</ul>
+</nav>
+    </div>
 <!-- main -->
-<div class="trestles">
-  <div class="about-entity">
-    <img src="profile.jpg" class="about-image
-  round " style="height: 12em; width: 12em;">
+<main class="content" id="quarto-document-content">
 <header id="title-block-header" class="quarto-title-block default">
 
-<div class="quarto-title"><h1 class="title display-7">Ovande Furtado, Jr</h1></div></header>
-    <div class="about-links">
-  <a href="https://twitter.com/ofurtado" class="about-link">
-    <i class="bi bi-twitter"></i>
-     twitter
-  </a>
-  <a href="https://github.com/drfurtado" class="about-link">
-    <i class="bi bi-github"></i>
-     Github
-  </a>
-</div>
-  </div>
-  <div class="about-contents"><main class="content" id="quarto-document-content">
-<p>Dr.&nbsp;Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D.&nbsp;degrees in Motor Behavior from the University of Pittsburgh, PA. Dr.&nbsp;Furtado’s line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.</p>
-<section id="education" class="level3">
-<h3 class="anchored" data-anchor-id="education">Education</h3>
-<p>Ph.D.&nbsp;in Motor Behavior, 2009 - University of Pittsburgh</p>
-<p>M.S. in Motor Behavior, 2004 - University of Pittsburgh</p>
-<p>B.A. in Physical Education K-12, 1998 - Federal University of Parana - Brazil</p>
-</section>
-<section id="experience" class="level3">
-<h3 class="anchored" data-anchor-id="experience">Experience</h3>
-<p><strong>Associate Professor</strong><br> Cal State Northridge<br> Aug 2013 – Present Northridge, CA<br> Teaches motor behavior and statistics courses.</p>
-<p><strong>Associate Professor</strong><br> Eastern Illinois University<br> Aug 2007 – Jun 2013 Charleston, IL<br> Taught motor behavior and statistics courses.</p>
-<p><strong>Physical Educator Teacher K-12</strong><br> Falk Lab School<br> Aug 2006 – Jun 2007 Pittsburgh, PA<br> Taught motor skill development for children K-12.</p>
-<p><strong>Kinder Kinetics Movement Program Co-Director</strong><br> University of Pittsburgh<br> Aug 2006 – Jun 2007 Pittsburgh, PA</p>
+<div class="quarto-title"><h1 class="title d-none d-lg-block display-7">Lesson 8: Correlation &amp; Bivariate Regression</h1></div></header>
+
+<section id="what-is-correlation" class="level2">
+<h2 class="anchored" data-anchor-id="what-is-correlation">What is Correlation?</h2>
+<p>Correlation is used to quantify the degree of relationship, or association, between variables.​</p>
+<p>Here are some examples:</p>
+<ul>
+<li><p>Correlation between vertical jump and power clean​</p></li>
+<li><p>Correlation between skinfold thickness and percentage of body fat​</p></li>
+</ul>
+<p>The Pearson product moment correlation coefficient (Pearson r)​ is named after Karl Pearson and the <span class="math inline">\(r\)</span> values range from −1.00 to +1.00.​ The closer r is to │1.0│, the stronger the relationship.​ If r = 0.0, then there is no relationship between the variables.​</p>
+
 
 </section>
-</main></div>
-</div>
- <!-- /main -->
+</main> <!-- /main -->
 <script type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const icon = "";

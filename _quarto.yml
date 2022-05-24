@@ -13,10 +13,12 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
       - text: "Teaching"
         menu: 
           - text: "KIN 610"
-            icon: "bug"
+            icon: "book"
             href: courses/610/index.qmd
   
     right:
@@ -36,13 +38,9 @@ website:
           href: courses/610/syllabus.qmd
         - section: "Lessons"
           contents:
-            - text: "1. Introduction to Stats"
-              href: courses/610/lesson1.qmd
-            - text: "2. Descriptive Stats"
-              href: courses/610/lesson2.qmd
-         
-  
-  
+            - text: "Multiple Regression"
+              href: courses/610/les-regression-m.qmd
+
 
 format:
   html:
