@@ -18,6 +18,9 @@ website:
           - text: "KIN 610"
             icon: "bug"
             href: courses/610/index.qmd
+          - text: "KIN 377"
+            icon: "bug"
+            href: courses/377/index.qmd
   
     right:
       - icon: twitter
@@ -40,10 +43,20 @@ website:
               href: courses/610/lesson1.qmd
             - text: "2. Descriptive Stats"
               href: courses/610/lesson2.qmd
-         
-  
-  
-
+    - id: 377-intro
+      collapse-level: 1
+      style: "docked"
+      contents:
+        - text: "Intro"
+          href: courses/377/index.qmd
+        - text: "Syllabus"
+          href: courses/377/syllabus.qmd
+        - section: "Lessons"
+          contents:
+            - text: "Chapter 1"
+              href: courses/377/lesson1.qmd
+            - text: "Chapter 2"
+              href: courses/377/lesson2.qmd
 format:
   html:
     theme: cosmo
