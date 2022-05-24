@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+  <meta charset="utf-8">
+  <meta name="generator" content="quarto-0.9.80">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+  <meta name="author" content="Ovande Furtado Jr">
+  <title>Dr.&nbsp;Furtado - Fixing long tables in jamovi</title>
+  <style>
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+
+  <script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+  <script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+  <script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+  <meta name="quarto:offset" content="../../../">
+  <script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+  <script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+  <script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+  <script src="../../../site_libs/quarto-html/quarto.js"></script>
+  <script src="../../../site_libs/quarto-html/popper.min.js"></script>
+  <script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+  <script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+  <link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+  <link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet">
+  <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+  <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+  <link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet">
+  <script id="quarto-search-options" type="application/json">{
+    "location": "navbar",
+    "copy-button": false,
+    "collapse-after": 2,
+    "panel-placement": "end",
+    "type": "overlay",
+    "limit": 20,
+    "language": {
+      "search-no-results-text": "No results",
+      "search-matching-documents-text": "matching documents",
+      "search-copy-link-title": "Copy link to search",
+      "search-hide-matches-text": "Hide additional matches",
+      "search-more-match-text": "more match in this document",
+      "search-more-matches-text": "more matches in this document",
+      "search-clear-button-title": "Clear",
+      "search-detached-cancel-button-title": "Cancel",
+      "search-submit-button-title": "Submit"
+    }
+  }</script>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="../../../styles.css">
+<style type="text/css">
+  main.quarto-banner-title-block .quarto-title-banner {
+    background-color: #EDF3F9;
+  }</style></head>
+<body>
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top">
+    <nav class="navbar navbar-expand-lg navbar-dark ">
+      <div class="navbar-container container-fluid">
+      <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Dr.&nbsp;Furtado</span>
+  </a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html">Home</a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../blog/index.html">Blog</a>
+  </li>  
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="button" data-bs-toggle="dropdown" aria-expanded="false">Teaching</a>
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
+        <li>
+    <a class="dropdown-item" href="../../../courses/610/index.html"><i class="bi bi-book" role="img">
+</i> 
+ <span class="dropdown-text">KIN 610</span></a>
+  </li>  
+    </ul>
+  </li>
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/ofurtado"><i class="bi bi-twitter" role="img">
+</i> 
+ </a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/drfurtado"><i class="bi bi-github" role="img">
+</i> 
+ </a>
+  </li>  
+</ul>
+              <div class="quarto-toggle-container">
+                  <a href="" class="quarto-reader-toggle nav-link" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+              </div>
+              <div id="quarto-search" class="" title="Search"></div>
+          </div> <!-- /navcollapse -->
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc">
+<h2 id="toc-title">On this page</h2>
+<ul>
+<li><a href="#motivation" class="nav-link active" data-scroll-target="#motivation">Motivation</a></li>
+<li><a href="#understanding-the-problem" class="nav-link" data-scroll-target="#understanding-the-problem">Understanding the problem</a></li>
+<li><a href="#the-solution" class="nav-link" data-scroll-target="#the-solution">The solution</a></li>
+</ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block page-columns page-full column-page-left" id="quarto-document-content">
+<header id="title-block-header" class="quarto-title-block default page-columns page-full" data-sidebar-align="true">
+
+
+
+<div class="quarto-title-banner color-body page-columns page-full"><div class="quarto-title column-page-left"><h1 class="title display-7">Fixing long tables in jamovi</h1><div class="quarto-categories"><div class="quarto-category">jamovi</div><div class="quarto-category">tables</div></div></div></div><div class="quarto-title-meta"><div><div class="quarto-title-meta-heading">Author</div><div class="quarto-title-meta-contents"><div class="quarto-title-authors"><p><a href="https://drfurtado.us">Ovande Furtado Jr</a></p></div></div></div><div><div class="quarto-title-meta-heading">Published</div><div class="quarto-title-meta-contents"><p class="date">May 16, 2022</p></div></div></div></header>
+
+<section id="motivation" class="level3">
+<h3 class="anchored" data-anchor-id="motivation">Motivation</h3>
+<p>This post shows two different ways to format descriptive tables in jamovi.</p>
+</section>
+<section id="understanding-the-problem" class="level3">
+<h3 class="anchored" data-anchor-id="understanding-the-problem">Understanding the problem</h3>
+<p>When creating <code>descriptive tables</code> in jamovi<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> , you can select either to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.</p>
+<p>Below are two examples of descriptives tables generated in jamovi. <a href="#fig-column">Figure&nbsp;1</a> shows a table with variables across columns and <a href="#fig-row">Figure&nbsp;2</a> shows a table with variables across rows.</p>
+<p>Learn how to choose either format by watching the video at the end of this post.</p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Tip
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Instead of copying a table from the output, you can export the table as PDF. Some journal articles require authors to save tables as PDF and submit them as separate files.</p>
+</div>
+</div>
+<div id="fig-column" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p></p><figcaption aria-hidden="true" class="figure-caption">Figure 1: Descriptive table with variables across columns</figcaption><p></p>
+<p><img src="jamov-tab-desc-column.png" class="img-fluid figure-img" style="width:42.0%"></p>
+</figure>
+</div>
+<div id="fig-row" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p></p><figcaption aria-hidden="true" class="figure-caption">Figure 2: Descriptive table with variables across rows</figcaption><p></p>
+<p><img src="jamov-tab-desc-row.png" class="img-fluid figure-img"></p>
+</figure>
+</div>
+</section>
+<section id="the-solution" class="level3">
+<h3 class="anchored" data-anchor-id="the-solution">The solution</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0scXP8rycpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1" role="doc-endnote"><p>Click <a href="https://www.jamovi.org">here</a> to learn more about jamovi.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{furtadojr2022,
+  author = {Ovande Furtado Jr},
+  title = {Fixing Long Tables in Jamovi},
+  date = {2022-05-16},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-furtadojr2022" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
+Ovande Furtado Jr. 2022. <span>“Fixing Long Tables in Jamovi.”</span>
+May 16, 2022.
+</div></div></section></div></main> <!-- /main -->
+<script type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const clipboard = new window.ClipboardJS('.code-copy-button', {
+    target: function(trigger) {
+      return trigger.previousElementSibling;
+    }
+  });
+  clipboard.on('success', function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    setTimeout(function() {
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  });
+  function tippyHover(el, contentFn) {
+    const config = {
+      allowHTML: true,
+      content: contentFn,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start'
+    };
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      let href = ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      return note.innerHTML;
+    });
+  }
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const cites = ref.parentNode.getAttribute('data-cites').split(' ');
+    tippyHover(ref, function() {
+      var popup = window.document.createElement('div');
+      cites.forEach(function(cite) {
+        var citeDiv = window.document.createElement('div');
+        citeDiv.classList.add('hanging-indent');
+        citeDiv.classList.add('csl-entry');
+        var biblioDiv = window.document.getElementById('ref-' + cite);
+        if (biblioDiv) {
+          citeDiv.innerHTML = biblioDiv.innerHTML;
+        }
+        popup.appendChild(citeDiv);
+      });
+      return popup.innerHTML;
+    });
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+</body></html>

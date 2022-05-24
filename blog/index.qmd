@@ -1,0 +1,17 @@
+---
+title: "Blog"
+subtitle: Academic-related posts & more
+sidebar: false
+page-layout: full
+title-block-banner: "#EDF3F9"
+title-block-banner-color: body
+listing:
+  sort: "date desc"
+  contents: posts
+  type: default
+  categories: true
+  filter-ui: true
+  sort-ui: false
+  image-align: right
+  max-description-length: 100
+---
