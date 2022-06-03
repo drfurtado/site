@@ -1,0 +1,87 @@
+---
+title: "Basics of APA in-text citation"
+categories:
+  - apa style
+  - citations
+  - references
+date: "5/31/2022"
+draft: true
+fig-cap-location: top
+image: feature.png
+author:
+  - name: Ovande Furtado Jr
+    url: https://drfurtado.us
+citation: true
+bibliography: ../biblio.bib
+---
+
+This article is meant to help students properly cite sources according the APA Style 7th ed...
+
+## Objectives
+
+After reading this articles, you will be able to:
+
+1.  recognize the different types of in-text citation;
+2.  properly cite sources following the APA Style 7th ed.;
+3.  ...
+
+## Basic principles
+
+The "APA Style uses the [author--date citation system](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date), in which a brief in-text citation directs readers to a full reference list entry". (ref) Note that you must include each work cited in the reference list.
+
+It's common for APA Style in-text citation to be associated with signal phrases. A signal phrase is a phrase, clause, or even sentence which leads into a quotation or paraphrase. These generally include the speaker/author's name and some justification for using him or her as an expert in this context; it may also help establish the context for the quotation. Below are some examples.
+
+> *According to researchers Furtado and Gallagher, "..."*
+>
+> *Campos and Mazzardo point out that "..."*
+
+The examples above do not conform (yet) with APA Style 7th ed. To do so, we need to add `year` and `page numbers`.
+
+> *According to researchers Furtado and Gallagher (**2020)**, "..."* **(p. 23).**
+>
+> *Campos and Mazzardo **(1990)** point out that "..."* **(pp. 22-23).**
+
+Below are some examples of verbs commonly used in signal phrases.
+
+|              |          |            |
+|--------------|----------|------------|
+| Acknowledges | Adds     | Admits     |
+| Addresses    | Argues   | Asserts    |
+| Believes     | Claims   | Comments   |
+| Compares     | Confirms | Contends   |
+| Declares     | Denies   | Disputes   |
+| Emphasizes   | Endorses | Grants     |
+| Illustrates  | Implies  | Insists    |
+| Notes        | Observes | Points out |
+| Reasons      | Refutes  | Rejects    |
+| Reports      | Responds | Suggests   |
+| Thinks       | Writes   | Adds       |
+
+##  
+
+Examples of APA Style in-text citation
+
+Author(s) named in the signal phrase - **Paraphrase**
+
+> Magill and Anderson (2021) argues that motor learning is an important aspect of a child's life.
+>
+> According to Magill and Anderson (2021), motor learning is an important aspect of a child's life.
+
+In both examples above, 
+
+-   APA does not require page numbers where the information is found in the source
+
+-   When authors are not inside the
+
+Author(s) named in the signal phrase - **Direct quote**
+
+Consider the following regarding APA style in-text citation:
+
+resources:
+
+[Six steps to proper citation](https://apastyle.apa.org/instructional-aids/six-steps-proper-citation.pdf)
+
+[In-text citation checklist](https://apastyle.apa.org/instructional-aids/six-steps-proper-citation.pdf)
+
+\
+\

@@ -1,0 +1,15 @@
+---
+title: "Module 01: Introduction to Motor Learning"
+link-citations: true
+zotero: "Intro to Motor Learning"
+bibliography: references.bib
+csl: apa-numeric-superscript-brackets.csl
+---
+
+> *"Watching a child makes it obvious that the development of his mind comes through his movements"-* Maria Montessori.
+
+# Definitions
+
+Let's start by defining Motor Learning. Motor Learning is "the study of motor skills, the performance enhancement of learned or highly experienced motor skills, or the reacquisition of skills that are difficult to perform or cannot be performed because of injury, disease, and the like." [@magill2021a, pp. 3-4]
+
+# Chapter Summary

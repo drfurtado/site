@@ -2,7 +2,7 @@
 
 # freeze computational output
 # (see https://quarto.org/docs/projects/code-execution.html#freeze)
-freeze: true
+freeze: false
 sidebar: false
 page-layout: full
 title-block-banner: "#EDF3F9"

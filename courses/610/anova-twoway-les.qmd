@@ -19,7 +19,7 @@ csl: apa-numeric-superscript-brackets.csl
 
 1.  understand when and why to conduct a F-ANOVA
 2.  understand main and interaction effects
-3.  run the Between-Between Two-Away ANOVA in `jamivi` and interpret the results
+3.  run the Between-Between Two-Away ANOVA in `jamovi` and interpret the results
 4.  calculate the effect size for the F-ANOVA
 
 ## When to use it?

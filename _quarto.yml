@@ -21,6 +21,8 @@ website:
           - text: "KIN 377"
             icon: "bug"
             href: courses/377/index.qmd
+      - text: "Blog"
+        href: blog/index.qmd
   
     right:
       - icon: twitter
@@ -33,7 +35,7 @@ website:
       collapse-level: 1
       style: "docked"
       contents:
-        - text: "Intro"
+        - text: "KIN 610 Intro"
           href: courses/610/index.qmd
         - text: "Syllabus"
           href: courses/610/syllabus.qmd
@@ -47,16 +49,16 @@ website:
       collapse-level: 1
       style: "docked"
       contents:
-        - text: "Intro"
+        - text: "KIN 377 Intro"
           href: courses/377/index.qmd
         - text: "Syllabus"
           href: courses/377/syllabus.qmd
-        - section: "Lessons"
+        - section: "Modules"
           contents:
-            - text: "Chapter 1"
-              href: courses/377/lesson1.qmd
-            - text: "Chapter 2"
-              href: courses/377/lesson2.qmd
+            - text: "Module 01"
+              href: courses/377/mod01.qmd
+            - text: "Module 02"
+              href: courses/377/mod02.qmd
 format:
   html:
     theme: cosmo

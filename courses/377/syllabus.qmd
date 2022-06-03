@@ -1,13 +1,29 @@
 ---
 title: "KIN 377 Syllabus"
+latex-auto-mk: true
+format:
+  html:
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+bibliography: references.bib
+csl: apa-numeric-superscript-brackets.csl
 ---
 
 # Instructor info
 
+::: {.callout-note appearance="minimal" icon="false"}
 Dr. Ovande Furtado Jr - Redwood Hall ???\
 Office hours: by appointment via [calendly.com/drfurtado](www.calendly.com/drfurtado)\
 Office phone: 818-677-5968\
 Email: refer to Canvas
+:::
 
 # Description
 
@@ -48,7 +64,7 @@ At the conclusion of this course, students should be able to:
 3.  Demonstrate competent problem-solving strategies through intentional practices; and
 4.  Demonstrate knowledge of kinesthetic forms, processes, and structures as they apply to the personal expression and culture of human movement.
 
-# Required Material
+# Textbook
 
 Magill, R. A., & Anderson, D. (2020). Motor learning and control: Concepts and applications. McGraw-Hill Education.
 
@@ -58,7 +74,7 @@ Link to Matador Bookstore: <https://bit.ly/37yiD7u>
 The program below is only available during the Fall and Spring semesters.
 :::
 
-### myCSUNDigitalAccess Program
+## myCSUNDigitalAccess Program
 
 1.  You are enrolled in a course which is part of the myCSUNDigitalAccess (MCDA) program.
 2.  The *MCDA* program provides digital materials to students at a deeply discounted price.
@@ -68,18 +84,18 @@ The program below is only available during the Fall and Spring semesters.
 6.  If you choose to obtain your materials elsewhere you have until \[date coming soon\] to Opt-Out (see instructions below). Those who Opt-Out by \[date coming soon\] will lose access and will **not be charged**.
 7.  Anyone who does not Opt-Out by the \[date coming soon\] deadline will be charged and those charges **will not be reversible**.
 
-#### Opt-out Instructions.
+### Opt-out Instructions
 
 If you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by \[date coming soon\]:
 
-1.  Go to https://accessportal.follett.com/0150.
-2.  Click on Create an Account on the lower right.
-3.  Create an account using your CSUN email account.
-4.  Select the course(s) you wish to Opt-Out from.
+1.  Go to https://accessportal.follett.com/0150
+2.  Click on Create an Account on the lower right
+3.  Create an account using your CSUN email account
+4.  Select the course(s) you wish to Opt-Out from
 
-> You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb
+You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb
 
-## Suggested Material
+## Additional resources
 
 ### Access to Computer & Internet
 
