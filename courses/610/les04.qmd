@@ -1,0 +1,13 @@
+---
+title: "The Normal Curve"
+format:
+  html:
+    toc: true
+    html-math-method: katex
+    css: styles.css
+  pdf:
+    toc: true
+    number-sections: true
+    colorlinks: true
+bibliography: references.bib
+---

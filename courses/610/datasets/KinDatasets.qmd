@@ -1,0 +1,13 @@
+---
+title: "KIN Datasets"
+format: 
+  html:
+    page-layout: full
+license: "CC BY-NC"
+---
+
+In this section, I list several data sets associated to Kinesiology and related disciplines.
+
+| Title       | Long Title                | Rows | Cols | n_binary | n_character | n_factor | n_logical | n_numerical | CSV                    | RTF                    |
+|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|-------|
+| LosingSleep | Sleep Hours for Teenagers | 446  | 3    | 1        | 0           | 0        | 0         | 3           | [csv](LosingSleep.csv) | [rtf](LosingSleep.qmd) |

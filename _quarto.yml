@@ -39,12 +39,20 @@ website:
           href: courses/610/index.qmd
         - text: "Syllabus"
           href: courses/610/syllabus.qmd
+        - text: "Sequence"
+          href: courses/610/sequence.qmd
         - section: "Lessons"
           contents:
-            - text: "1. Introduction to Stats"
-              href: courses/610/lesson1.qmd
-            - text: "2. Descriptive Stats"
-              href: courses/610/lesson2.qmd
+            - text: "Lesson 01"
+              href: courses/610/les01.qmd
+            - text: "Lesson 02"
+              href: courses/610/les02.qmd
+            - text: "Lesson 03"
+              href: courses/610/les03.qmd
+            - text: "Lesson 04"
+              href: courses/610/les04.qmd
+            - text: "Lesson 05"
+              href: courses/610/les05.qmd
     - id: 377-intro
       collapse-level: 1
       style: "docked"

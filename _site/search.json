@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Ovande Furtado, Jr",
     "section": "",
-    "text": "Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado’s line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.\n\nEducation\nPh.D. in Motor Behavior, 2009 - University of Pittsburgh\nM.S. in Motor Behavior, 2004 - University of Pittsburgh\nB.A. in Physical Education K-12, 1998 - Federal University of Parana - Brazil\n\n\nExperience\nAssociate Professor Cal State Northridge Aug 2013 – Present Northridge, CA Teaches motor behavior and statistics courses.\nAssociate Professor Eastern Illinois University Aug 2007 – Jun 2013 Charleston, IL Taught motor behavior and statistics courses.\nPhysical Educator Teacher K-12 Falk Lab School Aug 2006 – Jun 2007 Pittsburgh, PA Taught motor skill development for children K-12.\nKinder Kinetics Movement Program Co-Director University of Pittsburgh Aug 2006 – Jun 2007 Pittsburgh, PA"
+    "text": "Education\nPh.D. in Motor Behavior, 2009 - University of Pittsburgh\nM.S. in Motor Behavior, 2004 - University of Pittsburgh\nB.A. in Physical Education K-12, 1998 - Federal University of Parana - Brazil\n\n\nExperience\nAssociate Professor Cal State Northridge Aug 2013 – Present Northridge, CA Teaches motor behavior and statistics courses.\nAssociate Professor Eastern Illinois University Aug 2007 – Jun 2013 Charleston, IL Taught motor behavior and statistics courses.\nPhysical Educator Teacher K-12 Falk Lab School Aug 2006 – Jun 2007 Pittsburgh, PA Taught motor skill development for children K-12.\nKinder Kinetics Movement Program Co-Director University of Pittsburgh Aug 2006 – Jun 2007 Pittsburgh, PA"
   },
   {
     "objectID": "index.html#education",
@@ -39,14 +39,14 @@
     "href": "courses/610/index.html",
     "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
     "section": "",
-    "text": "KIN 610 is course offered at the Department of Kinesiology - CSUN.\n\nCourse description\nThis class focuses on the introductory statistical techniques used in social science research. Students will be introduced to concepts such as reliability, validity, measures of central tendency, variability, probability, and statistical techniques including: t tests (independent & dependent samples), Analysis of Variance (ANOVA), Chi-square, correlation, and regression. Students are expected to take the material/concepts presented in class and apply them through a series of homework assignments and quizzes. The overall goal of the course is not only to help students understand the mathematical/statistical concepts presented but also to assist in the application of these procedures."
+    "text": "This course focuses on the introductory statistical techniques used in social science research. Students will be introduced to concepts such as reliability, validity, measures of central tendency, variability, probability, and statistical techniques including: t tests (independent & dependent samples), Analysis of Variance (ANOVA), Chi-square, correlation, and regression.\nStudents are expected to take the material/concepts presented in this course and apply them through a series of homework assignments and quizzes. The overall goal of the course is not only to help students understand the mathematical/statistical concepts presented but also to assist in the application of these procedures.\n\n\n\nReusehttps://creativecommons.org/licenses/by-nc/4.0/"
   },
   {
     "objectID": "courses/610/syllabus.html",
     "href": "courses/610/syllabus.html",
-    "title": "Dr. Furtado",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
     "section": "",
-    "text": "asasas"
+    "text": "Instructor: Ovande Furtado Jr., Ph.D.\nDepartment of Kinesiology\nCal State Northridge\nFall 2022\nMeetings: Tuesday, 4:00-6:45 p.m., Redwood Hall\nDownload syllabus as PDF"
   },
   {
     "objectID": "courses/610/syllabus.html#course-info",
@@ -67,7 +67,7 @@
     "href": "courses/377/index.html",
     "title": "KIN 377: Motor Learning",
     "section": "",
-    "text": "KIN 377 is a course I teach at California State Northridge. The course is offered through the Department of Kinesiology and is required by all KIN majors. In addition to fall and spring semesters, KIN 377 is offered through Tseng College during the winter and summer.\nCourse description\nStudy of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice."
+    "text": "Course description\nStudy of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice."
   },
   {
     "objectID": "courses/377/syllabus.html",
@@ -536,13 +536,377 @@
     "href": "blog/posts/jamovi-tab-long/index.html",
     "title": "‘Fixing’ long tables in jamovi",
     "section": "",
-    "text": "Motivation\nThis post shows two different ways to format descriptive tables in jamovi.\n\n\nUnderstanding the problem\nWhen creating descriptive tables in jamovi1 , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.\nBelow are two examples of descriptive tables generated in jamovi. Figure 1 shows a table with variables across columns and Figure 2 shows a table with variables across rows.\nLearn how to choose either format by watching the video at the end of this post.\n\n\n\n\n\n\nTip\n\n\n\nInstead of copying a table from the output, you can export the table as PDF. Some journal articles require authors to save tables as PDF and submit them as separate files.\n\n\n\n\nFigure 1: Descriptive table with variables across columns\n\n\n\n\n\nFigure 2: Descriptive table with variables across rows\n\n\n\n\n\nThe solution\n\n\n\n\n\nFootnotes\n\n\nClick here to learn more about jamovi.↩︎\n\nCitationBibTeX citation:@online{furtadojr2022,\n  author = {Ovande Furtado Jr},\n  title = {“{Fixing}” Long Tables in Jamovi},\n  date = {2022-05-16},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nOvande Furtado Jr. 2022. “‘Fixing’ Long Tables in\nJamovi.” May 16, 2022."
+    "text": "Understanding the problem\nWhen creating descriptive tables in jamovi1 , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.\nBelow are two examples of descriptive tables generated in jamovi. Figure 1 shows a table with variables across columns and Figure 2 shows a table with variables across rows.\nLearn how to choose either format by watching the video at the end of this post.\n\n\n\n\n\n\nTip\n\n\n\nInstead of copying a table from the output, you can export the table as PDF. Some journal articles require authors to save tables as PDF and submit them as separate files.\n\n\n\n\nFigure 1: Descriptive table with variables across columns\n\n\n\n\n\nFigure 2: Descriptive table with variables across rows\n\n\n\n\n\nThe solution\n\n\n\n\n\n\nFootnotes\n\n\nClick here to learn more about jamovi.↩︎\n\nCitationBibTeX citation:@online{furtadojr2022,\n  author = {Ovande Furtado Jr},\n  title = {“{Fixing}” Long Tables in Jamovi},\n  date = {2022-05-16},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nOvande Furtado Jr. 2022. “‘Fixing’ Long Tables in\nJamovi.” May 16, 2022."
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "‘Fixing’ long tables in jamovi\n\n\n\n\n\n\n\njamovi\n\n\ntables\n\n\n\n\nThis post shows two different ways to format descriptive tables in jamovi.\n\n\n\n\n\n\nMay 16, 2022\n\n\nOvande Furtado Jr\n\n\n\n\n\n\nNo matching items"
+    "text": "jamovi\n\n\ntables\n\n\n\n\n\n\n\n\n\n\n\nMay 16, 2022\n\n\nOvande Furtado Jr\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "courses/610/datasets/LosingSleep.html#sleep-hours-for-teenagers",
+    "href": "courses/610/datasets/LosingSleep.html#sleep-hours-for-teenagers",
+    "title": "Dr. Furtado",
+    "section": "Sleep Hours for Teenagers",
+    "text": "Sleep Hours for Teenagers\n\nDescription\nHours of sleep for teenagers\n\n\nFormat\nA data frame with 446 observations on the following 3 variables.\n\nPerson\n\nCased ID number\n\nAge\n\nAge (in years)\n\nOutcome\n\nAverage at least 7 hours of sleep? (1=yes or 0=no)\n\n\n\n\nDetails\nData from a sample of 446 teens, aged 14 to 18, who answer the question, “On an average school night, how many hours of sleep do you get?” The outcome variable records whether or not each person averages at least 7 hours of sleep.\n\n\nSource\nWahlstrom, K., Dretzke, B., Gordon, M., Peterson, K., Edwards, K., & Gdula, J. (2014) “Examining the Impact of Later School Start Times on the Health and Academic Performance of High School Students: A Multi-Site Study,” Center for Applied Research and Educational Improvement. St Paul, MN: University of Minnesota."
+  },
+  {
+    "objectID": "courses/610/datasets/KinDatasets.html",
+    "href": "courses/610/datasets/KinDatasets.html",
+    "title": "KIN Datasets",
+    "section": "",
+    "text": "In this section, I list several data sets associated to Kinesiology and related disciplines.\n\n\n\nTitle\nLong Title\nRows\nCols\nn_binary\nn_character\nn_factor\nn_logical\nn_numerical\nCSV\nRTF\n\n\n\n\nLosingSleep\nSleep Hours for Teenagers\n446\n3\n1\n0\n0\n0\n3\ncsv\nrtf\n\n\n\n\n\nReusehttps://creativecommons.org/licenses/by-nc/4.0/"
+  },
+  {
+    "objectID": "courses/610/syllabus.html#course-description",
+    "href": "courses/610/syllabus.html#course-description",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Course Description",
+    "text": "Course Description\nThis course focuses on the introductory statistical techniques used in social science research. Students will be introduced to concepts such as reliability, validity, measures of central tendency, variability, probability, and statistical techniques including: t tests (independent & dependent samples), Analysis of Variance (ANOVA), Chi-square, correlation, and regression.\nStudents are expected to take the material/concepts presented in this course and apply them through a series of homework assignments and quizzes. The overall goal of the course is not only to help students understand the mathematical/statistical concepts presented but also to assist in the application of these procedures.\n\n\n\n\n\n\nNote\n\n\n\nI reserve the right to make changes to this syllabus at any point in the semester. I will inform you in class and via email and an updated syllabus will be posted on Canvas."
+  },
+  {
+    "objectID": "courses/610/syllabus.html#course-objectives",
+    "href": "courses/610/syllabus.html#course-objectives",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Course Objectives",
+    "text": "Course Objectives"
+  },
+  {
+    "objectID": "courses/610/syllabus.html#text-readings-instructions-resources",
+    "href": "courses/610/syllabus.html#text-readings-instructions-resources",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Text, readings & instructions resources",
+    "text": "Text, readings & instructions resources\n\nTextbook (required)\nWeir and Vincent (2021)"
+  },
+  {
+    "objectID": "courses/610/calendar.html",
+    "href": "courses/610/calendar.html",
+    "title": "KIN 610 - Course Calendar",
+    "section": "",
+    "text": "Course Calendar\n\n\n\n\n\n\n\n\nWeek1\nDate2\nReading3\nAssignments4\n\n\n\n\n1\n08/29/22\nCh01: Measurement, Statistics, and Research\nQuiz 1; Major Takeaways\n\n\n2\n09/05/22\nCh02: Organizing and Displaying Data\nCh03: Percentiles\nQuiz 2; Major Takeaways\n\n\n3\n09/12/22\nCh04: Measures of Central Tendency\nCh05: Measures of Variability\nQuiz 3; Major Takeaways\n\n\n4\n09/19/22\nCh06: The Normal Curve\n\nQuiz 4; Major Takeaways; Homework 1\n\n\n5\n09/26/22\nCh07: Fundamentals of Statistical Inference\nQuiz 5; Major Takeaways\n\n\n6\n10/03/22\nCh08: Correlation and Bivariate Regression\nQuiz 6; Major Takeaways\n\n\n7\n10/10/22\nChapter 9: Multiple Correlation and Multiple Regression\nQuiz 7; Major Takeaways\nCh09\n\n\n8\n10/17/22\nExam 1\nna\n\n\n9\n10/24/22\nChapter 10: The t Test: Comparing Means From Two Sets of Data\nQuiz 8; Major Takeaways\nCh10\n\n\n10\n10/31/22\nChapter 11: Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data\nQuiz 9; Major Takeaways\nCh11\n\n\n11\n11/07/22\nChapter 12: Analysis of Variance With Repeated Measures\nQuiz 10; Major Takeaways\nCh12\n\n\n12\n11/14/22\nChapter 13: Quantifying Reliability\nQuiz 11; Major Takeaways; Homework 3\nCh13\n\n\n13\n11/21/22\nChapter 14: Factorial Analysis of Variance\nQuiz 12; Major Takeaways\nCh14\n\n\n14\n11/28/22\nChapter 15: Analysis of Covariance\nQuiz 13; Major Takeaways\nCh15\n\n\n15\n12/05/22\nChapter 16: Analysis of Nonparametric Data\nQuiz 14; Major Takeaways\nCh16\n\n\n16\n12/13/22\nExam 2\nna\n\n\n\n\n\n\n\n\nReferences\n\nWeir, Joseph P., and William J. Vincent. 2021. Statistics in Kinesiology. Human Kinetics. https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource.\n\nFootnotes\n\n\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nEach week starts on Monday and ends on Sunday at 11:59 pm, except Week 15 which ends on Monday.↩︎\nClick on the links to watch a mini lecture associated with each chapter. I encourage you to go over the mini-lecture after reading the content of the chapter.↩︎\nWith the exception of Homeworks 1, 2, and 3, all assignments are due before class.↩︎"
+  },
+  {
+    "objectID": "courses/610/les01.html",
+    "href": "courses/610/les01.html",
+    "title": "Homework 01",
+    "section": "",
+    "text": "This assignment covers chapters 1-"
+  },
+  {
+    "objectID": "courses/610/les01.html#variables",
+    "href": "courses/610/les01.html#variables",
+    "title": "Multiple Regression",
+    "section": "Variables",
+    "text": "Variables\n\nIndependent variables\nOne or more quantitative (interval or ratio) variables.\n\n\nDependent variable\nOne quantitative of interval or ratio level variable."
+  },
+  {
+    "objectID": "courses/610/les01.html#stating-the-hypotheses",
+    "href": "courses/610/les01.html#stating-the-hypotheses",
+    "title": "Multiple Regression",
+    "section": "Stating the Hypotheses",
+    "text": "Stating the Hypotheses\nNull hypothesis\nF test for the complete regression model\nH_0: the variance explained by all the independent variables together (the complete model) is 0 in the population\nH_0:\\beta_1 = \\beta_2 = \\ldots = \\beta_K = 0\nt test for the individual regression coefficient \\beta_k\nH_0: \\beta_k = 0\nAlternative hypothesis\nF test for the complete regression model\nH_a: not all population regression coefficients are 0\nH_a:\\beta_1 \\neq \\beta_2 \\neq \\ldots \\neq \\beta_K \\neq 0\nt test for the individual regression coefficient \\beta_k\nH_a: \\beta_k \\neq 0 (two sided)\nH_a: \\beta_k > 0 (right sided)\nH_0: \\beta_k < 0 (left sided)\nThe multiple linear regression best fit line has an equation of the following form:\n\n\\hat{y} = a + \\beta(x)\n\\tag{1}\nwhere, a is the intercept (the value of y when x is = 0), \\beta represents the slope of the line and x is the explanatory variable (the predictor)."
+  },
+  {
+    "objectID": "courses/610/les01.html#assumptions",
+    "href": "courses/610/les01.html#assumptions",
+    "title": "Multiple Regression",
+    "section": "Assumptions",
+    "text": "Assumptions\nAdapted from Navarro and Foxcroft (2022)\n\nNormality. It assumes that the residuals are normally distributed. It’s actually okay if the predictors X and the outcome Y are non-normal, so long as the residuals are normal.\nLinearity. Assumes that the relationship between X and Y is linear (both simple regression or a multiple regression).\nHomogeneity of variance. The regression model assumes that each residual is comes from a normal distribution with mean 0, and with a standard deviation that is the same for every single residual. In practice, it’s impossible to test the assumption that every residual is identically distributed. Instead, what we care about is that the standard deviation of the residual is the same for all values of \\hat{Y}, and all values of every predictor Xi in the model.\nIndependence. The residuals are independent of one another.\n\nAlso, pay attention to the following:\nUncorrelated predictors. In a multiple regression model, you don’t want your predictors to be too strongly correlated with each other. Predictors that are too strongly correlated with each other (referred to as “collinearity”) can cause problems when evaluating the model.\nNo “bad” outliers. There is an implicit assumption that your regression model isn’t being too strongly influenced by one or two anomalous data points. This raises questions about the adequacy of the model and the trustworthiness of the data in some cases."
+  },
+  {
+    "objectID": "courses/610/les01.html#test-statistic",
+    "href": "courses/610/les01.html#test-statistic",
+    "title": "Multiple Regression",
+    "section": "Test statistic",
+    "text": "Test statistic\nF test for the complete regression model. Refer to the One-Way ANOVA test.\nt test for individual \\beta_k\n\nt = \\dfrac{b_k}{SE_{b_k}}\n\\tag{2}\nFor one independent variable:\n\nSE_{b_1} = \\dfrac{\\sqrt{\\sum (y_j - \\hat{y}_j)^2 / (N - 2)}}{\\sqrt{\\sum (x_j - \\bar{x})^2}} = \\dfrac{s}{\\sqrt{\\sum (x_j - \\bar{x})^2}}\n\nwith s the sample standard deviation of the residuals, x_j the score of subject j on the independent variable x , and \\bar{x} the mean of x."
+  },
+  {
+    "objectID": "courses/610/les01.html#sampling-distributions",
+    "href": "courses/610/les01.html#sampling-distributions",
+    "title": "Multiple Regression",
+    "section": "Sampling distributions",
+    "text": "Sampling distributions\nRefer to the sampling distributions of the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
+  },
+  {
+    "objectID": "courses/610/les01.html#significance",
+    "href": "courses/610/les01.html#significance",
+    "title": "Multiple Regression",
+    "section": "Significance",
+    "text": "Significance\nRefer to the steps used for the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
+  },
+  {
+    "objectID": "courses/610/les01.html#confidence-intervals",
+    "href": "courses/610/les01.html#confidence-intervals",
+    "title": "Multiple Regression",
+    "section": "Confidence Intervals",
+    "text": "Confidence Intervals\nRefer to the StatKat website1 for a detailed explanation. I will show below how to calculate it using jamovi."
+  },
+  {
+    "objectID": "courses/610/les01.html#effect-size",
+    "href": "courses/610/les01.html#effect-size",
+    "title": "Multiple Regression",
+    "section": "Effect size",
+    "text": "Effect size\nFor linear regression we calculate R^2 as the effect size. This is the amount of variance in the dependent variable y that is explained by the sample regression equation (the independent variable(s)). The reader is referred to StatKat2 for more detailed information."
+  },
+  {
+    "objectID": "courses/610/les01.html#example",
+    "href": "courses/610/les01.html#example",
+    "title": "Multiple Regression",
+    "section": "Example",
+    "text": "Example\nData: parenthood data found under lsj-data library in jamovi. Notice that you may need to install the lsj-data module datalabcc (2018) in jamovi.\nBelow is the formula for a straight line when there are more than one independent (predictor) variable:\n\ny = a + b_1Xi1 + b_2Xi2 + b_jXi\n\nWhere, a is the intercept, b is the slope, and x is a given value. The intercept is where the line touches the y axis, which in the graph in the left is between 80 and 90. This is the expected value of Yi when Xi is equal to 0. The slop is the tilt of the best fit line.\nTo run the linear regression, click on Regression - Linear Regression analysis in jamovi, using the parenthood data set.\nThen specify dani.grump as the Dependent Variable, dani.sleep , and baby.sleep as the variables entered in the Covariates box. This gives the results shown above.\n\n\n\nPredictor\nEstimate\n\n\n\n\nIntercept\n125.966\n\n\ndani.sleep\n-8.950\n\n\nbaby.sleep\n0.011\n\n\n\nWith these values, we can create the linear regression equation:\n\n\\hat{Y} = 125.96 + (-8.94)X\n\n\nInterpretation:\nThe slope: if one increases Xi by 1 unit, then one is decreasing Yi by 8.94. In other words, for each additional hour of sleep, Dani reduce her grumpiness level (points), which in turn will improve her mood.\nThe intercept: recall that the a is the predicted value of Yi when Xi is equal to 0. Thus, if Dani gets zero hours of sleep (Xi = 0), then her grumpiness will reach about (Yi = 125.96), which is lot since the scale goes up to 100.\n\n\nAssumption Checks\nNormality: QQ-plots + Shapiro-Wilk test\nOutlier\nInterpretation: Values greater than 1 is often considered large and indicates the presence of outlier."
+  },
+  {
+    "objectID": "courses/610/les01.html#web-resources",
+    "href": "courses/610/les01.html#web-resources",
+    "title": "Multiple Regression",
+    "section": "Web Resources",
+    "text": "Web Resources\nI have created a list of additional resources on this topic that can be accessed by scanning the following QR code:\nadd qr code here"
+  },
+  {
+    "objectID": "courses/610/sequence.html",
+    "href": "courses/610/sequence.html",
+    "title": "KIN 610 - Course Sequence",
+    "section": "",
+    "text": "Course Calendar\n\n\n\n\n\n\n\n\nLesson\nDate1\nReading2\nAssignments3\n\n\n\n\nLesson01\n08/29/22\nCh01: Measurement, Statistics, and Research\nQuiz 1; Major Takeaways\n\n\nLesson02\n09/05/22\nCh02: Organizing and Displaying Data\nCh03: Percentiles\nQuiz 2; Major Takeaways\n\n\nLesson03\n09/12/22\nCh04: Measures of Central Tendency\nCh05: Measures of Variability\nQuiz 3; Major Takeaways\n\n\nLesson04\n09/19/22\nCh06: The Normal Curve\n\nQuiz 4; Major Takeaways; Homework 1\n\n\nLesson05\n09/26/22\nCh07: Fundamentals of Statistical Inference\nQuiz 5; Major Takeaways\n\n\nLesson06\n10/03/22\nCh08: Correlation and Bivariate Regression\nQuiz 6; Major Takeaways\n\n\nLesson07\n10/10/22\nCh09: Multiple Correlation and Multiple Regression\n\nQuiz 7; Major Takeaways; Homework 2\n\n\nna\n10/17/22\nExam 1\nna\n\n\nLesson08\n10/24/22\nCh10: The Student’s t-test\n\nQuiz 8; Major Takeaways\n\n\nLesson09\n10/31/22\nCh11: Simple Analysis of Variance\n\nQuiz 9; Major Takeaways\n\n\nLesson10\n11/07/22\nCh12: Analysis of Variance With Repeated Measures\n\nQuiz 10; Major Takeaways; Homework 3\n\n\nLesson11\n11/14/22\nCh13: Quantifying Reliability\n\nQuiz 11; Major Takeaways\n\n\nLesson12\n11/21/22\nCh14: Factorial Analysis of Variance\n\nQuiz 12; Major Takeaways\n\n\nLesson13\n11/28/22\nCh15: Analysis of Covariance\n\nQuiz 13; Major Takeaways\n\n\nLesson14\n12/05/22\nCh16: Analysis of Nonparametric Data\n\nQuiz 14; Major Takeaways\n\n\nna\n12/13/22\nExam 2\nna\n\n\n\n\n\n\n\n\nReferences\n\n1. Weir, J. P., & Vincent, W. J. (2021). Statistics in Kinesiology. Human Kinetics. https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource\n\nFootnotes\n\n\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nStudents are expected to read and study the assigned chapters prior to attending each class meeting.↩︎\nUnless stated otherwise, all assignments are due before class. Refer to the syllabus for assignments detailed information.↩︎"
+  },
+  {
+    "objectID": "courses/610/les07.html",
+    "href": "courses/610/les07.html",
+    "title": "Multiple Regression",
+    "section": "",
+    "text": "Ch07: Fundamentals of Statistical Inference"
+  },
+  {
+    "objectID": "courses/610/les07.html#variables",
+    "href": "courses/610/les07.html#variables",
+    "title": "Multiple Regression",
+    "section": "Variables",
+    "text": "Variables\n\nIndependent variables\nOne or more quantitative (interval or ratio) variables.\n\n\nDependent variable\nOne quantitative of interval or ratio level variable."
+  },
+  {
+    "objectID": "courses/610/les07.html#stating-the-hypotheses",
+    "href": "courses/610/les07.html#stating-the-hypotheses",
+    "title": "Multiple Regression",
+    "section": "Stating the Hypotheses",
+    "text": "Stating the Hypotheses\nNull hypothesis\nF test for the complete regression model\nH_0: the variance explained by all the independent variables together (the complete model) is 0 in the population\nH_0:\\beta_1 = \\beta_2 = \\ldots = \\beta_K = 0\nt test for the individual regression coefficient \\beta_k\nH_0: \\beta_k = 0\nAlternative hypothesis\nF test for the complete regression model\nH_a: not all population regression coefficients are 0\nH_a:\\beta_1 \\neq \\beta_2 \\neq \\ldots \\neq \\beta_K \\neq 0\nt test for the individual regression coefficient \\beta_k\nH_a: \\beta_k \\neq 0 (two sided)\nH_a: \\beta_k > 0 (right sided)\nH_0: \\beta_k < 0 (left sided)\nThe multiple linear regression best fit line has an equation of the following form:\n\n\\hat{y} = a + \\beta(x)\n\\tag{1}\nwhere, a is the intercept (the value of y when x is = 0), \\beta represents the slope of the line and x is the explanatory variable (the predictor)."
+  },
+  {
+    "objectID": "courses/610/les07.html#assumptions",
+    "href": "courses/610/les07.html#assumptions",
+    "title": "Multiple Regression",
+    "section": "Assumptions",
+    "text": "Assumptions\nAdapted from Navarro and Foxcroft (2022)\n\nNormality. It assumes that the residuals are normally distributed. It’s actually okay if the predictors X and the outcome Y are non-normal, so long as the residuals are normal.\nLinearity. Assumes that the relationship between X and Y is linear (both simple regression or a multiple regression).\nHomogeneity of variance. The regression model assumes that each residual is comes from a normal distribution with mean 0, and with a standard deviation that is the same for every single residual. In practice, it’s impossible to test the assumption that every residual is identically distributed. Instead, what we care about is that the standard deviation of the residual is the same for all values of \\hat{Y}, and all values of every predictor Xi in the model.\nIndependence. The residuals are independent of one another.\n\nAlso, pay attention to the following:\nUncorrelated predictors. In a multiple regression model, you don’t want your predictors to be too strongly correlated with each other. Predictors that are too strongly correlated with each other (referred to as “collinearity”) can cause problems when evaluating the model.\nNo “bad” outliers. There is an implicit assumption that your regression model isn’t being too strongly influenced by one or two anomalous data points. This raises questions about the adequacy of the model and the trustworthiness of the data in some cases."
+  },
+  {
+    "objectID": "courses/610/les07.html#test-statistic",
+    "href": "courses/610/les07.html#test-statistic",
+    "title": "Multiple Regression",
+    "section": "Test statistic",
+    "text": "Test statistic\nF test for the complete regression model. Refer to the One-Way ANOVA test.\nt test for individual \\beta_k\n\nt = \\dfrac{b_k}{SE_{b_k}}\n\\tag{2}\nFor one independent variable:\n\nSE_{b_1} = \\dfrac{\\sqrt{\\sum (y_j - \\hat{y}_j)^2 / (N - 2)}}{\\sqrt{\\sum (x_j - \\bar{x})^2}} = \\dfrac{s}{\\sqrt{\\sum (x_j - \\bar{x})^2}}\n\nwith s the sample standard deviation of the residuals, x_j the score of subject j on the independent variable x , and \\bar{x} the mean of x."
+  },
+  {
+    "objectID": "courses/610/les07.html#sampling-distributions",
+    "href": "courses/610/les07.html#sampling-distributions",
+    "title": "Multiple Regression",
+    "section": "Sampling distributions",
+    "text": "Sampling distributions\nRefer to the sampling distributions of the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
+  },
+  {
+    "objectID": "courses/610/les07.html#significance",
+    "href": "courses/610/les07.html#significance",
+    "title": "Multiple Regression",
+    "section": "Significance",
+    "text": "Significance\nRefer to the steps used for the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
+  },
+  {
+    "objectID": "courses/610/les07.html#confidence-intervals",
+    "href": "courses/610/les07.html#confidence-intervals",
+    "title": "Multiple Regression",
+    "section": "Confidence Intervals",
+    "text": "Confidence Intervals\nRefer to the StatKat website1 for a detailed explanation. I will show below how to calculate it using jamovi."
+  },
+  {
+    "objectID": "courses/610/les07.html#effect-size",
+    "href": "courses/610/les07.html#effect-size",
+    "title": "Multiple Regression",
+    "section": "Effect size",
+    "text": "Effect size\nFor linear regression we calculate R^2 as the effect size. This is the amount of variance in the dependent variable y that is explained by the sample regression equation (the independent variable(s)). The reader is referred to StatKat2 for more detailed information."
+  },
+  {
+    "objectID": "courses/610/les07.html#example",
+    "href": "courses/610/les07.html#example",
+    "title": "Multiple Regression",
+    "section": "Example",
+    "text": "Example\nData: parenthood data found under lsj-data library in jamovi. Notice that you may need to install the lsj-data module datalabcc (2018) in jamovi.\nBelow is the formula for a straight line when there are more than one independent (predictor) variable:\n\ny = a + b_1Xi1 + b_2Xi2 + b_jXi\n\nWhere, a is the intercept, b is the slope, and x is a given value. The intercept is where the line touches the y axis, which in the graph in the left is between 80 and 90. This is the expected value of Yi when Xi is equal to 0. The slop is the tilt of the best fit line.\nTo run the linear regression, click on Regression - Linear Regression analysis in jamovi, using the parenthood data set.\nThen specify dani.grump as the Dependent Variable, dani.sleep , and baby.sleep as the variables entered in the Covariates box. This gives the results shown above.\n\n\n\nPredictor\nEstimate\n\n\n\n\nIntercept\n125.966\n\n\ndani.sleep\n-8.950\n\n\nbaby.sleep\n0.011\n\n\n\nWith these values, we can create the linear regression equation:\n\n\\hat{Y} = 125.96 + (-8.94)X\n\n\nInterpretation:\nThe slope: if one increases Xi by 1 unit, then one is decreasing Yi by 8.94. In other words, for each additional hour of sleep, Dani reduce her grumpiness level (points), which in turn will improve her mood.\nThe intercept: recall that the a is the predicted value of Yi when Xi is equal to 0. Thus, if Dani gets zero hours of sleep (Xi = 0), then her grumpiness will reach about (Yi = 125.96), which is lot since the scale goes up to 100.\n\n\nAssumption Checks\nNormality: QQ-plots + Shapiro-Wilk test\nOutlier\nInterpretation: Values greater than 1 is often considered large and indicates the presence of outlier."
+  },
+  {
+    "objectID": "courses/610/les07.html#web-resources",
+    "href": "courses/610/les07.html#web-resources",
+    "title": "Multiple Regression",
+    "section": "Web Resources",
+    "text": "Web Resources\nI have created a list of additional resources on this topic that can be accessed by scanning the following QR code:\nadd qr code here"
+  },
+  {
+    "objectID": "courses/610/les08.html",
+    "href": "courses/610/les08.html",
+    "title": "The t Test: Comparing Means From Two Sets of Data",
+    "section": "",
+    "text": "Ch08: Correlation and Bivariate Regression"
+  },
+  {
+    "objectID": "courses/610/les09.html",
+    "href": "courses/610/les09.html",
+    "title": "Analysis of Nonparametric Data",
+    "section": "",
+    "text": "Ch09"
+  },
+  {
+    "objectID": "courses/610/les13.html",
+    "href": "courses/610/les13.html",
+    "title": "Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data",
+    "section": "",
+    "text": "Ch13"
+  },
+  {
+    "objectID": "courses/610/les07.html#when-to-use-it",
+    "href": "courses/610/les07.html#when-to-use-it",
+    "title": "Multiple Regression",
+    "section": "When to use it?",
+    "text": "When to use it?\nMultiple regression, and multiple correlation are tools used to examine the combined relations between multiple predictors and a dependent variable. When correlating one quantitative dependent variable (Yi) with multiple quantitative variables (Xi_1, Xi_2,... Xi_k ).\nMultiple regression is specially useful when several independent variables work better at predicting a dependent variable compared to a single independent variable. For example, one can estimate percent body fat using the skinfold measurement technique. Although there are several techniques to estimate body fat, researchers have used the multiple regression technique to identify the best predictors. See excerpt below:\n\nThe practical equation including age, race, height, weight and waist circumference had high predictive ability for lean body mass (men: R 2=0·91, standard error of estimate (SEE)=2·6 kg; women: R 2=0·85, SEE=2·4 kg) and fat mass (men: R 2=0·90, SEE=2·6 kg; women: R 2=0·93, SEE=2·4 kg). Waist circumference was a strong predictor in men only. Addition of other circumference and skinfold measures slightly improved the prediction model. ref needed"
+  },
+  {
+    "objectID": "courses/610/les06.html",
+    "href": "courses/610/les06.html",
+    "title": "Correlation & Bivariate Regression",
+    "section": "",
+    "text": "Ch06: The Normal Curve"
+  },
+  {
+    "objectID": "courses/610/les12.html",
+    "href": "courses/610/les12.html",
+    "title": "Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data",
+    "section": "",
+    "text": "Ch12"
+  },
+  {
+    "objectID": "courses/610/les10.html",
+    "href": "courses/610/les10.html",
+    "title": "Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data",
+    "section": "",
+    "text": "Ch10"
+  },
+  {
+    "objectID": "courses/610/les11.html",
+    "href": "courses/610/les11.html",
+    "title": "Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data",
+    "section": "",
+    "text": "Ch11"
+  },
+  {
+    "objectID": "courses/610/les14.html",
+    "href": "courses/610/les14.html",
+    "title": "Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data",
+    "section": "",
+    "text": "Ch14"
+  },
+  {
+    "objectID": "courses/610/les02.html",
+    "href": "courses/610/les02.html",
+    "title": "Organizing Data & Percentiles",
+    "section": "",
+    "text": "Ch02: Organizing and Displaying DataCh03: Percentiles"
+  },
+  {
+    "objectID": "courses/610/les03.html",
+    "href": "courses/610/les03.html",
+    "title": "Measures of Central Tendency & Variability",
+    "section": "",
+    "text": "Ch05: Measures of Variability"
+  },
+  {
+    "objectID": "courses/610/syllabus.html#expectations-and-goals",
+    "href": "courses/610/syllabus.html#expectations-and-goals",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Expectations and Goals",
+    "text": "Expectations and Goals\nUpon completion of this course, you will be able to adequately:\n\nIntroduce statistical concepts utilized in research within the social sciences\nApply the mathematical/statistical techniques presented for social science research\nDemonstrate an ability to analyze and interpret data within the social sciences\nProvide practical examples as to when statistical techniques presented are appropriate methods for analysis."
+  },
+  {
+    "objectID": "courses/610/syllabus.html#other-readings",
+    "href": "courses/610/syllabus.html#other-readings",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Other readings",
+    "text": "Other readings\n\nStatKat - Statistical method selection table\nGPower - Statistical Power Analysis\n\nHHU website[2] (many resources related to the app, including tutorials)\nDemonstrations Article[3]"
+  },
+  {
+    "objectID": "courses/610/syllabus.html#text-readings-instructional-resources",
+    "href": "courses/610/syllabus.html#text-readings-instructional-resources",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Text, readings & instructional resources",
+    "text": "Text, readings & instructional resources\n\nTextbook (required)\nWeir and Vincent (2021)[1]\n\n\nOther readings\n\nStatKat - Statistical method selection table\nGPower - Statistical Power Analysis\n\nHHU website[2] (many resources related to the app, including tutorials)\nDemonstration Article[3]\n\n\n\n\nInstructional resources\n\njamovi Statistical Software[4] (Free)\njamovi Video Tutorials1 (Free)"
+  },
+  {
+    "objectID": "courses/610/syllabus.html#references",
+    "href": "courses/610/syllabus.html#references",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "References",
+    "text": "References\n\n\n1. Weir, J. P., & Vincent, W. J. (2021). Statistics in Kinesiology. Human Kinetics. https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource\n\n\n2. Universität düsseldorf: g*power. (2014). http://www.gpower.hhu.de/en.html\n\n\n3. Faul, F., Erdfelder, E., Lang, A.-G., & Buchner, A. (2007). G*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior research methods, 39(2), 175–191.\n\n\n4. The jamovi project. (2021). Jamovi. Retrieved from https://www.jamovi.org"
+  },
+  {
+    "objectID": "courses/610/syllabus.html#course-structure-and-requirements",
+    "href": "courses/610/syllabus.html#course-structure-and-requirements",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Course Structure and Requirements",
+    "text": "Course Structure and Requirements\nYou are responsible for the material covered in the textbook prior to attending each class. Note that the week’s readings are specified in the course sequence.\nIn addition to these readings, the instructor may assign supplemental readings throughout the semester. These supplemental readings do not appear on the schedule as these readings will be assigned at the instructor’s discretion.\nThe assignments used to enhance your learning experience in this course include:\n\nClass preparedness\nYou will be evaluated on your preparedness by submitting an assignment before each class (Major Takeaways).\n\n\nParticipation & Attendance\nClass presence and participation points are given to encourage your active class participation and discussion. You will be rewarded with a perfect score as long as you frequently come to class and actively contribute to the class discussion during lectures.\nAlthough it is not required, most students send their professor a brief e-mail to explain their absence in advance."
+  },
+  {
+    "objectID": "courses/610/syllabus.html#structure-requirements",
+    "href": "courses/610/syllabus.html#structure-requirements",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Structure & Requirements",
+    "text": "Structure & Requirements\nYou are responsible for the material covered in the textbook prior to attending each class. Note that the week’s readings are specified in the course sequence.\nIn addition to these readings, the instructor may assign supplemental readings throughout the semester. These supplemental readings do not appear on the schedule as these readings will be assigned at the instructor’s discretion.\nThe assignments used to enhance your learning experience in this course include:\n\nPreparedness\nYou will be evaluated on your preparedness by submitting an assignment before each class (Major Takeaways).\n\n\nParticipation & Attendance\nClass presence and participation points are given to encourage your active class participation and discussion. You will be rewarded with a perfect score as long as you frequently come to class and actively contribute to the class discussion during lectures.\nAlthough it is not required, most students send their professor a brief e-mail to explain their absence in advance.\n\n\nQuizzes\nBefore each class, you will complete a multiple-choice quiz on the topic covered for that week. You will be given multiples attempts and the highest grade will be used.\n\n\nHomeworks\nStudents will complete three (3) homework assignments on this course. The purpose of each assignment is to assist students in applying their understanding of the statistical procedures discussed in class as well as to provide an opportunity for students to respond to the readings.\nHomework assignments have two components. The first part is performing the statistical calculations correctly using jamovi. The second component involves interpreting the statistical analyses. When answering the interpretation questions, the point is to show that you know what your numbers mean, so don’t simply provide the definition of the term. For instance, if you calculate the “number needed to treat (NNT)” as NNT = 7.69, the interpretation of this number is something like “7.69 people must be given the treatment to prevent one adverse event. The wrong answer is something like”the NNT tells you how many people must be given the treatment to prevent one adverse event.”\n\n\n\n\n\n\nWarning\n\n\n\nYou are allowed to discuss homework with other students (and with the instructor), but you must write final answers yourself, in your own words. Solutions prepared “in committee” or by copying or paraphrasing someone else’s work are not acceptable; your hand-in assignments must represent your own thoughts (refer to [Academic Dishonesty Policy](#dishonesty) for more information); especially, the information about PLAGIARISM.\n\n\n\n\nExams\nYou will be required to complete two (2) exams in this course. Students may use their notes and textbook for the exams, but no other outside resource other than a calculator can be used.\nEach exam have 10 questions, with each question worth 10 points. Exams must be completed in the allotted time. The focus of the exams (and quizzes) will be on concepts and interpretation, with most of the computational activities occurring in the homework assignments.\nAlthough the quizzes and exams will not focus on previously tested material (they are not meant to be cumulative), knowledge of previously tested material may be inherently required to answer questions related to new material.\nMost of the computational activities will be via the homework assignments. In addition, selected readings will be assigned through the semester. The content of these readings will be included on exam and quiz questions and in homework assignments."
+  },
+  {
+    "objectID": "courses/610/syllabus.html#course-policy",
+    "href": "courses/610/syllabus.html#course-policy",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Course Policy",
+    "text": "Course Policy\nI will detail the policy for this course below. Basically, don’t cheat and try to learn stuff.\n\nGrading Policy\n\n\n\nAssignment\nPercentage\n\n\n\n\nMajor Takeaways (14)*\n15%\n\n\nParticipation & Attendance\n5%\n\n\nWeekly Quizzes (14)*\n20%\n\n\nHomeworks (3)\n30%\n\n\nExams (2)\n30%\n\n\n\n*The lowest score will be dropped at the end of the semester.\n\n\nGrading Scale\nA 93.00-100.00 | A- 90.00-92.99 B+ 87.00-89.99 | B 83.00-86.99 | B- 80.00-82.99 C+ 77.00-79.99 | C 73.00-76.99 | C- 70.00-72.99 D+ 67.00-69.99 | D 63.00-66.99 | D- 60.00-62.99 F <59.99\n\n\n\n\n\n\nNote\n\n\n\nIn recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a “round up” rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nRequests for an Incomplete (I) must conform to university policies. Among other requirements, “I” is possible only for instances in which you are demonstrating passing work in the class.\n\n\n\n\nAttendance Policy\n\nShowing up is 80 percent of life – Woody Allen, via Marshall Brickman\n\nAttendance will be taken at the beginning of every class; please, plan accordingly.\n\n\nE-mail Policy\nIf you have a question concerning this course (i.e. assignments, content, deadlines, etc.), send a message2 to our mailing list (provide under Canvas > Home). For any other matters, send me a message at my CSUN email.\nKeep it in mind:\n\nAll students enrolled in my courses are added to the mailing lists automatically. If you are not receiving emails from the mailing address, then contact CSUN Help Desk to get it fixed.\nOnly send messages to the mailing list address when the content is pertinent to ALL students. For private matters, email me directly.\nONLY send message to the mailing list address from your CSUN email address; otherwise, your message will not be delivered.\n\nI am usually quick to respond to student e-mails. Below, I outline why I will not respond to certain e-mails students send. Multiple rationales follow.\n\nStudents could answer their own inquiry by reading the syllabus.\nThe student is protesting a grade without reference to specific points of objection. These e-mails tend to be expressive utility on the part of the student and do not require a response from me. Students interested in improving their knowledge of material should see me during office hours.\nThe student is requesting an extension on an assignment for which the syllabus already established the deadline. The answer is always “no”; unless you have a reason that can be documented and you contacted me before the deadline.\nThe student is asking for an extra credit opportunity, a request that amounts to more grading for the professor. The answer is “no”.\n\nMore e-mail stuff…\nIf you need to schedule an online meeting, you can do so by visiting this link: bit.ly/drfurtado-bookme. The details will be provided when the meeting is scheduled via MS Booking, including the option to cancel/reschedule a meeting, if needed.\n\n\nLate Assignments\nUnless you have made previous arrangements, a late assignments will be docked 10% per day (first 4 days) it is late.\n\n\nExtra Credit\nThere is no individual extra credit granted. Therefore, do not plan to make-up poor grades at the end of the semester by asking to do extra credit work. I might provide extra credit opportunities, but these will be offered to the entire class, not to individuals.\n\n\nDisabilities Policy\nFederal law mandates the provision of services at the university-level to qualified students with disabilities.\nThis instructor, in conjunction with California State University Northridge, is committed to upholding and maintaining all aspects of the federal Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Rehabilitation Act of 1973.\nIf you are a student with a disability and wish to request accommodations, please contact the office of Students with Disabilities Resources located in 110 Student Services Building, or call (818) 677-2684 for an appointment. Any information regarding your disability will remain confidential. Because many accommodations require early planning, requests for accommodations should be made as early as possible. Any requests for accommodations will be reviewed in a timely manner to determine their appropriateness to this setting.\n\n\nAcademic Dishonesty Policy\nPlease, stop and read the information below; this is important!\n\n\n\n\n\n\nImportant\n\n\n\nEach student is expected to be familiar with, and abide by, the conditions of student conduct, as presented in the CSUN Catalog, with emphasis on sections entitled, Student Conduct Code, Academic Dishonesty, Faculty Policy on Academic Dishonesty, and Penalties. Any student engaging in academic dishonesty (e.g., cheating, fabrication, facilitating academic dishonesty, plagiarism) is subject to discipline, which may include a failing grade in the course, and may also be subject to more severe discipline by the University. Students are encouraged to visit the link below and become familiar with the Standards for Student Conduct.\nhttp://www.csun.edu/a&r/soc/studentconduct.html\n\n\n\nAbout Plagiarism\nPlagiarism means using words, ideas, or arguments from another person or source without citation3. Cite all sources consulted to any extent (including material from the internet), whether or not assigned and whether or not quoted directly. For quotations, four or more words used in sequence must be set off in quotation marks, with the source identified.\nPlagiarism is a serious violation of the CSUN Student Conduct Code. Please read my comment about plagiarism under Homeworks. Any form of cheating will immediately earn you a failing grade for the entire course. By remaining enrolled, you consent to this policy.\n\nTurnitin (see below) will detect such misconducts as it checks every submission against a database of papers, as well as against the Internet.\n\nWhat is Turnitin?\nTurnitin is an automated system that instructors can use to quickly and easily compare each student’s assignment with billions of websites, as well as an enormous database of student papers that grows with each submission. Accordingly, you will be expected to submit assignments through the Canvas Assignment Tool in electronic format. After the assignment is processed, as an instructor, I receive a report from Turnitin that states if and how another author’s work was used in the assignment."
+  },
+  {
+    "objectID": "courses/610/syllabus.html#final-yet-important-notes",
+    "href": "courses/610/syllabus.html#final-yet-important-notes",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Final (yet important) Notes",
+    "text": "Final (yet important) Notes\n\nHow to Access our Course and Get Started\n\nLog into Canvas: https://canvas.csun.edu\nUnder “My Courses,” locate our course and click on it.\nThis will take you to the course home page.\n\n\n\nTechnology Requirements and Support:\n\nA computer and access to the internet (reliable connection)\nGoogle Chrome (web browser)\n\n\n\nWhat I Expect of You:\n\nPlan your schedule to ensure you several hours per week to spend on this class and take time to identify where and when you’ll do your learning.\nReview the due dates for the assignments (refer to our Course Schedule in Canvas) to orient yourself to the flow of the learning.\nThis course requires regular engagement and practice using jamovi (Statistical Package)."
+  },
+  {
+    "objectID": "courses/610/syllabus.html#how-to-be-success-in-this-course",
+    "href": "courses/610/syllabus.html#how-to-be-success-in-this-course",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "How to be Success in this Course",
+    "text": "How to be Success in this Course\nConsider the goals you have for engaging in this course as you determine how to allocate time to complete course requirements.\nEach student has a different pace when comes to studying for a course. Thus, I will let you figure out how many hours you need to reserve each week for this course. Regardless of the number of hours chosen, try to divide your time so that you devote more time to assignments and assigned readings.\nThe Module Time chart below provides a visual representation of the typical time spent completing a module, followed by an example weekly schedule.\n\nModule time\nA typical module in this course is comprised of the following categories:\n\nReadings + eFlashcards\nMini-lecture\nPractice jamovi\nAssignments (major takeaways, quizzes)\n\n\n\n\n\n\n\n\nExample Weekly Schedule\n\nMonday-Tuesday (or get a jump-start on the weekend)\n\nRead the chapter(s) + Study the eFlashcards\n\nWednesday-Thursday\n\nWatch the mini-lectures + Practice jamovi\n\nFriday-Sunday\n\nComplete the assignments"
+  },
+  {
+    "objectID": "courses/610/syllabus.html#student-support-services",
+    "href": "courses/610/syllabus.html#student-support-services",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Student Support Services",
+    "text": "Student Support Services\nCSUN aims to make all learning experiences as accessible as possible, and has a variety of resources available to help support students. If you believe the design of this course poses barriers to effectively participate or demonstrate your learning, please contact me to discuss possible options and adjustments.\n\nThe IT Help Center (818)677-1400, helpcenter@csun.edu is available to help with Canvas, CSUN e-mail, SOLAR/Portal, and other technical issues.\nCSUN Device Loaner Program (https://bit.ly/3t1G0An) provides devices that can be checked out that includes laptops, webcams, hotspots and headsets\nThe Learning Resource Center (818) 677-2033 The mission of the LRC is to enable students to improve their academic performance through a variety of learning programs, including workshops, one-on-one and group tutoring, supplemental instruction classes and interactive subject area computer programs and videos. Student who use the LRC learning programs will develop and strengthen their critical thinking skills, study strategies, writing skills and performance in subject matter courses.\nUniversity Counseling Services (818) 677-2366, Bayramian Hall 520. UCS provides resources and information to assist students in dealing with a variety of large and small psychological obstacles that may interfere with academic progress and/or relationship satisfaction. Services include individual, group, and crisis counseling.\nIn accordance with the CSUN Accessibility Policy (https://bit.ly/3yqGHE9), CSUN is working to ensure that campus communication and course materials are accessible to everyone. Please reach out to me if you have difficulty with any of the materials for this course.\nIf you have a disability and need accommodations, please register with the Disability Resources and Educational Services (DRES) office or the National Center on Deafness (NCOD).\n\nThe DRES office can be reached at (818) 677-2684.\nNCOD can be reached at (818) 677-2611.\nReasonable accommodations and services will be provided to students if requests are made in a timely manner and with appropriate documentation\nIf you would like to discuss your need for accommodations with me, please drop in office hours or contact me to set up an appointment.\n\nFood Pantry (https://bit.ly/38nTsVH) at CSUN: Anybody who faces challenges securing food or housing and believes this impacts course performance, should contact CSUN’s Food Pantry website and the corresponding contacts. If you also feel comfortable contacting me, the department chair, or the Dean’s Office, we can also facilitate assistance. You don’t have to be alone in this moment.\nEmergency MataCare grants (https://bit.ly/2WAZkIz), one-time grants to prevent evictions, urgent child care issues, etc. - DACA (Deferred Action for Childhood Arrivals) Resources: Check out the Central American Resource Center facebook page (https://bit.ly/2Yg0p9z), legal resources listed on CSUN’s Educational Opportunity Program (EOP) Dream Center that was created to support all undocumented students & allies (Dream Center flyer). CSUN President Harrison issued a support statement on the CSUN homepage for DACA and resources.\nHelp lines (https://bit.ly/3sYbMOo)(after hours when the University Counseling is closed) for numerous topics/needs (e.g., suicide, drug, rape, LGBQT, military, or any crisis). You don’t have to manage these feelings alone.\nPride Center (https://bit.ly/3jqNZUi) offers support and resources to lesbian, gay, bisexual, transgender, queer, & questioning students, faculty, & staff.\nKlotz Student Health Center (https://bit.ly/3zx1Y0s): Numerous health services including primary care, dental, nutritional counseling, acupuncture, massage and lots more.\nCareer Center (https://bit.ly/3jtTcL2) for resume writing & interviewing and much more; Matty’s Closet (https://bit.ly/3jAResx) has free professional clothes for students who need interview or professional attire.\nUSU 9https://bit.ly/38uz59j) for more student services; Clubs & Organizations (https://bit.ly/38tBhOa): Hopefully a dozen people have already advised you to “get involved” (https://bit.ly/3ysqYVb) at CSUN in something that interests you.\nAssociated Students (https://bit.ly/3yuWjGT) offers recycling, and a Children’s Center providing child care\nFinancial Aid & Scholarships (https://bit.ly/3sYFzqr) offers aid for applications\nUniversity Library https://bit.ly/3yuIEQ9) for many additional academic resources\nVeterans Resource Center (https://bit.ly/38qYtg7) assists CSUN students as they transition from military service to academic success.\n\nTitle 5, California Code of Regulations,§ 41301. Standards for Student Conduct – (a) Campus Community Values: The university is committed to maintaining a safe and healthy living and learning environment for students, faculty, and staff. Each member of the campus community should choose behaviors that contribute toward this end. Students are expected to be good citizens and to engage in responsible behaviors that reflect well upon their university, to be civil to one another and to others in the campus community, and contribute positively to student and university life.\nCSUN with A HEART If you are facing challenges related to food insecurity, housing precarity/homelessness, mental health, access to technology, eldercare/childcare, or healthcare, you can find guidance, help, and resources from CSUN with A HEART (https://www.csun.edu/heart)."
+  },
+  {
+    "objectID": "courses/610/syllabus.html#course-sequence",
+    "href": "courses/610/syllabus.html#course-sequence",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Course Sequence",
+    "text": "Course Sequence\nPlease, click here to view the course sequence."
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html",
+    "href": "courses/610/anova-twoway-les.html",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "",
+    "text": "understand when and why to conduct a F-ANOVA\nunderstand main and interaction effects\nrun the Between-Between Two-Away ANOVA in jamovi and interpret the results\ncalculate the effect size for the F-ANOVA"
   }
 ]
