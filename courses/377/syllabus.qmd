@@ -33,9 +33,9 @@ Study of principles, theories, and research evidence regarding the nature of mot
 
 This course consists of readings, written assignments, weekly responses, and check-ins on our Canvas page.
 
-This is a Fully Online class (OF/FOA/FOS) in which all class sessions and exams are presented in an online environment. OF courses have no on-campus meetings
+This is a Fully Online class (OF/FOA/FOS) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.
 
-Lessons are pre-recorded and students go over the material on their own pace. However, assignments related to each module are due at the end of each week during the semester.
+For this course, lessons are pre-recorded and students go over the material on their own pace. However, assignments related to each module are due at the end of each week during the semester (see course sequence).
 
 ::: callout-warning
 This course is not self-paced and is not the "softer, easier way"! This means that you have to **1) check in regularly and 2) respond to the weekly assignments.**
@@ -66,7 +66,7 @@ At the conclusion of this course, students should be able to:
 
 # Textbook
 
-Magill, R. A., & Anderson, D. (2020). Motor learning and control: Concepts and applications. McGraw-Hill Education.
+Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education.
 
 Link to Matador Bookstore: <https://bit.ly/37yiD7u>
 
@@ -79,21 +79,32 @@ The program below is only available during the Fall and Spring semesters.
 1.  You are enrolled in a course which is part of the myCSUNDigitalAccess (MCDA) program.
 2.  The *MCDA* program provides digital materials to students at a deeply discounted price.
 3.  Some or all of your materials for this course are being provided digitally through the *MCDA* program.
-4.  ALL enrolled students will have access to the materials through Canvas by the 1st day of class, but more likely earlier.
+4.  ALL enrolled students will have access to the materials through Canvas by the 1st day of class, *but more likely earlier*.
 5.  If you want to keep access throughout the semester, you need do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.
-6.  If you choose to obtain your materials elsewhere you have until \[date coming soon\] to Opt-Out (see instructions below). Those who Opt-Out by \[date coming soon\] will lose access and will **not be charged**.
-7.  Anyone who does not Opt-Out by the \[date coming soon\] deadline will be charged and those charges **will not be reversible**.
+6.  If you choose to obtain your materials elsewhere you have until \[**date coming soon**\] to Opt-Out (see instructions below). Those who Opt-Out by \[date coming soon\] will lose access and will **not be charged**.
+7.  Anyone who does not Opt-Out by the \[**date coming soon**\] deadline will be charged and those charges **will not be reversible**.
 
 ### Opt-out Instructions
 
-If you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by \[date coming soon\]:
+If you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by \[**date coming soon**\]:
 
+<<<<<<< Updated upstream
 1.  Go to https://accessportal.follett.com/0150
 2.  Click on Create an Account on the lower right
 3.  Create an account using your CSUN email account
 4.  Select the course(s) you wish to Opt-Out from
 
 You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb
+=======
+1.  Go to https://accessportal.follett.com/0150;
+2.  Click on Create an Account on the lower right;
+3.  Create an account using your CSUN email account'
+4.  Select the course(s) you wish to Opt-Out from.
+
+::: callout-note
+You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: <https://bit.ly/3pcWcfb>
+:::
+>>>>>>> Stashed changes
 
 ## Additional resources
 
@@ -103,7 +114,11 @@ Although not required, it is suggested that you have access to a computer (not s
 
 ### Mini Juggling Balls
 
-One of the requirements of this course is to learn a motor skill. If you select juggling, it's suggested you use [mini juggling balls](http://goo.gl/X3EjLE). Or you can use a similar object at your disposal.
+One of the requirements of this course is to learn a motor skill. If you select juggling, I suggest you to acquire the [mini juggling balls](http://goo.gl/X3EjLE), which are small and have the recommended weight for beginners.
+
+::: callout-important
+If you choose to use any object other than the mini juggling balls, then you understand that your performance may be negativelly affected by it. When performing the exchange technique (required for this activity), at a given point, performers need to hold two objects in one hand. This becomes a problem if large objects are being used; i.e., tennis balls.
+:::
 
 ### Speed Stacks Sport Stacking Set
 
@@ -127,60 +142,55 @@ I will detail the policy for this course below. Basically, don't cheat and try t
 
 -   **10%**: Learning Task Updates \[SLO's 1, 2, 4\].
 
-*One quiz and one discussion with the lowest score will be dropped at the end of the term*.
+::: callout-note
+One quiz and one discussion with the lowest score will be dropped at the end of the term.
+:::
 
 ## Grading Scale
 
 A 93.00-100.00 \| A- 90.00-92.99 B+ 87.00-89.99 \| B 83.00-86.99 \| B- 80.00-82.99 C+ 77.00-79.99 \| C 73.00-76.99 \| C- 70.00-72.99 D+ 67.00-69.99 \| D 63.00-66.99 \| D- 60.00-62.99 F \<59.99
 
-> *Note 1*: In recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a "round up" rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.
+::: callout-note
+In recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a "round up" rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.
+:::
 
-> *Note 2*: Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
+::: callout-important
+Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
+:::
 
 ## Attendance Policy
 
 > *Showing up is 80 percent of life* -- Woody Allen, [via Marshall Brickman](http://quoteinvestigator.com/2013/06/10/showing-up/#note-6553-1)
 
-Although this is an online course, "attendance" is crucial. And by that I mean: check in Canvas several times a week.
+Although this is an online course, "attendance" is crucial. And by that I mean: **check in Canvas several times a week.**
 
 ## E-mail Policy
 
-If you have a question concerning this course (i.e., assignments, content, deadlines, etc.), send a message[^1] to our mailing list (provide under Canvas\>Home). For any other matters, send me a message at my CSUN email.
+While taking this course, only communicate with me via `Canvas` \> `Inbox`.
 
-[^1]: When referring to an assignment, open it online, copy its URL address, and include it as part of your question. Students may also answer questions that are sent to our mailing list.
+If your message concerns a non-private matter (i.e., assignments, content, deadlines, etc.), then please post your question to the `Q&A Forum` (`Canvas` \> `Discussions` \> `Q&A Forum`), **which can be answered by any student taking the course.**
 
-Keep it in mind:
+## Office Hours
 
-1.  All students enrolled in my courses are added to the mailing lists automatically. If you are not receiving emails from the mailing address, then contact CSUN Help Desk to get it fixed.
-2.  Only send messages to the mailing list address when the content is pertinent to ALL students. For private matters, email me directly.
-3.  ONLY send message to the mailing list address from your CSUN email address; otherwise, your message will not be delivered.
+### In-person
 
-I am usually quick to respond to student e-mails. Below, I outline why I will not respond to certain e-mails students send. Multiple rationales follow.
+Tuesdays from 9-11 am at RE 289.
 
-1.  The student could answer his/her own inquiry by reading the syllabus.
-2.  The student is protesting a grade without reference to specific points of objection. See the policy on protesting a grade in the syllabus. These e-mails tend to be expressive utility on the part of the student and do not require a response from me. Students interested in improving their knowledge of material should see me during office hours.
-3.  The student is requesting an extension on an assignment for which the syllabus already established the deadline. The answer is always "no"; unless you have a reason that can be documented and you contacted me before the deadline.
-4.  The student is asking for an extra credit opportunity, a request that amounts to more grading for the professor. The answer is "no".
+### Online via Zoom
 
-More e-mail stuff...
-
--   If you need to schedule an online meeting via Zoom (https://csun.zoom.us/), you can do so by visiting this link: http://calendly.com/drfurtado. Details will be provided when the meeting is scheduled via Calendly, including the option to cancel/reschedule a meeting, if needed.
+By appointment only via <https://calendly.com/drfurtado>
 
 ## Make-Up Exam Policy
 
-There is no make-up for assignments. Therefore, unless you have discussed your situation with me before the assignment's due date and we have made other arrangements, a missed assignment results in a grade of zero (see late assignment below). **Note that making "arrangements" will only be possible given the student provides a valid and written excuse from a reputable source**.
+Unless the student has discussed the situation with the instructor before the assignment's due date and an arrangement has been made, a missed assignment will result in a grade of zero. **Note that making "arrangements" will only be possible given the student provides a valid and written excuse from a reputable source**.
 
 ## Late Assignments
 
-Unless you have made previous arrangements, a late assignments will be docked 10% per day (first 4 days) it is late. After the fourth day, it will result in a grade of zero.
+Unless you have made previous arrangements, a late assignments will be docked off 5% per day (first 4 days) it is late. All assignments are closed after the 4th day.
 
 ## Extra Credit
 
-There is no individual extra credit granted. Therefore, do not plan to make-up poor grades at the end of the semester by asking to do extra credit work. I might provide extra credit opportunities, but these will be offered to the entire class, not to individuals.
-
-### Badges
-
-You will be able to collect several badges while taking this course. You can exchange these badges for extra points. Note that the extra points can only be used for assignments under the Online Discussion category.
+With the exception of the extra 5 points awarded to the final video performance - LINK (either juggling or cup stacking), there is no individual extra credit granted.
 
 ## Disabilities Policy
 
@@ -200,9 +210,13 @@ Each student is expected to be familiar with, and abide by, the conditions of st
 
 Plagiarism is a serious violation of the CSUN Student Conduct Code. Be aware that **borrowing** a paper from a student who completed this course previously and writing your paper based on that student's paper will be considered **PLAGIARISM**.
 
-> Turnitin (see below) will detect such misconducts as it checks every submission against a database of papers, as well as against the Internet.
+::: callout-important
+Turnitin (see below) will detect such misconducts as it checks every submission against a database of papers, as well as against the Internet.
+:::
 
-> Penalties: If caught, the student will receive a letter grade of "F" on BOTH the Reflection Paper and the Video Performance assignments, in which case the student will likely fail the course as these two assignments account for 40% of the course total grade.
+::: callout-caution
+Penalties: If caught, the student will receive a letter grade of "F" on BOTH the Reflection Paper and the Video Performance assignments, in which case the student will likely fail the course as these two assignments account for 40% of the course total grade.
+:::
 
 What is Turnitin?
 
@@ -212,21 +226,19 @@ You should be aware that the Reflection Paper will be submitted via Canvas, whic
 
 To succeed in this course, you will be required to complete several assignments. To avoid surprises, be proactive and review these assignments.
 
-Provided below are general information on each assignment. More detailed information on each assignment can be found on our Canvas page.
-
 ## Quizzes
 
-Quizzes will be administered via Canvas and will assess the student's understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, **collaboration with other students is not allowed**. The penalty for academic dishonesty is a 0 on the assignment, possibly failure in the class, and possible dismissal from the program/university.
+Quizzes will be administered via Canvas and will assess the student's understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, **collaboration with other students is not allowed**.
 
 *Here are some other useful information about quizzes:*
 
-1.  When taking the quizzes, questions will appear one at a time and locked after being answered. This means that you are not allowed to go back and review your answers after answering each question.
+1.  When taking quizzes, the questions will appear one at a time and locked after being answered. Thus, students are not allowed to go back and review answers after saving each question.
 
 2.  Correct answers will only be shown to students after the deadline of each quiz.
 
-3.  Refer to Canvas for due dates. Here is a word of advice about weekly quizzes: avoid waiting until the "last minute" to take them. Taking the quizzes earlier will give you enough time to troubleshoot potential technical problems. Quizzes will NOT be reopened after the due dates. Therefore, plan accordingly.
+3.  Refer to `Canvas` and the course sequence for due dates. Please, avoid waiting until the "last minute" to take the quiz. Taking the quizzes earlier will give you enough time to troubleshoot potential technical problems; therefore, plan accordingly.
 
-4.  You will be given a **single** attempt on each quiz. This means you need to study the material before taking each quiz. All quizzes are timed. You will have 20 minutes to finish and submit a quiz.
+4.  You will be given a **single** attempt on each quiz. This means you need to study the material before taking each quiz. All quizzes are timed. Students will be given 20 minutes to finish and submit a quiz.
 
 5.  A quiz will only start if the student has a JavaScript-enabled web-browser. Contact [CSUN IT](https://www.csun.edu/it) should you run into technical issues when taking quizzes.
 
