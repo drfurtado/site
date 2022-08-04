@@ -19,10 +19,10 @@ csl: apa-numeric-superscript-brackets.csl
 # Instructor info
 
 ::: {.callout-note appearance="minimal" icon="false"}
-Dr. Ovande Furtado Jr - Redwood Hall ???\
-Office hours: by appointment via [calendly.com/drfurtado](www.calendly.com/drfurtado)\
-Office phone: 818-677-5968\
-Email: refer to Canvas
+{{< fa user-tie >}} Dr. Ovande Furtado Jr - Redwood Hall 289\
+{{< fa clock >}} Office hours: by appointment via [calendly.com/drfurtado](www.calendly.com/drfurtado)\
+{{< fa phone >}} Office phone: 818-677-5968\
+{{< fa at >}} Email: Refer to Canvas
 :::
 
 # Description
