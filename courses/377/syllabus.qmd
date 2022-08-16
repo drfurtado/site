@@ -1,5 +1,9 @@
 ---
-title: "KIN 377 Syllabus"
+title:  'KIN 377: Motor Learning'
+subtitle: |
+  | Department of Kinesiology, Cal State Northridge
+  | Syllabus - Fall 2022 (Online)
+  | Ovande Furtado Jr., Ph.D.
 latex-auto-mk: true
 format:
   html:
@@ -8,32 +12,53 @@ format:
     smooth-scroll: true
     link-external-icon: true
     link-external-newwindow: true
+    anchor-sections: true
+    links-as-notes: true
+    citations-hover: true
+    footnotes-hover: true
   pdf:
     toc: true
     number-sections: true
     colorlinks: true
 bibliography: references.bib
 csl: apa-numeric-superscript-brackets.csl
+table-striped: true
 ---
 
-# Instructor info
+# Instructor Info {#sec-instructor-info}
 
-::: {.callout-note appearance="minimal" icon="false"}
-{{< fa user-tie >}} Dr. Ovande Furtado Jr - Redwood Hall 289\
-{{< fa clock >}} Office hours: by appointment via [calendly.com/drfurtado](www.calendly.com/drfurtado)\
-{{< fa phone >}} Office phone: 818-677-5968\
-{{< fa at >}} Email: Refer to Canvas
-:::
+## Brief Bio
 
-# Description
+Ovande Furtado Jr., Ph.D.
+
+Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.
+
+## Office Hours
+
+See @sec-office-hours for more information
+
+## Contact Info
+
+Email: ovandef\@csun.edu\
+Office: Redwood Hall 289
+
+------------------------------------------------------------------------
+
+# General Information
+
+## Course Description
 
 Study of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.
 
-# Format
+## Course Prerequisite
+
+[KIN 200](https://catalog.csun.edu/academics/kin/courses/kin-200/): Foundations of Kinesiology (3)
+
+## Course Format
 
 This course consists of readings, written assignments, weekly responses, and check-ins on our Canvas page.
 
-This is a Fully Online class (OF/FOA/FOS) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.
+This is a Fully Online class (OF) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.
 
 For this course, lessons are pre-recorded and students go over the material on their own pace. However, assignments related to each module are due at the end of each week during the semester (see course sequence).
 
@@ -41,7 +66,11 @@ For this course, lessons are pre-recorded and students go over the material on t
 This course is not self-paced and is not the "softer, easier way"! This means that you have to **1) check in regularly and 2) respond to the weekly assignments.**
 :::
 
-# Expectations and Goals
+## Required Technology Resources {#sec-required-technology-resources}
+
+This course will be taught completely online (no campus meetings will be required), in an asynchronous format (this course will not have scheduled live meeting times). All activities, assignments and exams in this course will be completed via Canvas. To succeed in this course, you must have reliable access to a computer and internet connection. CSUN offers currently enrolled students the option to borrow devices such as computers and internet hotspots through its [Device Loaner Program](https://www.csun.edu/it/device-loaner-program).
+
+## Course Expectations and Goals
 
 At the conclusion of this course, students should be able to:
 
@@ -53,18 +82,18 @@ At the conclusion of this course, students should be able to:
 6.  Understand and demonstrate how feedback types and schedules influence motor skill learning.
 7.  Understand, describe, and demonstrate how practice schedules influence motor skill learning.
 8.  Describe how and why the concept of individual differences is important in skill acquisition.
-9.  Describe and understand motor learning and control issues for special populations.
-10. Develop and implement methods of performance assessments.
-11. Develop and implement a series of practice sessions designed to teach and/or learn a novel motor skill.
+    1.  Describe and understand motor learning and control issues for special populations.
+9.  Develop and implement methods of performance assessments.
+10. Develop and implement a series of practice sessions designed to teach and/or learn a novel motor skill.
 
-# Student Learning Outcomes (SLO'S)
+## Student Learning Outcomes (SLO'S)
 
 1.  Apply an integrated kinesiological approach to encourage the adoption of healthy and physically active lifestyles, across diverse populations;
 2.  Apply evidence-based practices to enhance the study of human movement;
 3.  Demonstrate competent problem-solving strategies through intentional practices; and
 4.  Demonstrate knowledge of kinesthetic forms, processes, and structures as they apply to the personal expression and culture of human movement.
 
-# Textbook
+## Textbook
 
 Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education.
 
@@ -74,7 +103,7 @@ Link to Matador Bookstore: <https://bit.ly/37yiD7u>
 The program below is only available during the Fall and Spring semesters.
 :::
 
-## myCSUNDigitalAccess Program
+### myCSUNDigitalAccess Program
 
 1.  You are enrolled in a course which is part of the myCSUNDigitalAccess (MCDA) program.
 2.  The *MCDA* program provides digital materials to students at a deeply discounted price.
@@ -88,14 +117,13 @@ The program below is only available during the Fall and Spring semesters.
 
 If you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by \[**date coming soon**\]:
 
-<<<<<<< Updated upstream
 1.  Go to https://accessportal.follett.com/0150
 2.  Click on Create an Account on the lower right
 3.  Create an account using your CSUN email account
 4.  Select the course(s) you wish to Opt-Out from
 
 You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb
-=======
+
 1.  Go to https://accessportal.follett.com/0150;
 2.  Click on Create an Account on the lower right;
 3.  Create an account using your CSUN email account'
@@ -104,7 +132,6 @@ You will receive an email confirming your Opt Out selection, access will be remo
 ::: callout-note
 You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: <https://bit.ly/3pcWcfb>
 :::
->>>>>>> Stashed changes
 
 ## Additional resources
 
@@ -170,7 +197,7 @@ While taking this course, only communicate with me via `Canvas` \> `Inbox`.
 
 If your message concerns a non-private matter (i.e., assignments, content, deadlines, etc.), then please post your question to the `Q&A Forum` (`Canvas` \> `Discussions` \> `Q&A Forum`), **which can be answered by any student taking the course.**
 
-## Office Hours
+## Office Hours {#sec-office-hours}
 
 ### In-person
 
@@ -192,7 +219,7 @@ Unless you have made previous arrangements, a late assignments will be docked of
 
 With the exception of the extra 5 points awarded to the final video performance - LINK (either juggling or cup stacking), there is no individual extra credit granted.
 
-## Disabilities Policy
+## Disabilities Policy {#sec-disabilities-policy}
 
 Federal law mandates the provision of services at the university-level to qualified students with disabilities.
 
@@ -250,6 +277,14 @@ Quizzes will be administered via Canvas and will assess the student's understand
 
 You will be required to complete several online discussions while taking this course. The details about each discussion topic will be provided on Canvas. Typically, there are two deadlines for this assignment. First, you need to answer the question I post (deadline 1), then respond to your classmates' posts (deadline 2). Refer to our Class Schedule in Canvas.
 
+I will post an announcement following the deadline of each discussion assignment pointing out potential issues.
+
+::: callout-note
+I know how important it is for you to know your current grade in the class. That is why my priority is to grade most assignments (except for the paper) within 1 week of the deadline, which will be visible on the Canvas Gradebook. Note that journal grades will not be visible until all journals are graded (e.g., original posts and responses). 
+
+If your grades are not posted within a week after the deadline, or you believe the grade is inaccurate, feel free to email me about the status of your grade.
+:::
+
 ## Learning Task Performance & Reflection Paper
 
 *Refer to Canvas for full requirements, but basically:*
@@ -264,7 +299,7 @@ You will be required to complete several online discussions while taking this co
 
 You will be submitting several updates throughout the term. These "updates" are meant to keep you on track and ensure you are taking advantages of all the learning techniques covered in this course to master the selected skill. More information about this assignment will be provided on Canvas.
 
-# Final (yet important) Notes
+# Final (yet important) Notes {#sec-important-notes}
 
 ## How to Access our Course and Get Started
 
@@ -300,25 +335,70 @@ Ground Rules: In an effort to ensure our learning community develops, thrives an
 8.  Contribute regularly to group dialogue, including discussion posts and replies. The contributions of each individual plays a role in the collective strength and diversity of our community.
 9.  If, at any time, you feel that any of these ground rules has been violated by a member of our community, you are encouraged to bring your concern directly and immediately to Dr. Furtado. Clearly identify which ground rule has been violated and include specific evidence of the violation in your e-mail or phone call. Your concerns will be addressed promptly and in an individualized manner.
 
-# Class Schedule
+# Accessibility, Academic, and Other Support Resources for Students
 
-Not included here. Please, refer to our Canvas page.
+## **Disability Resources Available**
+
+The California State University does not discriminate on the basis of disability in admission or access to, or treatment or employment in, its programs and activities. Sections 504 and 508 of the Rehabilitation Act of 1973, the Americans with Disabilities Act of 1990, and various state laws prohibit such discrimination. If you need extra assistance with aspects of this course, please contact the [Disability Resources and Educational Services (DRES)](https://www.csun.edu/dres) or the [National Center on Deafness (NCOD)](https://www.csun.edu/ncod). Reasonable and effective accommodations and services will be provided to students if the requests are made in a timely manner and with appropriate documentation in accordance with federal, state, and university guidelines. Please let me know if you need further information or assistance from me in order to facilitate your learning experience. If you would like to discuss your approved accommodation with me, please let me know and we can set up a virtual appointment. 
+
+## **Additional Campus Resources and Support**
+
+CSUN has a range of resources to support your academic goals, engagement with campus activities and physical and mental health. I encourage you to browse the links below throughout the semester and the rest of your time at CSUN. Please let me know if you would like additional information on any of the resources below. These links are also included on the Canvas site.
+
+## Academic and Technical Resources
+
+-   University [Library](https://library.csun.edu/) for browsing of books, articles, media and additional academic resources.
+
+-   [Learning Resource Center](https://www.csun.edu/undergraduate-studies/learning-resource-center) offers tutoring, a writing center, & more.
+
+-   [Disabilities Resource Educational Services (DRES)](https://www.csun.edu/dres) for assistance with accommodations.
+
+-   [CSUN Information Technology (IT)](https://www.csun.edu/it/need-help) for technology support with Canvas and software related issues. Their office is open for calls/chat M-F from 8am-5pm PST.
+
+-   [CSUN's Accessibility Policy](https://www.csun.edu/universal-design-center/accessibility-statement) for more information on CSUN's goal to ensure that campus communication and information technology is accessible to everyone.
+
+-   [University Library Open Educational Resources (OER)](https://libguides.csun.edu/affordable-learning-solutions/find-affordable-resources/what-are-oer) for affordable Health Science textbooks and educational resources.
+
+## Additional Campus and Community Resources
+
+### **Clubs and Campus Facilities**
+
+-   [Oasis Wellness Center](https://www.csun.edu/oasis) for a welcoming destination where students can find serenity and relaxation, including meditation, massages, and workshops focused on managing stress.
+
+-   [Klotz Student Health Center](https://www.csun.edu/shc) offering medical services, including Telehealth appointments.
+
+-   [Student Recreation Center (SRC)](https://www.csun.edu/src) for exercise and leisure activity that promotes wellness.
+
+-   [Career Center](https://www.csun.edu/career) for career, internship and job resources, resume writing, interview help & more.
+
+-   [USU](https://www.csun.edu/usu) for a variety of services including lactation space, veterans' resources, and more.
+
+-   [Associated Students](https://www.csun.edu/as) providing programs designed to enhance the campus environment.
+
+-   [Financial Aid & Scholarships](https://www.csun.edu/financialaid) offers aid for applications.
+
+### **Additional Resources**
+
+-   [CSUN with A HEART](https://www.csun.edu/heart) for valuable information that will connect you to various resources regarding the basic needs of students in the CSUN campus community.
+
+-   [Food Pantry at CSUN](https://www.csun.edu/mic/csun-food-pantry) providing food and toiletries for CSUN students in need.
+
+-   [University Counseling Center](https://www.csun.edu/counseling) offering free short term counseling services to students, including individual counseling, crisis intervention, group and workshops, and more.
+
+-   [Pride Center](https://www.csun.edu/pride) supporting LGBTQIA+ students through programming and outreach.
+
+-   [Office of Equity and Diversity](https://www.csun.edu/eqd) supporting CSUN's commitment to maintaining an environment where no member of the campus community is subjected to any form of prohibited discrimination in any University program or activity.
+
+-   [Help lines](https://www.csun.edu/helpline) (after hours when the University Counseling is closed) for numerous topics/needs including suicide, drug help, rape or sexual assault, other crisis or urgent concerns and more.
+
+-   [Emergency MataCare grants](https://www.csun.edu/financialaid/matacare-emergency-grant), one-time grants to prevent evictions, urgent childcare issues, etc.
+
+# Class Sequence
+
+{{< include sequence.qmd >}}
 
 # Appendices
 
 ## Appendix A, B, C
 
 Not provide here. Please, refer to our Canvas page. The material associated with these appendices are related to the Learning Task Assignment, which accounts for 50% of the final grade. ***THIS MEANS YOU MUST READ AND STUDY THE CONTENT OF APPENDIX A, B, AND C.***
-
-# Evaluation Rubrics
-
-## LT Update 1
-
--   Demonstration of knowledge and understanding gained from assigned reading
--   Response to peers
--   Responses (all posts) are based on reliable sources (e.g., Magill and Anderson) and not solely on person opinion
--   Responsibly cited; offers examples
--   Contribution to the discussion
--   Properly citation using APA Style
-
-**Criteria** 5-0

@@ -16,10 +16,10 @@ website:
       - text: "Teaching"
         menu: 
           - text: "KIN 610"
-            icon: "bug"
+            icon: "graph-up"
             href: courses/610/index.qmd
           - text: "KIN 377"
-            icon: "bug"
+            icon: "intersect"
             href: courses/377/index.qmd
       - text: "Blog"
         href: blog/index.qmd
@@ -39,20 +39,11 @@ website:
           href: courses/610/index.qmd
         - text: "Syllabus"
           href: courses/610/syllabus.qmd
-        - text: "Sequence"
-          href: courses/610/sequence.qmd
         - section: "Lessons"
           contents:
             - text: "Lesson 01"
               href: courses/610/les01.qmd
-            - text: "Lesson 02"
-              href: courses/610/les02.qmd
-            - text: "Lesson 03"
-              href: courses/610/les03.qmd
-            - text: "Lesson 04"
-              href: courses/610/les04.qmd
-            - text: "Lesson 05"
-              href: courses/610/les05.qmd
+
     - id: 377-intro
       collapse-level: 1
       style: "docked"
@@ -61,12 +52,6 @@ website:
           href: courses/377/index.qmd
         - text: "Syllabus"
           href: courses/377/syllabus.qmd
-        - section: "Modules"
-          contents:
-            - text: "Module 01"
-              href: courses/377/mod01.qmd
-            - text: "Module 02"
-              href: courses/377/mod02.qmd
 format:
   html:
     theme: cosmo

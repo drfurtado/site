@@ -1,213 +1,10 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Ovande Furtado, Jr",
+    "objectID": "courses/rubrics/rubric-presentation.html",
+    "href": "courses/rubrics/rubric-presentation.html",
+    "title": "Dr. Furtado",
     "section": "",
-    "text": "Education\nPh.D. in Motor Behavior, 2009 - University of Pittsburgh\nM.S. in Motor Behavior, 2004 - University of Pittsburgh\nB.A. in Physical Education K-12, 1998 - Federal University of Parana - Brazil\n\n\nExperience\nAssociate Professor Cal State Northridge Aug 2013 – Present Northridge, CA Teaches motor behavior and statistics courses.\nAssociate Professor Eastern Illinois University Aug 2007 – Jun 2013 Charleston, IL Taught motor behavior and statistics courses.\nPhysical Educator Teacher K-12 Falk Lab School Aug 2006 – Jun 2007 Pittsburgh, PA Taught motor skill development for children K-12.\nKinder Kinetics Movement Program Co-Director University of Pittsburgh Aug 2006 – Jun 2007 Pittsburgh, PA"
-  },
-  {
-    "objectID": "blog/posts/jamovi-tab-long/index.html",
-    "href": "blog/posts/jamovi-tab-long/index.html",
-    "title": "‘Fixing’ long tables in jamovi",
-    "section": "",
-    "text": "Understanding the problem\nWhen creating descriptive tables in jamovi1 , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.\nBelow are two examples of descriptive tables generated in jamovi. Figure 1 shows a table with variables across columns and Figure 2 shows a table with variables across rows.\nLearn how to choose either format by watching the video at the end of this post.\n\n\n\n\n\n\nTip\n\n\n\nInstead of copying a table from the output, you can export the table as PDF. Some journal articles require authors to save tables as PDF and submit them as separate files.\n\n\n\n\nFigure 1: Descriptive table with variables across columns\n\n\n\n\n\nFigure 2: Descriptive table with variables across rows\n\n\n\n\n\nThe solution\n\n\n\n\n\n\nFootnotes\n\n\nClick here to learn more about jamovi.↩︎\n\nCitationBibTeX citation:@online{furtadojr2022,\n  author = {Ovande Furtado Jr},\n  title = {“{Fixing}” Long Tables in Jamovi},\n  date = {2022-05-16},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nOvande Furtado Jr. 2022. “‘Fixing’ Long Tables in\nJamovi.” May 16, 2022."
-  },
-  {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
-    "section": "",
-    "text": "jamovi\n\n\ntables\n\n\n\n\n\n\n\n\n\n\n\nMay 16, 2022\n\n\nOvande Furtado Jr\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "courses/610/sequence.html",
-    "href": "courses/610/sequence.html",
-    "title": "KIN 610 - Course Sequence",
-    "section": "",
-    "text": "Course Calendar\n\n\n\n\n\n\n\n\nLesson\nDate1\nReading2\nAssignments3\n\n\n\n\nLesson01\n08/29/22\nCh01: Measurement, Statistics, and Research\nQuiz 1; Major Takeaways\n\n\nLesson02\n09/05/22\nCh02: Organizing and Displaying Data\nCh03: Percentiles\nQuiz 2; Major Takeaways\n\n\nLesson03\n09/12/22\nCh04: Measures of Central Tendency\nCh05: Measures of Variability\nQuiz 3; Major Takeaways\n\n\nLesson04\n09/19/22\nCh06: The Normal Curve\n\nQuiz 4; Major Takeaways; Homework 1\n\n\nLesson05\n09/26/22\nCh07: Fundamentals of Statistical Inference\nQuiz 5; Major Takeaways\n\n\nLesson06\n10/03/22\nCh08: Correlation and Bivariate Regression\nQuiz 6; Major Takeaways\n\n\nLesson07\n10/10/22\nCh09: Multiple Correlation and Multiple Regression\n\nQuiz 7; Major Takeaways; Homework 2\n\n\nna\n10/17/22\nExam 1\nna\n\n\nLesson08\n10/24/22\nCh10: The Student’s t-test\n\nQuiz 8; Major Takeaways\n\n\nLesson09\n10/31/22\nCh11: Simple Analysis of Variance\n\nQuiz 9; Major Takeaways\n\n\nLesson10\n11/07/22\nCh12: Analysis of Variance With Repeated Measures\n\nQuiz 10; Major Takeaways; Homework 3\n\n\nLesson11\n11/14/22\nCh13: Quantifying Reliability\n\nQuiz 11; Major Takeaways\n\n\nLesson12\n11/21/22\nCh14: Factorial Analysis of Variance\n\nQuiz 12; Major Takeaways\n\n\nLesson13\n11/28/22\nCh15: Analysis of Covariance\n\nQuiz 13; Major Takeaways\n\n\nLesson14\n12/05/22\nCh16: Analysis of Nonparametric Data\n\nQuiz 14; Major Takeaways\n\n\nna\n12/13/22\nExam 2\nna\n\n\n\n\n\n\n\n\nReferences\n\n1. Weir, J. P., & Vincent, W. J. (2021). Statistics in Kinesiology. Human Kinetics. https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource\n\nFootnotes\n\n\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nStudents are expected to read and study the assigned chapters prior to attending each class meeting.↩︎\nUnless stated otherwise, all assignments are due before class. Refer to the syllabus for assignments detailed information.↩︎"
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html",
-    "href": "courses/610/regression-m-les.html",
-    "title": "Multiple Regression",
-    "section": "",
-    "text": "Multiple regression, and multiple correlation, are tools used to examine the combined relations between multiple predictors and a dependent variable. When correlating one quantitative dependent variable (Yi) with multiple quantitative variables (Xi_1, Xi_2,... Xi_k ).\nit is specially useful when several independent variables work better at predicting a dependent variable compared to a single independent variable. For example, one can estimate percent body fat using the skinfold measurement technique. Although there are several techniques to estimate body site, researchers have used multiple regression techniques to identify the best predictors. See excerpt below:\n\nThe practical equation including age, race, height, weight and waist circumference had high predictive ability for lean body mass (men: R 2=0·91, standard error of estimate (SEE)=2·6 kg; women: R 2=0·85, SEE=2·4 kg) and fat mass (men: R 2=0·90, SEE=2·6 kg; women: R 2=0·93, SEE=2·4 kg). Waist circumference was a strong predictor in men only. Addition of other circumference and skinfold measures slightly improved the prediction model. ref needed"
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html#variables",
-    "href": "courses/610/regression-m-les.html#variables",
-    "title": "Multiple Regression",
-    "section": "Variables",
-    "text": "Variables\n\nIndependent variables\nOne or more quantitative (interval or ratio) variables.\n\n\nDependent variable\nOne quantitative of interval or ratio level variable."
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html#stating-the-hypotheses",
-    "href": "courses/610/regression-m-les.html#stating-the-hypotheses",
-    "title": "Multiple Regression",
-    "section": "Stating the Hypotheses",
-    "text": "Stating the Hypotheses\nNull hypothesis\nF test for the complete regression model\nH_0: the variance explained by all the independent variables together (the complete model) is 0 in the population\nH_0:\\beta_1 = \\beta_2 = \\ldots = \\beta_K = 0\nt test for the individual regression coefficient \\beta_k\nH_0: \\beta_k = 0\nAlternative hypothesis\nF test for the complete regression model\nH_a: not all population regression coefficients are 0\nH_a:\\beta_1 \\neq \\beta_2 \\neq \\ldots \\neq \\beta_K \\neq 0\nt test for the individual regression coefficient \\beta_k\nH_a: \\beta_k \\neq 0 (two sided)\nH_a: \\beta_k > 0 (right sided)\nH_0: \\beta_k < 0 (left sided)\nThe multiple linear regression best fit line has an equation of the following form:\n\n\\hat{y} = a + \\beta(x)\n\nwhere, a is the intercept (the value of y when x is = 0), \\beta represents the slope of the line and x is the explanatory variable (the predictor)."
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html#assumptions",
-    "href": "courses/610/regression-m-les.html#assumptions",
-    "title": "Multiple Regression",
-    "section": "Assumptions",
-    "text": "Assumptions\nAdapted from Navarro and Foxcroft (2022)\n\nNormality. It assumes that the residuals are normally distributed. It’s actually okay if the predictors X and the outcome Y are non-normal, so long as the residuals are normal.\nLinearity. Assumes that the relationship between X and Y is linear (both simple regression or a multiple regression).\nHomogeneity of variance. The regression model assumes that each residual is comes from a normal distribution with mean 0, and with a standard deviation that is the same for every single residual. In practice, it’s impossible to test the assumption that every residual is identically distributed. Instead, what we care about is that the standard deviation of the residual is the same for all values of \\hat{Y}, and all values of every predictor Xi in the model.\nIndependence. The residuals are independent of one another.\n\nAlso, pay attention to the following:\nUncorrelated predictors. In a multiple regression model, you don’t want your predictors to be too strongly correlated with each other. Predictors that are too strongly correlated with each other (referred to as “collinearity”) can cause problems when evaluating the model.\nNo “bad” outliers. There is an implicit assumption that your regression model isn’t being too strongly influenced by one or two anomalous data points. This raises questions about the adequacy of the model and the trustworthiness of the data in some cases."
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html#test-statistic",
-    "href": "courses/610/regression-m-les.html#test-statistic",
-    "title": "Multiple Regression",
-    "section": "Test statistic",
-    "text": "Test statistic\nF test for the complete regression model. Refer to the One-Way ANOVA test.\nt test for individual \\beta_k\n\nt = \\dfrac{b_k}{SE_{b_k}}\n\\tag{1}\nFor one independent variable:\n\nSE_{b_1} = \\dfrac{\\sqrt{\\sum (y_j - \\hat{y}_j)^2 / (N - 2)}}{\\sqrt{\\sum (x_j - \\bar{x})^2}} = \\dfrac{s}{\\sqrt{\\sum (x_j - \\bar{x})^2}}\n\nwith s the sample standard deviation of the residuals, x_j the score of subject j on the independent variable x , and \\bar{x} the mean of x."
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html#sampling-distributions",
-    "href": "courses/610/regression-m-les.html#sampling-distributions",
-    "title": "Multiple Regression",
-    "section": "Sampling distributions",
-    "text": "Sampling distributions\nRefer to the sampling distributions of the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html#significance",
-    "href": "courses/610/regression-m-les.html#significance",
-    "title": "Multiple Regression",
-    "section": "Significance",
-    "text": "Significance\nRefer to the steps used for the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html#confidence-intervals",
-    "href": "courses/610/regression-m-les.html#confidence-intervals",
-    "title": "Multiple Regression",
-    "section": "Confidence Intervals",
-    "text": "Confidence Intervals\nRefer to the StatKat website1 for a detailed explanation. I will show below how to calculate it using jamovi."
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html#effect-size",
-    "href": "courses/610/regression-m-les.html#effect-size",
-    "title": "Multiple Regression",
-    "section": "Effect size",
-    "text": "Effect size\nFor linear regression we calculate R^2 as the effect size. This is the amount of variance in the dependent variable y that is explained by the sample regression equation (the independent variable(s)). The reader is referred to StatKat2 for more detailed information."
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html#example",
-    "href": "courses/610/regression-m-les.html#example",
-    "title": "Multiple Regression",
-    "section": "Example",
-    "text": "Example\nData: parenthood data found under lsj-data library in jamovi. Notice that you may need to install the lsj-data module datalabcc (2018) in jamovi.\nBelow is the formula for a straight line when there are more than one independent (predictor) variable:\n\ny = a + b_1Xi1 + b_2Xi2 + b_jXi\n\nWhere, a is the intercept, b is the slope, and x is a given value. The intercept is where the line touches the y axis, which in the graph in the left is between 80 and 90. This is the expected value of Yi when Xi is equal to 0. The slop is the tilt of the best fit line.\nTo run the linear regression, click on Regression - Linear Regression analysis in jamovi, using the parenthood data set.\nThen specify dani.grump as the Dependent Variable, dani.sleep , and baby.sleep as the variables entered in the Covariates box. This gives the results shown above.\n\n\n\nPredictor\nEstimate\n\n\n\n\nIntercept\n125.966\n\n\ndani.sleep\n-8.950\n\n\nbaby.sleep\n0.011\n\n\n\nWith these values, we can create the linear regression equation:\n\n\\hat{Y} = 125.96 + (-8.94)X\n\n\nInterpretation:\nThe slope: if one increases Xi by 1 unit, then one is decreasing Yi by 8.94. In other words, for each additional hour of sleep, Dani reduce her grumpiness level (points), which in turn will improve her mood.\nThe intercept: recall that the a is the predicted value of Yi when Xi is equal to 0. Thus, if Dani gets zero hours of sleep (Xi = 0), then her grumpiness will reach about (Yi = 125.96), which is lot since the scale goes up to 100.\n\n\nAssumption Checks\nNormality: QQ-plots + Shapiro-Wilk test\nOutlier\nInterpretation: Values greater than 1 is often considered large and indicates the presence of outlier."
-  },
-  {
-    "objectID": "courses/610/regression-m-les.html#web-resources",
-    "href": "courses/610/regression-m-les.html#web-resources",
-    "title": "Multiple Regression",
-    "section": "Web Resources",
-    "text": "Web Resources\nI have created a list of additional resources on this topic that can be accessed by scanning the following QR code:\nadd qr code here"
-  },
-  {
-    "objectID": "courses/610/datasets/KinDatasets.html",
-    "href": "courses/610/datasets/KinDatasets.html",
-    "title": "KIN Datasets",
-    "section": "",
-    "text": "Title\nLong Title\nRows\nCols\nn_binary\nn_character\nn_factor\nn_logical\nn_numerical\nCSV\nRTF\n\n\n\n\nLosingSleep\nSleep Hours for Teenagers\n446\n3\n1\n0\n0\n0\n3\ncsv\nrtf\n\n\n\n\n\n\nReusehttps://creativecommons.org/licenses/by-nc/4.0/"
-  },
-  {
-    "objectID": "courses/610/les08.html",
-    "href": "courses/610/les08.html",
-    "title": "The t Test: Comparing Means From Two Sets of Data",
-    "section": "",
-    "text": "Ch08: Correlation and Bivariate Regression"
-  },
-  {
-    "objectID": "courses/610/les09.html",
-    "href": "courses/610/les09.html",
-    "title": "Analysis of Nonparametric Data",
-    "section": "",
-    "text": "Ch09"
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html",
-    "href": "courses/610/anova-twoway-les.html",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "",
-    "text": "understand when and why to conduct a F-ANOVA\nunderstand main and interaction effects\nrun the Between-Between Two-Away ANOVA in jamovi and interpret the results\ncalculate the effect size for the F-ANOVA"
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#when-to-use-it",
-    "href": "courses/610/anova-twoway-les.html#when-to-use-it",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "When to use it?",
-    "text": "When to use it?\nWhen we discussed analysis of variance (One-Way ANOVA and Repeated-Measures ANOVA), we assumed a fairly simple experimental design. Each person is in one of several groups and we want to know whether these groups have different mean scores on some outcome variable.\nIn this lessons, I’ll discuss a broader class of experimental designs known as factorial designs, in which we have more than one independent variable (also known as Two-Way ANOVA).\nPreviously we were dealing with one single dependent variable and one single independent variable (2 or 3+ levels). But what if you have more than one IV/grouping variable? Factorial ANOVA is used in instances when there is more than one “factor” of interest; i.e., treatment & sex. The goal is to know the simultaneously effects of several FACTORS on the dependent variable. Thus, from now on, I will refer to it as F-ANOVA."
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#f-anova-variations",
-    "href": "courses/610/anova-twoway-les.html#f-anova-variations",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "F-ANOVA variations",
-    "text": "F-ANOVA variations\nThere are different variations of the procedure called F-ANOVA. The type depends on whether the independent variables involve between- or within-group analyses.\nThe Between-Between F-ANOVA looks at the effect that two between-subjects independent variables have on the dependent variable.\n\nBetween - each of the groups in factor A and factor B consists of different subjects randomly assigned to the groups.\n\nThe Between-Within F-ANOVA (mixed-design/split-plot) tests the effect of one within-subjects and one between-subject independent variable on the dependent variable.\n\nBetween - each of the groups in factor A consists of different subjects randomly assigned to the groups\nWithin - subjects in each of the groups are measured two or more times; or complete two or more conditions.\n\nAnd finally, in the case of the Within-Within F-ANOVA, one looks at the effect of two within-subjects independent variables on a dependent variable.\n\nSame subjects perform on different modes (two or more) of exercise (factor A-within), and over two or more different stages of work (factor B-within).\n\nWhen we refer to between, each of the groups in factor A consists of different subjects randomly assigned to the groups, whereas the term within refers to a case where subjects in are measured two or more times (or go through two or more conditions).\nIn this lesson, I will limit the discussion to the Between-Between F-ANOVA. For an example on the Between-Within F-ANOVA click here…\nInteraction and Main effects\nAn Interaction Effect occurs when the effect of one IV depends on the level of another IV.\nA Main Effect is the effect of an independent variable on a dependent variable averaged across the levels of any other independent variables."
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#variables",
-    "href": "courses/610/anova-twoway-les.html#variables",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "Variables",
-    "text": "Variables\n\nIndependent variables\nTwo or more quantitative (interval or ratio) variables.\n\n\nDependent variable\nOne quantitative of interval or ratio level variable."
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#stating-the-hypotheses",
-    "href": "courses/610/anova-twoway-les.html#stating-the-hypotheses",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "Stating the Hypotheses",
-    "text": "Stating the Hypotheses\nNull hypothesis\nFactor A\nH_0:\\mu_1 = \\mu_2 =, \\ldots = \\mu_K - There is no difference in the means of factor A\nFactor B\nH_0:\\mu_1 = \\mu_2 =, \\ldots = \\mu_K - There is no difference in the means of factor B\nInteraction\nH_0: There is no interaction between factors A and B\nAlternative hypothesis\nFactor A\nH_a:\\mu_1 \\neq \\mu_2 \\neq, \\ldots \\neq \\mu_K - The means are not equal\nFactor B\nH_a:\\mu_1 \\neq \\mu_2 \\neq, \\ldots \\neq \\mu_K - The means are not equal\nInteraction1\nH_a: There is an interaction between factors A and B"
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#assumptions2",
-    "href": "courses/610/anova-twoway-les.html#assumptions2",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "Assumptions2",
-    "text": "Assumptions2\n\nIndependence. You should have independence of observations, which means that there is no relationship between the observations in each group or between the groups themselves.\nOutliers. There should be no extreme outliers.\n\nCheck this assumption by creating and interpreting boxplots\n\nNormality. The dependent variable should be approximately normally distributed for each combination of the groups of the two independent variables.\n\nCheck this assumption by running the Shapiro-Wilk test and calculating z-kurt and z-skew. In addition, create and interpret the QQ Plots and Histograms.\n\nHomogeneity of variance. There needs to be homogeneity of variances for each combination of the groups of the two independent variables.\n\nCheck this assumption by running and interpreting the results of the Levene’s test"
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#test-statistic",
-    "href": "courses/610/anova-twoway-les.html#test-statistic",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "Test statistic",
-    "text": "Test statistic\nF test for the overall test. Refer to the One-Way ANOVA test.\nt test for pairwise comparisons with correction for family-wise error rate."
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#sampling-distributions",
-    "href": "courses/610/anova-twoway-les.html#sampling-distributions",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "Sampling distributions",
-    "text": "Sampling distributions\nRefer to the sampling distributions of the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#significance",
-    "href": "courses/610/anova-twoway-les.html#significance",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "Significance",
-    "text": "Significance\nRefer to the steps used for the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#confidence-intervals",
-    "href": "courses/610/anova-twoway-les.html#confidence-intervals",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "Confidence Intervals",
-    "text": "Confidence Intervals\nRefer to the One-Way ANOVA for the overall test and t-test for the post hoc tests."
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#effect-size",
-    "href": "courses/610/anova-twoway-les.html#effect-size",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "Effect size",
-    "text": "Effect size\nThe most popular measure of effect size for F-ANOVA is the partial eta-squared ( \\eta^2). The idea behind the \\eta^2 is that, when measuring the effect size for a particular term (say, the main effect of Factor A), you want to deliberately ignore the other effects in the model (e.g., the main effect of Factor B).\nThat is, you would pretend that the effect of all these other terms is zero, and then calculate what the \\eta^2-value would have been. This is actually pretty easy to calculate. All you have to do is remove the sum of squares associated with the other terms from the denominator. In other words, if you want the partial η² for the main effect of Factor A, the denominator is just the sum of the SS values for Factor A and the residuals.[1]"
-  },
-  {
-    "objectID": "courses/610/anova-twoway-les.html#example",
-    "href": "courses/610/anova-twoway-les.html#example",
-    "title": "Between-Between Two-Way ANOVA",
-    "section": "Example",
-    "text": "Example\n\nData set\nYou can download either the jamovi template or the data set as csv for this example. Then proceed to open the file with jamovi. The data set comes from Weir and Vincent (2021)[2].\n\nIn this design, the researcher wanted to study the effect of 1 day, 3 days, or 5 days of practice per week (20 minutes per day) on the learning of a novel task of nondominant arm throwing accuracy (the dependent variable). In addition, the researcher wanted to know whether subjects with athletic experience (college-level varsity athletes) benefit differently from the various practice conditions than do college students with no experience in athletic competition.[2(p. 181)]\n\nBecause in the example above the researcher wants to test the effect of two independent variables (factors) on a single dependent variable and both factors are between-subjects, we need to use the Between-Between F-ANOVA. This is an example of 3 (practice conditions) x 2 (athletic experience) with equal number of participants in each group (balanced design).\n\nThree subjects in each group were then randomly assigned to one of the three practice conditions (1, 3, or 5 days of practice per week for 20 minutes per day). Number of days of practice was identified as factor B. Subjects’ scores on the throwing task at the end of 6 weeks were recorded as the dependent variable. The scores ranged from 1 to 10 (10 = high).[2(p. 181)]\n\nStep 1: Set up hypotheses and determine the level of significance\nAssume that Factor A refers to Experience and Factor B refers to Practice. Each of the H_0 below will be tested at alpha = 0.05.\nNull hypothesis\nFactor A\nH_0:\\mu_1 = \\mu_2 - There is no difference in the means of factor A\nFactor B\nH_0:\\mu_1 = \\mu_2 = \\mu_3 - There is no difference in the means of factor B\nInteraction\nH_0: There is no interaction between factors A and B\nAlternative hypothesis\nFactor A\nH_a:\\bar{x}_1 \\neq \\bar{x}_2 - The means are not equal\nFactor B\nH_a:\\bar{x}_1 \\neq \\bar{x}_2 \\neq \\bar{x}_3 - The means are not equal\nInteraction3\nH_a: There is an interaction between factors A and B\nStep 2: Select the appropriate test statistic\nBetween-Between F-ANOVA\n\ncomparing means\ntwo IVs and one DV\nthe IVs are independent groups (between-subjects)\n\nStep 3: Set the decision rule\nFactor A: Reject H_0 is p-value is less than 0.05\nFactor B: Reject H_0 is p-value is less than 0.05\nInteraction: Reject H_0 is p-value is less than 0.05\nStep 4: Compute the test statistic\nSet up\nIn jamovi, choose Analyses > ANOVA > ANOVA. Then, move Throwing Accuracy to the Dependent Variable box. Finally, move Experience and Practice to the Fixed Factors box.\nBecause we have more that one factor, we want to use the partial eta-squared (\\eta^2) as a measure of effect size. Simply check the box Partial \\eta^2 under Effect Size.\n\n\nFigure 1: Between-Between F-ANOVA test set up\n\n\n\n\n\nFigure 2: F-ANOVA table\n\n\n\n\nChecking the assumptions\nBefore we interpret the ANOVA table (see Figure 2), we need to check if all assumptions have been met.\n\nIndependence. In their description of the study, the authors mentioned that participants were randomly assigned to different groups; this assumption has been met.\nOutliers: Create boxplots for each factor. In jamovi, choose Exploration > Descriptive Statistics. Based on the boxplots below, there is no evidence of extreme outliers; thus, we will assume that this assumption has been met.\n\n\n\n\n\nNormality. Upon looking the results of the Shapiro-Wilk test, we conclude that this assumption has been met (p > 0.05). However, others would argue the need to check normality for each combination of the groups of the two independent variables.\nHomogeneity of variance. There needs to be homogeneity of variances for each combination of the groups of the two independent variables. According to the Levene’s test, this assumption has been met (p > 0.05).\n\n\nStep 5: Conclusion - make a decision to whether reject or retain the null hypotheses\n\nMain effect for Experience\nBy looking at the table above, and conclude that there is a Main Effect for factor A (Experience), F(12, 1) = 13.50, p = .003. This indicates that for all three levels of factor B combined, athletes scored significantly better than non-athletes (see Figure 3).\n\n\nFigure 3: Main effect for Experience\n\n\n\nMain effect for Practice\nThere was also a main effect for factor B (Practice), F(12, 2) = 30.29, p < .001. This indicates that for both levels of A combined, a significant difference exists somewhere among the three levels of B. By looking at\n\n\nFigure 4: Main effect for Practice\n\n\n\nInteraction effect\nFinally, there was an interaction effect; F(12, 2) = 4.62, p = .032. This indicates that the effect of practice on throwing accuracy differ in athletes and non-athletes. Figure 5 below suggests that the effect of more days of practice on throwing accuracy is larger in the athletes than in the non-athletes. The significant F for the interaction tells us that the lines in Figure 5 are not statistically parallel.\nAlthough I present the results for both main effects above, arguably, “we must be cautious interpreting the main effects”[2(p. 184)]. This is because the Interaction Effect was significant. In fact, some would suggest[3] to skip the interpretation of the Main Effects if the Interaction effect is significant as it could be misleading.\nUse a step-down process to interpret the results. This means you should evaluate the main effects and interaction, and only proceed to further analysis (post hoc tests) if there is significance.\nA significant interaction tells us that the effects of factor A differs across levels of factor B (and vice-versa).\nThe significant F (F = 4.63, p = .03) for the interaction tells us that the effects of practice on throwing accuracy differ in athletes and nonathletes.\nWe could stop the interaction interpretation right here and simply note that the significant interaction indicates that athletes improve more with more practice than do non-athletes. However, we are often interested is delineating the specific mean differences in the cell means.\nWe can do this performing simple effects tests; see table below.\nSimple effects for A (Experience)\nF across A at B1 > p = .730\nF across A at B2 > p = .008\nF across A at B3 > p = .004\n\n\n\nFigure 5: Interaction effect\n\n\n\nPost Hoc tests\nBecause Practice has more than two levels, we need to perform further analysis by running post hoc tests for the Factor Practice as well as for the Interaction.\nPost hoc tests for Practice\n\nEstimated Marginal Means"
+    "text": "4\n3\n2\n1\n\n\n\n\nVisual Appeal\nThere are no errors in spelling, grammar and punctuation. Information is clear and concise on each slide. Visually appealing/engaging.\nThere are some errors in spelling, grammar and punctuation. Too much information on two or more slides. Significant visual appeal.\nThere are many errors in spelling, grammar and punctuation. Too much information was contained on many slides. Minimal effort made to make slides appealing or too much going on.\nThere are many errors in spelling, grammar and punctuation. The slides were difficult to read and too much information had been copied onto them. No visual appeal.\n\n\nComprehension\nExtensive knowledge of topic. Showed complete understanding of assignment. Accurately answered all questions posed.\nShowed a good understanding of topic. Able to answer most of audience questions.\nShowed good understanding of some parts of topic. Accurately answered some questions.\nPresenter didn’t understand topic. Majority of information was incorrect.\n\n\nContent\nThe presentation was a concise summary of the topic with all questions answered. Comprehensive and complete coverage of information.\nThe presentation was a good summary of the topic. Most important information covered; little irrelevant info.\nThe presentation was informative but several elements went unanswered. Much of the information irrelevant; coverage of some of major points.\nThe presentation was a brief look at the topic but many questions were left unanswered. Majority of information irrelevant and significant points left out.\n\n\nPreparedness/ Participation/ Group Dynamics\nPresenters knew the information, extremely prepared and rehearsed.\nSlight domination of the presenter; very well prepared.\nPrimarily prepared but with some dependence on just reading off slides.\nEvident lack of preparation/rehearsal. Dependence on slides.\n\n\nTemplate\nPresenter followed all the suggested content sequence.\nPresenter followed most of the suggested content sequence.\nPresenter followed some of the suggested content sequence.\nPresenter followed little or none of the suggested content sequence."
   },
   {
     "objectID": "courses/610/index.html",
@@ -217,151 +14,11 @@
     "text": "This course focuses on the introductory statistical techniques used in social science research. Students will be introduced to concepts such as reliability, validity, measures of central tendency, variability, probability, and statistical techniques including: t tests (independent & dependent samples), Analysis of Variance (ANOVA), Chi-square, correlation, and regression.\nStudents are expected to take the material/concepts presented in this course and apply them through a series of homework assignments and quizzes. The overall goal of the course is not only to help students understand the mathematical/statistical concepts presented but also to assist in the application of these procedures.\n\n\n\nReusehttps://creativecommons.org/licenses/by-nc/4.0/"
   },
   {
-    "objectID": "courses/610/les13.html",
-    "href": "courses/610/les13.html",
-    "title": "Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data",
-    "section": "",
-    "text": "Ch13"
-  },
-  {
-    "objectID": "courses/610/les07.html",
-    "href": "courses/610/les07.html",
-    "title": "Multiple Regression",
-    "section": "",
-    "text": "Ch07: Fundamentals of Statistical Inference"
-  },
-  {
-    "objectID": "courses/610/les07.html#when-to-use-it",
-    "href": "courses/610/les07.html#when-to-use-it",
-    "title": "Multiple Regression",
-    "section": "When to use it?",
-    "text": "When to use it?\nMultiple regression, and multiple correlation are tools used to examine the combined relations between multiple predictors and a dependent variable. When correlating one quantitative dependent variable (Yi) with multiple quantitative variables (Xi_1, Xi_2,... Xi_k ).\nMultiple regression is specially useful when several independent variables work better at predicting a dependent variable compared to a single independent variable. For example, one can estimate percent body fat using the skinfold measurement technique. Although there are several techniques to estimate body fat, researchers have used the multiple regression technique to identify the best predictors. See excerpt below:\n\nThe practical equation including age, race, height, weight and waist circumference had high predictive ability for lean body mass (men: R 2=0·91, standard error of estimate (SEE)=2·6 kg; women: R 2=0·85, SEE=2·4 kg) and fat mass (men: R 2=0·90, SEE=2·6 kg; women: R 2=0·93, SEE=2·4 kg). Waist circumference was a strong predictor in men only. Addition of other circumference and skinfold measures slightly improved the prediction model. ref needed"
-  },
-  {
-    "objectID": "courses/610/les07.html#variables",
-    "href": "courses/610/les07.html#variables",
-    "title": "Multiple Regression",
-    "section": "Variables",
-    "text": "Variables\n\nIndependent variables\nOne or more quantitative (interval or ratio) variables.\n\n\nDependent variable\nOne quantitative of interval or ratio level variable."
-  },
-  {
-    "objectID": "courses/610/les07.html#stating-the-hypotheses",
-    "href": "courses/610/les07.html#stating-the-hypotheses",
-    "title": "Multiple Regression",
-    "section": "Stating the Hypotheses",
-    "text": "Stating the Hypotheses\nNull hypothesis\nF test for the complete regression model\nH_0: the variance explained by all the independent variables together (the complete model) is 0 in the population\nH_0:\\beta_1 = \\beta_2 = \\ldots = \\beta_K = 0\nt test for the individual regression coefficient \\beta_k\nH_0: \\beta_k = 0\nAlternative hypothesis\nF test for the complete regression model\nH_a: not all population regression coefficients are 0\nH_a:\\beta_1 \\neq \\beta_2 \\neq \\ldots \\neq \\beta_K \\neq 0\nt test for the individual regression coefficient \\beta_k\nH_a: \\beta_k \\neq 0 (two sided)\nH_a: \\beta_k > 0 (right sided)\nH_0: \\beta_k < 0 (left sided)\nThe multiple linear regression best fit line has an equation of the following form:\n\n\\hat{y} = a + \\beta(x)\n\\tag{1}\nwhere, a is the intercept (the value of y when x is = 0), \\beta represents the slope of the line and x is the explanatory variable (the predictor)."
-  },
-  {
-    "objectID": "courses/610/les07.html#assumptions",
-    "href": "courses/610/les07.html#assumptions",
-    "title": "Multiple Regression",
-    "section": "Assumptions",
-    "text": "Assumptions\nAdapted from Navarro and Foxcroft (2022)\n\nNormality. It assumes that the residuals are normally distributed. It’s actually okay if the predictors X and the outcome Y are non-normal, so long as the residuals are normal.\nLinearity. Assumes that the relationship between X and Y is linear (both simple regression or a multiple regression).\nHomogeneity of variance. The regression model assumes that each residual is comes from a normal distribution with mean 0, and with a standard deviation that is the same for every single residual. In practice, it’s impossible to test the assumption that every residual is identically distributed. Instead, what we care about is that the standard deviation of the residual is the same for all values of \\hat{Y}, and all values of every predictor Xi in the model.\nIndependence. The residuals are independent of one another.\n\nAlso, pay attention to the following:\nUncorrelated predictors. In a multiple regression model, you don’t want your predictors to be too strongly correlated with each other. Predictors that are too strongly correlated with each other (referred to as “collinearity”) can cause problems when evaluating the model.\nNo “bad” outliers. There is an implicit assumption that your regression model isn’t being too strongly influenced by one or two anomalous data points. This raises questions about the adequacy of the model and the trustworthiness of the data in some cases."
-  },
-  {
-    "objectID": "courses/610/les07.html#test-statistic",
-    "href": "courses/610/les07.html#test-statistic",
-    "title": "Multiple Regression",
-    "section": "Test statistic",
-    "text": "Test statistic\nF test for the complete regression model. Refer to the One-Way ANOVA test.\nt test for individual \\beta_k\n\nt = \\dfrac{b_k}{SE_{b_k}}\n\\tag{2}\nFor one independent variable:\n\nSE_{b_1} = \\dfrac{\\sqrt{\\sum (y_j - \\hat{y}_j)^2 / (N - 2)}}{\\sqrt{\\sum (x_j - \\bar{x})^2}} = \\dfrac{s}{\\sqrt{\\sum (x_j - \\bar{x})^2}}\n\nwith s the sample standard deviation of the residuals, x_j the score of subject j on the independent variable x , and \\bar{x} the mean of x."
-  },
-  {
-    "objectID": "courses/610/les07.html#sampling-distributions",
-    "href": "courses/610/les07.html#sampling-distributions",
-    "title": "Multiple Regression",
-    "section": "Sampling distributions",
-    "text": "Sampling distributions\nRefer to the sampling distributions of the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
-  },
-  {
-    "objectID": "courses/610/les07.html#significance",
-    "href": "courses/610/les07.html#significance",
-    "title": "Multiple Regression",
-    "section": "Significance",
-    "text": "Significance\nRefer to the steps used for the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
-  },
-  {
-    "objectID": "courses/610/les07.html#confidence-intervals",
-    "href": "courses/610/les07.html#confidence-intervals",
-    "title": "Multiple Regression",
-    "section": "Confidence Intervals",
-    "text": "Confidence Intervals\nRefer to the StatKat website1 for a detailed explanation. I will show below how to calculate it using jamovi."
-  },
-  {
-    "objectID": "courses/610/les07.html#effect-size",
-    "href": "courses/610/les07.html#effect-size",
-    "title": "Multiple Regression",
-    "section": "Effect size",
-    "text": "Effect size\nFor linear regression we calculate R^2 as the effect size. This is the amount of variance in the dependent variable y that is explained by the sample regression equation (the independent variable(s)). The reader is referred to StatKat2 for more detailed information."
-  },
-  {
-    "objectID": "courses/610/les07.html#example",
-    "href": "courses/610/les07.html#example",
-    "title": "Multiple Regression",
-    "section": "Example",
-    "text": "Example\nData: parenthood data found under lsj-data library in jamovi. Notice that you may need to install the lsj-data module datalabcc (2018) in jamovi.\nBelow is the formula for a straight line when there are more than one independent (predictor) variable:\n\ny = a + b_1Xi1 + b_2Xi2 + b_jXi\n\nWhere, a is the intercept, b is the slope, and x is a given value. The intercept is where the line touches the y axis, which in the graph in the left is between 80 and 90. This is the expected value of Yi when Xi is equal to 0. The slop is the tilt of the best fit line.\nTo run the linear regression, click on Regression - Linear Regression analysis in jamovi, using the parenthood data set.\nThen specify dani.grump as the Dependent Variable, dani.sleep , and baby.sleep as the variables entered in the Covariates box. This gives the results shown above.\n\n\n\nPredictor\nEstimate\n\n\n\n\nIntercept\n125.966\n\n\ndani.sleep\n-8.950\n\n\nbaby.sleep\n0.011\n\n\n\nWith these values, we can create the linear regression equation:\n\n\\hat{Y} = 125.96 + (-8.94)X\n\n\nInterpretation:\nThe slope: if one increases Xi by 1 unit, then one is decreasing Yi by 8.94. In other words, for each additional hour of sleep, Dani reduce her grumpiness level (points), which in turn will improve her mood.\nThe intercept: recall that the a is the predicted value of Yi when Xi is equal to 0. Thus, if Dani gets zero hours of sleep (Xi = 0), then her grumpiness will reach about (Yi = 125.96), which is lot since the scale goes up to 100.\n\n\nAssumption Checks\nNormality: QQ-plots + Shapiro-Wilk test\nOutlier\nInterpretation: Values greater than 1 is often considered large and indicates the presence of outlier."
-  },
-  {
-    "objectID": "courses/610/les07.html#web-resources",
-    "href": "courses/610/les07.html#web-resources",
-    "title": "Multiple Regression",
-    "section": "Web Resources",
-    "text": "Web Resources\nI have created a list of additional resources on this topic that can be accessed by scanning the following QR code:\nadd qr code here"
-  },
-  {
-    "objectID": "courses/610/les06.html",
-    "href": "courses/610/les06.html",
-    "title": "Correlation & Bivariate Regression",
-    "section": "",
-    "text": "Ch06: The Normal Curve"
-  },
-  {
-    "objectID": "courses/610/les12.html",
-    "href": "courses/610/les12.html",
-    "title": "Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data",
-    "section": "",
-    "text": "Ch12"
-  },
-  {
-    "objectID": "courses/610/les10.html",
-    "href": "courses/610/les10.html",
-    "title": "Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data",
-    "section": "",
-    "text": "Ch10"
-  },
-  {
-    "objectID": "courses/610/les11.html",
-    "href": "courses/610/les11.html",
-    "title": "Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data",
-    "section": "",
-    "text": "Ch11"
-  },
-  {
-    "objectID": "courses/610/les14.html",
-    "href": "courses/610/les14.html",
-    "title": "Simple Analysis of Variance: Comparing the Means Among Three or More Sets of Data",
-    "section": "",
-    "text": "Ch14"
-  },
-  {
-    "objectID": "courses/610/les02.html",
-    "href": "courses/610/les02.html",
-    "title": "Organizing Data & Percentiles",
-    "section": "",
-    "text": "Ch02: Organizing and Displaying DataCh03: Percentiles"
-  },
-  {
-    "objectID": "courses/610/les03.html",
-    "href": "courses/610/les03.html",
-    "title": "Measures of Central Tendency & Variability",
-    "section": "",
-    "text": "Ch05: Measures of Variability"
-  },
-  {
     "objectID": "courses/610/syllabus.html",
     "href": "courses/610/syllabus.html",
-    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
     "section": "",
-    "text": "Instructor: Ovande Furtado Jr., Ph.D.\nDepartment of Kinesiology\nCal State Northridge\nFall 2022\nMeetings: Tuesday, 4:00-6:45 p.m., Redwood Hall\nDownload syllabus as PDF"
+    "text": "Footnotes\n\n\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nStudents are expected to read and study the assigned chapters prior to attending each class meeting.↩︎\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nStudents are expected to read and study the assigned chapters prior to attending each class meeting.↩︎\nUnless stated otherwise, all assignments are due before class. Refer to the syllabus for assignments detailed information.↩︎"
   },
   {
     "objectID": "courses/610/syllabus.html#course-description",
@@ -373,14 +30,14 @@
   {
     "objectID": "courses/610/syllabus.html#expectations-and-goals",
     "href": "courses/610/syllabus.html#expectations-and-goals",
-    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
     "section": "Expectations and Goals",
     "text": "Expectations and Goals\nUpon completion of this course, you will be able to adequately:\n\nIntroduce statistical concepts utilized in research within the social sciences\nApply the mathematical/statistical techniques presented for social science research\nDemonstrate an ability to analyze and interpret data within the social sciences\nProvide practical examples as to when statistical techniques presented are appropriate methods for analysis."
   },
   {
     "objectID": "courses/610/syllabus.html#text-readings-instructional-resources",
     "href": "courses/610/syllabus.html#text-readings-instructional-resources",
-    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
     "section": "Text, readings & instructional resources",
     "text": "Text, readings & instructional resources\n\nTextbook (required)\nWeir and Vincent (2021)[1]\n\n\nOther readings\n\nStatKat - Statistical method selection table\nGPower - Statistical Power Analysis\n\nHHU website[2] (many resources related to the app, including tutorials)\nDemonstration Article[3]\n\n\n\n\nInstructional resources\n\njamovi Statistical Software[4] (Free)\njamovi Video Tutorials1 (Free)"
   },
@@ -394,9 +51,9 @@
   {
     "objectID": "courses/610/syllabus.html#course-policy",
     "href": "courses/610/syllabus.html#course-policy",
-    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
     "section": "Course Policy",
-    "text": "Course Policy\nI will detail the policy for this course below. Basically, don’t cheat and try to learn stuff.\n\nGrading Policy\n\n\n\nAssignment\nPercentage\n\n\n\n\nMajor Takeaways (14)*\n15%\n\n\nParticipation & Attendance\n5%\n\n\nWeekly Quizzes (14)*\n20%\n\n\nHomeworks (3)\n30%\n\n\nExams (2)\n30%\n\n\n\n*The lowest score will be dropped at the end of the semester.\n\n\nGrading Scale\nA 93.00-100.00 | A- 90.00-92.99 B+ 87.00-89.99 | B 83.00-86.99 | B- 80.00-82.99 C+ 77.00-79.99 | C 73.00-76.99 | C- 70.00-72.99 D+ 67.00-69.99 | D 63.00-66.99 | D- 60.00-62.99 F <59.99\n\n\n\n\n\n\nNote\n\n\n\nIn recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a “round up” rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nRequests for an Incomplete (I) must conform to university policies. Among other requirements, “I” is possible only for instances in which you are demonstrating passing work in the class.\n\n\n\n\nAttendance Policy\n\nShowing up is 80 percent of life – Woody Allen, via Marshall Brickman\n\nAttendance will be taken at the beginning of every class; please, plan accordingly.\n\n\nE-mail Policy\nIf you have a question concerning this course (i.e. assignments, content, deadlines, etc.), send a message2 to our mailing list (provide under Canvas > Home). For any other matters, send me a message at my CSUN email.\nKeep it in mind:\n\nAll students enrolled in my courses are added to the mailing lists automatically. If you are not receiving emails from the mailing address, then contact CSUN Help Desk to get it fixed.\nOnly send messages to the mailing list address when the content is pertinent to ALL students. For private matters, email me directly.\nONLY send message to the mailing list address from your CSUN email address; otherwise, your message will not be delivered.\n\nI am usually quick to respond to student e-mails. Below, I outline why I will not respond to certain e-mails students send. Multiple rationales follow.\n\nStudents could answer their own inquiry by reading the syllabus.\nThe student is protesting a grade without reference to specific points of objection. These e-mails tend to be expressive utility on the part of the student and do not require a response from me. Students interested in improving their knowledge of material should see me during office hours.\nThe student is requesting an extension on an assignment for which the syllabus already established the deadline. The answer is always “no”; unless you have a reason that can be documented and you contacted me before the deadline.\nThe student is asking for an extra credit opportunity, a request that amounts to more grading for the professor. The answer is “no”.\n\nMore e-mail stuff…\nIf you need to schedule an online meeting, you can do so by visiting this link: bit.ly/drfurtado-bookme. The details will be provided when the meeting is scheduled via MS Booking, including the option to cancel/reschedule a meeting, if needed.\n\n\nLate Assignments\nUnless you have made previous arrangements, a late assignments will be docked 10% per day (first 4 days) it is late.\n\n\nExtra Credit\nThere is no individual extra credit granted. Therefore, do not plan to make-up poor grades at the end of the semester by asking to do extra credit work. I might provide extra credit opportunities, but these will be offered to the entire class, not to individuals.\n\n\nDisabilities Policy\nFederal law mandates the provision of services at the university-level to qualified students with disabilities.\nThis instructor, in conjunction with California State University Northridge, is committed to upholding and maintaining all aspects of the federal Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Rehabilitation Act of 1973.\nIf you are a student with a disability and wish to request accommodations, please contact the office of Students with Disabilities Resources located in 110 Student Services Building, or call (818) 677-2684 for an appointment. Any information regarding your disability will remain confidential. Because many accommodations require early planning, requests for accommodations should be made as early as possible. Any requests for accommodations will be reviewed in a timely manner to determine their appropriateness to this setting.\n\n\nAcademic Dishonesty Policy\nPlease, stop and read the information below; this is important!\n\n\n\n\n\n\nImportant\n\n\n\nEach student is expected to be familiar with, and abide by, the conditions of student conduct, as presented in the CSUN Catalog, with emphasis on sections entitled, Student Conduct Code, Academic Dishonesty, Faculty Policy on Academic Dishonesty, and Penalties. Any student engaging in academic dishonesty (e.g., cheating, fabrication, facilitating academic dishonesty, plagiarism) is subject to discipline, which may include a failing grade in the course, and may also be subject to more severe discipline by the University. Students are encouraged to visit the link below and become familiar with the Standards for Student Conduct.\nhttp://www.csun.edu/a&r/soc/studentconduct.html\n\n\n\nAbout Plagiarism\nPlagiarism means using words, ideas, or arguments from another person or source without citation3. Cite all sources consulted to any extent (including material from the internet), whether or not assigned and whether or not quoted directly. For quotations, four or more words used in sequence must be set off in quotation marks, with the source identified.\nPlagiarism is a serious violation of the CSUN Student Conduct Code. Please read my comment about plagiarism under Homeworks. Any form of cheating will immediately earn you a failing grade for the entire course. By remaining enrolled, you consent to this policy.\n\nTurnitin (see below) will detect such misconducts as it checks every submission against a database of papers, as well as against the Internet.\n\nWhat is Turnitin?\nTurnitin is an automated system that instructors can use to quickly and easily compare each student’s assignment with billions of websites, as well as an enormous database of student papers that grows with each submission. Accordingly, you will be expected to submit assignments through the Canvas Assignment Tool in electronic format. After the assignment is processed, as an instructor, I receive a report from Turnitin that states if and how another author’s work was used in the assignment."
+    "text": "Course Policy\nI will detail the policy for this course below. Basically, don’t cheat and try to learn stuff.\n\nGrading\n\n\n\nAssignment\nPercentage\n\n\n\n\nMajor Takeaways (14)*\n15%\n\n\nParticipation & Attendance\n5%\n\n\nWeekly Quizzes (14)*\n20%\n\n\nHomeworks (3)\n30%\n\n\nExams (2)\n30%\n\n\n\n*The lowest score will be dropped at the end of the semester.\n\n\nGrading Scale\nA 93.00-100.00 | A- 90.00-92.99 B+ 87.00-89.99 | B 83.00-86.99 | B- 80.00-82.99 C+ 77.00-79.99 | C 73.00-76.99 | C- 70.00-72.99 D+ 67.00-69.99 | D 63.00-66.99 | D- 60.00-62.99 F <59.99\n\n\n\n\n\n\nNote\n\n\n\nIn recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a “round up” rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nRequests for an Incomplete (I) must conform to university policies. Among other requirements, “I” is possible only for instances in which you are demonstrating passing work in the class.\n\n\n\n\nAttendance\n\nShowing up is 80 percent of life – Woody Allen, via Marshall Brickman\n\nAttendance will be taken at the beginning of every class; please, plan accordingly.\n\n\nE-mail\nWhile taking this course, only communicate with me via Canvas > Inbox.\nIf your message concerns a non-private matter (i.e., assignments, content, deadlines, etc.), then please post your question to the Q&A Forum (Canvas > Discussions > Q&A Forum), which can be answered by any student taking the course.\n\n\nOffice Hours\n\nIn-person\nTuesdays from 9-11 am at RE 289.\n\n\nOnline via Zoom\nBy appointment only via https://calendly.com/drfurtado\n\n\n\nLate Assignments\nUnless you have made previous arrangements, a late assignments will be docked 10% per day (first 4 days) it is late. Students will not be allowed to submit assignments after the fourth day of the deadline.\n\n\nExtra Credit\nThere is no individual extra credit granted. Therefore, do not plan to make-up poor grades at the end of the semester by asking to do extra credit work. I might provide extra credit opportunities, but these will be offered to the entire class, not to individuals.\n\n\nDisabilities\nFederal law mandates the provision of services at the university-level to qualified students with disabilities.\nThis instructor, in conjunction with California State University Northridge, is committed to upholding and maintaining all aspects of the federal Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Rehabilitation Act of 1973.\nIf you are a student with a disability and wish to request accommodations, please contact the office of Students with Disabilities Resources located in 110 Student Services Building, or call (818) 677-2684 for an appointment. Any information regarding your disability will remain confidential. Because many accommodations require early planning, requests for accommodations should be made as early as possible. Any requests for accommodations will be reviewed in a timely manner to determine their appropriateness to this setting.\n\n\nAcademic Dishonesty\nPlease, stop and read the information below; this is important!\n\n\n\n\n\n\nImportant\n\n\n\nEach student is expected to be familiar with, and abide by, the conditions of student conduct, as presented in the CSUN Catalog, with emphasis on sections entitled, Student Conduct Code, Academic Dishonesty, Faculty Policy on Academic Dishonesty, and Penalties. Any student engaging in academic dishonesty (e.g., cheating, fabrication, facilitating academic dishonesty, plagiarism) is subject to discipline, which may include a failing grade in the course, and may also be subject to more severe discipline by the University. Students are encouraged to visit the link below and become familiar with the Standards for Student Conduct.\nhttp://www.csun.edu/a&r/soc/studentconduct.html\n\n\n\nAbout Plagiarism\nPlagiarism means using words, ideas, or arguments from another person or source without citation2. Cite all sources consulted to any extent (including material from the internet), whether or not assigned and whether or not quoted directly. For quotations, four or more words used in sequence must be set off in quotation marks, with the source identified.\nPlagiarism is a serious violation of the CSUN Student Conduct Code. Please read my comment about plagiarism under Homeworks. Any form of cheating will immediately earn you a failing grade for the entire course. By remaining enrolled, you consent to this policy.\n\nTurnitin (see below) will detect such misconducts as it checks every submission against a database of papers, as well as against the Internet.\n\nWhat is Turnitin?\nTurnitin is an automated system that instructors can use to quickly and easily compare each student’s assignment with billions of websites, as well as an enormous database of student papers that grows with each submission. Accordingly, you will be expected to submit assignments through the Canvas Assignment Tool in electronic format. After the assignment is processed, as an instructor, I receive a report from Turnitin that states if and how another author’s work was used in the assignment."
   },
   {
     "objectID": "courses/610/syllabus.html#final-yet-important-notes",
@@ -422,23 +79,30 @@
   {
     "objectID": "courses/610/syllabus.html#course-sequence",
     "href": "courses/610/syllabus.html#course-sequence",
-    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
     "section": "Course Sequence",
     "text": "Course Sequence\nPlease, click here to view the course sequence."
   },
   {
     "objectID": "courses/610/syllabus.html#references",
     "href": "courses/610/syllabus.html#references",
-    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
     "section": "References",
     "text": "References\n\n\n1. Weir, J. P., & Vincent, W. J. (2021). Statistics in Kinesiology. Human Kinetics. https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource\n\n\n2. Universität düsseldorf: g*power. (2014). http://www.gpower.hhu.de/en.html\n\n\n3. Faul, F., Erdfelder, E., Lang, A.-G., & Buchner, A. (2007). G*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior research methods, 39(2), 175–191.\n\n\n4. The jamovi project. (2021). Jamovi. Retrieved from https://www.jamovi.org"
   },
   {
-    "objectID": "courses/377/mod01.html",
-    "href": "courses/377/mod01.html",
-    "title": "Module 01: Introduction to Motor Learning",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Ovande Furtado Jr",
     "section": "",
-    "text": "Definitions\nLet’s start by defining Motor Learning. Motor Learning is “the study of motor skills, the performance enhancement of learned or highly experienced motor skills, or the reacquisition of skills that are difficult to perform or cannot be performed because of injury, disease, and the like.”[1(pp. 3–4)]\n\n\n\n\n\n\n\n\nChapter Summary\n\n1. Magill, R. A., & Anderson, D. I. (2021). Motor learning and control: concepts and applications (Twelfth edition). McGraw-Hill."
+    "text": "Education\nPh.D. in Motor Behavior, 2009 - University of Pittsburgh\nM.S. in Motor Behavior, 2004 - University of Pittsburgh\nB.A. in Physical Education K-12, 1998 - Federal University of Parana - Brazil\n\n\nExperience\nAssociate Professor Cal State Northridge Aug 2013 – Present Northridge, CA Teaches motor behavior and statistics courses.\nAssociate Professor Eastern Illinois University Aug 2007 – Jun 2013 Charleston, IL Taught motor behavior and statistics courses.\nPhysical Educator Teacher K-12 Falk Lab School Aug 2006 – Jun 2007 Pittsburgh, PA Taught motor skill development for children K-12.\nKinder Kinetics Movement Program Co-Director University of Pittsburgh Aug 2006 – Jun 2007 Pittsburgh, PA"
+  },
+  {
+    "objectID": "courses/610/sequence.html",
+    "href": "courses/610/sequence.html",
+    "title": "KIN 610 - Course Sequence",
+    "section": "",
+    "text": "Course Sequence\n\n\n\n\n\n\n\n\nLesson\nDate1\nReading2\nAssignments3\n\n\n\n\nLesson01\n08/29/22\nCourse Intro & Data Collection\nRead and study the syllabus\n\n\nLesson02\n09/05/22\nCh01: Measurement, Statistics, and Research\nQuiz 1; Major Takeaways\n\n\nLesson03\n09/12/22\nCh02: Organizing and Displaying Data\nCh03: Percentiles\nQuiz 2; Major Takeaways\n\n\nLesson04\n09/19/22\nCh04: Measures of Central Tendency\nCh05: Measures of Variability\nQuiz 3; Major Takeaways\n\n\nLesson05\n09/26/22\nCh06: The Normal Curve\n\nQuiz 4; Major Takeaways; Homework 1\n\n\nLesson06\n10/03/22\nCh07: Fundamentals of Statistical Inference\nQuiz 5; Major Takeaways\n\n\nLesson07\n10/10/22\nCh08: Correlation and Bivariate Regression\nQuiz 6; Major Takeaways\n\n\nExam 1\n10/17/22\nCh09: Multiple Correlation and Multiple Regression\n\nQuiz 7; Major Takeaways; Homework 2\n\n\nLesson08\n10/24/22\nPreviously covered chapters\nna\n\n\nLesson09\n10/31/22\nCh10: The Student’s t-test\n\nQuiz 8; Major Takeaways\n\n\nLesson10\n11/07/22\nCh11: Simple Analysis of Variance\n\nQuiz 9; Major Takeaways\n\n\nLesson11\n11/14/22\nCh12: Analysis of Variance With Repeated Measures\n\nQuiz 10; Major Takeaways; Homework 3\n\n\nLesson12\n11/21/22\nCh14: Factorial Analysis of Variance\n\nQuiz 11; Major Takeaways\n\n\nLesson13\n11/28/22\nCh15: Analysis of Covariance\n\nQuiz 11; Major Takeaways\n\n\nLesson14\n12/05/22\nCh16: Analysis of Nonparametric Data\n\nQuiz 13; Major Takeaways\n\n\nExam 2\n12/13/22\nAll chapters covered\nna\n\n\n\n\n\n\n\n\nReferences\n\n1. Weir, J. P., & Vincent, W. J. (2021). Statistics in Kinesiology. Human Kinetics. https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource\n\nFootnotes\n\n\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nStudents are expected to read and study the assigned chapters prior to attending each class meeting.↩︎\nUnless stated otherwise, all assignments are due before class. Refer to the syllabus for assignments detailed information.↩︎"
   },
   {
     "objectID": "courses/377/index.html",
@@ -448,164 +112,381 @@
     "text": "Course description\nStudy of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice."
   },
   {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "jamovi\n\n\ntables\n\n\n\n\n\n\n\n\n\n\n\nMay 16, 2022\n\n\nOvande Furtado Jr\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/posts/jamovi-tab-long/index.html",
+    "href": "blog/posts/jamovi-tab-long/index.html",
+    "title": "‘Fixing’ long tables in jamovi",
+    "section": "",
+    "text": "Understanding the problem\nWhen creating descriptive tables in jamovi1 , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.\nBelow are two examples of descriptive tables generated in jamovi. Figure 1 shows a table with variables across columns and Figure 2 shows a table with variables across rows.\nLearn how to choose either format by watching the video at the end of this post.\n\n\n\n\n\n\nTip\n\n\n\nInstead of copying a table from the output, you can export the table as PDF. Some journal articles require authors to save tables as PDF and submit them as separate files.\n\n\n\n\nFigure 1: Descriptive table with variables across columns\n\n\n\n\n\nFigure 2: Descriptive table with variables across rows\n\n\n\n\n\nThe solution\n\n\n\n\n\n\nFootnotes\n\n\nClick here to learn more about jamovi.↩︎\n\nCitationBibTeX citation:@online{furtadojr2022,\n  author = {Ovande Furtado Jr},\n  title = {“{Fixing}” Long Tables in Jamovi},\n  date = {2022-05-16},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nOvande Furtado Jr. 2022. “‘Fixing’ Long Tables in\nJamovi.” May 16, 2022."
+  },
+  {
+    "objectID": "courses/610/syllabus.html#e-mail-policy-office-hours",
+    "href": "courses/610/syllabus.html#e-mail-policy-office-hours",
+    "title": "Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "E-mail Policy & Office Hours",
+    "text": "E-mail Policy & Office Hours\n\nEmail\nWhile taking this course, only communicate with me via Canvas > Inbox.\nIf your message concerns a non-private matter (i.e., assignments, content, deadlines, etc.), then please post your question to the Q&A Forum (Canvas > Discussions > Q&A Forum), which can be answered by any student taking the course.\n\n\nOffice Hours\n\nIn-person\nTuesdays from 9-11 am at RE 289.\n\n\nOnline via Zoom\nBy appointment only via https://calendly.com/drfurtado\n\n\n\nLate Assignments\nUnless you have made previous arrangements, a late assignments will be docked 10% per day (first 4 days) it is late.\n\n\nExtra Credit\nThere is no individual extra credit granted. Therefore, do not plan to make-up poor grades at the end of the semester by asking to do extra credit work. I might provide extra credit opportunities, but these will be offered to the entire class, not to individuals.\n\n\nDisabilities Policy\nFederal law mandates the provision of services at the university-level to qualified students with disabilities.\nThis instructor, in conjunction with California State University Northridge, is committed to upholding and maintaining all aspects of the federal Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Rehabilitation Act of 1973.\nIf you are a student with a disability and wish to request accommodations, please contact the office of Students with Disabilities Resources located in 110 Student Services Building, or call (818) 677-2684 for an appointment. Any information regarding your disability will remain confidential. Because many accommodations require early planning, requests for accommodations should be made as early as possible. Any requests for accommodations will be reviewed in a timely manner to determine their appropriateness to this setting.\n\n\nAcademic Dishonesty Policy\nPlease, stop and read the information below; this is important!\n\n\n\n\n\n\nImportant\n\n\n\nEach student is expected to be familiar with, and abide by, the conditions of student conduct, as presented in the CSUN Catalog, with emphasis on sections entitled, Student Conduct Code, Academic Dishonesty, Faculty Policy on Academic Dishonesty, and Penalties. Any student engaging in academic dishonesty (e.g., cheating, fabrication, facilitating academic dishonesty, plagiarism) is subject to discipline, which may include a failing grade in the course, and may also be subject to more severe discipline by the University. Students are encouraged to visit the link below and become familiar with the Standards for Student Conduct.\nhttp://www.csun.edu/a&r/soc/studentconduct.html\n\n\n\nAbout Plagiarism\nPlagiarism means using words, ideas, or arguments from another person or source without citation2. Cite all sources consulted to any extent (including material from the internet), whether or not assigned and whether or not quoted directly. For quotations, four or more words used in sequence must be set off in quotation marks, with the source identified.\nPlagiarism is a serious violation of the CSUN Student Conduct Code. Please read my comment about plagiarism under Homeworks. Any form of cheating will immediately earn you a failing grade for the entire course. By remaining enrolled, you consent to this policy.\n\nTurnitin (see below) will detect such misconducts as it checks every submission against a database of papers, as well as against the Internet.\n\nWhat is Turnitin?\nTurnitin is an automated system that instructors can use to quickly and easily compare each student’s assignment with billions of websites, as well as an enormous database of student papers that grows with each submission. Accordingly, you will be expected to submit assignments through the Canvas Assignment Tool in electronic format. After the assignment is processed, as an instructor, I receive a report from Turnitin that states if and how another author’s work was used in the assignment."
+  },
+  {
     "objectID": "courses/377/syllabus.html",
     "href": "courses/377/syllabus.html",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "",
-    "text": "Dr. Ovande Furtado Jr - Redwood Hall 289\n Office hours: by appointment via calendly.com/drfurtado\n Office phone: 818-677-5968\n Email: Refer to Canvas"
+    "text": "Ovande Furtado Jr., Ph.D.\nDr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado’s line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.\n\n\n\nSee Section 3.5 for more information\n\n\n\nEmail: ovandef@csun.edu\nOffice: Redwood Hall 289"
   },
   {
     "objectID": "courses/377/syllabus.html#mycsundigitalaccess-program",
     "href": "courses/377/syllabus.html#mycsundigitalaccess-program",
-    "title": "KIN 377 Syllabus",
+    "title": "Syllabus | KIN 377: Motor Learning",
     "section": "myCSUNDigitalAccess Program",
-    "text": "myCSUNDigitalAccess Program\n\nYou are enrolled in a course which is part of the myCSUNDigitalAccess (MCDA) program.\nThe MCDA program provides digital materials to students at a deeply discounted price.\nSome or all of your materials for this course are being provided digitally through the MCDA program.\nALL enrolled students will have access to the materials through Canvas by the 1st day of class, but more likely earlier.\nIf you want to keep access throughout the semester, you need do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.\nIf you choose to obtain your materials elsewhere you have until [date coming soon] to Opt-Out (see instructions below). Those who Opt-Out by [date coming soon] will lose access and will not be charged.\nAnyone who does not Opt-Out by the [date coming soon] deadline will be charged and those charges will not be reversible.\n\n\nOpt-out Instructions\nIf you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by [date coming soon]:\n\nGo to https://accessportal.follett.com/0150\nClick on Create an Account on the lower right\nCreate an account using your CSUN email account\nSelect the course(s) you wish to Opt-Out from\n\nYou will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb"
+    "text": "myCSUNDigitalAccess Program\n\nYou are enrolled in a course which is part of the myCSUNDigitalAccess (MCDA) program.\nThe MCDA program provides digital materials to students at a deeply discounted price.\nSome or all of your materials for this course are being provided digitally through the MCDA program.\nALL enrolled students will have access to the materials through Canvas by the 1st day of class, but more likely earlier.\nIf you want to keep access throughout the semester, you need do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.\nIf you choose to obtain your materials elsewhere you have until [date coming soon] to Opt-Out (see instructions below). Those who Opt-Out by [date coming soon] will lose access and will not be charged.\nAnyone who does not Opt-Out by the [date coming soon] deadline will be charged and those charges will not be reversible.\n\n\nOpt-out Instructions\nIf you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by [date coming soon]:\n\nGo to https://accessportal.follett.com/0150\nClick on Create an Account on the lower right\nCreate an account using your CSUN email account\nSelect the course(s) you wish to Opt-Out from\n\nYou will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb\n\nGo to https://accessportal.follett.com/0150;\nClick on Create an Account on the lower right;\nCreate an account using your CSUN email account’\nSelect the course(s) you wish to Opt-Out from.\n\n\n\n\n\n\n\nNote\n\n\n\nYou will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb"
   },
   {
     "objectID": "courses/377/syllabus.html#additional-resources",
     "href": "courses/377/syllabus.html#additional-resources",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Additional resources",
-    "text": "Additional resources\n\nAccess to Computer & Internet\nAlthough not required, it is suggested that you have access to a computer (not simply a tablet and/or smartphone) and Internet throughout this course. Note that CSUN students are eligible to check out tech devices from CSUN at NO COST.\n\n\nMini Juggling Balls\nOne of the requirements of this course is to learn a motor skill. If you select juggling, it’s suggested you use mini juggling balls. Or you can use a similar object at your disposal.\n\n\nSpeed Stacks Sport Stacking Set\nIf you choose to learn the cup stacking, I recommend you to acquire the cups used in national and international tournaments, or grab a set of less expensive ones from Amazon or elsewhere.\n\nDO NOT USE ORDINARY PLASTIC CUPS WHEN PRACTICING AS THEY ARE NOT DESIGNED FOR CUP STACKING. These cups will significantly affect your performance and your grade, in case you choose cup stacking as your learning task."
+    "text": "Additional resources\n\nAccess to Computer & Internet\nAlthough not required, it is suggested that you have access to a computer (not simply a tablet and/or smartphone) and Internet throughout this course. Note that CSUN students are eligible to check out tech devices from CSUN at NO COST.\n\n\nMini Juggling Balls\nOne of the requirements of this course is to learn a motor skill. If you select juggling, I suggest you to acquire the mini juggling balls, which are small and have the recommended weight for beginners.\n\n\n\n\n\n\nImportant\n\n\n\nIf you choose to use any object other than the mini juggling balls, then you understand that your performance may be negativelly affected by it. When performing the exchange technique (required for this activity), at a given point, performers need to hold two objects in one hand. This becomes a problem if large objects are being used; i.e., tennis balls.\n\n\n\n\nSpeed Stacks Sport Stacking Set\nIf you choose to learn the cup stacking, I recommend you to acquire the cups used in national and international tournaments, or grab a set of less expensive ones from Amazon or elsewhere.\n\nDO NOT USE ORDINARY PLASTIC CUPS WHEN PRACTICING AS THEY ARE NOT DESIGNED FOR CUP STACKING. These cups will significantly affect your performance and your grade, in case you choose cup stacking as your learning task."
   },
   {
     "objectID": "courses/377/syllabus.html#grading-policy",
     "href": "courses/377/syllabus.html#grading-policy",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Grading Policy",
-    "text": "Grading Policy\n\n25%: Weekly Quizzes [SLO’s 1].\n25%: Online Discussions [SLO’s 2].\n20%: Learning Task Performance (final video submission) [SLO’s 1, 2, 4].\n20%: Learning Task Reflection Paper [SLO’s 1, 2, 4].\n10%: Learning Task Updates [SLO’s 1, 2, 4].\n\nOne quiz and one discussion with the lowest score will be dropped at the end of the term."
+    "text": "Grading Policy\n\n25%: Weekly Quizzes [SLO’s 1].\n25%: Online Discussions [SLO’s 2].\n20%: Learning Task Performance (final video submission) [SLO’s 1, 2, 4].\n20%: Learning Task Reflection Paper [SLO’s 1, 2, 4].\n10%: Learning Task Updates [SLO’s 1, 2, 4].\n\n\n\n\n\n\n\nNote\n\n\n\nOne quiz and one discussion with the lowest score will be dropped at the end of the term."
   },
   {
     "objectID": "courses/377/syllabus.html#grading-scale",
     "href": "courses/377/syllabus.html#grading-scale",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Grading Scale",
-    "text": "Grading Scale\nA 93.00-100.00 | A- 90.00-92.99 B+ 87.00-89.99 | B 83.00-86.99 | B- 80.00-82.99 C+ 77.00-79.99 | C 73.00-76.99 | C- 70.00-72.99 D+ 67.00-69.99 | D 63.00-66.99 | D- 60.00-62.99 F <59.99\n\nNote 1: In recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a “round up” rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.\n\n\nNote 2: Requests for an Incomplete (I) must conform to university policies. Among other requirements, “I” is possible only for instances in which you are demonstrating passing work in the class."
+    "text": "Grading Scale\nA 93.00-100.00 | A- 90.00-92.99 B+ 87.00-89.99 | B 83.00-86.99 | B- 80.00-82.99 C+ 77.00-79.99 | C 73.00-76.99 | C- 70.00-72.99 D+ 67.00-69.99 | D 63.00-66.99 | D- 60.00-62.99 F <59.99\n\n\n\n\n\n\nNote\n\n\n\nIn recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a “round up” rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nRequests for an Incomplete (I) must conform to university policies. Among other requirements, “I” is possible only for instances in which you are demonstrating passing work in the class."
   },
   {
     "objectID": "courses/377/syllabus.html#attendance-policy",
     "href": "courses/377/syllabus.html#attendance-policy",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Attendance Policy",
     "text": "Attendance Policy\n\nShowing up is 80 percent of life – Woody Allen, via Marshall Brickman\n\nAlthough this is an online course, “attendance” is crucial. And by that I mean: check in Canvas several times a week."
   },
   {
     "objectID": "courses/377/syllabus.html#e-mail-policy",
     "href": "courses/377/syllabus.html#e-mail-policy",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "E-mail Policy",
-    "text": "E-mail Policy\nIf you have a question concerning this course (i.e., assignments, content, deadlines, etc.), send a message1 to our mailing list (provide under Canvas>Home). For any other matters, send me a message at my CSUN email.\nKeep it in mind:\n\nAll students enrolled in my courses are added to the mailing lists automatically. If you are not receiving emails from the mailing address, then contact CSUN Help Desk to get it fixed.\nOnly send messages to the mailing list address when the content is pertinent to ALL students. For private matters, email me directly.\nONLY send message to the mailing list address from your CSUN email address; otherwise, your message will not be delivered.\n\nI am usually quick to respond to student e-mails. Below, I outline why I will not respond to certain e-mails students send. Multiple rationales follow.\n\nThe student could answer his/her own inquiry by reading the syllabus.\nThe student is protesting a grade without reference to specific points of objection. See the policy on protesting a grade in the syllabus. These e-mails tend to be expressive utility on the part of the student and do not require a response from me. Students interested in improving their knowledge of material should see me during office hours.\nThe student is requesting an extension on an assignment for which the syllabus already established the deadline. The answer is always “no”; unless you have a reason that can be documented and you contacted me before the deadline.\nThe student is asking for an extra credit opportunity, a request that amounts to more grading for the professor. The answer is “no”.\n\nMore e-mail stuff…\n\nIf you need to schedule an online meeting via Zoom (https://csun.zoom.us/), you can do so by visiting this link: http://calendly.com/drfurtado. Details will be provided when the meeting is scheduled via Calendly, including the option to cancel/reschedule a meeting, if needed."
+    "text": "E-mail Policy\nWhile taking this course, only communicate with me via Canvas > Inbox.\nIf your message concerns a non-private matter (i.e., assignments, content, deadlines, etc.), then please post your question to the Q&A Forum (Canvas > Discussions > Q&A Forum), which can be answered by any student taking the course."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#office-hours",
+    "href": "courses/377/syllabus.html#office-hours",
+    "title": "Syllabus | KIN 377: Motor Learning",
+    "section": "Office Hours",
+    "text": "Office Hours\n\nIn-person\nTuesdays from 9-11 am at RE 289.\n\n\nOnline via Zoom\nBy appointment only via https://calendly.com/drfurtado"
   },
   {
     "objectID": "courses/377/syllabus.html#make-up-exam-policy",
     "href": "courses/377/syllabus.html#make-up-exam-policy",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Make-Up Exam Policy",
-    "text": "Make-Up Exam Policy\nThere is no make-up for assignments. Therefore, unless you have discussed your situation with me before the assignment’s due date and we have made other arrangements, a missed assignment results in a grade of zero (see late assignment below). Note that making “arrangements” will only be possible given the student provides a valid and written excuse from a reputable source."
+    "text": "Make-Up Exam Policy\nUnless the student has discussed the situation with the instructor before the assignment’s due date and an arrangement has been made, a missed assignment will result in a grade of zero. Note that making “arrangements” will only be possible given the student provides a valid and written excuse from a reputable source."
   },
   {
     "objectID": "courses/377/syllabus.html#late-assignments",
     "href": "courses/377/syllabus.html#late-assignments",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Late Assignments",
-    "text": "Late Assignments\nUnless you have made previous arrangements, a late assignments will be docked 10% per day (first 4 days) it is late. After the fourth day, it will result in a grade of zero."
+    "text": "Late Assignments\nUnless you have made previous arrangements, a late assignments will be docked off 5% per day (first 4 days) it is late. All assignments are closed after the 4th day."
   },
   {
     "objectID": "courses/377/syllabus.html#extra-credit",
     "href": "courses/377/syllabus.html#extra-credit",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Extra Credit",
-    "text": "Extra Credit\nThere is no individual extra credit granted. Therefore, do not plan to make-up poor grades at the end of the semester by asking to do extra credit work. I might provide extra credit opportunities, but these will be offered to the entire class, not to individuals.\n\nBadges\nYou will be able to collect several badges while taking this course. You can exchange these badges for extra points. Note that the extra points can only be used for assignments under the Online Discussion category."
+    "text": "Extra Credit\nWith the exception of the extra 5 points awarded to the final video performance - LINK (either juggling or cup stacking), there is no individual extra credit granted."
   },
   {
     "objectID": "courses/377/syllabus.html#disabilities-policy",
     "href": "courses/377/syllabus.html#disabilities-policy",
-    "title": "KIN 377 Syllabus",
+    "title": "Syllabus | KIN 377: Motor Learning - Fall 2022 (Online)",
     "section": "Disabilities Policy",
     "text": "Disabilities Policy\nFederal law mandates the provision of services at the university-level to qualified students with disabilities.\nThis instructor, in conjunction with California State University Northridge, is committed to upholding and maintaining all aspects of the federal Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Rehabilitation Act of 1973. If you are a student with a disability and wish to request accommodations, please contact the office of Students with Disabilities Resources located in 110 Student Services Building, or call (818) 677-2684 for an appointment. Any information regarding your disability will remain confidential. Because many accommodations require early planning, requests for accommodations should be made as early as possible. Any requests for accommodations will be reviewed in a timely manner to determine their appropriateness to this setting."
   },
   {
     "objectID": "courses/377/syllabus.html#academic-dishonesty-policy",
     "href": "courses/377/syllabus.html#academic-dishonesty-policy",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Academic Dishonesty Policy",
-    "text": "Academic Dishonesty Policy\nPlease, stop and read the information below; this is important!\nEach student is expected to be familiar with, and abide by, the conditions of student conduct, as presented in the CSUN Catalog, with emphasis on sections entitled, Student Conduct Code, Academic Dishonesty, Faculty Policy on Academic Dishonesty, and Penalties. Any student engaging in academic dishonesty (e.g., cheating, fabrication, facilitating academic dishonesty, plagiarism) is subject to discipline, which may include a failing grade in the course, and may also be subject to more severe discipline by the University. Students are encouraged to visit the link below and become familiar with the Standards for Student Conduct.\nhttp://www.csun.edu/a&r/soc/studentconduct.html\n\nReflection Paper Submission\nPlagiarism is a serious violation of the CSUN Student Conduct Code. Be aware that borrowing a paper from a student who completed this course previously and writing your paper based on that student’s paper will be considered PLAGIARISM.\n\nTurnitin (see below) will detect such misconducts as it checks every submission against a database of papers, as well as against the Internet.\n\n\nPenalties: If caught, the student will receive a letter grade of “F” on BOTH the Reflection Paper and the Video Performance assignments, in which case the student will likely fail the course as these two assignments account for 40% of the course total grade.\n\nWhat is Turnitin?\nYou should be aware that the Reflection Paper will be submitted via Canvas, which is connected to Turnitin. This is an automated system that instructors can use to quickly and easily compare each student’s assignment with billions of websites, as well as an enormous database of student papers that grows with each submission. Accordingly, you will be expected to submit assignments through the Canvas Assignment Tool in electronic format. After the assignment is processed, as an instructor, I receive a report from Turnitin that states if and how another author’s work was used in the assignment."
+    "text": "Academic Dishonesty Policy\nPlease, stop and read the information below; this is important!\nEach student is expected to be familiar with, and abide by, the conditions of student conduct, as presented in the CSUN Catalog, with emphasis on sections entitled, Student Conduct Code, Academic Dishonesty, Faculty Policy on Academic Dishonesty, and Penalties. Any student engaging in academic dishonesty (e.g., cheating, fabrication, facilitating academic dishonesty, plagiarism) is subject to discipline, which may include a failing grade in the course, and may also be subject to more severe discipline by the University. Students are encouraged to visit the link below and become familiar with the Standards for Student Conduct.\nhttp://www.csun.edu/a&r/soc/studentconduct.html\n\nReflection Paper Submission\nPlagiarism is a serious violation of the CSUN Student Conduct Code. Be aware that borrowing a paper from a student who completed this course previously and writing your paper based on that student’s paper will be considered PLAGIARISM.\n\n\n\n\n\n\nImportant\n\n\n\nTurnitin (see below) will detect such misconducts as it checks every submission against a database of papers, as well as against the Internet.\n\n\n\n\n\n\n\n\nDanger\n\n\n\nPenalties: If caught, the student will receive a letter grade of “F” on BOTH the Reflection Paper and the Video Performance assignments, in which case the student will likely fail the course as these two assignments account for 40% of the course total grade.\n\n\nWhat is Turnitin?\nYou should be aware that the Reflection Paper will be submitted via Canvas, which is connected to Turnitin. This is an automated system that instructors can use to quickly and easily compare each student’s assignment with billions of websites, as well as an enormous database of student papers that grows with each submission. Accordingly, you will be expected to submit assignments through the Canvas Assignment Tool in electronic format. After the assignment is processed, as an instructor, I receive a report from Turnitin that states if and how another author’s work was used in the assignment."
   },
   {
     "objectID": "courses/377/syllabus.html#quizzes",
     "href": "courses/377/syllabus.html#quizzes",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Quizzes",
-    "text": "Quizzes\nQuizzes will be administered via Canvas and will assess the student’s understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, collaboration with other students is not allowed. The penalty for academic dishonesty is a 0 on the assignment, possibly failure in the class, and possible dismissal from the program/university.\nHere are some other useful information about quizzes:\n\nWhen taking the quizzes, questions will appear one at a time and locked after being answered. This means that you are not allowed to go back and review your answers after answering each question.\nCorrect answers will only be shown to students after the deadline of each quiz.\nRefer to Canvas for due dates. Here is a word of advice about weekly quizzes: avoid waiting until the “last minute” to take them. Taking the quizzes earlier will give you enough time to troubleshoot potential technical problems. Quizzes will NOT be reopened after the due dates. Therefore, plan accordingly.\nYou will be given a single attempt on each quiz. This means you need to study the material before taking each quiz. All quizzes are timed. You will have 20 minutes to finish and submit a quiz.\nA quiz will only start if the student has a JavaScript-enabled web-browser. Contact CSUN IT should you run into technical issues when taking quizzes.\nOnce opened, a quiz will appear in a full-screen pop-up window that covers all the other windows and has no navigation control\nIt should be noted that the content of each quiz belongs to McGraw Hill (the publisher of our text). Therefore, federal copyright laws prohibit the dissemination of this material. It includes, but is not limited to, posting the quiz online and/or sharing the quiz with someone outside of the classroom."
+    "text": "Quizzes\nQuizzes will be administered via Canvas and will assess the student’s understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, collaboration with other students is not allowed.\nHere are some other useful information about quizzes:\n\nWhen taking quizzes, the questions will appear one at a time and locked after being answered. Thus, students are not allowed to go back and review answers after saving each question.\nCorrect answers will only be shown to students after the deadline of each quiz.\nRefer to Canvas and the course sequence for due dates. Please, avoid waiting until the “last minute” to take the quiz. Taking the quizzes earlier will give you enough time to troubleshoot potential technical problems; therefore, plan accordingly.\nYou will be given a single attempt on each quiz. This means you need to study the material before taking each quiz. All quizzes are timed. Students will be given 20 minutes to finish and submit a quiz.\nA quiz will only start if the student has a JavaScript-enabled web-browser. Contact CSUN IT should you run into technical issues when taking quizzes.\nOnce opened, a quiz will appear in a full-screen pop-up window that covers all the other windows and has no navigation control\nIt should be noted that the content of each quiz belongs to McGraw Hill (the publisher of our text). Therefore, federal copyright laws prohibit the dissemination of this material. It includes, but is not limited to, posting the quiz online and/or sharing the quiz with someone outside of the classroom."
   },
   {
     "objectID": "courses/377/syllabus.html#online-discussions",
     "href": "courses/377/syllabus.html#online-discussions",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Online Discussions",
-    "text": "Online Discussions\nYou will be required to complete several online discussions while taking this course. The details about each discussion topic will be provided on Canvas. Typically, there are two deadlines for this assignment. First, you need to answer the question I post (deadline 1), then respond to your classmates’ posts (deadline 2). Refer to our Class Schedule in Canvas."
+    "text": "Online Discussions\nYou will be required to complete several online discussions while taking this course. The details about each discussion topic will be provided on Canvas. Typically, there are two deadlines for this assignment. First, you need to answer the question I post (deadline 1), then respond to your classmates’ posts (deadline 2). Refer to our Class Schedule in Canvas.\nI will post an announcement following the deadline of each discussion assignment pointing out potential issues.\n\n\n\n\n\n\nNote\n\n\n\nI know how important it is for you to know your current grade in the class. That is why my priority is to grade most assignments (except for the paper) within 1 week of the deadline, which will be visible on the Canvas Gradebook. Note that journal grades will not be visible until all journals are graded (e.g., original posts and responses). \nIf your grades are not posted within a week after the deadline, or you believe the grade is inaccurate, feel free to email me about the status of your grade."
   },
   {
     "objectID": "courses/377/syllabus.html#learning-task-performance-reflection-paper",
     "href": "courses/377/syllabus.html#learning-task-performance-reflection-paper",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Learning Task Performance & Reflection Paper",
     "text": "Learning Task Performance & Reflection Paper\nRefer to Canvas for full requirements, but basically:\n\nYou will be asked to choose either the 3-object Juggling or Cup Speed Stacking activity;\nThen, you will be required to practice and learn the selected activity;\nBefore the end of the term (see Calendar for deadlines), you will be asked to video-record yourself performing the skill you have learned. This is the Performance portion of this assignment and accounts for 20% of the final grade;\nThe 2nd part of this assignment is a Reflection Paper, which also accounts for 20% of the final grade. As you practice and learn the selected skill, you will be advised to use the Motor Learning Principles (full details on Canvas) you will be exposed to while taking this course.\nThroughout the term, you will be required to update me on your progress toward learning the selected skill (juggling or cup stacking). See Learning Task Updates below."
   },
   {
     "objectID": "courses/377/syllabus.html#learning-task-updates",
     "href": "courses/377/syllabus.html#learning-task-updates",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Learning Task Updates",
     "text": "Learning Task Updates\nYou will be submitting several updates throughout the term. These “updates” are meant to keep you on track and ensure you are taking advantages of all the learning techniques covered in this course to master the selected skill. More information about this assignment will be provided on Canvas."
   },
   {
     "objectID": "courses/377/syllabus.html#how-to-access-our-course-and-get-started",
     "href": "courses/377/syllabus.html#how-to-access-our-course-and-get-started",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "How to Access our Course and Get Started",
     "text": "How to Access our Course and Get Started\n\nLog into Canvas: https://canvas.csun.edu\nUnder “My Courses,” locate our course and click on it.\nThis will take you to the course home page."
   },
   {
     "objectID": "courses/377/syllabus.html#technology-requirements-and-support",
     "href": "courses/377/syllabus.html#technology-requirements-and-support",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Technology Requirements and Support:",
     "text": "Technology Requirements and Support:\n\nA computer and access to the internet (reliable connection)\nGoogle Chrome (web browser)\nA device to record video (phone, tablet, or laptop)"
   },
   {
     "objectID": "courses/377/syllabus.html#what-i-expect-of-you",
     "href": "courses/377/syllabus.html#what-i-expect-of-you",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "What I Expect of You:",
     "text": "What I Expect of You:\n\nOnline classes are deceiving. Many times new online learners expect them to be easier than face-to-face classes and are surprised to learn how time intensive they are.\nPlan your schedule to ensure you have approximately 10 hours per week to spend on this class and take time to identify where and when you’ll do your learning.\nReview the due dates for the assignments (see Calendar) to orient yourself to the flow of the learning. 4. This course requires regular engagement throughout each week. Plan to reserve a few hours each day to practice the skill you selected for the Learning Task assignment."
   },
   {
     "objectID": "courses/377/syllabus.html#online-etiquette",
     "href": "courses/377/syllabus.html#online-etiquette",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Online Etiquette",
     "text": "Online Etiquette\nAll learners in this course will expect to abide by our community ground rules (see below).\nGround Rules: In an effort to ensure our learning community develops, thrives and sustains throughout our time together, the following ground rules will be in effect at all times.\n\nConsider yourself a member of a community. A community is a group of individuals who work together to support a common goal or interest. We are working together to support the successful achievement of our learning outcomes.\nLog-in and participate regularly to group conversations and activities.\nTreat the diverse contributions made by other community members with respect.\nHave patience and a sense of humor with technology.\nBe a learner. Keep an open mind when introduced to new ideas that may challenge your perceptions.\nAsk for help when you need it, and assist others when possible.\nUnderstand that communications shared through text have a higher likelihood of being misinterpreted than words that are spoken. Therefore, when you type a thought or a comment, read it carefully before you submit it. If you question the way it is worded, read it out loud to yourself. If you still question the way it’s phrased, rewrite it.\nContribute regularly to group dialogue, including discussion posts and replies. The contributions of each individual plays a role in the collective strength and diversity of our community.\nIf, at any time, you feel that any of these ground rules has been violated by a member of our community, you are encouraged to bring your concern directly and immediately to Dr. Furtado. Clearly identify which ground rule has been violated and include specific evidence of the violation in your e-mail or phone call. Your concerns will be addressed promptly and in an individualized manner."
   },
   {
     "objectID": "courses/377/syllabus.html#appendix-a-b-c",
     "href": "courses/377/syllabus.html#appendix-a-b-c",
-    "title": "KIN 377 Syllabus",
+    "title": "KIN 377: Motor Learning",
     "section": "Appendix A, B, C",
     "text": "Appendix A, B, C\nNot provide here. Please, refer to our Canvas page. The material associated with these appendices are related to the Learning Task Assignment, which accounts for 50% of the final grade. THIS MEANS YOU MUST READ AND STUDY THE CONTENT OF APPENDIX A, B, AND C."
   },
   {
     "objectID": "courses/377/syllabus.html#lt-update-1",
     "href": "courses/377/syllabus.html#lt-update-1",
-    "title": "KIN 377 Syllabus",
+    "title": "Syllabus | KIN 377: Motor Learning - Fall 2022 (Online)",
     "section": "LT Update 1",
     "text": "LT Update 1\n\nDemonstration of knowledge and understanding gained from assigned reading\nResponse to peers\nResponses (all posts) are based on reliable sources (e.g., Magill and Anderson) and not solely on person opinion\nResponsibly cited; offers examples\nContribution to the discussion\nProperly citation using APA Style\n\nCriteria 5-0"
   },
   {
-    "objectID": "courses/rubrics/rubric-presentation.html",
-    "href": "courses/rubrics/rubric-presentation.html",
+    "objectID": "courses/syllabi-shared-email.html",
+    "href": "courses/syllabi-shared-email.html",
     "title": "Dr. Furtado",
     "section": "",
-    "text": "4\n3\n2\n1\n\n\n\n\nVisual Appeal\nThere are no errors in spelling, grammar and punctuation. Information is clear and concise on each slide. Visually appealing/engaging.\nThere are some errors in spelling, grammar and punctuation. Too much information on two or more slides. Significant visual appeal.\nThere are many errors in spelling, grammar and punctuation. Too much information was contained on many slides. Minimal effort made to make slides appealing or too much going on.\nThere are many errors in spelling, grammar and punctuation. The slides were difficult to read and too much information had been copied onto them. No visual appeal.\n\n\nComprehension\nExtensive knowledge of topic. Showed complete understanding of assignment. Accurately answered all questions posed.\nShowed a good understanding of topic. Able to answer most of audience questions.\nShowed good understanding of some parts of topic. Accurately answered some questions.\nPresenter didn’t understand topic. Majority of information was incorrect.\n\n\nContent\nThe presentation was a concise summary of the topic with all questions answered. Comprehensive and complete coverage of information.\nThe presentation was a good summary of the topic. Most important information covered; little irrelevant info.\nThe presentation was informative but several elements went unanswered. Much of the information irrelevant; coverage of some of major points.\nThe presentation was a brief look at the topic but many questions were left unanswered. Majority of information irrelevant and significant points left out.\n\n\nPreparedness/ Participation/ Group Dynamics\nPresenters knew the information, extremely prepared and rehearsed.\nSlight domination of the presenter; very well prepared.\nPrimarily prepared but with some dependence on just reading off slides.\nEvident lack of preparation/rehearsal. Dependence on slides.\n\n\nTemplate\nPresenter followed all the suggested content sequence.\nPresenter followed most of the suggested content sequence.\nPresenter followed some of the suggested content sequence.\nPresenter followed little or none of the suggested content sequence."
+    "text": "While taking this course, only communicate with me via Canvas > Inbox.\nIf your message concerns a non-private matter (i.e., assignments, content, deadlines, etc.), then please post your question to the Q&A Forum (Canvas > Discussions > Q&A Forum), which can be answered by any student taking the course."
+  },
+  {
+    "objectID": "courses/syllabi-shared-email.html#office-hours",
+    "href": "courses/syllabi-shared-email.html#office-hours",
+    "title": "Dr. Furtado",
+    "section": "Office Hours",
+    "text": "Office Hours\n\nIn-person\nTuesdays from 9-11 am at RE 289.\n\n\nOnline via Zoom\nBy appointment only via https://calendly.com/drfurtado"
+  },
+  {
+    "objectID": "courses/610/syllabus.html#sec-course-description",
+    "href": "courses/610/syllabus.html#sec-course-description",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Course Description",
+    "text": "Course Description\nThis course focuses on the introductory statistical techniques used in social science research. Students will be introduced to concepts such as reliability, validity, measures of central tendency, variability, probability, and statistical techniques including: t tests (independent & dependent samples), Analysis of Variance (ANOVA), Chi-square, correlation, and regression.\nStudents are expected to take the material/concepts presented in this course and apply them through a series of homework assignments and quizzes. The overall goal of the course is not only to help students understand the mathematical/statistical concepts presented but also to assist in the application of these procedures.\n\n\n\n\n\n\nNote\n\n\n\nI reserve the right to make changes to this syllabus at any point in the semester. I will inform you in class and via email and an updated syllabus will be posted on Canvas."
+  },
+  {
+    "objectID": "courses/610/syllabus.html#sec-structure-requirements",
+    "href": "courses/610/syllabus.html#sec-structure-requirements",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Structure & Requirements",
+    "text": "Structure & Requirements\nYou are responsible for the material covered in the textbook prior to attending each class. Note that the week’s readings are specified in the course sequence.\nIn addition to these readings, the instructor may assign supplemental readings throughout the semester. These supplemental readings do not appear on the schedule as these readings will be assigned at the instructor’s discretion.\nThe assignments used to enhance your learning experience in this course include:\n\nPreparedness\nYou will be evaluated on your preparedness by submitting an assignment before each class (Major Takeaways).\n\n\nParticipation & Attendance\nClass presence and participation points are given to encourage your active class participation and discussion. You will be rewarded with a perfect score as long as you frequently come to class and actively contribute to the class discussion during lectures.\nAlthough it is not required, most students send their professor a brief e-mail to explain their absence in advance.\n\n\nQuizzes\nBefore each class, you will complete a multiple-choice quiz on the topic covered for that week. You will be given multiples attempts and the highest grade will be used.\n\n\nHomeworks\nStudents will complete three (3) homework assignments on this course. The purpose of each assignment is to assist students in applying their understanding of the statistical procedures discussed in class as well as to provide an opportunity for students to respond to the readings.\nHomework assignments have two components. The first part is performing the statistical calculations correctly using jamovi. The second component involves interpreting the statistical analyses. When answering the interpretation questions, the point is to show that you know what your numbers mean, so don’t simply provide the definition of the term. For instance, if you calculate the “number needed to treat (NNT)” as NNT = 7.69, the interpretation of this number is something like “7.69 people must be given the treatment to prevent one adverse event. The wrong answer is something like”the NNT tells you how many people must be given the treatment to prevent one adverse event.”\n\n\n\n\n\n\nWarning\n\n\n\nYou are allowed to discuss homework with other students (and with the instructor), but you must write final answers yourself, in your own words. Solutions prepared “in committee” or by copying or paraphrasing someone else’s work are not acceptable; your hand-in assignments must represent your own thoughts (refer to [Academic Dishonesty Policy](#dishonesty) for more information); especially, the information about PLAGIARISM.\n\n\n\n\nExams\nYou will be required to complete two (2) exams in this course. Students may use their notes and textbook for the exams, but no other outside resource other than a calculator can be used.\nEach exam have 10 questions, with each question worth 10 points. Exams must be completed in the allotted time. The focus of the exams (and quizzes) will be on concepts and interpretation, with most of the computational activities occurring in the homework assignments.\nAlthough the quizzes and exams will not focus on previously tested material (they are not meant to be cumulative), knowledge of previously tested material may be inherently required to answer questions related to new material.\nMost of the computational activities will be via the homework assignments. In addition, selected readings will be assigned through the semester. The content of these readings will be included on exam and quiz questions and in homework assignments."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#sec-course-description",
+    "href": "courses/377/syllabus.html#sec-course-description",
+    "title": "Syllabus | KIN 377: Motor Learning",
+    "section": "Course Description",
+    "text": "Course Description\nStudy of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#format",
+    "href": "courses/377/syllabus.html#format",
+    "title": "Syllabus | KIN 377: Motor Learning - Fall 2022 (Online)",
+    "section": "Format",
+    "text": "Format\nThis course consists of readings, written assignments, weekly responses, and check-ins on our Canvas page.\nThis is a Fully Online class (OF/FOA/FOS) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.\nFor this course, lessons are pre-recorded and students go over the material on their own pace. However, assignments related to each module are due at the end of each week during the semester (see course sequence).\n\n\n\n\n\n\nWarning\n\n\n\nThis course is not self-paced and is not the “softer, easier way”! This means that you have to 1) check in regularly and 2) respond to the weekly assignments."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#course-description",
+    "href": "courses/377/syllabus.html#course-description",
+    "title": "KIN 377: Motor Learning",
+    "section": "Course Description",
+    "text": "Course Description\nStudy of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#expectations-and-goals",
+    "href": "courses/377/syllabus.html#expectations-and-goals",
+    "title": "Syllabus | KIN 377: Motor Learning - Fall 2022 (Online)",
+    "section": "Expectations and Goals",
+    "text": "Expectations and Goals\nAt the conclusion of this course, students should be able to:\n\nDescribe the difference between motor learning and performance.\nDescribe and understand different theories of control to explain how motor skills are performed and learned.\nDescribe and understand the underlying mechanisms and processes involved in the production and control of movement.\nDiscuss the relationship between attention and performance.\nUnderstand and demonstrate how factors relevant to the individual and to the environment influence the learning process.\nUnderstand and demonstrate how feedback types and schedules influence motor skill learning.\nUnderstand, describe, and demonstrate how practice schedules influence motor skill learning.\nDescribe how and why the concept of individual differences is important in skill acquisition.\n\nDescribe and understand motor learning and control issues for special populations.\n\nDevelop and implement methods of performance assessments.\nDevelop and implement a series of practice sessions designed to teach and/or learn a novel motor skill."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#student-learning-outcomes-slos",
+    "href": "courses/377/syllabus.html#student-learning-outcomes-slos",
+    "title": "KIN 377: Motor Learning",
+    "section": "Student Learning Outcomes (SLO’S)",
+    "text": "Student Learning Outcomes (SLO’S)\n\nApply an integrated kinesiological approach to encourage the adoption of healthy and physically active lifestyles, across diverse populations;\nApply evidence-based practices to enhance the study of human movement;\nDemonstrate competent problem-solving strategies through intentional practices; and\nDemonstrate knowledge of kinesthetic forms, processes, and structures as they apply to the personal expression and culture of human movement."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#textbook",
+    "href": "courses/377/syllabus.html#textbook",
+    "title": "KIN 377: Motor Learning",
+    "section": "Textbook",
+    "text": "Textbook\nMagill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education.\nLink to Matador Bookstore: https://bit.ly/37yiD7u\n\n\n\n\n\n\nNote\n\n\n\nThe program below is only available during the Fall and Spring semesters.\n\n\n\nmyCSUNDigitalAccess Program\n\nYou are enrolled in a course which is part of the myCSUNDigitalAccess (MCDA) program.\nThe MCDA program provides digital materials to students at a deeply discounted price.\nSome or all of your materials for this course are being provided digitally through the MCDA program.\nALL enrolled students will have access to the materials through Canvas by the 1st day of class, but more likely earlier.\nIf you want to keep access throughout the semester, you need do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.\nIf you choose to obtain your materials elsewhere you have until [date coming soon] to Opt-Out (see instructions below). Those who Opt-Out by [date coming soon] will lose access and will not be charged.\nAnyone who does not Opt-Out by the [date coming soon] deadline will be charged and those charges will not be reversible.\n\n\n\nOpt-out Instructions\nIf you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by [date coming soon]:\n\nGo to https://accessportal.follett.com/0150\nClick on Create an Account on the lower right\nCreate an account using your CSUN email account\nSelect the course(s) you wish to Opt-Out from\n\nYou will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb\n\nGo to https://accessportal.follett.com/0150;\nClick on Create an Account on the lower right;\nCreate an account using your CSUN email account’\nSelect the course(s) you wish to Opt-Out from.\n\n\n\n\n\n\n\nNote\n\n\n\nYou will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb"
+  },
+  {
+    "objectID": "courses/377/mod01.html",
+    "href": "courses/377/mod01.html",
+    "title": "Module 01: Introduction to Motor Learning",
+    "section": "",
+    "text": "Definitions\nLet’s start by defining Motor Learning. Motor Learning is “the study of motor skills, the performance enhancement of learned or highly experienced motor skills, or the reacquisition of skills that are difficult to perform or cannot be performed because of injury, disease, and the like.”[1(pp. 3–4)]\n\n\n\n\n\n\n\n\nChapter Summary\n\n1. Magill, R. A., & Anderson, D. I. (2021). Motor learning and control: concepts and applications (Twelfth edition). McGraw-Hill."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#office-hours-1",
+    "href": "courses/377/syllabus.html#office-hours-1",
+    "title": "Syllabus | KIN 377: Motor Learning - Fall 2022 (Online)",
+    "section": "Office Hours",
+    "text": "Office Hours\n\nIn-person\nTuesdays from 9-11 am at RE 289.\n\n\nOnline via Zoom\nBy appointment only via https://calendly.com/drfurtado"
+  },
+  {
+    "objectID": "courses/377/syllabus.html#sec-office-hours",
+    "href": "courses/377/syllabus.html#sec-office-hours",
+    "title": "KIN 377: Motor Learning",
+    "section": "Office Hours",
+    "text": "Office Hours\n\nIn-person\nTuesdays from 9-11 am at RE 289.\n\n\nOnline via Zoom\nBy appointment only via https://calendly.com/drfurtado"
+  },
+  {
+    "objectID": "courses/377/syllabus.html#sec-disabilities-policy",
+    "href": "courses/377/syllabus.html#sec-disabilities-policy",
+    "title": "KIN 377: Motor Learning",
+    "section": "Disabilities Policy",
+    "text": "Disabilities Policy\nFederal law mandates the provision of services at the university-level to qualified students with disabilities.\nThis instructor, in conjunction with California State University Northridge, is committed to upholding and maintaining all aspects of the federal Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Rehabilitation Act of 1973. If you are a student with a disability and wish to request accommodations, please contact the office of Students with Disabilities Resources located in 110 Student Services Building, or call (818) 677-2684 for an appointment. Any information regarding your disability will remain confidential. Because many accommodations require early planning, requests for accommodations should be made as early as possible. Any requests for accommodations will be reviewed in a timely manner to determine their appropriateness to this setting."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#course-prerequisite",
+    "href": "courses/377/syllabus.html#course-prerequisite",
+    "title": "KIN 377: Motor Learning",
+    "section": "Course Prerequisite",
+    "text": "Course Prerequisite\nKIN 200: Foundations of Kinesiology (3)"
+  },
+  {
+    "objectID": "courses/377/syllabus.html#course-format",
+    "href": "courses/377/syllabus.html#course-format",
+    "title": "KIN 377: Motor Learning",
+    "section": "Course Format",
+    "text": "Course Format\nThis course consists of readings, written assignments, weekly responses, and check-ins on our Canvas page.\nThis is a Fully Online class (OF) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.\nFor this course, lessons are pre-recorded and students go over the material on their own pace. However, assignments related to each module are due at the end of each week during the semester (see course sequence).\n\n\n\n\n\n\nWarning\n\n\n\nThis course is not self-paced and is not the “softer, easier way”! This means that you have to 1) check in regularly and 2) respond to the weekly assignments."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#sec-required-technology-resources",
+    "href": "courses/377/syllabus.html#sec-required-technology-resources",
+    "title": "KIN 377: Motor Learning",
+    "section": "Required Technology Resources",
+    "text": "Required Technology Resources\nThis course will be taught completely online (no campus meetings will be required), in an asynchronous format (this course will not have scheduled live meeting times). All activities, assignments and exams in this course will be completed via Canvas. To succeed in this course, you must have reliable access to a computer and internet connection. CSUN offers currently enrolled students the option to borrow devices such as computers and internet hotspots through its Device Loaner Program."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#course-expectations-and-goals",
+    "href": "courses/377/syllabus.html#course-expectations-and-goals",
+    "title": "KIN 377: Motor Learning",
+    "section": "Course Expectations and Goals",
+    "text": "Course Expectations and Goals\nAt the conclusion of this course, students should be able to:\n\nDescribe the difference between motor learning and performance.\nDescribe and understand different theories of control to explain how motor skills are performed and learned.\nDescribe and understand the underlying mechanisms and processes involved in the production and control of movement.\nDiscuss the relationship between attention and performance.\nUnderstand and demonstrate how factors relevant to the individual and to the environment influence the learning process.\nUnderstand and demonstrate how feedback types and schedules influence motor skill learning.\nUnderstand, describe, and demonstrate how practice schedules influence motor skill learning.\nDescribe how and why the concept of individual differences is important in skill acquisition.\n\nDescribe and understand motor learning and control issues for special populations.\n\nDevelop and implement methods of performance assessments.\nDevelop and implement a series of practice sessions designed to teach and/or learn a novel motor skill."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#disability-resources-available",
+    "href": "courses/377/syllabus.html#disability-resources-available",
+    "title": "KIN 377: Motor Learning",
+    "section": "Disability Resources Available",
+    "text": "Disability Resources Available\nThe California State University does not discriminate on the basis of disability in admission or access to, or treatment or employment in, its programs and activities. Sections 504 and 508 of the Rehabilitation Act of 1973, the Americans with Disabilities Act of 1990, and various state laws prohibit such discrimination. If you need extra assistance with aspects of this course, please contact the Disability Resources and Educational Services (DRES) or the National Center on Deafness (NCOD). Reasonable and effective accommodations and services will be provided to students if the requests are made in a timely manner and with appropriate documentation in accordance with federal, state, and university guidelines. Please let me know if you need further information or assistance from me in order to facilitate your learning experience. If you would like to discuss your approved accommodation with me, please let me know and we can set up a virtual appointment."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#additional-campus-resources-and-support",
+    "href": "courses/377/syllabus.html#additional-campus-resources-and-support",
+    "title": "KIN 377: Motor Learning",
+    "section": "Additional Campus Resources and Support",
+    "text": "Additional Campus Resources and Support\nCSUN has a range of resources to support your academic goals, engagement with campus activities and physical and mental health. I encourage you to browse the links below throughout the semester and the rest of your time at CSUN. Please let me know if you would like additional information on any of the resources below. These links are also included on the Canvas site."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#academic-and-technical-resources",
+    "href": "courses/377/syllabus.html#academic-and-technical-resources",
+    "title": "KIN 377: Motor Learning",
+    "section": "Academic and Technical Resources",
+    "text": "Academic and Technical Resources\n\nUniversity Library for browsing of books, articles, media and additional academic resources.\nLearning Resource Center offers tutoring, a writing center, & more.\nDisabilities Resource Educational Services (DRES) for assistance with accommodations.\nCSUN Information Technology (IT) for technology support with Canvas and software related issues. Their office is open for calls/chat M-F from 8am-5pm PST.\nCSUN’s Accessibility Policy for more information on CSUN’s goal to ensure that campus communication and information technology is accessible to everyone.\nUniversity Library Open Educational Resources (OER) for affordable Health Science textbooks and educational resources."
+  },
+  {
+    "objectID": "courses/377/syllabus.html#additional-campus-and-community-resources",
+    "href": "courses/377/syllabus.html#additional-campus-and-community-resources",
+    "title": "KIN 377: Motor Learning",
+    "section": "Additional Campus and Community Resources",
+    "text": "Additional Campus and Community Resources\n\nClubs and Campus Facilities\n\nOasis Wellness Center for a welcoming destination where students can find serenity and relaxation, including meditation, massages, and workshops focused on managing stress.\nKlotz Student Health Center offering medical services, including Telehealth appointments.\nStudent Recreation Center (SRC) for exercise and leisure activity that promotes wellness.\nCareer Center for career, internship and job resources, resume writing, interview help & more.\nUSU for a variety of services including lactation space, veterans’ resources, and more.\nAssociated Students providing programs designed to enhance the campus environment.\nFinancial Aid & Scholarships offers aid for applications.\n\n\n\nAdditional Resources\n\nCSUN with A HEART for valuable information that will connect you to various resources regarding the basic needs of students in the CSUN campus community.\nFood Pantry at CSUN providing food and toiletries for CSUN students in need.\nUniversity Counseling Center offering free short term counseling services to students, including individual counseling, crisis intervention, group and workshops, and more.\nPride Center supporting LGBTQIA+ students through programming and outreach.\nOffice of Equity and Diversity supporting CSUN’s commitment to maintaining an environment where no member of the campus community is subjected to any form of prohibited discrimination in any University program or activity.\nHelp lines (after hours when the University Counseling is closed) for numerous topics/needs including suicide, drug help, rape or sexual assault, other crisis or urgent concerns and more.\nEmergency MataCare grants, one-time grants to prevent evictions, urgent childcare issues, etc."
+  },
+  {
+    "objectID": "courses/377/sequence.html",
+    "href": "courses/377/sequence.html",
+    "title": "Dr. Furtado",
+    "section": "",
+    "text": "Course Sequence\n\n\n\n\n\n\n\n\nModule\nWeek of\nTopic\nAssignments\n\n\n\n\n1\n08/29/22\nIntro to Course & Survival Skills\nDiscussion 1\n\n\n2\n09/05/22\nCh01: The classification of motor skills\nQuiz Ch01\n\n\n3\n09/12/22\nCh11: Defining and assessing learning\nQuiz Ch11\n\n\n4\n09/19/22\nCh12: The stages of learning\nQuiz Ch12\n\n\n5\n09/26/22\nLearning Task - Update 1\nComplete requirements and submit assignment by the due date\n\n\n6\n10/03/22\nCh14: Demonstration and verbal instructions\nQuiz Ch14, Discussion Ch14\n\n\n7\n10/10/22\nCh15: Augmented feedback\nQuiz Ch15\n\n\n8\n10/17/22\nCh16: Practice variability\nQuiz Ch16\n\n\n9\n10/24/22\nCh17: The amount & distribution of practice\nQuiz Ch17, Discussion Ch17\n\n\n10\n10/31/22\nLearning Task - Update 2\nComplete requirements and submit assignment by the due date\n\n\n11\n11/07/22\nCh18: Whole and part-practice\nQuiz Ch18\n\n\n12\n11/14/22\nCh09: Attention\nQuiz Ch09, Discussion 4\n\n\n13\n11/21/22\nCh13: Transfer of learning\nQuiz Ch13\n\n\n14\n11/28/22\nLearning Task - Update 3\nComplete requirements and submit assignment by the due date\n\n\n15\n12/05/22\n→ finish and submit the reflection paper\n→ record and submit the performance video\nRefer to Appendices A, B, C\nComplete requirements and submit assignments by the due date\n\n\n16\n12/13/22\nThe instructor will be available to meet online via CSUN ZOOM to answer any questions students may have.\n\n\n\n\n\n\n1. Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education. https://www.bkstr.com/csunorthridgestore/product/motor-learning-and-control--concepts-and-applications-147614-1"
+  },
+  {
+    "objectID": "courses/610/syllabus.html#sec-final-notes",
+    "href": "courses/610/syllabus.html#sec-final-notes",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Final (yet important) Notes",
+    "text": "Final (yet important) Notes\n\nHow to Access our Course and Get Started\n\nLog into Canvas: https://canvas.csun.edu\nUnder “My Courses,” locate our course and click on it.\nThis will take you to the course home page.\n\n\n\nTechnology Requirements and Support:\n\nA computer and access to the internet (reliable connection)\nGoogle Chrome (web browser)\n\n\n\nWhat I Expect of You:\n\nPlan your schedule to ensure you several hours per week to spend on this class and take time to identify where and when you’ll do your learning.\nReview the due dates for the assignments (refer to our Course Schedule in Canvas) to orient yourself to the flow of the learning.\nThis course requires regular engagement and practice using jamovi (Statistical Package)."
+  },
+  {
+    "objectID": "courses/610/syllabus.html#sec-success",
+    "href": "courses/610/syllabus.html#sec-success",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "How to be Success in this Course",
+    "text": "How to be Success in this Course\nConsider the goals you have for engaging in this course as you determine how to allocate time to complete course requirements.\nEach student has a different pace when comes to studying for a course. Thus, I will let you figure out how many hours you need to reserve each week for this course. Regardless of the number of hours chosen, try to divide your time so that you devote more time to assignments and assigned readings.\nThe Module Time chart below provides a visual representation of the typical time spent completing a module, followed by an example weekly schedule.\n\nModule time\nA typical module in this course is comprised of the following categories:\n\nReadings + eFlashcards\nMini-lecture\nPractice jamovi\nAssignments (major takeaways, quizzes)\n\n\n\n\n\n\n\n\nExample Weekly Schedule\n\nMonday-Tuesday (or get a jump-start on the weekend)\n\nRead the chapter(s) + Study the eFlashcards\n\nWednesday-Thursday\n\nWatch the mini-lectures + Practice jamovi\n\nFriday-Sunday\n\nComplete the assignments"
+  },
+  {
+    "objectID": "courses/610/syllabus.html#sec-student-support-services",
+    "href": "courses/610/syllabus.html#sec-student-support-services",
+    "title": "KIN 610: Quantitative Analysis of Research in Kinesiology",
+    "section": "Student Support Services",
+    "text": "Student Support Services\nCSUN aims to make all learning experiences as accessible as possible, and has a variety of resources available to help support students. If you believe the design of this course poses barriers to effectively participate or demonstrate your learning, please contact me to discuss possible options and adjustments.\n\nThe IT Help Center (818)677-1400, helpcenter@csun.edu is available to help with Canvas, CSUN e-mail, SOLAR/Portal, and other technical issues.\nCSUN Device Loaner Program (https://bit.ly/3t1G0An) provides devices that can be checked out that includes laptops, webcams, hotspots and headsets\nThe Learning Resource Center (818) 677-2033 The mission of the LRC is to enable students to improve their academic performance through a variety of learning programs, including workshops, one-on-one and group tutoring, supplemental instruction classes and interactive subject area computer programs and videos. Student who use the LRC learning programs will develop and strengthen their critical thinking skills, study strategies, writing skills and performance in subject matter courses.\nUniversity Counseling Services (818) 677-2366, Bayramian Hall 520. UCS provides resources and information to assist students in dealing with a variety of large and small psychological obstacles that may interfere with academic progress and/or relationship satisfaction. Services include individual, group, and crisis counseling.\nIn accordance with the CSUN Accessibility Policy (https://bit.ly/3yqGHE9), CSUN is working to ensure that campus communication and course materials are accessible to everyone. Please reach out to me if you have difficulty with any of the materials for this course.\nIf you have a disability and need accommodations, please register with the Disability Resources and Educational Services (DRES) office or the National Center on Deafness (NCOD).\n\nThe DRES office can be reached at (818) 677-2684.\nNCOD can be reached at (818) 677-2611.\nReasonable accommodations and services will be provided to students if requests are made in a timely manner and with appropriate documentation\nIf you would like to discuss your need for accommodations with me, please drop in office hours or contact me to set up an appointment.\n\nFood Pantry (https://bit.ly/38nTsVH) at CSUN: Anybody who faces challenges securing food or housing and believes this impacts course performance, should contact CSUN’s Food Pantry website and the corresponding contacts. If you also feel comfortable contacting me, the department chair, or the Dean’s Office, we can also facilitate assistance. You don’t have to be alone in this moment.\nEmergency MataCare grants (https://bit.ly/2WAZkIz), one-time grants to prevent evictions, urgent child care issues, etc. - DACA (Deferred Action for Childhood Arrivals) Resources: Check out the Central American Resource Center facebook page (https://bit.ly/2Yg0p9z), legal resources listed on CSUN’s Educational Opportunity Program (EOP) Dream Center that was created to support all undocumented students & allies (Dream Center flyer). CSUN President Harrison issued a support statement on the CSUN homepage for DACA and resources.\nHelp lines (https://bit.ly/3sYbMOo)(after hours when the University Counseling is closed) for numerous topics/needs (e.g., suicide, drug, rape, LGBQT, military, or any crisis). You don’t have to manage these feelings alone.\nPride Center (https://bit.ly/3jqNZUi) offers support and resources to lesbian, gay, bisexual, transgender, queer, & questioning students, faculty, & staff.\nKlotz Student Health Center (https://bit.ly/3zx1Y0s): Numerous health services including primary care, dental, nutritional counseling, acupuncture, massage and lots more.\nCareer Center (https://bit.ly/3jtTcL2) for resume writing & interviewing and much more; Matty’s Closet (https://bit.ly/3jAResx) has free professional clothes for students who need interview or professional attire.\nUSU 9https://bit.ly/38uz59j) for more student services; Clubs & Organizations (https://bit.ly/38tBhOa): Hopefully a dozen people have already advised you to “get involved” (https://bit.ly/3ysqYVb) at CSUN in something that interests you.\nAssociated Students (https://bit.ly/3yuWjGT) offers recycling, and a Children’s Center providing child care\nFinancial Aid & Scholarships (https://bit.ly/3sYFzqr) offers aid for applications\nUniversity Library https://bit.ly/3yuIEQ9) for many additional academic resources\nVeterans Resource Center (https://bit.ly/38qYtg7) assists CSUN students as they transition from military service to academic success.\n\nTitle 5, California Code of Regulations,§ 41301. Standards for Student Conduct – (a) Campus Community Values: The university is committed to maintaining a safe and healthy living and learning environment for students, faculty, and staff. Each member of the campus community should choose behaviors that contribute toward this end. Students are expected to be good citizens and to engage in responsible behaviors that reflect well upon their university, to be civil to one another and to others in the campus community, and contribute positively to student and university life.\nCSUN with A HEART If you are facing challenges related to food insecurity, housing precarity/homelessness, mental health, access to technology, eldercare/childcare, or healthcare, you can find guidance, help, and resources from CSUN with A HEART (https://www.csun.edu/heart)."
+  },
+  {
+    "objectID": "courses/377/UntitledQMD.html",
+    "href": "courses/377/UntitledQMD.html",
+    "title": "POSC 0000: A Class with an R Markdown Syllabus",
+    "section": "",
+    "text": "ssdsdsd"
+  },
+  {
+    "objectID": "courses/610/les01.html",
+    "href": "courses/610/les01.html",
+    "title": "Lesson 1",
+    "section": "",
+    "text": "Coming soon!"
   }
 ]

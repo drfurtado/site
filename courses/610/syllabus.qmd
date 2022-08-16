@@ -1,44 +1,46 @@
 ---
-title: 'Syllabus | KIN 610: Quantitative Analysis of Research in Kinesiology'
-subtitle: "Department of Kinesiology, Cal State Northridge"
+title:  'KIN 610: Quantitative Analysis of Research in Kinesiology'
+subtitle: |
+  | Department of Kinesiology, Cal State Northridge
+  | Fall 2022 | Tuesday, 4:00-6:45 p.m (RE 276)
+latex-auto-mk: true
 format: 
   html:
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
     anchor-sections: true
+    links-as-notes: true
+    citations-hover: true
+    footnotes-hover: true
   pdf:
-    toc: false
+    toc: true
     number-sections: true
     colorlinks: true
-link-external-icon: true
-link-external-newwindow: true
-links-as-notes: true
-citations-hover: true
-footnotes-hover: true
 bibliography: references.bib
 csl: apa-numeric-superscript-brackets.csl
 ---
 
-Instructor: Ovande Furtado Jr., Ph.D.\
-Department of Kinesiology\
-[Cal State Northridge](https://3dmap.csun.edu/?id=1100#!m/249612)\
-Fall 2022\
-Meetings: Tuesday, 4:00-6:45 p.m., [Redwood Hall](https://3dmap.csun.edu/?id=1100#!m/233531)\
-[Download syllabus as PDF](syllabus.pdf)
+# Instructor Info {#sec-instructor-info}
 
-::: columns
-::: {.column width="50%"}
-Contact Info\
+**Brief Bio**
+
+Ovande Furtado Jr., Ph.D.
+
+Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.
+
+**Office Hours**
+
+See @sec-office-hours for more information
+
+**Contact Info**
+
 Email: ovandef\@csun.edu\
 Office: Redwood Hall 289
-:::
 
-::: {.column width="50%"}
-Office Hours\
-By Appointment only\
-<https://bit.ly/drfurtado-bookme>
-:::
-:::
-
-## Course Description
+## Course Description {#sec-course-description}
 
 This course focuses on the introductory statistical techniques used in social science research. Students will be introduced to concepts such as reliability, validity, measures of central tendency, variability, probability, and statistical techniques including: t tests (independent & dependent samples), Analysis of Variance (ANOVA), Chi-square, correlation, and regression.
 
@@ -76,7 +78,7 @@ Weir and Vincent (2021) @weir2021
 
     -   Demonstration Article[@faul2007]
 
-### Instructional resources
+### Instructional resources {#instructional-resources}
 
 -   jamovi Statistical Software[@thejamoviproject2021] (Free)
 
@@ -84,7 +86,7 @@ Weir and Vincent (2021) @weir2021
 
 [^1]: [jamovi video tutorials](https://bit.ly/2VHvd1w)
 
-## Structure & Requirements
+## Structure & Requirements {#sec-structure-requirements}
 
 You are responsible for the material covered in the textbook prior to attending each class. Note that the week's readings are specified in the [course sequence](sequence.qmd).
 
@@ -96,13 +98,13 @@ The assignments used to enhance your learning experience in this course include:
 
 You will be evaluated on your preparedness by submitting an assignment before each class ([Major Takeaways](assig/mt00.qmd)).
 
-### Participation & Attendance
+### Participation & Attendance {#sec-participation-attendance}
 
 Class presence and participation points are given to encourage your active class participation and discussion. You will be rewarded with a perfect score **as long as you frequently come to class and actively contribute to the class discussion during lectures**.
 
 Although it is not required, most students send their professor a brief e-mail to explain their absence in advance.
 
-### Quizzes
+### Quizzes {#sec-quizzes}
 
 **Before each class**, you will complete a multiple-choice quiz on the topic covered for that week. You will be given multiples attempts and the highest grade will be used.
 
@@ -110,7 +112,7 @@ Although it is not required, most students send their professor a brief e-mail t
 
 Students will complete three (3) homework assignments on this course. The purpose of each assignment is to assist students in applying their understanding of the statistical procedures discussed in class as well as to provide an opportunity for students to respond to the readings.
 
-Homework assignments have two components. The first part is performing the statistical calculations correctly using jamovi. The second component involves interpreting the statistical analyses. When answering the interpretation questions, the point is to show that you know what your numbers mean, so don't simply provide the definition of the term. For instance, if you calculate the "number needed to treat (NNT)" as NNT = 7.69, the interpretation of this number is something like "7.69 people must be given the treatment to prevent one adverse event. The wrong answer is something like "the NNT tells you how many people must be given the treatment to prevent one adverse event."
+Homework assignments have two components. The first part is performing the statistical calculations correctly using jamovi. The second component involves interpreting the statistical analyses. When answering the interpretation questions, the point is to show that you know what your numbers mean, so don't simply provide the definition of the term. For instance, if you calculate the "number needed to treat (NNT)" as NNT = 7.69, the interpretation of this number is something like "7.69 people must be given the treatment to prevent one adverse event. The wrong answer is something like"the NNT tells you how many people must be given the treatment to prevent one adverse event."
 
 ::: callout-warning
 You are allowed to discuss homework with other students (and with the instructor), but you must write final answers yourself, in your own words. Solutions prepared "in committee" or by copying or paraphrasing someone else's work are not acceptable; your hand-in assignments must represent your own thoughts (refer to \[Academic Dishonesty Policy\](#dishonesty) for more information); especially, the information about PLAGIARISM.
@@ -130,7 +132,7 @@ Most of the computational activities will be via the homework assignments. In ad
 
 I will detail the policy for this course below. Basically, don't cheat and try to learn stuff.
 
-### Grading Policy
+### Grading
 
 | Assignment                 | Percentage |
 |----------------------------|------------|
@@ -154,44 +156,37 @@ In recognition of the fact that grading, however carefully done, will always be 
 Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
 :::
 
-### Attendance Policy
+### Attendance
 
 > *Showing up is 80 percent of life* -- Woody Allen, [via Marshall Brickman](http://quoteinvestigator.com/2013/06/10/showing-up/#note-6553-1)
 
 Attendance will be taken at the beginning of every class; please, plan accordingly.
 
-### E-mail Policy
+### E-mail
 
-If you have a question concerning this course (i.e. assignments, content, deadlines, etc.), send a message[^2] to our mailing list (provide under `Canvas` \> `Home`). For any other matters, send me a message at my CSUN email.
+While taking this course, only communicate with me via `Canvas` \> `Inbox`.
 
-[^2]: When referring to an assignment, open it online, copy its URL address, and include it as part of your question. Students may also answer questions that are sent to our mailing list.
+If your message concerns a non-private matter (i.e., assignments, content, deadlines, etc.), then please post your question to the `Q&A Forum` (`Canvas` \> `Discussions` \> `Q&A Forum`), **which can be answered by any student taking the course.**
 
-Keep it in mind:
+### Office Hours {#sec-office-hours}
 
-1.  All students enrolled in my courses are added to the mailing lists automatically. If you are not receiving emails from the mailing address, then contact [CSUN Help Desk](https://www.csun.edu/it/need-help) to get it fixed.
-2.  Only send messages to the mailing list address when the content is pertinent to ALL students. For private matters, email me directly.
-3.  ONLY send message to the mailing list address from your CSUN email address; otherwise, your message will not be delivered.
+#### In-person
 
-I am usually quick to respond to student e-mails. Below, I outline why I will not respond to certain e-mails students send. Multiple rationales follow.
+Tuesdays from 9-11 am at RE 289.
 
-1.  Students could answer their own inquiry by reading the syllabus.
-2.  The student is protesting a grade without reference to specific points of objection. These e-mails tend to be expressive utility on the part of the student and do not require a response from me. Students interested in improving their knowledge of material should see me during office hours.
-3.  The student is requesting an extension on an assignment for which the syllabus already established the deadline. The answer is always "no"; unless you have a reason that can be documented and you contacted me before the deadline.
-4.  The student is asking for an extra credit opportunity, a request that amounts to more grading for the professor. The answer is "no".
+#### Online via Zoom
 
-**More e-mail stuff...**
+By appointment only via <https://calendly.com/drfurtado>
 
-If you need to schedule an online meeting, you can do so by visiting this link: [bit.ly/drfurtado-bookme](https://bit.ly/drfurtado-bookme). The details will be provided when the meeting is scheduled via `MS Booking`, including the option to cancel/reschedule a meeting, if needed.
+### Late Assignments {#sec-late-assignments}
 
-### Late Assignments
-
-Unless you have made previous arrangements, a late assignments will be docked 10% per day (first 4 days) it is late.
+Unless you have made previous arrangements, a late assignments will be docked 10% per day (first 4 days) it is late. Students will not be allowed to submit assignments after the fourth day of the deadline.
 
 ### Extra Credit
 
 There is no individual extra credit granted. Therefore, do not plan to make-up poor grades at the end of the semester by asking to do extra credit work. I might provide extra credit opportunities, but these will be offered to the entire class, not to individuals.
 
-### Disabilities Policy
+### Disabilities {#sec-disabilities}
 
 Federal law mandates the provision of services at the university-level to qualified students with disabilities.
 
@@ -199,7 +194,7 @@ This instructor, in conjunction with California State University Northridge, is 
 
 If you are a student with a disability and wish to request accommodations, please contact the office of Students with Disabilities Resources located in 110 Student Services Building, or call (818) 677-2684 for an appointment. Any information regarding your disability will remain confidential. Because many accommodations require early planning, requests for accommodations should be made as early as possible. Any requests for accommodations will be reviewed in a timely manner to determine their appropriateness to this setting.
 
-### Academic Dishonesty Policy {#dishonesty}
+### Academic Dishonesty {#dishonesty}
 
 *Please, **stop** and read the information below; this is important!*
 
@@ -211,9 +206,9 @@ Each student is expected to be familiar with, and abide by, the conditions of st
 
 #### About Plagiarism
 
-Plagiarism means using words, ideas, or arguments from another person or source without citation[^3]. Cite all sources consulted to any extent (including material from the internet), whether or not assigned and whether or not quoted directly. For quotations, four or more words used in sequence must be set off in quotation marks, with the source identified.
+Plagiarism means using words, ideas, or arguments from another person or source without citation[^2]. Cite all sources consulted to any extent (including material from the internet), whether or not assigned and whether or not quoted directly. For quotations, four or more words used in sequence must be set off in quotation marks, with the source identified.
 
-[^3]: Except for Homeworks. your hand-in assignments must represent your own thoughts (refer to [Academic Dishonesty Policy](#dishonesty) for more information); especially, the information about PLAGIARISM.
+[^2]: Except for Homeworks. your hand-in assignments must represent your own thoughts (refer to [Academic Dishonesty Policy](#dishonesty) for more information); especially, the information about PLAGIARISM.
 
 Plagiarism is a serious violation of the CSUN Student Conduct Code. Please read my comment about plagiarism under [Homeworks](#homeworks). Any form of cheating will immediately earn you a failing grade for the entire course. **By remaining enrolled, you consent to this policy**.
 
@@ -223,9 +218,7 @@ What is Turnitin?
 
 [Turnitin](https://www.turnitin.com/) is an automated system that instructors can use to quickly and easily compare each student's assignment with billions of websites, as well as an enormous database of student papers that grows with each submission. Accordingly, you will be expected to submit assignments through the Canvas Assignment Tool in electronic format. After the assignment is processed, as an instructor, I receive a report from *Turnitin* that states if and how another author's work was used in the assignment.
 
-------------------------------------------------------------------------
-
-## Final (yet important) Notes
+## Final (yet important) Notes {#sec-final-notes}
 
 ### How to Access our Course and Get Started
 
@@ -242,11 +235,9 @@ What is Turnitin?
 
 1.  Plan your schedule to ensure you several hours per week to spend on this class and take time to identify where and when you'll do your learning.
 2.  Review the due dates for the assignments (refer to our Course Schedule in Canvas) to orient yourself to the flow of the learning.
-3.  This course requires regular engagement and practice using [jamovi](#supplies) (Statistical Package).
+3.  This course requires regular engagement and practice using [jamovi](#instructional-resources) (Statistical Package).
 
-------------------------------------------------------------------------
-
-## How to be Success in this Course
+## How to be Success in this Course {#sec-success}
 
 Consider the goals you have for engaging in this course as you determine how to allocate time to complete course requirements.
 
@@ -283,7 +274,7 @@ pie(slices,labels = lbls, main="Module Time")
 -   Friday-Sunday
     -   Complete the assignments
 
-## Student Support Services
+## Student Support Services {#sec-student-support-services}
 
 CSUN aims to make all learning experiences as accessible as possible, and has a variety of resources available to help support students. If you believe the design of this course poses barriers to effectively participate or demonstrate your learning, please contact me to discuss possible options and adjustments.
 
@@ -315,7 +306,7 @@ CSUN with A HEART If you are facing challenges related to food insecurity, housi
 
 ## Course Sequence
 
-Please, [click here](sequence.qmd) to view the course sequence.
+{{< include sequence.qmd >}}
 
 ## References
 

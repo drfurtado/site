@@ -1,5 +1,5 @@
 ---
-title: "Ovande Furtado, Jr"
+title: "Ovande Furtado Jr"
 sidebar: false
 about:
   template: trestles
