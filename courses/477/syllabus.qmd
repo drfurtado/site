@@ -1,8 +1,8 @@
 ---
-title:  'KIN 377: Motor Learning'
+title:  'KIN 477: Motor Development'
 subtitle: |
   | Department of Kinesiology, Cal State Northridge
-  | Syllabus - Fall 2022 (Online)
+  | Syllabus - Fall 2022 (Hybrid)
 latex-auto-mk: true
 format:
   html:
@@ -21,7 +21,7 @@ format:
     colorlinks: true
 bibliography: references.bib
 csl: apa-numeric-superscript-brackets.csl
-table-striped: true
+table-striped: false
 ---
 
 # Instructor Info {#sec-instructor-info}
@@ -38,26 +38,24 @@ See @sec-office-hours for more information
 
 ## Contact Info
 
-Email: ovandef\@csun.edu\
+Email: While taking the course ONLY contact me via Canvas Inbox\
 Office: Redwood Hall 289
 
 # General Information
 
 ## Course Description
 
-Study of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.
+Study of age-related changes in motor skills, the processes that underlie these changes, and the factors that influence them.
 
 ## Course Prerequisite
 
-[KIN 200](https://catalog.csun.edu/academics/kin/courses/kin-200/): Foundations of Kinesiology (3)
+KIN 377: Motor Learning (3)
 
 ## Course Format
 
 This course consists of readings, written assignments, weekly responses, and check-ins on our Canvas page.
 
-This is a Fully Online class (OF) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.
-
-For this course, lessons are pre-recorded and students go over the material on their own pace. However, assignments related to each module are due at the end of each week during the semester (see course sequence).
+Hybrid (OH) is **a course offering in which students attend class sessions on campus and in an online environment**. The class typically meets approximately half online and half on campus.
 
 ::: callout-warning
 This course is not self-paced and is not the "softer, easier way"! This means that you have to **1) check in regularly and 2) respond to the weekly assignments.**
@@ -69,19 +67,31 @@ This course will be taught completely online (no campus meetings will be require
 
 ## Course Expectations and Goals
 
-At the conclusion of this course, students should be able to:
+Upon completion of this course, you will be able to adequately:
 
-1.  Describe the difference between motor learning and performance.
-2.  Describe and understand different theories of control to explain how motor skills are performed and learned.
-3.  Describe and understand the underlying mechanisms and processes involved in the production and control of movement.
-4.  Discuss the relationship between attention and performance.
-5.  Understand and demonstrate how factors relevant to the individual and to the environment influence the learning process.
-6.  Understand and demonstrate how feedback types and schedules influence motor skill learning.
-7.  Understand, describe, and demonstrate how practice schedules influence motor skill learning.
-8.  Describe how and why the concept of individual differences is important in skill acquisition.
-    1.  Describe and understand motor learning and control issues for special populations.
-9.  Develop and implement methods of performance assessments.
-10. Develop and implement a series of practice sessions designed to teach and/or learn a novel motor skill.
+1.  Differentiate developmental topics from other topics (e.g. physical growth, learning, adaptation, maturation). SLO 1, 2, 3 
+
+2.  Analyze current topics pertaining to human movement through a developmental lens. SLO 1, 3 
+
+3.  Apply different theoretical perspectives in explaining developmental change in human motor behavior. SLO 1, 2, 4 
+
+4.  Recognize individual differences in physical growth by comparing and contrasting patterns of growth, and relate these patterns to physiological maturation. SLO 2 
+
+5.  Discuss the developmental periods when rapid change in body systems makes them particularly sensitive to external influences (e.g. deprivation, enrichment). SLO 1 
+
+6.  Synthesize how the body systems interact at various times on the life span continuum. SLO 1 
+
+7.  Use various methodologies and levels of analyses (e.g. product scores, growth measures, developmental sequences, or kinematics) to study motor development. SLO 1, 2
+
+8.  Describe various forms of motor behaviors at various points on the life span and the nature and relation of these behaviors. SLO 1, 4 
+
+9.  Compare and contrast intra- and inter-task developmental sequences of motor skills. SLO 2, 4 
+
+10. Interpret an individual\'s motor behavior as \"more\" or \"less\" advanced on a developmental continuum rather than as \"good\" or \"bad.\" SLO 4
+
+11. Employ principles of motion and stability to analyze quality of motor skill performance. SLO 1, 2, 3, 4 
+
+12. Compare and contrast movement characteristics of various fundamental or functional movement skills across diverse populations, including various age groups, healthy individuals, and people with disabilities or special needs. SLO 1, 2, 3, 4
 
 ## Student Learning Outcomes (SLO'S)
 
@@ -92,50 +102,11 @@ At the conclusion of this course, students should be able to:
 
 ## Textbook
 
-Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education.
+Haywood, K. M., & Getchell, N. (2019). *Life Span Motor Development* (Seventh edition). Human Kinetics.
 
-Link to Matador Bookstore: <https://bit.ly/37yiD7u>
+ISBN: 9781718210806
 
-::: callout-note
-The program below is only available during the Fall and Spring semesters.
-:::
-
-### myCSUNDigitalAccess Program {#sec-mycsundigitalaccess}
-
-1.  You are enrolled in a course which is part of the myCSUNDigitalAccess (MCDA) program.
-2.  The *MCDA* program provides digital materials to students at a deeply discounted price.
-3.  Some or all of your materials for this course are being provided digitally through the *MCDA* program.
-4.  ALL enrolled students will have access to the materials through Canvas by the 1st day of class, *but more likely earlier*.
-5.  If you want to keep access throughout the semester, you need do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.
-6.  If you choose to obtain your materials elsewhere you have until **`9/25/22`** to Opt-Out (see instructions below). Those who Opt-Out by **`9/25/22`** will lose access and will **not be charged**.
-7.  Anyone who does not Opt-Out by the **`9/25/22`** deadline will be charged and those charges **will not be reversible**.
-8.  [Click here for more information](https://bit.ly/3pcWcfb).
-
-### Price
-
-To see how much you will be billed if you opt-in, click the link below:
-
-<https://bit.ly/3PDiGCx>
-
-### Opt-out Instructions
-
-If you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by **`9/25/22`**:
-
-1.  Go to <https://accessportal.follett.com/0150>
-2.  Click on Create an Account on the lower right
-3.  Create an account using your CSUN email account
-4.  Select the course(s) you wish to Opt-Out from
-
-You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: <https://bit.ly/3pcWcfb>
-
-1.  Go to <https://accessportal.follett.com/0150>;
-2.  Click on Create an Account on the lower right;
-3.  Create an account using your CSUN email account'
-4.  Select the course(s) you wish to Opt-Out from.
-
-::: callout-note
-You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: <https://bit.ly/3pcWcfb>
-:::
+Link to Matador Bookstore: <https://bit.ly/3wC1YwG>
 
 ## Additional resources
 
@@ -143,35 +114,21 @@ You will receive an email confirming your Opt Out selection, access will be remo
 
 Although not required, it is suggested that you have access to a computer (not simply a tablet and/or smartphone) and Internet throughout this course. Note that CSUN students are eligible to [check out tech devices from CSUN at NO COST](https://www.csun.edu/it/device-loaner-program).
 
-### Mini Juggling Balls
-
-One of the requirements of this course is to learn a motor skill. If you select juggling, I suggest you to acquire the [mini juggling balls](http://goo.gl/X3EjLE), which are small and have the recommended weight for beginners.
-
-::: callout-important
-If you choose to use any object other than the mini juggling balls, then you understand that your performance may be negativelly affected by it. When performing the exchange technique (required for this activity), at a given point, performers need to hold two objects in one hand. This becomes a problem if large objects are being used; i.e., tennis balls.
-:::
-
-### Speed Stacks Sport Stacking Set
-
-If you choose to learn the cup stacking, I recommend you to acquire the [cups used in national and international tournaments](http://goo.gl/Y8HXt5), or grab a set of less expensive ones from Amazon or elsewhere.
-
-> DO NOT USE ORDINARY PLASTIC CUPS WHEN PRACTICING AS THEY ARE NOT DESIGNED FOR CUP STACKING. These cups will significantly affect your performance and your grade, in case you choose cup stacking as your learning task.
-
 # Course Policy
 
 I will detail the policy for this course below. Basically, don't cheat and try to learn stuff.
 
 ## Grading Policy
 
--   **25%**: Weekly Quizzes \[SLO's 1\].
+-   **20%**: Weekly Quizzes (12)
 
--   **25%**: Online Discussions \[SLO's 2\].
+-   **20%**: Online Discussions (5)
 
--   **20%**: Learning Task Performance (final video submission) \[SLO's 1, 2, 4\].
+-   **20%**: Labs (2)
 
--   **20%**: Learning Task Reflection Paper \[SLO's 1, 2, 4\].
+-   **20%**: Exams (2)
 
--   **10%**: Learning Task Updates \[SLO's 1, 2, 4\].
+-   **20%** Major Takeaways (12)
 
 ::: callout-note
 One quiz and one discussion with the lowest score will be dropped at the end of the term.
@@ -203,13 +160,9 @@ If your message concerns a non-private matter (i.e., assignments, content, deadl
 
 ## Office Hours {#sec-office-hours}
 
-### In-person
+### Online via Microsoft Teams
 
-Tuesdays from 9-11 am at RE 289.
-
-### Online via Zoom
-
-By appointment only via <https://calendly.com/drfurtado>
+By appointment only via <http://bit.ly/drfurtado-bookme>
 
 ## Make-Up Exam Policy
 
@@ -237,27 +190,13 @@ Each student is expected to be familiar with, and abide by, the conditions of st
 
 <http://www.csun.edu/a&r/soc/studentconduct.html>
 
-### Reflection Paper Submission
-
-Plagiarism is a serious violation of the CSUN Student Conduct Code. Be aware that **borrowing** a paper from a student who completed this course previously and writing your paper based on that student's paper will be considered **PLAGIARISM**.
-
-::: callout-important
-Turnitin (see below) will detect such misconducts as it checks every submission against a database of papers, as well as against the Internet.
-:::
-
-::: callout-caution
-Penalties: If caught, the student will receive a letter grade of "F" on BOTH the Reflection Paper and the Video Performance assignments, in which case the student will likely fail the course as these two assignments account for 40% of the course total grade.
-:::
-
-What is Turnitin?
-
-You should be aware that the Reflection Paper will be submitted via Canvas, which is connected to [Turnitin](https://www.turnitin.com/). This is an automated system that instructors can use to quickly and easily compare each student's assignment with billions of websites, as well as an enormous database of student papers that grows with each submission. Accordingly, you will be expected to submit assignments through the Canvas Assignment Tool in electronic format. After the assignment is processed, as an instructor, I receive a report from *Turnitin* that states if and how another author's work was used in the assignment.
-
 # Course Requirements
 
 To succeed in this course, you will be required to complete several assignments. To avoid surprises, be proactive and review these assignments.
 
-## Quizzes
+## Quizzes[^1]
+
+[^1]: Due on Sundays 11:59 - after the content is covered
 
 Quizzes will be administered via Canvas and will assess the student's understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, **collaboration with other students is not allowed**.
 
@@ -277,31 +216,25 @@ Quizzes will be administered via Canvas and will assess the student's understand
 
 7.  It should be noted that the content of each quiz belongs to [McGraw Hill](https://www.mheducation.com/) (the publisher of our text). Therefore, federal copyright laws prohibit the dissemination of this material. It includes, but is not limited to, posting the quiz online and/or sharing the quiz with someone outside of the classroom.
 
-## Online Discussions
+## Online Discussions[^2]
+
+[^2]: Due on Sundays 11:59 - after the content is covered
 
 You will be required to complete several online discussions while taking this course. The details about each discussion topic will be provided on Canvas. Typically, there are two deadlines for this assignment. First, you need to answer the question I post (deadline 1), then respond to your classmates' posts (deadline 2). Refer to our Class Schedule in Canvas.
 
-I will post an announcement following the deadline of each discussion assignment pointing out potential issues.
+## Exams
 
-::: callout-note
-I know how important it is for you to know your current grade in the class. That is why my priority is to grade most assignments (except for the paper) within 1 week of the deadline, which will be visible on the Canvas Gradebook. Note that journal grades will not be visible until all journals are graded (e.g., original posts and responses). 
+You will be required to take two exams when taking this course.
 
-If your grades are not posted within a week after the deadline, or you believe the grade is inaccurate, feel free to email me about the status of your grade.
-:::
+## Labs
 
-## Learning Task Performance & Reflection Paper
+You will be required to complete two labs by the end of the term.
 
-*Refer to Canvas for full requirements, but basically:*
+## Major Takeaways[^3]
 
--   You will be asked to choose either the 3-object Juggling or Cup Speed Stacking activity;
--   Then, you will be required to practice and learn the selected activity;
--   Before the end of the term (see Calendar for deadlines), you will be asked to video-record yourself performing the skill you have learned. This is the **Performance** portion of this assignment and accounts for 20% of the final grade;
--   The 2nd part of this assignment is a **Reflection Paper**, which also accounts for 20% of the final grade. As you practice and learn the selected skill, you will be advised to use the Motor Learning Principles (full details on Canvas) you will be exposed to while taking this course.
--   Throughout the term, you will be required to update me on your progress toward learning the selected skill (juggling or cup stacking). See Learning Task Updates below.
+[^3]: Due on Mondays before class - before the content is covered
 
-## Learning Task Updates
-
-You will be submitting several updates throughout the term. These "updates" are meant to keep you on track and ensure you are taking advantages of all the learning techniques covered in this course to master the selected skill. More information about this assignment will be provided on Canvas.
+You will be evaluated on your preparedness by submitting an assignment before each class.
 
 # Final (yet important) Notes {#sec-important-notes}
 
@@ -400,9 +333,3 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 # Class Sequence
 
 {{< include sequence.qmd >}}
-
-# Appendices
-
-## Appendix A, B, C
-
-Not provide here. Please, refer to our Canvas page. The material associated with these appendices are related to the Learning Task Assignment, which accounts for 50% of the final grade. ***THIS MEANS YOU MUST READ AND STUDY THE CONTENT OF APPENDIX A, B, AND C.***

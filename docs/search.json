@@ -100,9 +100,9 @@
   {
     "objectID": "courses/610/sequence.html",
     "href": "courses/610/sequence.html",
-    "title": "KIN 610 - Course Sequence",
+    "title": "Dr. Furtado",
     "section": "",
-    "text": "Course Sequence\n\n\n\n\n\n\n\n\nLesson\nDate1\nReading2\nAssignments3\n\n\n\n\nLesson01\n08/29/22\nCourse Intro & Data Collection\nRead and study the syllabus\n\n\nLesson02\n09/05/22\nCh01: Measurement, Statistics, and Research\nQuiz 1; Major Takeaways\n\n\nLesson03\n09/12/22\nCh02: Organizing and Displaying Data\nCh03: Percentiles\nQuiz 2; Major Takeaways\n\n\nLesson04\n09/19/22\nCh04: Measures of Central Tendency\nCh05: Measures of Variability\nQuiz 3; Major Takeaways\n\n\nLesson05\n09/26/22\nCh06: The Normal Curve\n\nQuiz 4; Major Takeaways; Homework 1\n\n\nLesson06\n10/03/22\nCh07: Fundamentals of Statistical Inference\nQuiz 5; Major Takeaways\n\n\nLesson07\n10/10/22\nCh08: Correlation and Bivariate Regression\nQuiz 6; Major Takeaways\n\n\nExam 1\n10/17/22\nCh09: Multiple Correlation and Multiple Regression\n\nQuiz 7; Major Takeaways; Homework 2\n\n\nLesson08\n10/24/22\nPreviously covered chapters\nna\n\n\nLesson09\n10/31/22\nCh10: The Student’s t-test\n\nQuiz 8; Major Takeaways\n\n\nLesson10\n11/07/22\nCh11: Simple Analysis of Variance\n\nQuiz 9; Major Takeaways\n\n\nLesson11\n11/14/22\nCh12: Analysis of Variance With Repeated Measures\n\nQuiz 10; Major Takeaways; Homework 3\n\n\nLesson12\n11/21/22\nCh14: Factorial Analysis of Variance\n\nQuiz 11; Major Takeaways\n\n\nLesson13\n11/28/22\nCh15: Analysis of Covariance\n\nQuiz 11; Major Takeaways\n\n\nLesson14\n12/05/22\nCh16: Analysis of Nonparametric Data\n\nQuiz 13; Major Takeaways\n\n\nExam 2\n12/13/22\nAll chapters covered\nna\n\n\n\n\n\n\n\n\nReferences\n\n1. Weir, J. P., & Vincent, W. J. (2021). Statistics in Kinesiology. Human Kinetics. https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource\n\nFootnotes\n\n\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nStudents are expected to read and study the assigned chapters prior to attending each class meeting.↩︎\nUnless stated otherwise, all assignments are due before class. Refer to the syllabus for assignments detailed information.↩︎"
+    "text": "Course Sequence\n\n\n\n\n\n\n\n\nLesson\nDate1\nReading2\nAssignments3\n\n\n\n\nLesson 01\n08/29/22\nCourse Intro & Data Collection\nRead and study the syllabus\n\n\nLesson 02\n09/05/22\nCh01: Measurement, Statistics, and Research\nQuiz 1; Major Takeaways\n\n\nLesson 03\n09/12/22\nCh02: Organizing and Displaying Data\nCh03: Percentiles\nQuiz 2; Major Takeaways\n\n\nLesson 04\n09/19/22\nCh04: Measures of Central Tendency\nCh05: Measures of Variability\nQuiz 3; Major Takeaways\n\n\nLesson 05\n09/26/22\nCh06: The Normal Curve\n\nQuiz 4; Major Takeaways; Homework 1\n\n\nLesson 06\n10/03/22\nCh07: Fundamentals of Statistical Inference\nQuiz 5; Major Takeaways\n\n\nLesson 07\n10/10/22\nCh08: Correlation and Bivariate Regression\nQuiz 6; Major Takeaways\n\n\nLesson 08\n10/17/22\nCh09: Multiple Correlation and Multiple Regression\n\nQuiz 7; Major Takeaways; Homework 2\n\n\nExam 1\n10/24/22\nPreviously covered chapters\nna\n\n\nLesson 09\n10/31/22\nCh10: The Student’s t-test\n\nQuiz 8; Major Takeaways\n\n\nLesson 10\n11/07/22\nCh11: Simple Analysis of Variance\n\nQuiz 9; Major Takeaways\n\n\nLesson 11\n11/14/22\nCh12: Analysis of Variance With Repeated Measures\n\nQuiz 10; Major Takeaways; Homework 3\n\n\nLesson 12\n11/21/22\nCh14: Factorial Analysis of Variance\n\nQuiz 11; Major Takeaways\n\n\nLesson 13\n11/28/22\nCh15: Analysis of Covariance\n\nQuiz 11; Major Takeaways\n\n\nLesson 14\n12/05/22\nCh16: Analysis of Nonparametric Data\n\nQuiz 13; Major Takeaways\n\n\nExam 2\n12/13/22\nAll chapters covered\nna\n\n\n\n\n\n\n\n\nReferences\n\n1. Weir, J. P., & Vincent, W. J. (2021). Statistics in Kinesiology. Human Kinetics. https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource\n\nFootnotes\n\n\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nStudents are expected to read and study the assigned chapters prior to attending each class meeting.↩︎\nUnless stated otherwise, all assignments are due before class. Refer to the syllabus for assignments detailed information.↩︎"
   },
   {
     "objectID": "courses/377/index.html",
@@ -123,7 +123,7 @@
     "href": "blog/posts/jamovi-tab-long/index.html",
     "title": "‘Fixing’ long tables in jamovi",
     "section": "",
-    "text": "Understanding the problem\nWhen creating descriptive tables in jamovi1 , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.\nBelow are two examples of descriptive tables generated in jamovi. Figure 1 shows a table with variables across columns and Figure 2 shows a table with variables across rows.\nLearn how to choose either format by watching the video at the end of this post.\n\n\n\n\n\n\nTip\n\n\n\nInstead of copying a table from the output, you can export the table as PDF. Some journal articles require authors to save tables as PDF and submit them as separate files.\n\n\n\n\nFigure 1: Descriptive table with variables across columns\n\n\n\n\n\nFigure 2: Descriptive table with variables across rows\n\n\n\n\n\nThe solution\n\n\n\n\n\n\nFootnotes\n\n\nClick here to learn more about jamovi.↩︎\n\nCitationBibTeX citation:@online{furtadojr2022,\n  author = {Ovande Furtado Jr},\n  title = {“{Fixing}” Long Tables in Jamovi},\n  date = {2022-05-16},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nOvande Furtado Jr. 2022. “‘Fixing’ Long Tables in\nJamovi.” May 16, 2022."
+    "text": "Understanding the problem\nWhen creating descriptive tables in jamovi2 , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.\nBelow are two examples of descriptive tables generated in jamovi. Figure 1 shows a table with variables across columns and Figure 2 shows a table with variables across rows.\nLearn how to choose either format by watching the video at the end of this post.\n\n\n\n\n\n\nTip\n\n\n\nInstead of copying a table from the output, you can export the table as PDF. Some journal articles require authors to save tables as PDF and submit them as separate files.\n\n\n\n\nFigure 1: Descriptive table with variables across columns\n\n\n\n\n\nFigure 2: Descriptive table with variables across rows\n\n\n\n\n\nThe solution\n\n\n\n\n\n\nFootnotes\n\n\nIllustration by Oleg Shcherba from Ouch!\n↩︎\nClick here to learn more about jamovi.↩︎\n\nCitationBibTeX citation:@online{furtadojr2022,\n  author = {Ovande Furtado Jr},\n  title = {“{Fixing}” Long Tables in Jamovi},\n  date = {2022-05-16},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nOvande Furtado Jr. 2022. “‘Fixing’ Long Tables in\nJamovi.” May 16, 2022."
   },
   {
     "objectID": "courses/610/syllabus.html#e-mail-policy-office-hours",
@@ -361,7 +361,7 @@
     "href": "courses/377/syllabus.html#textbook",
     "title": "KIN 377: Motor Learning",
     "section": "Textbook",
-    "text": "Textbook\nMagill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education.\nLink to Matador Bookstore: https://bit.ly/37yiD7u\n\n\n\n\n\n\nNote\n\n\n\nThe program below is only available during the Fall and Spring semesters.\n\n\n\nmyCSUNDigitalAccess Program\n\nYou are enrolled in a course which is part of the myCSUNDigitalAccess (MCDA) program.\nThe MCDA program provides digital materials to students at a deeply discounted price.\nSome or all of your materials for this course are being provided digitally through the MCDA program.\nALL enrolled students will have access to the materials through Canvas by the 1st day of class, but more likely earlier.\nIf you want to keep access throughout the semester, you need do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.\nIf you choose to obtain your materials elsewhere you have until [date coming soon] to Opt-Out (see instructions below). Those who Opt-Out by [date coming soon] will lose access and will not be charged.\nAnyone who does not Opt-Out by the [date coming soon] deadline will be charged and those charges will not be reversible.\n\n\n\nOpt-out Instructions\nIf you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by [date coming soon]:\n\nGo to https://accessportal.follett.com/0150\nClick on Create an Account on the lower right\nCreate an account using your CSUN email account\nSelect the course(s) you wish to Opt-Out from\n\nYou will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb\n\nGo to https://accessportal.follett.com/0150;\nClick on Create an Account on the lower right;\nCreate an account using your CSUN email account’\nSelect the course(s) you wish to Opt-Out from.\n\n\n\n\n\n\n\nNote\n\n\n\nYou will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb"
+    "text": "Textbook\nMagill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education.\nLink to Matador Bookstore: https://bit.ly/37yiD7u\n\n\n\n\n\n\nNote\n\n\n\nThe program below is only available during the Fall and Spring semesters.\n\n\n\nmyCSUNDigitalAccess Program\n\nYou are enrolled in a course which is part of the myCSUNDigitalAccess (MCDA) program.\nThe MCDA program provides digital materials to students at a deeply discounted price.\nSome or all of your materials for this course are being provided digitally through the MCDA program.\nALL enrolled students will have access to the materials through Canvas by the 1st day of class, but more likely earlier.\nIf you want to keep access throughout the semester, you need do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.\nIf you choose to obtain your materials elsewhere you have until 9/25/22 to Opt-Out (see instructions below). Those who Opt-Out by 9/25/22 will lose access and will not be charged.\nAnyone who does not Opt-Out by the 9/25/22 deadline will be charged and those charges will not be reversible.\nClick here for more information.\n\n\n\nPrice\nTo see how much you will be billed if you opt-in, click the link below:\nhttps://bit.ly/3PDiGCx\n\n\nOpt-out Instructions\nIf you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by 9/25/22:\n\nGo to https://accessportal.follett.com/0150\nClick on Create an Account on the lower right\nCreate an account using your CSUN email account\nSelect the course(s) you wish to Opt-Out from\n\nYou will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb\n\nGo to https://accessportal.follett.com/0150;\nClick on Create an Account on the lower right;\nCreate an account using your CSUN email account’\nSelect the course(s) you wish to Opt-Out from.\n\n\n\n\n\n\n\nNote\n\n\n\nYou will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: https://bit.ly/3pcWcfb"
   },
   {
     "objectID": "courses/377/mod01.html",
@@ -487,6 +487,342 @@
     "href": "courses/610/les01.html",
     "title": "Lesson 1",
     "section": "",
+    "text": "In Lesson 1 you will be introduced to this course. Please, read and study the syllabus prior to coming to the first meeting."
+  },
+  {
+    "objectID": "courses/610/les01.html#data-collection",
+    "href": "courses/610/les01.html#data-collection",
+    "title": "Lesson 1",
+    "section": "Data collection",
+    "text": "Data collection\nAs part of Lesson 1, you will be asked to complete several cognitive tests. The data collected from these tests will be used when I cover data analyzes later in the semester.\n\nTests\nBelow you will find links to several tests you will be required to take. Wait for more instructions from the instructor before taking the test. Please, do not take the tests prior to attending the first meeting as it with the internal validity1 of each test.\n\nMemory test\n…."
+  },
+  {
+    "objectID": "courses/610/assig/hw01.html",
+    "href": "courses/610/assig/hw01.html",
+    "title": "Homework 1",
+    "section": "",
     "text": "Coming soon!"
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html",
+    "href": "courses/610/anova-twoway-les.html",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "",
+    "text": "understand when and why to conduct a F-ANOVA\nunderstand main and interaction effects\nrun the Between-Between Two-Away ANOVA in jamovi and interpret the results\ncalculate the effect size for the F-ANOVA"
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#when-to-use-it",
+    "href": "courses/610/anova-twoway-les.html#when-to-use-it",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "When to use it?",
+    "text": "When to use it?\nWhen we discussed analysis of variance (One-Way ANOVA and Repeated-Measures ANOVA), we assumed a fairly simple experimental design. Each person is in one of several groups and we want to know whether these groups have different mean scores on some outcome variable.\nIn this lessons, I’ll discuss a broader class of experimental designs known as factorial designs, in which we have more than one independent variable (also known as Two-Way ANOVA).\nPreviously we were dealing with one single dependent variable and one single independent variable (2 or 3+ levels). But what if you have more than one IV/grouping variable? Factorial ANOVA is used in instances when there is more than one “factor” of interest; i.e., treatment & sex. The goal is to know the simultaneously effects of several FACTORS on the dependent variable. Thus, from now on, I will refer to it as F-ANOVA."
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#f-anova-variations",
+    "href": "courses/610/anova-twoway-les.html#f-anova-variations",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "F-ANOVA variations",
+    "text": "F-ANOVA variations\nThere are different variations of the procedure called F-ANOVA. The type depends on whether the independent variables involve between- or within-group analyses.\nThe Between-Between F-ANOVA looks at the effect that two between-subjects independent variables have on the dependent variable.\n\nBetween - each of the groups in factor A and factor B consists of different subjects randomly assigned to the groups.\n\nThe Between-Within F-ANOVA (mixed-design/split-plot) tests the effect of one within-subjects and one between-subject independent variable on the dependent variable.\n\nBetween - each of the groups in factor A consists of different subjects randomly assigned to the groups\nWithin - subjects in each of the groups are measured two or more times; or complete two or more conditions.\n\nAnd finally, in the case of the Within-Within F-ANOVA, one looks at the effect of two within-subjects independent variables on a dependent variable.\n\nSame subjects perform on different modes (two or more) of exercise (factor A-within), and over two or more different stages of work (factor B-within).\n\nWhen we refer to between, each of the groups in factor A consists of different subjects randomly assigned to the groups, whereas the term within refers to a case where subjects in are measured two or more times (or go through two or more conditions).\nIn this lesson, I will limit the discussion to the Between-Between F-ANOVA. For an example on the Between-Within F-ANOVA click here…\nInteraction and Main effects\nAn Interaction Effect occurs when the effect of one IV depends on the level of another IV.\nA Main Effect is the effect of an independent variable on a dependent variable averaged across the levels of any other independent variables."
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#variables",
+    "href": "courses/610/anova-twoway-les.html#variables",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "Variables",
+    "text": "Variables\n\nIndependent variables\nTwo or more quantitative (interval or ratio) variables.\n\n\nDependent variable\nOne quantitative of interval or ratio level variable."
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#stating-the-hypotheses",
+    "href": "courses/610/anova-twoway-les.html#stating-the-hypotheses",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "Stating the Hypotheses",
+    "text": "Stating the Hypotheses\nNull hypothesis\nFactor A\nH_0:\\mu_1 = \\mu_2 =, \\ldots = \\mu_K - There is no difference in the means of factor A\nFactor B\nH_0:\\mu_1 = \\mu_2 =, \\ldots = \\mu_K - There is no difference in the means of factor B\nInteraction\nH_0: There is no interaction between factors A and B\nAlternative hypothesis\nFactor A\nH_a:\\mu_1 \\neq \\mu_2 \\neq, \\ldots \\neq \\mu_K - The means are not equal\nFactor B\nH_a:\\mu_1 \\neq \\mu_2 \\neq, \\ldots \\neq \\mu_K - The means are not equal\nInteraction1\nH_a: There is an interaction between factors A and B"
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#assumptions2",
+    "href": "courses/610/anova-twoway-les.html#assumptions2",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "Assumptions2",
+    "text": "Assumptions2\n\nIndependence. You should have independence of observations, which means that there is no relationship between the observations in each group or between the groups themselves.\nOutliers. There should be no extreme outliers.\n\nCheck this assumption by creating and interpreting boxplots\n\nNormality. The dependent variable should be approximately normally distributed for each combination of the groups of the two independent variables.\n\nCheck this assumption by running the Shapiro-Wilk test and calculating z-kurt and z-skew. In addition, create and interpret the QQ Plots and Histograms.\n\nHomogeneity of variance. There needs to be homogeneity of variances for each combination of the groups of the two independent variables.\n\nCheck this assumption by running and interpreting the results of the Levene’s test"
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#test-statistic",
+    "href": "courses/610/anova-twoway-les.html#test-statistic",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "Test statistic",
+    "text": "Test statistic\nF test for the overall test. Refer to the One-Way ANOVA test.\nt test for pairwise comparisons with correction for family-wise error rate."
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#sampling-distributions",
+    "href": "courses/610/anova-twoway-les.html#sampling-distributions",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "Sampling distributions",
+    "text": "Sampling distributions\nRefer to the sampling distributions of the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#significance",
+    "href": "courses/610/anova-twoway-les.html#significance",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "Significance",
+    "text": "Significance\nRefer to the steps used for the F test (One-Way ANOVA) and the t test (Independent-Samples t test)."
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#confidence-intervals",
+    "href": "courses/610/anova-twoway-les.html#confidence-intervals",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "Confidence Intervals",
+    "text": "Confidence Intervals\nRefer to the One-Way ANOVA for the overall test and t-test for the post hoc tests."
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#effect-size",
+    "href": "courses/610/anova-twoway-les.html#effect-size",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "Effect size",
+    "text": "Effect size\nThe most popular measure of effect size for F-ANOVA is the partial eta-squared ( \\eta^2). The idea behind the \\eta^2 is that, when measuring the effect size for a particular term (say, the main effect of Factor A), you want to deliberately ignore the other effects in the model (e.g., the main effect of Factor B).\nThat is, you would pretend that the effect of all these other terms is zero, and then calculate what the \\eta^2-value would have been. This is actually pretty easy to calculate. All you have to do is remove the sum of squares associated with the other terms from the denominator. In other words, if you want the partial η² for the main effect of Factor A, the denominator is just the sum of the SS values for Factor A and the residuals.[1]"
+  },
+  {
+    "objectID": "courses/610/anova-twoway-les.html#example",
+    "href": "courses/610/anova-twoway-les.html#example",
+    "title": "Between-Between Two-Way ANOVA",
+    "section": "Example",
+    "text": "Example\n\nData set\nYou can download either the jamovi template or the data set as csv for this example. Then proceed to open the file with jamovi. The data set comes from Weir and Vincent (2021)[2].\n\nIn this design, the researcher wanted to study the effect of 1 day, 3 days, or 5 days of practice per week (20 minutes per day) on the learning of a novel task of nondominant arm throwing accuracy (the dependent variable). In addition, the researcher wanted to know whether subjects with athletic experience (college-level varsity athletes) benefit differently from the various practice conditions than do college students with no experience in athletic competition.[2(p. 181)]\n\nBecause in the example above the researcher wants to test the effect of two independent variables (factors) on a single dependent variable and both factors are between-subjects, we need to use the Between-Between F-ANOVA. This is an example of 3 (practice conditions) x 2 (athletic experience) with equal number of participants in each group (balanced design).\n\nThree subjects in each group were then randomly assigned to one of the three practice conditions (1, 3, or 5 days of practice per week for 20 minutes per day). Number of days of practice was identified as factor B. Subjects’ scores on the throwing task at the end of 6 weeks were recorded as the dependent variable. The scores ranged from 1 to 10 (10 = high).[2(p. 181)]\n\nStep 1: Set up hypotheses and determine the level of significance\nAssume that Factor A refers to Experience and Factor B refers to Practice. Each of the H_0 below will be tested at alpha = 0.05.\nNull hypothesis\nFactor A\nH_0:\\mu_1 = \\mu_2 - There is no difference in the means of factor A\nFactor B\nH_0:\\mu_1 = \\mu_2 = \\mu_3 - There is no difference in the means of factor B\nInteraction\nH_0: There is no interaction between factors A and B\nAlternative hypothesis\nFactor A\nH_a:\\bar{x}_1 \\neq \\bar{x}_2 - The means are not equal\nFactor B\nH_a:\\bar{x}_1 \\neq \\bar{x}_2 \\neq \\bar{x}_3 - The means are not equal\nInteraction3\nH_a: There is an interaction between factors A and B\nStep 2: Select the appropriate test statistic\nBetween-Between F-ANOVA\n\ncomparing means\ntwo IVs and one DV\nthe IVs are independent groups (between-subjects)\n\nStep 3: Set the decision rule\nFactor A: Reject H_0 is p-value is less than 0.05\nFactor B: Reject H_0 is p-value is less than 0.05\nInteraction: Reject H_0 is p-value is less than 0.05\nStep 4: Compute the test statistic\nSet up\nIn jamovi, choose Analyses > ANOVA > ANOVA. Then, move Throwing Accuracy to the Dependent Variable box. Finally, move Experience and Practice to the Fixed Factors box.\nBecause we have more that one factor, we want to use the partial eta-squared (\\eta^2) as a measure of effect size. Simply check the box Partial \\eta^2 under Effect Size.\n\n\nFigure 1: Between-Between F-ANOVA test set up\n\n\n\n\n\nFigure 2: F-ANOVA table\n\n\n\n\nChecking the assumptions\nBefore we interpret the ANOVA table (see Figure 2), we need to check if all assumptions have been met.\n\nIndependence. In their description of the study, the authors mentioned that participants were randomly assigned to different groups; this assumption has been met.\nOutliers: Create boxplots for each factor. In jamovi, choose Exploration > Descriptive Statistics. Based on the boxplots below, there is no evidence of extreme outliers; thus, we will assume that this assumption has been met.\n\n\n\n\n\nNormality. Upon looking the results of the Shapiro-Wilk test, we conclude that this assumption has been met (p > 0.05). However, others would argue the need to check normality for each combination of the groups of the two independent variables.\nHomogeneity of variance. There needs to be homogeneity of variances for each combination of the groups of the two independent variables. According to the Levene’s test, this assumption has been met (p > 0.05).\n\n\nStep 5: Conclusion - make a decision to whether reject or retain the null hypotheses\n\nMain effect for Experience\nBy looking at the table above, and conclude that there is a Main Effect for factor A (Experience), F(12, 1) = 13.50, p = .003. This indicates that for all three levels of factor B combined, athletes scored significantly better than non-athletes (see Figure 3).\n\n\nFigure 3: Main effect for Experience\n\n\n\nMain effect for Practice\nThere was also a main effect for factor B (Practice), F(12, 2) = 30.29, p < .001. This indicates that for both levels of A combined, a significant difference exists somewhere among the three levels of B. By looking at\n\n\nFigure 4: Main effect for Practice\n\n\n\nInteraction effect\nFinally, there was an interaction effect; F(12, 2) = 4.62, p = .032. This indicates that the effect of practice on throwing accuracy differ in athletes and non-athletes. Figure 5 below suggests that the effect of more days of practice on throwing accuracy is larger in the athletes than in the non-athletes. The significant F for the interaction tells us that the lines in Figure 5 are not statistically parallel.\nAlthough I present the results for both main effects above, arguably, “we must be cautious interpreting the main effects”[2(p. 184)]. This is because the Interaction Effect was significant. In fact, some would suggest[3] to skip the interpretation of the Main Effects if the Interaction effect is significant as it could be misleading.\nUse a step-down process to interpret the results. This means you should evaluate the main effects and interaction, and only proceed to further analysis (post hoc tests) if there is significance.\nA significant interaction tells us that the effects of factor A differs across levels of factor B (and vice-versa).\nThe significant F (F = 4.63, p = .03) for the interaction tells us that the effects of practice on throwing accuracy differ in athletes and nonathletes.\nWe could stop the interaction interpretation right here and simply note that the significant interaction indicates that athletes improve more with more practice than do non-athletes. However, we are often interested is delineating the specific mean differences in the cell means.\nWe can do this performing simple effects tests; see table below.\nSimple effects for A (Experience)\nF across A at B1 > p = .730\nF across A at B2 > p = .008\nF across A at B3 > p = .004\n\n\n\nFigure 5: Interaction effect\n\n\n\nPost Hoc tests\nBecause Practice has more than two levels, we need to perform further analysis by running post hoc tests for the Factor Practice as well as for the Interaction.\nPost hoc tests for Practice\n\nEstimated Marginal Means\n\n\n\n\n\n\n\n1. Navarro, D. J., & Foxcroft, D. R. (2022). Learning statistics with jamovi: A tutorial for psychology students and other beginners (version 0.75). Danielle J. Navarro; David R. Foxcroft. https://doi.org/10.24384/HGC3-7P15\n\n\n2. Weir, J. P., & Vincent, W. J. (2021). Statistics in Kinesiology. Human Kinetics. https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource\n\n\n3. Two-way ANOVA in SPSS statistics - step-by-step procedure including testing of assumptions | laerd statistics. (n.d.). https://statistics.laerd.com/spss-tutorials/two-way-anova-using-spss-statistics.php"
+  },
+  {
+    "objectID": "courses/477/syllabus.html",
+    "href": "courses/477/syllabus.html",
+    "title": "KIN 477: Motor Development",
+    "section": "",
+    "text": "Ovande Furtado Jr., Ph.D.\nDr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado’s line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.\n\n\n\nSee Section 3.5 for more information\n\n\n\nEmail: While taking the course ONLY contact me via Canvas Inbox\nOffice: Redwood Hall 289"
+  },
+  {
+    "objectID": "courses/477/syllabus.html#course-description",
+    "href": "courses/477/syllabus.html#course-description",
+    "title": "KIN 477: Motor Development",
+    "section": "Course Description",
+    "text": "Course Description\nStudy of age-related changes in motor skills, the processes that underlie these changes, and the factors that influence them."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#course-prerequisite",
+    "href": "courses/477/syllabus.html#course-prerequisite",
+    "title": "KIN 477: Motor Development",
+    "section": "Course Prerequisite",
+    "text": "Course Prerequisite\nKIN 377: Motor Learning (3)"
+  },
+  {
+    "objectID": "courses/477/syllabus.html#course-format",
+    "href": "courses/477/syllabus.html#course-format",
+    "title": "KIN 477: Motor Development",
+    "section": "Course Format",
+    "text": "Course Format\nThis course consists of readings, written assignments, weekly responses, and check-ins on our Canvas page.\nHybrid (OH) is a course offering in which students attend class sessions on campus and in an online environment. The class typically meets approximately half online and half on campus.\n\n\n\n\n\n\nWarning\n\n\n\nThis course is not self-paced and is not the “softer, easier way”! This means that you have to 1) check in regularly and 2) respond to the weekly assignments."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#sec-required-technology-resources",
+    "href": "courses/477/syllabus.html#sec-required-technology-resources",
+    "title": "KIN 477: Motor Development",
+    "section": "Required Technology Resources",
+    "text": "Required Technology Resources\nThis course will be taught completely online (no campus meetings will be required), in an asynchronous format (this course will not have scheduled live meeting times). All activities, assignments and exams in this course will be completed via Canvas. To succeed in this course, you must have reliable access to a computer and internet connection. CSUN offers currently enrolled students the option to borrow devices such as computers and internet hotspots through its Device Loaner Program."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#course-expectations-and-goals",
+    "href": "courses/477/syllabus.html#course-expectations-and-goals",
+    "title": "KIN 477: Motor Development",
+    "section": "Course Expectations and Goals",
+    "text": "Course Expectations and Goals\nUpon completion of this course, you will be able to adequately:\n\nDifferentiate developmental topics from other topics (e.g. physical growth, learning, adaptation, maturation). SLO 1, 2, 3 \nAnalyze current topics pertaining to human movement through a developmental lens. SLO 1, 3 \nApply different theoretical perspectives in explaining developmental change in human motor behavior. SLO 1, 2, 4 \nRecognize individual differences in physical growth by comparing and contrasting patterns of growth, and relate these patterns to physiological maturation. SLO 2 \nDiscuss the developmental periods when rapid change in body systems makes them particularly sensitive to external influences (e.g. deprivation, enrichment). SLO 1 \nSynthesize how the body systems interact at various times on the life span continuum. SLO 1 \nUse various methodologies and levels of analyses (e.g. product scores, growth measures, developmental sequences, or kinematics) to study motor development. SLO 1, 2\nDescribe various forms of motor behaviors at various points on the life span and the nature and relation of these behaviors. SLO 1, 4 \nCompare and contrast intra- and inter-task developmental sequences of motor skills. SLO 2, 4 \nInterpret an individual's motor behavior as \"more\" or \"less\" advanced on a developmental continuum rather than as \"good\" or \"bad.\" SLO 4\nEmploy principles of motion and stability to analyze quality of motor skill performance. SLO 1, 2, 3, 4 \nCompare and contrast movement characteristics of various fundamental or functional movement skills across diverse populations, including various age groups, healthy individuals, and people with disabilities or special needs. SLO 1, 2, 3, 4"
+  },
+  {
+    "objectID": "courses/477/syllabus.html#student-learning-outcomes-slos",
+    "href": "courses/477/syllabus.html#student-learning-outcomes-slos",
+    "title": "KIN 477: Motor Development",
+    "section": "Student Learning Outcomes (SLO’S)",
+    "text": "Student Learning Outcomes (SLO’S)\n\nApply an integrated kinesiological approach to encourage the adoption of healthy and physically active lifestyles, across diverse populations;\nApply evidence-based practices to enhance the study of human movement;\nDemonstrate competent problem-solving strategies through intentional practices; and\nDemonstrate knowledge of kinesthetic forms, processes, and structures as they apply to the personal expression and culture of human movement."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#textbook",
+    "href": "courses/477/syllabus.html#textbook",
+    "title": "KIN 477: Motor Development",
+    "section": "Textbook",
+    "text": "Textbook\nHaywood, K. M., & Getchell, N. (2019). Life Span Motor Development (Seventh edition). Human Kinetics.\nISBN: 9781718210806\nLink to Matador Bookstore: https://bit.ly/3wC1YwG"
+  },
+  {
+    "objectID": "courses/477/syllabus.html#additional-resources",
+    "href": "courses/477/syllabus.html#additional-resources",
+    "title": "KIN 477: Motor Development",
+    "section": "Additional resources",
+    "text": "Additional resources\n\nAccess to Computer & Internet\nAlthough not required, it is suggested that you have access to a computer (not simply a tablet and/or smartphone) and Internet throughout this course. Note that CSUN students are eligible to check out tech devices from CSUN at NO COST."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#grading-policy",
+    "href": "courses/477/syllabus.html#grading-policy",
+    "title": "KIN 477: Motor Development",
+    "section": "Grading Policy",
+    "text": "Grading Policy\n\n20%: Weekly Quizzes (12)\n20%: Online Discussions (5)\n20%: Labs (2)\n20%: Exams (2)\n20% Major Takeaways (12)\n\n\n\n\n\n\n\nNote\n\n\n\nOne quiz and one discussion with the lowest score will be dropped at the end of the term."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#grading-scale",
+    "href": "courses/477/syllabus.html#grading-scale",
+    "title": "KIN 477: Motor Development",
+    "section": "Grading Scale",
+    "text": "Grading Scale\nA 93.00-100.00 | A- 90.00-92.99 B+ 87.00-89.99 | B 83.00-86.99 | B- 80.00-82.99 C+ 77.00-79.99 | C 73.00-76.99 | C- 70.00-72.99 D+ 67.00-69.99 | D 63.00-66.99 | D- 60.00-62.99 F <59.99\n\n\n\n\n\n\nNote\n\n\n\nIn recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a “round up” rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.\n\n\n\n\n\n\n\n\nImportant\n\n\n\nRequests for an Incomplete (I) must conform to university policies. Among other requirements, “I” is possible only for instances in which you are demonstrating passing work in the class."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#attendance-policy",
+    "href": "courses/477/syllabus.html#attendance-policy",
+    "title": "KIN 477: Motor Development",
+    "section": "Attendance Policy",
+    "text": "Attendance Policy\n\nShowing up is 80 percent of life – Woody Allen, via Marshall Brickman\n\nAlthough this is an online course, “attendance” is crucial. And by that I mean: check in Canvas several times a week."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#e-mail-policy",
+    "href": "courses/477/syllabus.html#e-mail-policy",
+    "title": "KIN 477: Motor Development",
+    "section": "E-mail Policy",
+    "text": "E-mail Policy\nWhile taking this course, only communicate with me via Canvas > Inbox.\nIf your message concerns a non-private matter (i.e., assignments, content, deadlines, etc.), then please post your question to the Q&A Forum (Canvas > Discussions > Q&A Forum), which can be answered by any student taking the course."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#sec-office-hours",
+    "href": "courses/477/syllabus.html#sec-office-hours",
+    "title": "KIN 477: Motor Development",
+    "section": "Office Hours",
+    "text": "Office Hours\n\nIn-person\nTuesdays from 9-11 am at RE 289.\n\n\nOnline via Zoom\nBy appointment only via http://bit.ly/drfurtado-bookme"
+  },
+  {
+    "objectID": "courses/477/syllabus.html#make-up-exam-policy",
+    "href": "courses/477/syllabus.html#make-up-exam-policy",
+    "title": "KIN 477: Motor Development",
+    "section": "Make-Up Exam Policy",
+    "text": "Make-Up Exam Policy\nUnless the student has discussed the situation with the instructor before the assignment’s due date and an arrangement has been made, a missed assignment will result in a grade of zero. Note that making “arrangements” will only be possible given the student provides a valid and written excuse from a reputable source."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#late-assignments",
+    "href": "courses/477/syllabus.html#late-assignments",
+    "title": "KIN 477: Motor Development",
+    "section": "Late Assignments",
+    "text": "Late Assignments\nUnless you have made previous arrangements, a late assignments will be docked off 5% per day (first 4 days) it is late. All assignments are closed after the 4th day."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#extra-credit",
+    "href": "courses/477/syllabus.html#extra-credit",
+    "title": "KIN 477: Motor Development",
+    "section": "Extra Credit",
+    "text": "Extra Credit\nWith the exception of the extra 5 points awarded to the final video performance - LINK (either juggling or cup stacking), there is no individual extra credit granted."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#sec-disabilities-policy",
+    "href": "courses/477/syllabus.html#sec-disabilities-policy",
+    "title": "KIN 477: Motor Development",
+    "section": "Disabilities Policy",
+    "text": "Disabilities Policy\nFederal law mandates the provision of services at the university-level to qualified students with disabilities.\nThis instructor, in conjunction with California State University Northridge, is committed to upholding and maintaining all aspects of the federal Americans with Disabilities Act of 1990 (ADA) and Section 504 of the Rehabilitation Act of 1973. If you are a student with a disability and wish to request accommodations, please contact the office of Students with Disabilities Resources located in 110 Student Services Building, or call (818) 677-2684 for an appointment. Any information regarding your disability will remain confidential. Because many accommodations require early planning, requests for accommodations should be made as early as possible. Any requests for accommodations will be reviewed in a timely manner to determine their appropriateness to this setting."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#academic-dishonesty-policy",
+    "href": "courses/477/syllabus.html#academic-dishonesty-policy",
+    "title": "KIN 477: Motor Development",
+    "section": "Academic Dishonesty Policy",
+    "text": "Academic Dishonesty Policy\nPlease, stop and read the information below; this is important!\nEach student is expected to be familiar with, and abide by, the conditions of student conduct, as presented in the CSUN Catalog, with emphasis on sections entitled, Student Conduct Code, Academic Dishonesty, Faculty Policy on Academic Dishonesty, and Penalties. Any student engaging in academic dishonesty (e.g., cheating, fabrication, facilitating academic dishonesty, plagiarism) is subject to discipline, which may include a failing grade in the course, and may also be subject to more severe discipline by the University. Students are encouraged to visit the link below and become familiar with the Standards for Student Conduct.\nhttp://www.csun.edu/a&r/soc/studentconduct.html"
+  },
+  {
+    "objectID": "courses/477/syllabus.html#quizzes",
+    "href": "courses/477/syllabus.html#quizzes",
+    "title": "KIN 477: Motor Development",
+    "section": "Quizzes",
+    "text": "Quizzes\nQuizzes will be administered via Canvas and will assess the student’s understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, collaboration with other students is not allowed.\nHere are some other useful information about quizzes:\n\nWhen taking quizzes, the questions will appear one at a time and locked after being answered. Thus, students are not allowed to go back and review answers after saving each question.\nCorrect answers will only be shown to students after the deadline of each quiz.\nRefer to Canvas and the course sequence for due dates. Please, avoid waiting until the “last minute” to take the quiz. Taking the quizzes earlier will give you enough time to troubleshoot potential technical problems; therefore, plan accordingly.\nYou will be given a single attempt on each quiz. This means you need to study the material before taking each quiz. All quizzes are timed. Students will be given 20 minutes to finish and submit a quiz.\nA quiz will only start if the student has a JavaScript-enabled web-browser. Contact CSUN IT should you run into technical issues when taking quizzes.\nOnce opened, a quiz will appear in a full-screen pop-up window that covers all the other windows and has no navigation control\nIt should be noted that the content of each quiz belongs to McGraw Hill (the publisher of our text). Therefore, federal copyright laws prohibit the dissemination of this material. It includes, but is not limited to, posting the quiz online and/or sharing the quiz with someone outside of the classroom."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#online-discussions",
+    "href": "courses/477/syllabus.html#online-discussions",
+    "title": "KIN 477: Motor Development",
+    "section": "Online Discussions",
+    "text": "Online Discussions\nYou will be required to complete several online discussions while taking this course. The details about each discussion topic will be provided on Canvas. Typically, there are two deadlines for this assignment. First, you need to answer the question I post (deadline 1), then respond to your classmates’ posts (deadline 2). Refer to our Class Schedule in Canvas."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#exams",
+    "href": "courses/477/syllabus.html#exams",
+    "title": "KIN 477: Motor Development",
+    "section": "Exams",
+    "text": "Exams\nYou will be required to take two exams when taking this course."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#labs",
+    "href": "courses/477/syllabus.html#labs",
+    "title": "KIN 477: Motor Development",
+    "section": "Labs",
+    "text": "Labs\nYou will be required to complete two labs by the end of the term."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#major-takeaways",
+    "href": "courses/477/syllabus.html#major-takeaways",
+    "title": "KIN 477: Motor Development",
+    "section": "Major Takeaways",
+    "text": "Major Takeaways\nYou will be evaluated on your preparedness by submitting an assignment before each class."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#how-to-access-our-course-and-get-started",
+    "href": "courses/477/syllabus.html#how-to-access-our-course-and-get-started",
+    "title": "KIN 477: Motor Development",
+    "section": "How to Access our Course and Get Started",
+    "text": "How to Access our Course and Get Started\n\nLog into Canvas: https://canvas.csun.edu\nUnder “My Courses,” locate our course and click on it.\nThis will take you to the course home page."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#technology-requirements-and-support",
+    "href": "courses/477/syllabus.html#technology-requirements-and-support",
+    "title": "KIN 477: Motor Development",
+    "section": "Technology Requirements and Support:",
+    "text": "Technology Requirements and Support:\n\nA computer and access to the internet (reliable connection)\nGoogle Chrome (web browser)\nA device to record video (phone, tablet, or laptop)"
+  },
+  {
+    "objectID": "courses/477/syllabus.html#what-i-expect-of-you",
+    "href": "courses/477/syllabus.html#what-i-expect-of-you",
+    "title": "KIN 477: Motor Development",
+    "section": "What I Expect of You:",
+    "text": "What I Expect of You:\n\nOnline classes are deceiving. Many times new online learners expect them to be easier than face-to-face classes and are surprised to learn how time intensive they are.\nPlan your schedule to ensure you have approximately 10 hours per week to spend on this class and take time to identify where and when you’ll do your learning.\nReview the due dates for the assignments (see Calendar) to orient yourself to the flow of the learning. 4. This course requires regular engagement throughout each week. Plan to reserve a few hours each day to practice the skill you selected for the Learning Task assignment."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#online-etiquette",
+    "href": "courses/477/syllabus.html#online-etiquette",
+    "title": "KIN 477: Motor Development",
+    "section": "Online Etiquette",
+    "text": "Online Etiquette\nAll learners in this course will expect to abide by our community ground rules (see below).\nGround Rules: In an effort to ensure our learning community develops, thrives and sustains throughout our time together, the following ground rules will be in effect at all times.\n\nConsider yourself a member of a community. A community is a group of individuals who work together to support a common goal or interest. We are working together to support the successful achievement of our learning outcomes.\nLog-in and participate regularly to group conversations and activities.\nTreat the diverse contributions made by other community members with respect.\nHave patience and a sense of humor with technology.\nBe a learner. Keep an open mind when introduced to new ideas that may challenge your perceptions.\nAsk for help when you need it, and assist others when possible.\nUnderstand that communications shared through text have a higher likelihood of being misinterpreted than words that are spoken. Therefore, when you type a thought or a comment, read it carefully before you submit it. If you question the way it is worded, read it out loud to yourself. If you still question the way it’s phrased, rewrite it.\nContribute regularly to group dialogue, including discussion posts and replies. The contributions of each individual plays a role in the collective strength and diversity of our community.\nIf, at any time, you feel that any of these ground rules has been violated by a member of our community, you are encouraged to bring your concern directly and immediately to Dr. Furtado. Clearly identify which ground rule has been violated and include specific evidence of the violation in your e-mail or phone call. Your concerns will be addressed promptly and in an individualized manner."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#disability-resources-available",
+    "href": "courses/477/syllabus.html#disability-resources-available",
+    "title": "KIN 477: Motor Development",
+    "section": "Disability Resources Available",
+    "text": "Disability Resources Available\nThe California State University does not discriminate on the basis of disability in admission or access to, or treatment or employment in, its programs and activities. Sections 504 and 508 of the Rehabilitation Act of 1973, the Americans with Disabilities Act of 1990, and various state laws prohibit such discrimination. If you need extra assistance with aspects of this course, please contact the Disability Resources and Educational Services (DRES) or the National Center on Deafness (NCOD). Reasonable and effective accommodations and services will be provided to students if the requests are made in a timely manner and with appropriate documentation in accordance with federal, state, and university guidelines. Please let me know if you need further information or assistance from me in order to facilitate your learning experience. If you would like to discuss your approved accommodation with me, please let me know and we can set up a virtual appointment."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#additional-campus-resources-and-support",
+    "href": "courses/477/syllabus.html#additional-campus-resources-and-support",
+    "title": "KIN 477: Motor Development",
+    "section": "Additional Campus Resources and Support",
+    "text": "Additional Campus Resources and Support\nCSUN has a range of resources to support your academic goals, engagement with campus activities and physical and mental health. I encourage you to browse the links below throughout the semester and the rest of your time at CSUN. Please let me know if you would like additional information on any of the resources below. These links are also included on the Canvas site."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#academic-and-technical-resources",
+    "href": "courses/477/syllabus.html#academic-and-technical-resources",
+    "title": "KIN 477: Motor Development",
+    "section": "Academic and Technical Resources",
+    "text": "Academic and Technical Resources\n\nUniversity Library for browsing of books, articles, media and additional academic resources.\nLearning Resource Center offers tutoring, a writing center, & more.\nDisabilities Resource Educational Services (DRES) for assistance with accommodations.\nCSUN Information Technology (IT) for technology support with Canvas and software related issues. Their office is open for calls/chat M-F from 8am-5pm PST.\nCSUN’s Accessibility Policy for more information on CSUN’s goal to ensure that campus communication and information technology is accessible to everyone.\nUniversity Library Open Educational Resources (OER) for affordable Health Science textbooks and educational resources."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#additional-campus-and-community-resources",
+    "href": "courses/477/syllabus.html#additional-campus-and-community-resources",
+    "title": "KIN 477: Motor Development",
+    "section": "Additional Campus and Community Resources",
+    "text": "Additional Campus and Community Resources\n\nClubs and Campus Facilities\n\nOasis Wellness Center for a welcoming destination where students can find serenity and relaxation, including meditation, massages, and workshops focused on managing stress.\nKlotz Student Health Center offering medical services, including Telehealth appointments.\nStudent Recreation Center (SRC) for exercise and leisure activity that promotes wellness.\nCareer Center for career, internship and job resources, resume writing, interview help & more.\nUSU for a variety of services including lactation space, veterans’ resources, and more.\nAssociated Students providing programs designed to enhance the campus environment.\nFinancial Aid & Scholarships offers aid for applications.\n\n\n\nAdditional Resources\n\nCSUN with A HEART for valuable information that will connect you to various resources regarding the basic needs of students in the CSUN campus community.\nFood Pantry at CSUN providing food and toiletries for CSUN students in need.\nUniversity Counseling Center offering free short term counseling services to students, including individual counseling, crisis intervention, group and workshops, and more.\nPride Center supporting LGBTQIA+ students through programming and outreach.\nOffice of Equity and Diversity supporting CSUN’s commitment to maintaining an environment where no member of the campus community is subjected to any form of prohibited discrimination in any University program or activity.\nHelp lines (after hours when the University Counseling is closed) for numerous topics/needs including suicide, drug help, rape or sexual assault, other crisis or urgent concerns and more.\nEmergency MataCare grants, one-time grants to prevent evictions, urgent childcare issues, etc."
+  },
+  {
+    "objectID": "courses/477/sequence.html",
+    "href": "courses/477/sequence.html",
+    "title": "Dr. Furtado",
+    "section": "",
+    "text": "Course Sequence\n\n\n\n\n\n\n\n\nModule\nDate1\nReading2\nAssignments3\n\n\n\n\n01\n08/29/22\n08/31/22\nCourse Intro & Syllabus\nDiscussion 1\n\n\n02\n09/05/22 (no class)\n09/07/22\nChapter 1: Fundamental Concepts\nQuiz CH1; Major Takeaways\n\n\n03\n09/12/22\n09/14/22\nChapter 2: Theoretical Perspectives\nQuiz CH2; Major Takeaways; Discussion 2\n\n\n04\n09/19/22\n09/21/22\nChapter 3: Principles of Motion and Stability\nQuiz CH3; Major Takeaways\n\n\n05\n09/26/22\n09/28/22\nChapter 4: Physical Growth, Maturation and Aging\nQuiz CH4; Major Takeaways; Discussion 3\n\n\n06\n10/03/22\n10/05/22\nChapter 5: Development and Aging of Body Systems\n5.1 Skeletal System (pgs. 70-74)\n5.2 Adipose System (pgs. 77-79)\n5.3 Nervous System (pgs. 81-87)\nQuiz CH5; Major Takeaways\n\n\n07\n10/10/22\n10/12/22\nChapter 6: Early Motor Development\nQuiz CH6; Major Takeaways\n\n\n08\n10/17/22\n10/19/22\nChapter 7: Development of Human Locomotion\nQuiz CH7; Major Takeaways\n\n\n\n10/24/22\n10/26/22\nExam 1\nStudy previously covered chapters\n\n\n09\n10/31/22\n11/01/22\nChapter 8: Development of Ballistic Skills (Manipulative Skills)\nQuiz CH8; Major Takeaways\n\n\n10\n11/07/22\n11/09/22\nLabs 1 and 2\nDiscussion 4\n\n\n11\n11/14/22\n11/16/22\nChapter 12: Social and Cultural Constraints in Motor Development\nQuiz CH12; Major Takeaways; Homework 3\n\n\n12\n11/21/22\n11/23/22\nChapter 13: Psychosocial Constraints in Motor Development\nQuiz CH13; Major Takeaways\n\n\n13\n11/28/22\n11/30/22\n\nChapter 16: Development of Strength and Flexibility\nQuiz CH16; Major Takeaways\n\n\n14\n12/05/22\n12/07/22\nChapter 17: Development of Body Composition\nQuiz CH17; Major Takeaways\n\n\n\n12/14/22\n8-10 am\nExam 2\nStudy previously covered chapters following Exam 1\n\n\n\n\n\n\n\nFootnotes\n\n\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nStudents are expected to read and study the assigned chapters prior to attending each class meeting.↩︎\nQuizzes and Discussions are due Sunday 11:59 pm. (after the content is covered). Major takeaways are due on Monday (before the content is covered). Refer to the syllabus for assignments detailed information.↩︎"
+  },
+  {
+    "objectID": "courses/477/index.html",
+    "href": "courses/477/index.html",
+    "title": "KIN 377: Motor Learning",
+    "section": "",
+    "text": "Course description\nStudy of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice."
   }
 ]

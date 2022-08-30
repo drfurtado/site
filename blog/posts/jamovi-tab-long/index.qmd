@@ -16,13 +16,18 @@ bibliography: biblio.bib
 
 ### Motivation
 
-This post shows two different ways to format descriptive tables in jamovi.
+This post[^1] shows two different ways to format descriptive tables in jamovi.
+
+[^1]:
+    ```{=html}
+    Illustration by <a href="https://icons8.com/illustrations/author/TQQ1qAnr9rn5">Oleg Shcherba</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+    ```
 
 ### Understanding the problem
 
-When creating `descriptive tables` in jamovi[^1] , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.
+When creating `descriptive tables` in jamovi[^2] , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.
 
-[^1]: Click [here](https://www.jamovi.org) to learn more about jamovi.
+[^2]: Click [here](https://www.jamovi.org) to learn more about jamovi.
 
 Below are two examples of descriptive tables generated in `jamovi`. @fig-column shows a table with variables across columns and @fig-row shows a table with variables across rows.
 

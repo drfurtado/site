@@ -287,3 +287,6 @@ Because `Practice` has more than two levels, we need to perform further analysis
 ![](images/paste-5A781282.png)
 
 ![](images/paste-EB5B8673.png){width="450"}
+
+``` {#refs}
+```
