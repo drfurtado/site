@@ -15,6 +15,25 @@ span.underline{text-decoration: underline;}
 div.column{display: inline-block; vertical-align: top; width: 50%;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+}
+.hanging div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}
 </style>
 
 
@@ -277,7 +296,7 @@ Warning
 <li><p>Use various methodologies and levels of analyses (e.g.&nbsp;product scores, growth measures, developmental sequences, or kinematics) to study motor development. SLO 1, 2</p></li>
 <li><p>Describe various forms of motor behaviors at various points on the life span and the nature and relation of these behaviors. SLO 1, 4&nbsp;</p></li>
 <li><p>Compare and contrast intra- and inter-task developmental sequences of motor skills. SLO 2, 4&nbsp;</p></li>
-<li><p>Interpret an individual's motor behavior as "more" or "less" advanced on a developmental continuum rather than as "good" or "bad." SLO 4</p></li>
+<li><p>Interpret an individual’s motor behavior as “more” or “less” advanced on a developmental continuum rather than as “good” or “bad.” SLO 4</p></li>
 <li><p>Employ principles of motion and stability to analyze quality of motor skill performance. SLO 1, 2, 3, 4&nbsp;</p></li>
 <li><p>Compare and contrast movement characteristics of various fundamental or functional movement skills across diverse populations, including various age groups, healthy individuals, and people with disabilities or special needs. SLO 1, 2, 3, 4</p></li>
 </ol>
@@ -532,7 +551,7 @@ Important
 </section>
 <section id="class-sequence" class="level1">
 <h1>Class Sequence</h1>
-<p>Textbook: Haywood &amp; Getchell</p>
+<p>Textbook: Haywood &amp; Getchell<span class="citation" data-cites="haywood2019"><sup>[<a href="#ref-haywood2019" role="doc-biblioref">1</a>]</sup></span></p>
 <table class="table">
 <caption>Course Sequence</caption>
 <colgroup>
@@ -670,10 +689,15 @@ Important
 </table>
 
 
+
 </section>
 
 
-<div id="quarto-appendix" class="default"><section class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
+<div id="ref-haywood2019" class="csl-entry" role="doc-biblioentry">
+1. Haywood, K. M., &amp; Getchell, N. (2019). <em>Life span motor development</em> (Seventh edition). Human Kinetics.
+</div>
+</div></section><section class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1" role="doc-endnote"><p>Class Dates: Aug 29, 2022 - Dec 12, 2022<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
@@ -789,8 +813,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
-          // target, if specified
-          link.setAttribute("target", "_blank");
           // default icon
           link.classList.add("external");
       }

@@ -5,7 +5,6 @@ bibliography: references.bib
 csl: apa-numeric-superscript-brackets.csl
 citations-hover: true
 link-external-icon: true
-link-external-newwindow: true
 links-as-notes: true
 ---
 
