@@ -1,20 +1,19 @@
 ---
 title: "Do you have a developmental perspective?"
 author: Ovande Furtado Jr
-citation: true
 citation-location: document
 bibliography: ../references.bib
 csl: ../apa-numeric-superscript-brackets.csl
 format: 
   revealjs:
     incremental: false
-    preview-links: true
+    preview-links: false
     controls: true
     menu: false
     footer: "Do you have a developmental perspective?"
     controls-tutorial: true
     link-external-icon: true
-    link-citations: true
+    link-citations: false
     link-external-newwindow: true
     progress: true
     footnotes-hover: true
@@ -24,7 +23,7 @@ format:
 
 To help kinesiology students find out whether they have a developmental perspective when observing individuals while performing motor skills.
 
-> A developmental perspective is essential to our understanding of movement and mobility. A person's motor behavior position at any point in his life reflects his past movement experiences and presages his future ones @clark2005.
+> A developmental perspective is essential to our understanding of movement and mobility. A person's motor behavior position at any point in his life reflects his past movement experiences and presages his future ones [@clark2005].
 
 **Click on the right arrow to move to the next slide.**
 
@@ -34,39 +33,39 @@ You will be presented with 9 questions @woodland2008a. Please, read carefully ea
 
 **Click on the right arrow to move to the next slide.**
 
-# Question 1
+# Question 1 {background-color="aquamarine"}
 
 A second grade class is given a running test at the beginning of the school year and again at the end of the year. Most of the children are running faster at the end of the year. Are the children more fit at the end of the year? Are they more skilled runners at the end of the year?
 
-# Question 2
+# Question 2 {background-color="aquamarine"}
 
 An eight- year old boy throws a ball for distance keeping his trunk motionless. Is his throwing motion wrong? Should this eight-year-old's physical education teacher or coach show him how to throw correctly?
 
-# Question 3
+# Question 3 {background-color="aquamarine"}
 
 Will an 18 year-old college student who has an immature throwing pattern learn to hit a full motion topspin tennis serve in an 8-week class?
 
-# Question 4
+# Question 4 {background-color="aquamarine"}
 
 A soccer unit planned for 6th graders is used for 8th graders with very little adjustment. Is this a developmentally appropriate practice?
 
-# Question 5
+# Question 5 {background-color="aquamarine"}
 
 Will 4th grade students who can perform soccer dribble, kick, and pass skills during drills be able to able to play a game successfully?
 
-# Question 6
+# Question 6 {background-color="aquamarine"}
 
 Some 7th graders in your classes are very good at playing full-court basketball games. Other students are not. To keep the well-skilled students challenged, should you have everyone play a full-court game during part of the class period?
 
-# Question 7
+# Question 7 {background-color="aquamarine"}
 
 Will a young child learn to swim more easily than an adult?
 
-# Question 8
+# Question 8 {background-color="aquamarine"}
 
 Is it easier to teach an elementary child new skills than it is a teenager?
 
-# Question 9
+# Question 9 {background-color="aquamarine"}
 
 Do older adults learn motor skills more slowly than children or younger adults ?
 
@@ -78,11 +77,11 @@ If you answered YES to **ANY** question, you may **NOT** have a "developmental p
 
 To answer that question let's look at the opening questions again...
 
-# Question 1 - revisted
+# Question 1 - revisited {background-color="blue"}
 
 A second grade class is given a running test at the beginning of the school year and again at the end of the year. Most of the children are running faster at the end of the year. Are the children more fit at the end of the year? Are they more skilled runners at the end of the year?
 
-# Answer to Question 1 {.smaller}
+# Answer to Question 1  {.smaller}
 
 **Development is qualitative**
 
@@ -93,7 +92,7 @@ A second grade class is given a running test at the beginning of the school year
 5)  Thus their improvement on the running test may be a result of development;
 6)  They may or may not be more fit, but they are certainly are more mature.
 
-# Question 2 -revisited
+# Question 2 - revisited {background-color="blue"}
 
 An eight- year old boy throws a ball for distance keeping his trunk motionless. Is his throwing motion wrong? Should this eight-year-old's physical education teacher or coach show him how to throw correctly?
 
@@ -104,7 +103,7 @@ An eight- year old boy throws a ball for distance keeping his trunk motionless. 
 1)  The throwing pattern is more characteristic of a 3- or 4-year-old. For an 8-year old, this action would be considered developmentally lagging, but it is not wrong.
 2)  The physical educator with a developmental perspective is mindful that motor performance of children should not be evaluated using the "adult model" or "error correction model." From the developmental perspective, the boy's teacher should help him develop a mature motor pattern rather than correct an erroneous one.
 
-# Question 3 - revisted
+# Question 3 - revisted {background-color="blue"}
 
 Will an 18 year-old college student who has an immature throwing pattern learn to hit a full motion topspin tennis serve in an 8-week class?
 
@@ -121,7 +120,7 @@ Will an 18 year-old college student who has an immature throwing pattern learn t
 
 -   If not proficient in those skills, cannot become proficient in tennis serve
 
-# Question 4 - revisited
+# Question 4 - revisited {background-color="blue"}
 
 A soccer unit planned for 6th graders is used for 8th graders with very little adjustment. Is this a developmentally appropriate practice?
 
@@ -133,7 +132,7 @@ A soccer unit planned for 6th graders is used for 8th graders with very little a
 2)  Development follows a general pattern
 3)  We should build our programs and activities around those sequential changes and build on past experiences from year to year
 
-# Question 5 - revisited
+# Question 5 - revisited {background-color="blue"}
 
 Will 4th grade students who can perform soccer dribble, kick, and pass skills during drills be able to able to play a game successfully?
 
@@ -147,7 +146,7 @@ Will 4th grade students who can perform soccer dribble, kick, and pass skills du
 4)  Are they socially ready for competition?
 5)  Many factors weigh in on their readiness for game play
 
-# Question 6 - revisited
+# Question 6 - revisited {background-color="blue"}
 
 Some 7th graders in your classes are very good at playing full-court basketball games. Other students are not. To keep the well-skilled students challenged, should you have everyone play a full-court game during part of the class period?
 
@@ -164,7 +163,7 @@ Some 7th graders in your classes are very good at playing full-court basketball 
 4)  Individualize workloads and learning activities
 5)  Time is a great way to individualize workload
 
-# Question 7 - revisited
+# Question 7 - revisited {background-color="blue"}
 
 Will a young child learn to swim more easily than an adult?
 
@@ -174,7 +173,7 @@ Will a young child learn to swim more easily than an adult?
 
 A child that is very afraid of the water may find learning to swim much more difficult than an eager, cooperative adult.
 
-# Question 8 - revisted
+# Question 8 - revisted {background-color="blue"}
 
 Is it easier to teach an elementary child new skills than it is a teenager?
 
@@ -184,7 +183,7 @@ Is it easier to teach an elementary child new skills than it is a teenager?
 
 Although a child is often eager to learn, if the child isn't developmentally ready he/she will not master the new skill.
 
-# Question 9 - revisited
+# Question 9 - revisited {background-color="blue"}
 
 Do older adults learn motor skills more slowly than children or younger adults ?
 

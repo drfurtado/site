@@ -1,0 +1,15 @@
+---
+title: "Assignments"
+---
+
+Find below the assignments associated with this course.
+
+## Discussions
+
+### Do you have a developmental perspective?
+
+**Purpose**: to verify whether students have a "developmental perspective in mind" when observing movement.
+
+Instructions: After clicking on the link below, go through the self-paced online slides. Answer all the prompted questions (YES/NO) as you move through the slides. I suggest you to write down your answers on a piece of paper.
+
+[Click here to get started](devpers.qmd)

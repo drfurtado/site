@@ -1,3 +1,7 @@
 ---
 title: "KIN 477: Motor Development"
 ---
+
+*Prerequisite: [KIN 377](https://catalog.csun.edu/academics/kin/courses/kin-377l/) or instructor permission. Corequisite: [KIN 478](https://catalog.csun.edu/academics/kin/courses/kin-478/).*
+
+Study of age-related changes in motor skills, the processes that underlie these changes, and the factors that influence them. Available for graduate credit.

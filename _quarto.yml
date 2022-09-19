@@ -21,6 +21,9 @@ website:
           - text: "KIN 377"
             icon: "intersect"
             href: courses/377/index.qmd
+          - text: "KIN 477"
+            icon: "book"
+            href: courses/477/index.qmd
       - text: "Blog"
         href: blog/index.qmd
   
@@ -52,6 +55,17 @@ website:
           href: courses/377/index.qmd
         - text: "Syllabus"
           href: courses/377/syllabus.qmd
+          
+    - id: 477-intro
+      collapse-level: 1
+      style: "docked"
+      contents:
+        - text: "KIN 477 Intro"
+          href: courses/477/index.qmd
+        - text: "Syllabus"
+          href: courses/477/syllabus.qmd
+        - text: "Assignments"
+          href: courses/477/assig/index.qmd
 format:
   html:
     theme: cosmo

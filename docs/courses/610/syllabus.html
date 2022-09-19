@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.0.38">
+<meta name="generator" content="quarto-1.1.251">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -11,10 +11,15 @@
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
-span.underline{text-decoration: underline;}
-div.column{display: inline-block; vertical-align: top; width: 50%;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
 div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
 ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1.6em;
+  vertical-align: middle;
+}
 div.csl-bib-body { }
 div.csl-entry {
   clear: both;
@@ -84,9 +89,11 @@ div.csl-indent {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <a class="navbar-brand" href="../../index.html">
+      <div class="navbar-brand-container">
+    <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Dr.&nbsp;Furtado</span>
-  </a>
+    </a>
+  </div>
           <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
@@ -107,6 +114,11 @@ div.csl-indent {
     <a class="dropdown-item" href="../../courses/377/index.html"><i class="bi bi-intersect" role="img">
 </i> 
  <span class="dropdown-text">KIN 377</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../../courses/477/index.html"><i class="bi bi-graph-up" role="img">
+</i> 
+ <span class="dropdown-text">KIN 610</span></a>
   </li>  
     </ul>
   </li>
@@ -182,7 +194,7 @@ div.csl-indent {
 </nav>
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc">
+        <nav id="TOC" role="doc-toc" class="toc-active">
     <h2 id="toc-title">On this page</h2>
    
   <ul>
@@ -611,100 +623,100 @@ Important
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="../../courses/610/les01.html">Lesson01</a></td>
+<td><a href="../../courses/610/les01.html">Lesson 01</a></td>
 <td>08/29/22</td>
 <td>Course Intro &amp; Data Collection</td>
 <td>Read and study the syllabus</td>
 </tr>
 <tr class="even">
-<td><a href="../../courses/610/les02.html">Lesson02</a></td>
+<td><a href="../../courses/610/les02.html">Lesson 02</a></td>
 <td>09/05/22</td>
 <td>Ch01: Measurement, Statistics, and Research</td>
 <td>Quiz 1; Major Takeaways</td>
 </tr>
 <tr class="odd">
-<td><a href="../../courses/610/les03.html">Lesson03</a></td>
+<td><a href="../../courses/610/les03.html">Lesson 03</a></td>
 <td>09/12/22</td>
 <td>Ch02: Organizing and Displaying Data<br>
 Ch03: Percentiles</td>
 <td>Quiz 2; Major Takeaways</td>
 </tr>
 <tr class="even">
-<td><a href="../../courses/610/les04.html">Lesson04</a></td>
+<td><a href="../../courses/610/les04.html">Lesson 04</a></td>
 <td>09/19/22</td>
 <td>Ch04: Measures of Central Tendency<br>
 Ch05: Measures of Variability</td>
 <td>Quiz 3; Major Takeaways</td>
 </tr>
 <tr class="odd">
-<td><a href="../../courses/610/les05.html">Lesson05</a></td>
+<td><a href="../../courses/610/les05.html">Lesson 05</a></td>
 <td>09/26/22</td>
 <td>Ch06: The Normal Curve<br>
 </td>
-<td>Quiz 4; Major Takeaways; <a href="../../courses/610/assig/hw01.html">Homework 1</a></td>
+<td>Quiz 4; Major Takeaways; Homework 1</td>
 </tr>
 <tr class="even">
-<td><a href="../../courses/610/les06.html">Lesson06</a></td>
+<td><a href="../../courses/610/les06.html">Lesson 06</a></td>
 <td>10/03/22</td>
 <td>Ch07: Fundamentals of Statistical Inference</td>
 <td>Quiz 5; Major Takeaways</td>
 </tr>
 <tr class="odd">
-<td><a href="../../courses/610/les07.html">Lesson07</a></td>
+<td><a href="../../courses/610/les07.html">Lesson 07</a></td>
 <td>10/10/22</td>
 <td>Ch08: Correlation and Bivariate Regression</td>
 <td>Quiz 6; Major Takeaways</td>
 </tr>
 <tr class="even">
-<td><code>Exam 1</code></td>
+<td><a href="../../courses/610/les08.html">Lesson 08</a></td>
 <td>10/17/22</td>
 <td>Ch09: Multiple Correlation and Multiple Regression<br>
 </td>
 <td>Quiz 7; Major Takeaways; Homework 2</td>
 </tr>
 <tr class="odd">
-<td><a href="../../courses/610/les08.html">Lesson08</a></td>
-<td>10/24/22</td>
-<td>Previously covered chapters</td>
+<td><code>Exam 1</code></td>
+<td><strong>10/24/22</strong></td>
+<td><strong>Previously covered chapters</strong></td>
 <td>na</td>
 </tr>
 <tr class="even">
-<td><a href="../../courses/610/les09.html">Lesson09</a></td>
+<td><a href="../../courses/610/les09.html">Lesson 09</a></td>
 <td>10/31/22</td>
 <td>Ch10: The Student’s <em>t</em>-test<br>
 </td>
 <td>Quiz 8; Major Takeaways</td>
 </tr>
 <tr class="odd">
-<td><a href="../../courses/610/les10.html">Lesson10</a></td>
+<td><a href="../../courses/610/les10.html">Lesson 10</a></td>
 <td>11/07/22</td>
 <td>Ch11: Simple Analysis of Variance<br>
 </td>
 <td>Quiz 9; Major Takeaways</td>
 </tr>
 <tr class="even">
-<td><a href="../../courses/610/les11.html">Lesson11</a></td>
+<td><a href="../../courses/610/les11.html">Lesson 11</a></td>
 <td>11/14/22</td>
 <td>Ch12: Analysis of Variance With Repeated Measures<br>
 </td>
 <td>Quiz 10; Major Takeaways; Homework 3</td>
 </tr>
 <tr class="odd">
-<td><a href="../../courses/610/les12.html">Lesson12</a></td>
+<td><a href="../../courses/610/les12.html">Lesson 12</a></td>
 <td>11/21/22</td>
 <td>Ch14: Factorial Analysis of Variance<br>
 </td>
 <td>Quiz 11; Major Takeaways</td>
 </tr>
 <tr class="even">
-<td><a href="../../courses/610/les13.html">Lesson13</a></td>
+<td><a href="../../courses/610/les13.html">Lesson 13</a></td>
 <td>11/28/22</td>
 <td>Ch15: Analysis of Covariance<br>
 </td>
 <td>Quiz 11; Major Takeaways</td>
 </tr>
 <tr class="odd">
-<td><a href="../../courses/610/les14.html">Lesson14</a></td>
+<td><a href="../../courses/610/les14.html">Lesson 14</a></td>
 <td>12/05/22</td>
 <td>Ch16: Analysis of Nonparametric Data<br>
 </td>
@@ -720,13 +732,20 @@ Ch05: Measures of Variability</td>
 </table>
 </section>
 <section id="references" class="level2">
-<h2 class="anchored" data-anchor-id="references">References</h2>
-<div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
+
+
+
+
+</section>
+</section>
+
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-line-spacing="2" role="doc-bibliography">
 <div id="ref-weir2021" class="csl-entry" role="doc-biblioentry">
 1. Weir, J. P., &amp; Vincent, W. J. (2021). <em>Statistics in Kinesiology</em>. Human Kinetics. <a href="https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource">https://us.humankinetics.com/products/statistics-in-kinesiology-5th-edition-with-web-resource</a>
 </div>
 <div id="ref-universi2014" class="csl-entry" role="doc-biblioentry">
-2. <em>Universität düsseldorf: g*power</em>. (2014). <a href="http://www.gpower.hhu.de/en.html">http://www.gpower.hhu.de/en.html</a>
+2. <em>Universität düsseldorf: g*power</em>. (2014). [Computer software]. <a href="http://www.gpower.hhu.de/en.html">http://www.gpower.hhu.de/en.html</a>
 </div>
 <div id="ref-faul2007" class="csl-entry" role="doc-biblioentry">
 3. Faul, F., Erdfelder, E., Lang, A.-G., &amp; Buchner, A. (2007). G*Power 3: a flexible statistical power analysis program for the social, behavioral, and biomedical sciences. <em>Behavior research methods</em>, <em>39</em>(2), 175–191.
@@ -734,21 +753,14 @@ Ch05: Measures of Variability</td>
 <div id="ref-thejamoviproject2021" class="csl-entry" role="doc-biblioentry">
 4. The jamovi project. (2021). <em>Jamovi</em>. <a href="Retrieved from https://www.jamovi.org">Retrieved from https://www.jamovi.org</a>
 </div>
-</div>
-
-
-</section>
-</section>
-
-
-<div id="quarto-appendix" class="default"><section class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
-<li id="fn1" role="doc-endnote"><p>Class Dates: Aug 29, 2022 - Dec 12, 2022<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn2" role="doc-endnote"><p>Students are expected to read and study the assigned chapters prior to attending each class meeting.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn3" role="doc-endnote"><p>Class Dates: Aug 29, 2022 - Dec 12, 2022<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn4" role="doc-endnote"><p>Students are expected to read and study the assigned chapters prior to attending each class meeting.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-<li id="fn5" role="doc-endnote"><p>Unless stated otherwise, all assignments are due before class. Refer to the <a href="../../courses/610/syllabus.html">syllabus</a> for assignments detailed information.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn1"><p>Class Dates: Aug 29, 2022 - Dec 12, 2022<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn2"><p>Students are expected to read and study the assigned chapters prior to attending each class meeting.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn3"><p>Class Dates: Aug 29, 2022 - Dec 12, 2022<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn4"><p>Students are expected to read and study the assigned chapters prior to attending each class meeting.<a href="#fnref4" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+<li id="fn5"><p>Unless stated otherwise, all assignments are due before class. Refer to the <a href="../../courses/610/syllabus.html">syllabus</a> for assignments detailed information.<a href="#fnref5" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
 </section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -820,7 +832,8 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   for (var i=0; i<noterefs.length; i++) {
     const ref = noterefs[i];
     tippyHover(ref, function() {
-      let href = ref.getAttribute('href');
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
