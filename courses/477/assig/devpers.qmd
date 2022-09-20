@@ -3,7 +3,7 @@ title: "Do you have a developmental perspective?"
 author: Ovande Furtado Jr
 citation-location: document
 bibliography: ../references.bib
-csl: ../apa-numeric-superscript-brackets.csl
+csl: ../apa.csl
 format: 
   revealjs:
     incremental: false
@@ -14,6 +14,7 @@ format:
     controls-tutorial: true
     link-external-icon: true
     link-citations: false
+    citations-hover: true
     link-external-newwindow: true
     progress: true
     footnotes-hover: true
@@ -29,7 +30,7 @@ To help kinesiology students find out whether they have a developmental perspect
 
 # Instructions?
 
-You will be presented with 9 questions @woodland2008a. Please, read carefully each question and answer YES or NO. I suggest you to write your answers down.
+You will be presented with 9 questions [@wooland2008]. Please, read carefully each question and answer YES or NO. I suggest you to write your answers down.
 
 **Click on the right arrow to move to the next slide.**
 
@@ -81,7 +82,7 @@ To answer that question let's look at the opening questions again...
 
 A second grade class is given a running test at the beginning of the school year and again at the end of the year. Most of the children are running faster at the end of the year. Are the children more fit at the end of the year? Are they more skilled runners at the end of the year?
 
-# Answer to Question 1  {.smaller}
+# Answer to Question 1 {.smaller}
 
 **Development is qualitative**
 
