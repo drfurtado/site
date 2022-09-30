@@ -24,6 +24,10 @@ csl: apa-numeric-superscript-brackets.csl
 table-striped: true
 ---
 
+------------------------------------------------------------------------
+
+Formats: [HTML](syllabus.html) \| [PDF](syllabus.pdf)
+
 # Instructor Info {#sec-instructor-info}
 
 ## Brief Bio
