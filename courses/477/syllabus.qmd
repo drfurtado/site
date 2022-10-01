@@ -333,6 +333,6 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 
 -   [Emergency MataCare grants](https://www.csun.edu/financialaid/matacare-emergency-grant), one-time grants to prevent evictions, urgent childcare issues, etc.
 
-# Class Sequence
+# Class Sequence {#sec-class-sequence}
 
 {{< include sequence.qmd >}}
