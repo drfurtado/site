@@ -22,23 +22,23 @@ Textbook: Haywood & Getchell @haywood2019
 | 04         | 09/19/22 {{< fa video >}}\       | Chapter 3: Principles of Motion and Stability                    | Quiz CH3; Major Takeaways                          |
 |            | 09/21/22 {{< fa video >}}        |                                                                  |                                                    |
 +------------+----------------------------------+------------------------------------------------------------------+----------------------------------------------------+
-| 05         | 09/26/22 {{< fa video >}}\       | Chapter 4: Early Motor Development                               | Quiz CH4; Major Takeaways; Discussion 3            |
+| 05         | 09/26/22 {{< fa video >}}\       | Chapter 4: Early Motor Development                               | Quiz CH4; Major Takeaways                          |
 |            | 09/28/22 {{< fa video >}}        |                                                                  |                                                    |
 +------------+----------------------------------+------------------------------------------------------------------+----------------------------------------------------+
-| 06         | 10/03/22 {{< fa video >}}\       | Chapter 5: Development of Human Locomotion                       | Quiz CH5; Major Takeaways                          |
+| 06         | 10/03/22 {{< fa video >}}\       | Chapter 5: Development of Human Locomotion                       | Quiz CH5; Major Takeaways; Discussion 3            |
 |            | 10/05/22 {{< fa video >}}        |                                                                  |                                                    |
 +------------+----------------------------------+------------------------------------------------------------------+----------------------------------------------------+
 | 07[^4]     | 10/10/22 {{< fa video >}}\       | Chapter 6: Development of Ballistic Skills                       | Quiz CH6; Major Takeaways                          |
 |            | 10/12/22 {{< fa video >}}        |                                                                  |                                                    |
 |            |                                  | Chapter 7: Development of Manipulative Skills                    | Quiz CH7; Major Takeaways                          |
 +------------+----------------------------------+------------------------------------------------------------------+----------------------------------------------------+
-| 08         | 10/17/22 {{< fa user >}}\        | `Labs 1 and 2`                                                   | Discussion 4                                       |
+| 08         | 10/17/22 {{< fa user >}}\        | `Labs 1 and 2`                                                   |                                                    |
 |            | 10/19/22 {{< fa user >}}         |                                                                  |                                                    |
 +------------+----------------------------------+------------------------------------------------------------------+----------------------------------------------------+
 |            | **10/24/22** {{< fa video >}}**\ | `Exam 1`                                                         | Study previously covered chapters                  |
 |            | 10/26/22** {{< fa user >}}       |                                                                  |                                                    |
 +------------+----------------------------------+------------------------------------------------------------------+----------------------------------------------------+
-| 09         | 10/31/22 {{< fa video >}}\       | Chapter 8: Physical Growth, Maturation and Aging                 | Quiz CH8; Major Takeaways                          |
+| 09         | 10/31/22 {{< fa video >}}\       | Chapter 8: Physical Growth, Maturation and Aging                 | Quiz CH8; Major Takeaways; Discussion 4            |
 |            | 11/01/22 {{< fa video >}}        |                                                                  |                                                    |
 +------------+----------------------------------+------------------------------------------------------------------+----------------------------------------------------+
 | 10         | 11/07/22 {{< fa video >}}\       | Chapter 9: Development and Aging of Body Systems                 | Quiz CH9; Major Takeaways                          |
