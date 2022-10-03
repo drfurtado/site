@@ -64,8 +64,10 @@ website:
           href: courses/477/index.qmd
         - text: "Syllabus"
           href: courses/477/syllabus.qmd
-        - text: "Assignments"
-          href: courses/477/assig/index.qmd
+        - section: "Assignments"
+          contents: 
+            - text: "Discussion 1"
+              href: courses/477/assignments/disc1.qmd
 format:
   html:
     theme: cosmo

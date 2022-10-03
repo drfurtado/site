@@ -1,0 +1,29 @@
+---
+title: "Discussion 2: Gender Differences in FMS"
+subtitle: "KIN 477 - Motor Learning (Dr Furtado)"
+author: "Student's name"
+format:
+  docx:
+    toc: false
+bibliography: ../references.bib
+---
+
+## Submission steps
+
+1.  Using [@spessato2013; @haywood2019, chap. 1], answer the following questions.
+2.  Once done, make a post on Canvas - find this assignment under `Discussions`, and paste the
+
+**What are the potential reasons for the observed differences between boys and girls when performing object-control (OC) and locomotor (LOC) skills?**
+
+Answer: Phasellus laoreet lorem vel dolor tempus vehicula. Idque Caesaris facere voluntate liceret: sese habere. Ab illo tempore, ab est sed immemorabili. Mercedem aut nummos unde unde extricat, amaras. Praeterea iter est quasdam res quas ex communi. Curabitur blandit tempus ardua ridiculus sed magna. Sed haec quis possit intrepidus aestimare tellus. Quisque ut dolor gravida, placerat libero vel, euismod. Plura mihi bona sunt, inclinet, amari petere vellent.
+
+------------------------------------------------------------------------
+
+**What needs to be done to close the gaps?**
+
+Answer: Curabitur blandit tempus ardua ridiculus sed magna. Sed haec quis possit intrepidus aestimare tellus. Quisque ut dolor gravida, placerat libero vel, euismod. Plura mihi bona sunt, inclinet, amari petere vellent. A communi observantia non est recedendum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. A communi observantia non est recedendum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae.
+
+### References
+
+::: refs
+:::

@@ -1,14 +1,8 @@
 ---
-title: "Assignments"
+title: "Do you have a developmental perspective?"
 ---
 
-Find below the assignments associated with this course.
-
-## Discussions
-
-### Do you have a developmental perspective?
-
-#### Purpose
+## Purpose
 
 To verify whether students have a "developmental perspective in mind" when observing movement.
 
@@ -17,15 +11,15 @@ This assignment is divided into two parts; students will:
 1.  self-reflect on whether they have a developmental perspective in mind when observing movement
 2.  observe movement and apply what they have learned in Part 1
 
-#### Instructions
+## Instructions
 
-**Part 1**
+### **Part 1**
 
 After clicking on the link below, go through the self-paced online slides. Answer all the prompted questions (YES/NO) as you move through the slides. I suggest you to write down your answers on a piece of paper.
 
-[Click here to complete Part 1](devpers.qmd)
+[Click here to complete Part 1](disc1-slides.qmd)
 
-**Part 2**
+### **Part 2**
 
 Watch a child performing (see link below) the one-leg hopping for distance. Then, **keeping the "developmental perspective" in mind**, answer the following questions?
 
@@ -37,6 +31,6 @@ Watch a child performing (see link below) the one-leg hopping for distance. Then
 
 [Click here to watch the video](https://mycsunemail-my.sharepoint.com/:v:/g/personal/ovande_furtado_csun_edu/EfZ59wl8wcRMtUhGu31--i8BbucPgh7KCKcKZpVT_YWE9Q?e=QEnbOY)
 
-#### Template
+## Template
 
-[Click here](devpers-temp.qmd) to download the template for this assignment.
+[Click here](disc1-temp.qmd) to download the template for this assignment.

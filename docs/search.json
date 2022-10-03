@@ -109,21 +109,21 @@
     "href": "courses/377/index.html",
     "title": "KIN 377: Motor Learning",
     "section": "",
-    "text": "Course description\nStudy of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice."
+    "text": "KIN 377 is a course I teach at California State Northridge. The course is offered through the Department of Kinesiology and is required by all KIN majors. In addition to fall and spring semesters, KIN 377 is offered through Tseng College during the winter and summer.\nCourse description\nStudy of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice."
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Blog",
     "section": "",
-    "text": "jamovi\n\n\ntables\n\n\n\n\n\n\n\n\n\n\n\nMay 16, 2022\n\n\nOvande Furtado Jr\n\n\n\n\n\n\nNo matching items"
+    "text": "‘Fixing’ long tables in jamovi\n\n\n\n\n\n\n\njamovi\n\n\ntables\n\n\n\n\n\n\n\n\n\n\n\nMay 16, 2022\n\n\nOvande Furtado Jr\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "blog/posts/jamovi-tab-long/index.html",
     "href": "blog/posts/jamovi-tab-long/index.html",
     "title": "‘Fixing’ long tables in jamovi",
     "section": "",
-    "text": "Understanding the problem\nWhen creating descriptive tables in jamovi2 , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.\nBelow are two examples of descriptive tables generated in jamovi. Figure 1 shows a table with variables across columns and Figure 2 shows a table with variables across rows.\nLearn how to choose either format by watching the video at the end of this post.\n\n\n\n\n\n\nTip\n\n\n\nInstead of copying a table from the output, you can export the table as PDF. Some journal articles require authors to save tables as PDF and submit them as separate files.\n\n\n\n\nFigure 1: Descriptive table with variables across columns\n\n\n\n\n\nFigure 2: Descriptive table with variables across rows\n\n\n\n\n\nThe solution\n\n\n\n\n\n\nFootnotes\n\n\nIllustration by Oleg Shcherba from Ouch!\n↩︎\nClick here to learn more about jamovi.↩︎\n\nCitationBibTeX citation:@online{furtadojr2022,\n  author = {Ovande Furtado Jr},\n  title = {“{Fixing}” Long Tables in Jamovi},\n  date = {2022-05-16},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nOvande Furtado Jr. 2022. “‘Fixing’ Long Tables in\nJamovi.” May 16, 2022."
+    "text": "Motivation\nThis post1 shows two different ways to format descriptive tables in jamovi.\n\n\nUnderstanding the problem\nWhen creating descriptive tables in jamovi2 , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.\nBelow are two examples of descriptive tables generated in jamovi. Figure 1 shows a table with variables across columns and Figure 2 shows a table with variables across rows.\nLearn how to choose either format by watching the video at the end of this post.\n\n\n\n\n\n\nTip\n\n\n\nInstead of copying a table from the output, you can export the table as PDF. Some journal articles require authors to save tables as PDF and submit them as separate files.\n\n\n\n\nFigure 1: Descriptive table with variables across columns\n\n\n\n\n\nFigure 2: Descriptive table with variables across rows\n\n\n\n\n\nThe solution\n\n\n\n\n\n\nFootnotes\n\n\nIllustration by Oleg Shcherba from Ouch!\n↩︎\nClick here to learn more about jamovi.↩︎\n\nCitationBibTeX citation:@online{furtadojr2022,\n  author = {Ovande Furtado Jr},\n  editor = {},\n  title = {“{Fixing}” Long Tables in Jamovi},\n  date = {2022-05-16},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nOvande Furtado Jr. 2022. “‘Fixing’ Long Tables in\nJamovi.” May 16, 2022."
   },
   {
     "objectID": "courses/610/syllabus.html#e-mail-policy-office-hours",
@@ -655,7 +655,7 @@
     "href": "courses/477/syllabus.html#grading-policy",
     "title": "KIN 477: Motor Development",
     "section": "Grading Policy",
-    "text": "Grading Policy\n\n20%: Weekly Quizzes (12)\n20%: Online Discussions (5)\n20%: Labs (2)\n20%: Exams (2)\n20% Major Takeaways (12)\n\n\n\n\n\n\n\nNote\n\n\n\nOne quiz and one discussion with the lowest score will be dropped at the end of the term."
+    "text": "Grading Policy\n\n20%: Weekly Quizzes (12)\n20%: Online Discussions (5 4)\n20%: Labs (2)\n20%: Exams (2)\n20% Major Takeaways (12)\n\n\n\n\n\n\n\nNote\n\n\n\nOne quiz and one discussion with the lowest score will be dropped at the end of the term."
   },
   {
     "objectID": "courses/477/syllabus.html#grading-scale",
@@ -816,7 +816,7 @@
     "href": "courses/477/sequence.html",
     "title": "Dr. Furtado",
     "section": "",
-    "text": "Course Sequence\n\n\n\n\n\n\n\n\nModule\nDate1\nReading2\nAssignments3\n\n\n\n\n01\n08/29/22\n08/31/22 \nCourse Intro & Syllabus\nDiscussion 1\n\n\n02\n09/05/22 (no class)\n09/07/22 \nChapter 1: Fundamental Concepts\nQuiz CH1; Major Takeaways\n\n\n03\n09/12/22 \n09/14/22 \nChapter 2: Theoretical Perspectives\nQuiz CH2; Major Takeaways; Discussion 2\n\n\n04\n09/19/22 \n09/21/22 \nChapter 3: Principles of Motion and Stability\nQuiz CH3; Major Takeaways\n\n\n05\n09/26/22 \n09/28/22 \nChapter 4: Physical Growth, Maturation and Aging\nQuiz CH4; Major Takeaways; Discussion 3\n\n\n06\n10/03/22 \n10/05/22 \nChapter 5: Development and Aging of Body Systems\n5.1 Skeletal System\n5.2 Adipose System\n5.3 Nervous System\nQuiz CH5; Major Takeaways\n\n\n07\n10/10/22 \n10/12/22 \nChapter 6: Early Motor Development\nQuiz CH6; Major Takeaways\n\n\n08\n10/17/22 \n10/19/22 \nChapter 7: Development of Human Locomotion\nQuiz CH7; Major Takeaways\n\n\n\n10/24/22 \n10/26/22 \nExam 1\nStudy previously covered chapters\n\n\n09\n10/31/22 \n11/01/22 \nChapter 8: Development of Ballistic Skills (Manipulative Skills)\nQuiz CH8; Major Takeaways\n\n\n10\n11/07/22 \n11/09/22 \nLabs 1 and 2\nDiscussion 4\n\n\n11\n11/14/22 \n11/16/22 \nChapter 12: Social and Cultural Constraints in Motor Development\nQuiz CH12; Major Takeaways; Homework 3\n\n\n12\n11/21/22 \n11/23/22 \nChapter 13: Psychosocial Constraints in Motor Development\nQuiz CH13; Major Takeaways\n\n\n13\n11/28/22 \n11/30/22 \n\nChapter 16: Development of Strength and Flexibility\nQuiz CH16; Major Takeaways\n\n\n14\n12/05/22 \n12/07/22 \nChapter 17: Development of Body Composition\nQuiz CH17; Major Takeaways\n\n\n\n12/14/22 \n8-10 am\nExam 2\nStudy previously covered chapters following Exam 1\n\n\n\n Online Meeting via Zoom\n In-Person Meeting (RE 278)\n\n\n\n\n\nReferences\n\n1. Haywood, K. M., & Getchell, N. (2019). Life span motor development (Seventh edition). Human Kinetics.\n\nFootnotes\n\n\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nStudents are expected to read and study the assigned chapters prior to attending each class meeting.↩︎\nQuizzes and Discussions are due Sunday 11:59 pm. (after the content is covered). Major takeaways are due on Monday (before the content is covered). Refer to the syllabus for assignments detailed information.↩︎"
+    "text": "Textbook: Haywood & Getchell[1]\n\nCourse Sequence\n\n\n\n\n\n\n\n\n\nModule\nDate1\nReading2\nSlides\nAssignments3\n\n\n\n\n01\n08/29/22\n08/31/22 \nCourse Intro & Syllabus\n\nIcebreaker Activity\n\n\n02\n09/05/22 (no class)\n09/07/22 \nChapter 1: Fundamental Concepts\n\nQuiz CH1; Major Takeaways CH1\n\n\n03\n09/12/22 \n09/14/22 \nChapter 2: Theoretical Perspectives\n\nQuiz CH2; Major Takeaways CH2\n\n\n04\n09/19/22 \n09/21/22 \nChapter 3: Principles of Motion and Stability\n\nQuiz CH3; Major Takeaways CH3; Discussion 1 - Dev perspective\n\n\n05\n09/26/22 \n09/28/22 \nChapter 4: Early Motor Development\n\nQuiz CH4; Major Takeaways CH4\n\n\n06\n10/03/22 \n10/05/22 \nChapter 5: Development of Human Locomotion\n Slides\nQuiz CH5; Major Takeaways CH5\n\n\n074\n10/10/22 \n10/12/22 \nChapter 6: Development of Ballistic Skills\nChapter 7: Development of Manipulative Skills\n\nQuiz CH6; Major Takeaways CH6; Quiz CH7; Major Takeaways CH7\n\n\n08\n10/17/22 \n10/19/22 \nLabs 1 and 2\n\n\n\n\n\n10/24/22 \n10/26/22 \nExam 1\n\nStudy previously covered chapters\n\n\n09\n10/31/22 \n11/01/22 \nChapter 8: Physical Growth, Maturation and Aging\n\nQuiz CH8; Major Takeaways CH8; Discussion 2 - Gender\n\n\n10\n11/07/22 \n11/09/22 \nChapter 9: Development and Aging of Body Systems\n5.1 Skeletal System\n5.2 Adipose System\n5.3 Nervous System\n\nQuiz CH9; Major Takeaways CH9\n\n\n11\n11/14/22 \n11/16/22 \nChapter 11: Development of Strength and Flexibility\n\nQuiz CH11; Major Takeaways CH11\n\n\n12\n11/21/22 \n11/23/22 \nChapter 12: Weight Status, Fitness, and Motor Competence\n\nQuiz CH12; Major Takeaways CH12; Discussion 3 - FMS/PA\n\n\n13\n11/28/22 \n11/30/22 \n\nChapter 15: Social and Cultural Constraints in Motor Development\n\nQuiz CH15; Major Takeaways CH15\n\n\n14\n12/05/22 \n12/07/22 \nChapter 16: Psychosocial Constraints in Motor Development\n\nQuiz CH16; Major Takeaways CH16\n\n\n\n12/14/22 \n8-10 am\nExam 2\n\nStudy previously covered chapters following Exam 1\n\n\n\n Online Meeting via Zoom\n In-Person Meeting (RE 278)\n\n\n\n\n\nReferences\n\n1. Haywood, K. M., & Getchell, N. (2019). Life span motor development (Seventh edition). Human Kinetics.\n\nFootnotes\n\n\nClass Dates: Aug 29, 2022 - Dec 12, 2022↩︎\nStudents are expected to read and study the assigned chapters prior to attending each class meeting.↩︎\nQuizzes and Discussions are due Sunday 11:59 pm. (after the content is covered). Major takeaways are due on Monday (before the content is covered). Refer to the syllabus for assignments detailed information.↩︎\nNote that for Module 7 you will be completing activities for both chapters 6 and 7. You will be required to submit separate assignments for each chapter.↩︎"
   },
   {
     "objectID": "courses/477/index.html",
@@ -905,9 +905,9 @@
   {
     "objectID": "courses/477/assig/index.html",
     "href": "courses/477/assig/index.html",
-    "title": "Assignments",
+    "title": "Discussions",
     "section": "",
-    "text": "Find below the assignments associated with this course."
+    "text": "Find below discussion activities associated with this course."
   },
   {
     "objectID": "courses/477/assig/index.html#discussions",
@@ -950,5 +950,138 @@
     "title": "KIN 377: Motor Learning",
     "section": "Contact Info",
     "text": "Contact Info\nEmail: ovandef@csun.edu\nOffice: Redwood Hall 289"
+  },
+  {
+    "objectID": "courses/477/syllabus.html#online-discussions1",
+    "href": "courses/477/syllabus.html#online-discussions1",
+    "title": "KIN 477: Motor Development",
+    "section": "Online Discussions1",
+    "text": "Online Discussions1\nYou will be required to complete several online discussions while taking this course. The details about each discussion topic will be provided on Canvas. Typically, there are two deadlines for this assignment. First, you need to answer the question I post (deadline 1), then respond to your classmates’ posts (deadline 2). Refer to our Class Schedule in Canvas."
+  },
+  {
+    "objectID": "courses/477/syllabus.html#major-takeaways2",
+    "href": "courses/477/syllabus.html#major-takeaways2",
+    "title": "KIN 477: Motor Development",
+    "section": "Major Takeaways2",
+    "text": "Major Takeaways2\nYou will be evaluated on your preparedness by submitting an assignment before each class."
+  },
+  {
+    "objectID": "courses/477/assig/index.html#discussion-1",
+    "href": "courses/477/assig/index.html#discussion-1",
+    "title": "Discussions",
+    "section": "Discussion 1",
+    "text": "Discussion 1\n\nDo you have a developmental perspective?\n\nPurpose\nTo verify whether students have a “developmental perspective in mind” when observing movement.\nThis assignment is divided into two parts; students will:\n\nself-reflect on whether they have a developmental perspective in mind when observing movement\nobserve movement and apply what they have learned in Part 1\n\n\n\nInstructions\nPart 1\nAfter clicking on the link below, go through the self-paced online slides. Answer all the prompted questions (YES/NO) as you move through the slides. I suggest you to write down your answers on a piece of paper.\nClick here to complete Part 1\nPart 2\nWatch a child performing (see link below) the one-leg hopping for distance. Then, keeping the “developmental perspective” in mind, answer the following questions?\n\nIs this movement wrong? Please, explain.\nWhat are the main rate limiters (constraints) preventing the child from performing at a more advanced level?\nShould the instructor try to correct his performance on the spot and expect the child to perform at the advanced level, say by the end of a 30-minute teaching session? Please, explain.\n\nClick here to watch the video\n\n\nTemplate\nClick here to download the template for this assignment."
+  },
+  {
+    "objectID": "courses/477/assignments/discussions/disc1.html",
+    "href": "courses/477/assignments/discussions/disc1.html",
+    "title": "Do you have a developmental perspective?",
+    "section": "",
+    "text": "To verify whether students have a “developmental perspective in mind” when observing movement.\nThis assignment is divided into two parts; students will:\n\nself-reflect on whether they have a developmental perspective in mind when observing movement\nobserve movement and apply what they have learned in Part 1"
+  },
+  {
+    "objectID": "courses/477/assignments/devpers.html#development-is-age-related-not-age-dependent",
+    "href": "courses/477/assignments/devpers.html#development-is-age-related-not-age-dependent",
+    "title": "Do you have a developmental perspective?",
+    "section": "Development is age-related, not age-dependent",
+    "text": "Development is age-related, not age-dependent\n\nDevelopment follows a general pattern (age related)\n\nEach individual has own unique development (not age dependent)\n\nDevelopmental age in typical 3rd grade classroom varies 3 years\nAverage age is 9 but maturity may range from 6 to 12 years\nNeed to teach each child appropriately"
+  },
+  {
+    "objectID": "courses/477/assignments/devpers.html#the-6-elements-of-developmental-change",
+    "href": "courses/477/assignments/devpers.html#the-6-elements-of-developmental-change",
+    "title": "Do you have a developmental perspective?",
+    "section": "The 6 elements of developmental change",
+    "text": "The 6 elements of developmental change\nDevelopment is:\n\nIndividual\nMultifactorial\nSequential\nCumulative\nQualitative\nDirectional (Progresses toward a goal - improvement or adaptation)"
+  },
+  {
+    "objectID": "courses/477/assignments/devpers.html#references",
+    "href": "courses/477/assignments/devpers.html#references",
+    "title": "Do you have a developmental perspective?",
+    "section": "References",
+    "text": "References\n\n\n\nDo you have a developmental perspective?\n\n\n\nClark, J. E. (2005). From the beginning: A developmental perspective on movement and mobility. Quest, 57(1), 37–45. https://doi.org/10.1080/00336297.2005.10491841\n\n\nWooland, D. (2008). Do you have a developmental perspective? https://web.archive.org/web/20040602052538/http://www.drwoolard.com/"
+  },
+  {
+    "objectID": "courses/477/assignments/discussions/disc1.html#instructions",
+    "href": "courses/477/assignments/discussions/disc1.html#instructions",
+    "title": "Do you have a developmental perspective?",
+    "section": "Instructions",
+    "text": "Instructions\n\nPart 1\nAfter clicking on the link below, go through the self-paced online slides. Answer all the prompted questions (YES/NO) as you move through the slides. I suggest you to write down your answers on a piece of paper.\nClick here to complete Part 1\n\n\nPart 2\nWatch a child performing (see link below) the one-leg hopping for distance. Then, keeping the “developmental perspective” in mind, answer the following questions?\n\nIs this movement wrong? Please, explain.\nWhat are the main rate limiters (constraints) preventing the child from performing at a more advanced level?\nShould the instructor try to correct his performance on the spot and expect the child to perform at the advanced level, say by the end of a 30-minute teaching session? Please, explain.\n\nClick here to watch the video"
+  },
+  {
+    "objectID": "courses/477/assignments/discussions/disc1.html#template",
+    "href": "courses/477/assignments/discussions/disc1.html#template",
+    "title": "Do you have a developmental perspective?",
+    "section": "Template",
+    "text": "Template\nClick here to download the template for this assignment."
+  },
+  {
+    "objectID": "courses/477/assignments/disc1.html",
+    "href": "courses/477/assignments/disc1.html",
+    "title": "Do you have a developmental perspective?",
+    "section": "",
+    "text": "To verify whether students have a “developmental perspective in mind” when observing movement.\nThis assignment is divided into two parts; students will:\n\nself-reflect on whether they have a developmental perspective in mind when observing movement\nobserve movement and apply what they have learned in Part 1"
+  },
+  {
+    "objectID": "courses/477/assignments/disc1.html#instructions",
+    "href": "courses/477/assignments/disc1.html#instructions",
+    "title": "Do you have a developmental perspective?",
+    "section": "Instructions",
+    "text": "Instructions\n\nPart 1\nAfter clicking on the link below, go through the self-paced online slides. Answer all the prompted questions (YES/NO) as you move through the slides. I suggest you to write down your answers on a piece of paper.\nClick here to complete Part 1\n\n\nPart 2\nWatch a child performing (see link below) the one-leg hopping for distance. Then, keeping the “developmental perspective” in mind, answer the following questions?\n\nIs this movement wrong? Please, explain.\nWhat are the main rate limiters (constraints) preventing the child from performing at a more advanced level?\nShould the instructor try to correct his performance on the spot and expect the child to perform at the advanced level, say by the end of a 30-minute teaching session? Please, explain.\n\nClick here to watch the video"
+  },
+  {
+    "objectID": "courses/477/assignments/disc1.html#template",
+    "href": "courses/477/assignments/disc1.html#template",
+    "title": "Do you have a developmental perspective?",
+    "section": "Template",
+    "text": "Template\nClick here to download the template for this assignment."
+  },
+  {
+    "objectID": "courses/477/assignments/disc1-slides.html#development-is-age-related-not-age-dependent",
+    "href": "courses/477/assignments/disc1-slides.html#development-is-age-related-not-age-dependent",
+    "title": "Do you have a developmental perspective?",
+    "section": "Development is age-related, not age-dependent",
+    "text": "Development is age-related, not age-dependent\n\nDevelopment follows a general pattern (age related)\n\nEach individual has own unique development (not age dependent)\n\nDevelopmental age in typical 3rd grade classroom varies 3 years\nAverage age is 9 but maturity may range from 6 to 12 years\nNeed to teach each child appropriately"
+  },
+  {
+    "objectID": "courses/477/assignments/disc1-slides.html#the-6-elements-of-developmental-change",
+    "href": "courses/477/assignments/disc1-slides.html#the-6-elements-of-developmental-change",
+    "title": "Do you have a developmental perspective?",
+    "section": "The 6 elements of developmental change",
+    "text": "The 6 elements of developmental change\nDevelopment is:\n\nIndividual\nMultifactorial\nSequential\nCumulative\nQualitative\nDirectional (Progresses toward a goal - improvement or adaptation)"
+  },
+  {
+    "objectID": "courses/477/assignments/disc1-slides.html#references",
+    "href": "courses/477/assignments/disc1-slides.html#references",
+    "title": "Do you have a developmental perspective?",
+    "section": "References",
+    "text": "References\n\n\n\nDo you have a developmental perspective?\n\n\n\nClark, J. E. (2005). From the beginning: A developmental perspective on movement and mobility. Quest, 57(1), 37–45. https://doi.org/10.1080/00336297.2005.10491841\n\n\nWooland, D. (2008). Do you have a developmental perspective? https://web.archive.org/web/20040602052538/http://www.drwoolard.com/"
+  },
+  {
+    "objectID": "courses/477/assignments/disc2.html",
+    "href": "courses/477/assignments/disc2.html",
+    "title": "Gender Differencers in FMS",
+    "section": "",
+    "text": "To…"
+  },
+  {
+    "objectID": "courses/477/assignments/disc2.html#instructions",
+    "href": "courses/477/assignments/disc2.html#instructions",
+    "title": "Gender Differencers in FMS",
+    "section": "Instructions",
+    "text": "Instructions\n\nStep 1\n\nFirst, read1 (Haywood & Getchell, 2019, Chapter 5; Spessato et al., 2013)\nThen answer the following questions:\n\nwhat are the potential reasons for the observed differences between boys and girls when performing object-control (OC) and locomotor (LOC) skills?\nwhat needs to be done to close the gaps?\n\n\n\n\n\n\n\n\nImportant\n\n\n\nEnsure to use Spessato et al. (2013) and Haywood & Getchell (2019) to back up your answers. Most complete answers will receive the most credit. Use APA Style in-text citation when answering the questions."
+  },
+  {
+    "objectID": "courses/477/assignments/disc2.html#template",
+    "href": "courses/477/assignments/disc2.html#template",
+    "title": "Gender Differencers in FMS",
+    "section": "Template",
+    "text": "Template\n\n\n\n\n\n\nWhat are the potential reasons for the observed differences between boys and girls when performing object-control (OC) and locomotor (LOC) skills?\nAnswer: Phasellus laoreet lorem vel dolor tempus vehicula. Idque Caesaris facere voluntate liceret: sese habere. Ab illo tempore, ab est sed immemorabili. Mercedem aut nummos unde unde extricat, amaras. Praeterea iter est quasdam res quas ex communi. Curabitur blandit tempus ardua ridiculus sed magna. Sed haec quis possit intrepidus aestimare tellus. Quisque ut dolor gravida, placerat libero vel, euismod. Plura mihi bona sunt, inclinet, amari petere vellent.\nWhat needs to be done to close the gaps?\nAnswer: Curabitur blandit tempus ardua ridiculus sed magna. Sed haec quis possit intrepidus aestimare tellus. Quisque ut dolor gravida, placerat libero vel, euismod. Plura mihi bona sunt, inclinet, amari petere vellent. A communi observantia non est recedendum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae. A communi observantia non est recedendum. Vivamus sagittis lacus vel augue laoreet rutrum faucibus. Nihilne te nocturnum praesidium Palati, nihil urbis vigiliae."
+  },
+  {
+    "objectID": "courses/477/assignments/disc2.html#submission",
+    "href": "courses/477/assignments/disc2.html#submission",
+    "title": "Gender Differencers in FMS",
+    "section": "Submission",
+    "text": "Submission\nVisit our Canvas course, open Discussion 2 under Discussions, then:\n\nMake a new post (click Reply)\nCopy the Part 2 of the template\nPaste the information to the text field in Canvas\nReply to at least 3 classmates’ posts by the deadline"
   }
 ]

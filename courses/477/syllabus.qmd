@@ -125,7 +125,7 @@ I will detail the policy for this course below. Basically, don't cheat and try t
 
 -   **20%**: Weekly Quizzes (12)
 
--   **20%**: Online Discussions (5)
+-   **20%**: Online Discussions (~~5~~ 4)
 
 -   **20%**: Labs (2)
 
@@ -197,9 +197,7 @@ Each student is expected to be familiar with, and abide by, the conditions of st
 
 To succeed in this course, you will be required to complete several assignments. To avoid surprises, be proactive and review these assignments.
 
-## Quizzes[^1]
-
-[^1]: Due on Sundays 11:59 - after the content is covered
+## Quizzes
 
 Quizzes will be administered via Canvas and will assess the student's understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, **collaboration with other students is not allowed**.
 
@@ -219,9 +217,9 @@ Quizzes will be administered via Canvas and will assess the student's understand
 
 7.  It should be noted that the content of each quiz belongs to [McGraw Hill](https://www.mheducation.com/) (the publisher of our text). Therefore, federal copyright laws prohibit the dissemination of this material. It includes, but is not limited to, posting the quiz online and/or sharing the quiz with someone outside of the classroom.
 
-## Online Discussions[^2]
+## Online Discussions[^1]
 
-[^2]: Due on Sundays 11:59 - after the content is covered
+[^1]: Due on Sundays 11:59 - after the content is covered
 
 You will be required to complete several online discussions while taking this course. The details about each discussion topic will be provided on Canvas. Typically, there are two deadlines for this assignment. First, you need to answer the question I post (deadline 1), then respond to your classmates' posts (deadline 2). Refer to our Class Schedule in Canvas.
 
@@ -233,9 +231,9 @@ You will be required to take two exams when taking this course.
 
 You will be required to complete two labs by the end of the term.
 
-## Major Takeaways[^3]
+## Major Takeaways[^2]
 
-[^3]: Due on Mondays before class - before the content is covered
+[^2]: Due on Mondays before class - before the content is covered
 
 You will be evaluated on your preparedness by submitting an assignment before each class.
 
