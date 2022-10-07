@@ -10,8 +10,8 @@ format:
     toc-location: right
     smooth-scroll: true
     link-external-icon: true
+    link-external-newwindow: true
     anchor-sections: true
-    links-as-notes: true
     citations-hover: true
     footnotes-hover: true
   pdf:
