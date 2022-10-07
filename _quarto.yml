@@ -44,7 +44,7 @@ website:
           href: courses/610/syllabus.qmd
         - section: "Lessons"
           contents:
-            - text: "Lesson 01"
+            - text: "Lesson-01"
               href: courses/610/les01.qmd
 
     - id: 377-intro
