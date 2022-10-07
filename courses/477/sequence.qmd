@@ -3,14 +3,28 @@ page-layout: full
 bibliography: references.bib
 csl: apa-numeric-superscript-brackets.csl
 citations-hover: true
-page-layout: full
-link-external-newwindow: true
-link-external-icon: true
+format:
+  html:
+    toc: true
+    toc-location: right
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    anchor-sections: true
+    citations-hover: true
+    footnotes-hover: true
+    page-layout: full
+  pdf:
+    toc: false
+    number-sections: false
+    colorlinks: true
 ---
 
-\< [back to syllabus](syllabus.qmd)
+{{< fa arrow-left >}} [back to syllabus](syllabus.qmd)
 
-Textbook: Haywood & Getchell @haywood2019
+{{< fa file-pdf >}} [Print as PDF](sequence.pdf)
+
+{{< fa book >}} Textbook: Haywood & Getchell @haywood2019
 
 +---------+----------------------------------+------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
 | Module  | Date[^1]                         | Topic[^2]                                                        | Resources                                                                                                                                                                                               | Assignment[^3]                                                                         |
@@ -68,7 +82,7 @@ Textbook: Haywood & Getchell @haywood2019
 |         | 8-10 am                          |                                                                  |                                                                                                                                                                                                         |                                                                                        |
 +---------+----------------------------------+------------------------------------------------------------------+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------------------------------------------------------------------------+
 
-: Course Sequence {tbl-colwidths="\[5,15,40,15,25\]"}
+: Course Sequence {tbl-colwidths="\[10,15,35,15,25\]"}
 
 [^1]: Class Dates: Aug 29, 2022 - Dec 12, 2022
 
