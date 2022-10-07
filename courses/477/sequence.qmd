@@ -4,6 +4,8 @@ bibliography: references.bib
 csl: apa-numeric-superscript-brackets.csl
 citations-hover: true
 page-layout: full
+link-external-newwindow: true
+link-external-icon: true
 ---
 
 \< [back to syllabus](syllabus.qmd)
