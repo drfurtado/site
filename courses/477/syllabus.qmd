@@ -333,4 +333,4 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 
 # Class Sequence {#sec-class-sequence}
 
-Click [here](sequence.qmd) to open the course sequence - opens in wide view
+Click [here to open the course sequence](https://drfurtado.github.io/qacademic/courses/477/sequence.html) - opens in wide view
