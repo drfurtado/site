@@ -26,7 +26,13 @@ table-striped: true
 
 ------------------------------------------------------------------------
 
-Formats: [HTML](syllabus.html) \| [PDF](syllabus.pdf)
+Notes workshop - equity-minded syllabus
+
+-   to be consciousness of possible bias when presenting the syllabus material
+
+Demystifying
+
+-   
 
 # Instructor Info {#sec-instructor-info}
 
@@ -49,7 +55,17 @@ Office: Redwood Hall 289
 
 ## Course Description
 
-Study of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.
+Study of principles , theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.
+
+-   teaching
+
+-   examples of principles
+
+-   educational and clinical settings
+
+-   include both catalog and my own description
+
+-   do the same with the other items from the excel file
 
 ## Course Prerequisite
 
@@ -96,7 +112,7 @@ At the conclusion of this course, students should be able to:
 
 ## Textbook
 
-Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education.
+Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications (12th Ed.). McGraw-Hill Education.
 
 Link to Matador Bookstore: <https://bit.ly/37yiD7u>
 
@@ -152,7 +168,7 @@ Although not required, it is suggested that you have access to a computer (not s
 One of the requirements of this course is to learn a motor skill. If you select juggling, I suggest you to acquire the [mini juggling balls](http://goo.gl/X3EjLE), which are small and have the recommended weight for beginners.
 
 ::: callout-important
-If you choose to use any object other than the mini juggling balls, then you understand that your performance may be negativelly affected by it. When performing the exchange technique (required for this activity), at a given point, performers need to hold two objects in one hand. This becomes a problem if large objects are being used; i.e., tennis balls.
+If you choose to use any object other than the mini juggling balls, understand that your performance may be **negatively affected** by it. When performing the exchange technique (required for this activity), at a given point, performers need to hold two objects in one hand. This becomes a problem if large objects are being used; i.e., tennis balls.
 :::
 
 ### Speed Stacks Sport Stacking Set
@@ -407,8 +423,10 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 
 # Appendices
 
-## Appendix A, B, C
+{{< include 377-appendix-a_b_c.qmd >}}
 
-Not provide here. Please, refer to our Canvas page. The material associated with these appendices are related to the Learning Task Assignment, which accounts for 50% of the final grade. ***THIS MEANS YOU MUST READ AND STUDY THE CONTENT OF APPENDIX A, B, AND C.***
+It is crucial you study the content of these three appendices. **Appendix A** covers the main instructions related to the LEARNING TASK ASSIGNMENT. In **Appendix B**, you find useful tutorials for both Juggling and Cup Stacking. You will choose one of these two skills to practice and learn throughout the term (Fall, Spring, Summer, or Winter). **Appendix C** covers the Motor Learning Principles (MLP) you will be introduced in this course. The MLP will be crucial when learning your chosen skill (either juggling or cup stacking).
+
+This the major assignment for this course and accounts fo **50% of the final grade**. Thus, it's crucial you study the content of these three appendices.
 
 {{< include 377-appendix-d.qmd >}}
