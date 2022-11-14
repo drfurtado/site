@@ -1,17 +1,24 @@
 ---
-title: "477 - Chapter 11"
+title: "KIN 477 - Chapter 11"
 subtitle: Development of Strength and Flexibility
 format: revealjs
 editor: visual
 link-external-newwindow: true
 incremental: false
+preview-links: true
 ---
+
+## Prepubescence, puberty, and age range[^1]
+
+[^1]: Preadolescence. (2022, November 12). In *Wikipedia*. https://en.wikipedia.org/wiki/Preadolescence
+
+![](images/Screen%20Shot%202022-11-13%20at%2011.00.36%20PM.png)
 
 # Development of strength across life span
 
 ## Concept Retrieval
 
--   Remember the concepts you studies in this chapter
+-   Remember the concepts you studied in this chapter
 
 -   Enter some related words when asked
 
@@ -19,8 +26,190 @@ incremental: false
 
 [Poll](https://www.polleverywhere.com/free_text_polls/BaXsRTxuZ97BDaqxBX1Cz)
 
-## Challenge - Confirm Activity
+## {{< fa thumbs-down >}} \| {{< fa thumbs-up >}} -  Activity
 
-## Concepts Challenges
+You will be:
 
-Strength increases as muscle grows; however, since neuromuscular coordination and endocrine changes also affect strength‚ increases and decreases in strength do not always parallel muscle size. 
+1.  presented with a concept
+2.  paired up with a classmate
+3.  given 2 min to study the concept...then, {{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+4.   picked to share your decision
+
+. . .
+
+Either case, you need to elaborate a bit... {{< fa person-chalkboard >}}
+
+. . .
+
+::: callout-tip
+{{< fa book >}} Use the slides and/or the book, if needed
+:::
+
+## Examples {{< fa smile >}}
+
+. . .
+
+**Example1:**
+
+{{< fa earth >}} The planet Earth is flat.
+
+. . .
+
+**Example2:**
+
+A pentagon has 5 sides.
+
+## Concept 1
+
+Strength increases as muscle grows - increases and decreases in strength do not always parallel muscle size.
+
+::: notes
+T - Why no paralell - neuromuscular coordination and endocrine changes also affect strength‚ increases and decreases in strength do not always parallel muscle size.
+:::
+
+. . .
+
+::: {.callout-tip appearance="minimal"}
+Strength increases as muscle grows; however, since neuromuscular coordination and endocrine changes also affect strength‚ increases and decreases in strength do not always parallel muscle size.
+:::
+
+## Concept 2
+
+Young boys and girls are different in strength, but notable differences appear after puberty.
+
+::: notes
+F - Young boys and girls are **similar** in strength, but notable differences appear after puberty‚
+
+Where? mostly in arm and shoulder strength. 
+:::
+
+. . .
+
+::: {.callout-tip appearance="simple"}
+Young boys and girls are similar in strength, but notable differences appear after puberty‚ mostly in arm and shoulder strength.
+:::
+
+## Concept 3
+
+Prepubescent children can increase `strength` through training without an increase in muscle size‚ but after puberty everyone can increase `strength` and muscle mass through training.
+
+::: notes
+T - Why?
+
+?
+:::
+
+. . .
+
+::: {.callout-tip appearance="minimal"}
+Prepubescent children can increase strength through training without an increase in muscle size‚ but after puberty everyone can increase strength and muscle mass through training.
+:::
+
+## Concept 4
+
+As compared with their peers, the strongest children do not always turn out to be the strongest adolescents.
+
+::: notes
+T - As compared with their peers, the strongest children do not always turn out to be the strongest adolescents, **since maturation rate can influence relative strength among children.** 
+:::
+
+. . .
+
+::: {.callout-tip appearance="simple"}
+As compared with their peers, the strongest children do not always turn out to be the strongest adolescents, since maturation rate can influence relative strength among children.
+:::
+
+## Concept 5
+
+Among same-size children of different ages, less mature children are stronger.​
+
+. . .
+
+::: notes
+F - Among same-size children of different ages, **more** mature children are stronger.​
+
+Why
+
+-   **endocrine function that probably influences strength**
+
+-   **neural factors that likely exert influence (including improved motor unit activation with maturation).**​
+:::
+
+::: {.callout-tip appearance="simple"}
+Among same-size children of different ages, more mature children are stronger. This is likely due to **endocrine function that probably influences strength,** and **neural factors that likely exert influence (including improved motor unit activation with maturation).**​
+:::
+
+## Concept 6
+
+Notable declines in strength occur after age 50 at a greater rate than expected, but changes vary between individuals.
+
+. . .
+
+::: notes
+T - Notable declines in strength occur after age 50 at a greater rate than expected **from loss of muscle mass**‚ but changes vary between individuals **and are related to the extent of habitual physical activity.**
+:::
+
+::: {.callout-tip appearance="simple"}
+Notable declines in strength occur after age 50 at a greater rate than expected **from loss of muscle mass**‚ but changes vary between individuals **and are related to the extent of habitual physical activity.**
+:::
+
+# Constraints and Strength Development
+
+## Older adults
+
+Consider the older adults in your society. Can you think of constraints (individual, environmental, and task) that might lead to a loss of strength in the older years? 
+
+You will be
+
+1.  given access to the whiteboard
+    1.  use the `Text` option and type an individual, environmental, and a task constraint
+
+::: notes
+**Individual:** A functional constraint might be motivation. An individual who is not motivated to do active things or to exercise would lose strength in middle and older adulthood. A structural constraint might be a disease that makes it difficult for someone to exercise. 
+
+**Environmental:** An individual who does not have an environment conducive to exercise could lose strength. For example, someone who lives in a harsh, far north climate might find it difficult to exercise in the winter. 
+
+**Task:** Activities that do not provide much resistance training, although they might provide maintenance of some strength, still might lead overall to a loss of strength. 
+:::
+
+## Strength training implications
+
+Even if prepubescent children can improve their strength with training, does such training involve negative effects?
+
+::: notes
+Children's bones are still growing and could be susceptible to injury at both traction and pressure epiphyses. Weight training could potentially cause a single traumatic injury or chronic injury from repeated lifts.
+:::
+
+. . .
+
+Children's bones are still growing and could be susceptible to injury at both traction and pressure epiphyses. Weight training could potentially cause a single traumatic injury or chronic injury from repeated lifts.
+
+. . .
+
+Does increased muscle size due to training occur in prepubescent children? Why or why not?​
+
+. . .
+
+What are the differences, if any, between the results achieved by adult men and adult women who train for strength?​
+
+## Summary - Strength Development
+
+-   Childhood is a period of steady increase in strength.​​
+
+-   Adolescent girls continue a steady increase.​
+
+-   Adolescent boys experience a spurt of growth in strength.​
+
+-   Strength levels are stable in young adulthood.​
+
+-   Strength declines in older adulthood, gradually at first.​
+
+-   Training can improve strength throughout the life span.​
+
+-   Strength is related to muscle mass and neurological factors.​
+
+## Before we go...
+
+::: callout-warning
+Adolescents, like children, should be closely supervised when using weight training to improve strength. Their bones are still growing, and they are susceptible to a variety of musculoskeletal injuries if unsupervised (Risser & Preston, 1989).
+:::
