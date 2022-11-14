@@ -26,14 +26,6 @@ table-striped: true
 
 ------------------------------------------------------------------------
 
-Notes workshop - equity-minded syllabus
-
--   to be consciousness of possible bias when presenting the syllabus material
-
-Demystifying
-
--   
-
 # Instructor Info {#sec-instructor-info}
 
 ## Brief Bio
@@ -50,6 +42,12 @@ See @sec-office-hours for more information
 
 Email: ovandef\@csun.edu\
 Office: Redwood Hall 289
+
+::: callout-note
+For course-related questions, please use our mailing list. This way other students will benefit when I answer your question(s). Refer to Canvas for the mailing list email address.
+
+Hint: Add the email to your contacts for easy access throughout the semester.
+:::
 
 # General Information
 
