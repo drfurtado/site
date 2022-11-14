@@ -6,7 +6,20 @@ editor: visual
 link-external-newwindow: true
 incremental: false
 preview-links: true
+bibliography: references.bib
 ---
+
+## Intro video
+
+::: columns
+::: {.column width="60%"}
+{{< video https://youtu.be/p5RQFk6JwQc start="30" width="600" height="500" >}}
+:::
+
+::: {.column width="40%"}
+The strength level of an individual interacts with the task and environment either to permit a task or not or to influence how a movement is performed @haywood2019
+:::
+:::
 
 ## Prepubescence, puberty, and age range[^1]
 
@@ -26,14 +39,14 @@ preview-links: true
 
 [Poll](https://www.polleverywhere.com/free_text_polls/BaXsRTxuZ97BDaqxBX1Cz)
 
-## {{< fa thumbs-down >}} \| {{< fa thumbs-up >}} -  Activity
+## {{< fa thumbs-down >}} \| {{< fa thumbs-up >}} - Activity
 
 You will be:
 
 1.  presented with a concept
 2.  paired up with a classmate
 3.  given 2 min to study the concept...then, {{< fa thumbs-up >}} or {{< fa thumbs-down >}}
-4.   picked to share your decision
+4.  picked to share your decision
 
 . . .
 
@@ -75,10 +88,10 @@ Strength increases as muscle grows; however, since neuromuscular coordination an
 
 ## Concept 2
 
-Young boys and girls are different in strength, but notable differences appear after puberty.
+Young boys (prepubescent) and girls are different in strength, but it gets more similar after puberty.
 
 ::: notes
-F - Young boys and girls are **similar** in strength, but notable differences appear after puberty‚
+F - Young boys and girls are **similar** in strength, but notable **differences** appear after puberty‚
 
 Where? mostly in arm and shoulder strength. 
 :::
@@ -89,20 +102,24 @@ Where? mostly in arm and shoulder strength. 
 Young boys and girls are similar in strength, but notable differences appear after puberty‚ mostly in arm and shoulder strength.
 :::
 
-## Concept 3
+## Concept 3 {.scrollable}
 
 Prepubescent children can increase `strength` through training without an increase in muscle size‚ but after puberty everyone can increase `strength` and muscle mass through training.
 
 ::: notes
 T - Why?
 
-?
+As noted previously, strength is related both to muscle size and to the central nervous system's ability to fully activate muscles. Improvement in prepubescents with training likely results from their improved ability to exert force in the intended direction as they are better able to activate the agonist (contracting) muscles and coordinate the antagonist (lengthening) muscles (Sale, 1989).
 :::
 
 . . .
 
 ::: {.callout-tip appearance="minimal"}
 Prepubescent children can increase strength through training without an increase in muscle size‚ but after puberty everyone can increase strength and muscle mass through training.
+:::
+
+::: callout-note
+As noted previously, strength is related both to muscle size and to the central nervous system's ability to fully activate muscles. Improvement in prepubescents with training likely results from their improved ability to exert force in the intended direction as they are better able to activate the agonist (contracting) muscles and coordinate the antagonist (lengthening) muscles (Sale, 1989, cited in @haywood2019).
 :::
 
 ## Concept 4
@@ -172,9 +189,9 @@ You will be
 **Task:** Activities that do not provide much resistance training, although they might provide maintenance of some strength, still might lead overall to a loss of strength. 
 :::
 
-## Strength training implications
+## Strength training implications {.scrollable}
 
-Even if prepubescent children can improve their strength with training, does such training involve negative effects?
+`Question 1`: Even if prepubescent children can improve their strength with training, does such training involve negative effects?
 
 ::: notes
 Children's bones are still growing and could be susceptible to injury at both traction and pressure epiphyses. Weight training could potentially cause a single traumatic injury or chronic injury from repeated lifts.
@@ -182,15 +199,25 @@ Children's bones are still growing and could be susceptible to injury at both tr
 
 . . .
 
+::: callout-note
 Children's bones are still growing and could be susceptible to injury at both traction and pressure epiphyses. Weight training could potentially cause a single traumatic injury or chronic injury from repeated lifts.
+:::
 
 . . .
 
-Does increased muscle size due to training occur in prepubescent children? Why or why not?​
+`Question 2`: What are the differences, if any, between the results achieved by adult men and adult women who train for strength?​
+
+::: notes
+As a result of differential growth of muscle mass **during adolescence** the average adult man is stronger than the average adult woman. Women can produce only 60% to 80% of the force that men can exert, although most of these differences can be attributed to differences in arm and shoulder strength rather than in trunk or leg strength (Asmussen, 1973)
+
+Cultural norms
+:::
 
 . . .
 
-What are the differences, if any, between the results achieved by adult men and adult women who train for strength?​
+::: callout-note
+As a result of differential growth of muscle mass during adolescence the average adult man is stronger than the average adult woman. Women can produce only 60% to 80% of the force that men can exert, although most of these differences can be attributed to differences in arm and shoulder strength rather than in trunk or leg strength (Asmussen, 1973, cited in @haywood2019)
+:::
 
 ## Summary - Strength Development
 
@@ -211,5 +238,7 @@ What are the differences, if any, between the results achieved by adult men and 
 ## Before we go...
 
 ::: callout-warning
-Adolescents, like children, should be closely supervised when using weight training to improve strength. Their bones are still growing, and they are susceptible to a variety of musculoskeletal injuries if unsupervised (Risser & Preston, 1989).
+Adolescents, like children, should be closely supervised when using weight training to improve strength. Their bones are still growing, and they are susceptible to a variety of musculoskeletal injuries if unsupervised (Risser & Preston, 1989, cited in @haywood2019).
 :::
+
+## References

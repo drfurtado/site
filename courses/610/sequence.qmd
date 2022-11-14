@@ -1,5 +1,4 @@
 ---
-link-external-newwindow: true
 page-layout: full
 bibliography: references.bib
 csl: apa-numeric-superscript-brackets.csl
