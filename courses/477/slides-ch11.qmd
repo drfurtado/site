@@ -1,15 +1,19 @@
 ---
 title: "KIN 477 - Chapter 11"
 subtitle: Development of Strength and Flexibility
-format: revealjs
-editor: visual
-link-external-newwindow: true
-incremental: false
-preview-links: true
+format: 
+  revealjs:
+    navigation-mode: vertical
+    controls-layout: bottom-right
+    controls-tutorial: true
+    editor: visual
+    link-external-newwindow: true
+    incremental: false
+    preview-links: false
 bibliography: references.bib
 ---
 
-## Intro video
+# Intro video
 
 ::: columns
 ::: {.column width="60%"}
@@ -27,19 +31,17 @@ The strength level of an individual interacts with the task and environment eith
 
 ![](images/Screen%20Shot%202022-11-13%20at%2011.00.36%20PM.png)
 
-# Development of strength across life span
+# Development of STRENGTH across life span {background-color="aquamarine"}
 
 ## Concept Retrieval
 
 -   Remember the concepts you studied in this chapter
-
 -   Enter some related words when asked
-
 -   One word at a time - multiple words
 
 [Poll](https://www.polleverywhere.com/free_text_polls/BaXsRTxuZ97BDaqxBX1Cz)
 
-## {{< fa thumbs-down >}} \| {{< fa thumbs-up >}} - Activity
+## {{< fa thumbs-down >}} - {{< fa thumbs-up >}} Activity
 
 You will be:
 
@@ -172,7 +174,7 @@ Notable declines in strength occur after age 50 at a greater rate than expected 
 
 # Constraints and Strength Development
 
-## Older adults
+# Older adults
 
 Consider the older adults in your society. Can you think of constraints (individual, environmental, and task) that might lead to a loss of strength in the older years? 
 
@@ -189,7 +191,7 @@ You will be
 **Task:** Activities that do not provide much resistance training, although they might provide maintenance of some strength, still might lead overall to a loss of strength. 
 :::
 
-## Strength training implications {.scrollable}
+# Strength training implications {.scrollable}
 
 `Question 1`: Even if prepubescent children can improve their strength with training, does such training involve negative effects?
 
@@ -221,19 +223,13 @@ As a result of differential growth of muscle mass during adolescence the average
 
 ## Summary - Strength Development
 
--   Childhood is a period of steady increase in strength.​​
-
--   Adolescent girls continue a steady increase.​
-
--   Adolescent boys experience a spurt of growth in strength.​
-
--   Strength levels are stable in young adulthood.​
-
--   Strength declines in older adulthood, gradually at first.​
-
--   Training can improve strength throughout the life span.​
-
--   Strength is related to muscle mass and neurological factors.​
+-   Childhood is a period of steady increase in strength
+-   Adolescent girls continue a steady increase
+-   Adolescent boys experience a spurt of growth in strength
+-   Strength levels are stable in young adulthood
+-   Strength declines in older adulthood, gradually at first
+-   Training can improve strength throughout the life span
+-   Strength is related to muscle mass and neurologicalfactors
 
 ## Before we go...
 
@@ -241,4 +237,122 @@ As a result of differential growth of muscle mass during adolescence the average
 Adolescents, like children, should be closely supervised when using weight training to improve strength. Their bones are still growing, and they are susceptible to a variety of musculoskeletal injuries if unsupervised (Risser & Preston, 1989, cited in @haywood2019).
 :::
 
-## References
+# Development of FLEXIBILITY across life span {background-color="aquamarine"}
+
+# Act 1 - Concept Retrieval
+
+[Poll](https://www.polleverywhere.com/free_text_polls/cpzbVB33Kt2WpHwJtUU8F)
+
+<iframe src="https://embed.polleverywhere.com/free_text_polls/xq0Kl4e4tvyc4VcCcGrv7?controls=none&amp;short_poll=true" width="800px" height="500px">
+
+</iframe>
+
+## Concept 1
+
+Each joint has its own range of flexibility, and flexibility tends to decline in adolescence and adulthood because of decreases in joint laxity, decreases in body mass, and lack of activity and exercise.
+
+{{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+
+. . .
+
+answer: {{< fa thumbs-down >}}
+
+::: notes
+down- increases in body mass
+:::
+
+::: callout-note
+Each joint has its own range of flexibility, and flexibility tends to decline in adolescence and adulthood because of decreases in joint laxity, `increases` in body mass, and lack of activity and exercise.
+:::
+
+## Concept 2
+
+Infants and children are very flexible, but an individual's degree of flexibility might be influenced by several factors.
+
+{{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+
+. . .
+
+answer: {{< fa thumbs-up >}}
+
+What are these factors?
+
+::: notes
+{{< fa thumbs-up >}}
+
+...influenced by genetics and becomes more variable with advancing age.
+:::
+
+::: callout-note
+Infants and children are very flexible, but an individual's degree of flexibility might be influenced by **genetics and becomes more variable with advancing age**.
+:::
+
+## Concept 3
+
+Flexibility training can improve flexibility in youth and avert declines in flexibility - even if training is not maintained.
+
+{{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+
+. . .
+
+answer: {{< fa thumbs-down >}}
+
+::: notes
+{{< fa thumbs-down >}}
+
+Flexibility training can improve flexibility in youth and avert declines in flexibility - but only if training is maintained.
+:::
+
+::: callout-note
+Flexibility training can improve flexibility in youth and avert declines in flexibility - but only if training is maintained.
+:::
+
+## Concept 4
+
+Flexibility increases in adulthood because of age-related tissue changes and overuse, but we do not know how much each factor contributes to overall gains.
+
+{{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+
+. . .
+
+answer: {{< fa thumbs-down >}}
+
+decreases - loss
+
+::: notes
+{{< fa thumbs-down >}}
+
+Flexibility **decreases** in adulthood because of age-related tissue changes and overuse, but we do not know how much each factor contributes **to the loss**.
+:::
+
+::: callout-note
+Flexibility **decreases** in adulthood because of age-related tissue changes and overuse, but we do not know how much each factor contributes **to the loss**.
+:::
+
+## Concept 5
+
+Older adults can improve or maintain their flexibility with a variety of different training programs.
+
+{{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+
+. . .
+
+answer: {{< fa thumbs-up >}}
+
+Programs must be properly designed to avoid injuries.
+
+::: notes
+{{< fa thumbs-up >}}
+:::
+
+::: callout-note
+Older adults can improve or maintain their flexibility with a variety of different training programs.
+:::
+
+# Act 3 - Critical thinking
+
+-   Develop flashcards for Chapter 11
+-   Purpose: Develop critical thinking skills
+-   [Completed in a shared file](https://mycsunemail-my.sharepoint.com/:w:/g/personal/ovande_furtado_csun_edu/ES1iMxTVx45Dmx-U3V3n5xcBfl2OeI7yLu_kUg4UwL5mgA?e=B8OlPU)
+
+# References
