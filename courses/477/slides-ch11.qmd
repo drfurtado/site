@@ -41,7 +41,11 @@ The strength level of an individual interacts with the task and environment eith
 
 [Poll](https://www.polleverywhere.com/free_text_polls/BaXsRTxuZ97BDaqxBX1Cz)
 
+<<<<<<< Updated upstream
 ## {{< fa thumbs-down >}} - {{< fa thumbs-up >}} Activity
+=======
+## {{< fa thumbs-down >}} \| {{< fa thumbs-up >}} - Activity
+>>>>>>> Stashed changes
 
 You will be:
 
