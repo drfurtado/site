@@ -283,12 +283,12 @@ Quizzes will be administered via Canvas and will assess the student's understand
 
 ## Online Discussions
 
-You will be required to complete several online discussions while taking this course. The details about each discussion topic will be provided on Canvas. Typically, there are two deadlines for this assignment. First, you need to answer the question I post (deadline 1), then respond to your classmates' posts (deadline 2). Refer to our Class Schedule in Canvas.
+You will be required to complete several online discussions while taking this course. The details about each discussion topic will be provided on Canvas. Typically, there are two deadlines for this assignment. First, you need to answer the question I post (deadline 1), then respond to your classmates' posts (deadline 2). Refer to our Class Schedule in Canvas. The first deadline[^1] is typically on Thursday and the second (final) is on Sunday.
 
-I will post an announcement following the deadline of each discussion assignment pointing out potential issues.
+[^1]: Note that the first deadline does not show in Canvas, only the second deadline on Sunday. Deadline 1 is in place because I want other students to read and comment on everyone's posts.
 
 ::: callout-note
-I know how important it is for you to know your current grade in the class. That is why my priority is to grade most assignments (except for the paper) within 1 week of the deadline, which will be visible on the Canvas Gradebook. Note that journal grades will not be visible until all journals are graded (e.g., original posts and responses). 
+I know how important it is for you to know your current grade in the class. That is why my priority is to grade most assignments (except for the paper) within 1 week of the deadline, which will be visible on the Canvas Gradebook.
 
 If your grades are not posted within a week after the deadline, or you believe the grade is inaccurate, feel free to email me about the status of your grade.
 :::
