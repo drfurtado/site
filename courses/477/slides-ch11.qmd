@@ -41,32 +41,32 @@ The strength level of an individual interacts with the task and environment eith
 
 [Poll](https://www.polleverywhere.com/free_text_polls/BaXsRTxuZ97BDaqxBX1Cz)
 
-## {{< fa thumbs-down >}} - {{< fa thumbs-up >}} Activity
+\<\<\<\<\<\<\< Updated upstream \## - Activity ======= \## \| - Activity \>\>\>\>\>\>\> Stashed changes
 
 You will be:
 
 1.  presented with a concept
 2.  paired up with a classmate
-3.  given 2 min to study the concept...then, {{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+3.  given 2 min to study the concept...then, or
 4.  picked to share your decision
 
 . . .
 
-Either case, you need to elaborate a bit... {{< fa person-chalkboard >}}
+Either case, you need to elaborate a bit...
 
 . . .
 
 ::: callout-tip
-{{< fa book >}} Use the slides and/or the book, if needed
+Use the slides and/or the book, if needed
 :::
 
-## Examples {{< fa smile >}}
+## Examples
 
 . . .
 
 **Example1:**
 
-{{< fa earth >}} The planet Earth is flat.
+The planet Earth is flat.
 
 . . .
 
@@ -251,11 +251,11 @@ Adolescents, like children, should be closely supervised when using weight train
 
 Each joint has its own range of flexibility, and flexibility tends to decline in adolescence and adulthood because of decreases in joint laxity, decreases in body mass, and lack of activity and exercise.
 
-{{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+or
 
 . . .
 
-answer: {{< fa thumbs-down >}}
+answer:
 
 ::: notes
 down- increases in body mass
@@ -269,17 +269,15 @@ Each joint has its own range of flexibility, and flexibility tends to decline in
 
 Infants and children are very flexible, but an individual's degree of flexibility might be influenced by several factors.
 
-{{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+or
 
 . . .
 
-answer: {{< fa thumbs-up >}}
+answer:
 
 What are these factors?
 
 ::: notes
-{{< fa thumbs-up >}}
-
 ...influenced by genetics and becomes more variable with advancing age.
 :::
 
@@ -291,15 +289,13 @@ Infants and children are very flexible, but an individual's degree of flexibilit
 
 Flexibility training can improve flexibility in youth and avert declines in flexibility - even if training is not maintained.
 
-{{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+or
 
 . . .
 
-answer: {{< fa thumbs-down >}}
+answer:
 
 ::: notes
-{{< fa thumbs-down >}}
-
 Flexibility training can improve flexibility in youth and avert declines in flexibility - but only if training is maintained.
 :::
 
@@ -311,17 +307,15 @@ Flexibility training can improve flexibility in youth and avert declines in flex
 
 Flexibility increases in adulthood because of age-related tissue changes and overuse, but we do not know how much each factor contributes to overall gains.
 
-{{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+or
 
 . . .
 
-answer: {{< fa thumbs-down >}}
+answer:
 
 decreases - loss
 
 ::: notes
-{{< fa thumbs-down >}}
-
 Flexibility **decreases** in adulthood because of age-related tissue changes and overuse, but we do not know how much each factor contributes **to the loss**.
 :::
 
@@ -333,16 +327,15 @@ Flexibility **decreases** in adulthood because of age-related tissue changes and
 
 Older adults can improve or maintain their flexibility with a variety of different training programs.
 
-{{< fa thumbs-up >}} or {{< fa thumbs-down >}}
+or
 
 . . .
 
-answer: {{< fa thumbs-up >}}
+answer:
 
 Programs must be properly designed to avoid injuries.
 
 ::: notes
-{{< fa thumbs-up >}}
 :::
 
 ::: callout-note
