@@ -155,16 +155,4 @@ The slope: if one increases $Xi$ by 1 unit, then one is decreasing $Yi$ by 8.94.
 
 The intercept: recall that the $a$ is the predicted value of $Yi$ when $Xi$ is equal to 0. Thus, if Dani gets zero hours of sleep ($Xi = 0$), then her grumpiness will reach about ($Yi = 125.96$), which is lot since the scale goes up to 100.
 
-### Assumption Checks
-
-Normality: QQ-plots + Shapiro-Wilk test
-
-Outlier
-
-Interpretation: Values greater than 1 is often considered large and indicates the presence of outlier.
-
-## Web Resources
-
-I have created a list of additional resources on this topic that can be accessed by scanning the following QR code:
-
-add qr code here
+# References
