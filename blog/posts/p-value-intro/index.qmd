@@ -1,0 +1,46 @@
+---
+title: "An Introduction to p-value"
+categories:
+  - p-value
+  - statistics
+  - hypothesis testing
+date: "12/18/2022"
+draft: true
+fig-cap-location: top
+image: feature.png
+author:
+  - name: Ovande Furtado Jr
+    url: https://drfurtado.us
+citation: true
+bibliography: ../biblio.bib
+---
+
+This article is meant to help students understand p-value
+
+## Objectives
+
+After reading this articles, you will be able to:
+
+1.  understand
+
+P-value is a statistical measure that is widely used in the field of bioestatistics. It is a probability that represents the likelihood of obtaining a result that is at least as extreme as the one observed, if the null hypothesis (the hypothesis that there is no relationship between the variables being studied) is true.
+
+In other words, the p-value helps researchers determine whether the results of their study are statistically significant or not. A p-value of less than 0.05 is generally considered to be statistically significant, meaning that there is a less than 5% chance that the observed results occurred by chance. On the other hand, a p-value of greater than 0.05 suggests that the observed results could have occurred by chance and are not statistically significant.
+
+However, it is important to note that the p-value is not a direct measure of the size or strength of the relationship between the variables being studied. It only provides information about the statistical significance of the results. Therefore, it is important to interpret the p-value in the context of the study and to consider other factors, such as the sample size, the magnitude of the effect, and the relevance of the results to the research question.
+
+In addition, it is important to note that the p-value should not be used as the sole criterion for determining whether a result is statistically significant or not. Other statistical measures, such as confidence intervals and effect sizes, can provide additional information about the strength and magnitude of the relationship between the variables being studied.
+
+Overall, the p-value is a valuable tool for assessing the statistical significance of research results in the field of bioestatistics. It helps researchers determine whether their results are likely to be true or simply due to chance, and it is an important factor to consider when interpreting and communicating the results of a study.
+
+## Example using R
+
+Step 1: Read data
+
+```{r, echo=FALSE}
+library(readr)
+rtime <- read_csv("https://bit.ly/datablog-rtime")
+View(rtime)
+show_col_types = FALSE
+summary(rtime$score)
+```

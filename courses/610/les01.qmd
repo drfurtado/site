@@ -14,18 +14,16 @@ bibliography: references.bib
 
 ## Course intro
 
-In Lesson 1 you will be introduced to this course. Please, read and study the [syllabus](syllabus.qmd) prior to coming to the [first meeting](sequence.qmd).
+In Lesson 1, you will be introduced to this course. Please, read and study the [syllabus](syllabus.qmd) before coming to the [first meeting](sequence.qmd).
 
 ## Data collection
 
-As part of Lesson 1, you will be asked to complete several cognitive tests. The data collected from these tests will be used when I cover data analyzes later in the semester.
+As part of Lesson 1, you will be asked to complete several cognitive tests. The data collected from these tests will be used when I cover data analysis later in the semester.
 
 ### Tests
 
-Below you will find links to several tests you will be required to take. Wait for more instructions from the instructor before taking the test. Please, do not take the tests prior to attending the first meeting as it with the internal validity[^1] of each test.
+While in class, you will be asked to complete a set of cognitive tests. The data collected from these tests will be used throughout the semester for various purposes. The tests will be completed in class, and your names will not be associated with the results. I will keep the data anonymous.
 
-[^1]: Refers to the lack of reliability when collecting data. If some participants are familiar with the test, this can be a threat to the internal validity of the study.
+Results
 
-#### Memory test
-
-....
+Below will you will find most current results from

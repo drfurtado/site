@@ -189,7 +189,7 @@ A 93.00-100.00 \| A- 90.00-92.99 B+ 87.00-89.99 \| B 83.00-86.99 \| B- 80.00-82.
 In recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a "round up" rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.
 :::
 
-::: callout-important
+::: aside
 Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
 :::
 
