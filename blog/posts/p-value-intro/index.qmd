@@ -4,8 +4,8 @@ categories:
   - p-value
   - statistics
   - hypothesis testing
-date: "12/18/2022"
-draft: true
+date: "12/20/2022"
+draft: false
 fig-cap-location: top
 image: feature.png
 author:
@@ -15,13 +15,9 @@ citation: true
 bibliography: ../biblio.bib
 ---
 
-This article is meant to help students understand p-value
-
-## Objectives
-
-After reading this articles, you will be able to:
-
-1.  understand
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
 
 P-value is a statistical measure that is widely used in the field of bioestatistics. It is a probability that represents the likelihood of obtaining a result that is at least as extreme as the one observed, if the null hypothesis (the hypothesis that there is no relationship between the variables being studied) is true.
 
@@ -33,14 +29,31 @@ In addition, it is important to note that the p-value should not be used as the 
 
 Overall, the p-value is a valuable tool for assessing the statistical significance of research results in the field of bioestatistics. It helps researchers determine whether their results are likely to be true or simply due to chance, and it is an important factor to consider when interpreting and communicating the results of a study.
 
-## Example using R
+## An example using R
 
-Step 1: Read data
+A researcher wanted to investigate if boys and girls differ on body mass index (BMI). She collected data on five boys (2) and five girls (1).
 
 ```{r, echo=FALSE}
-library(readr)
-rtime <- read_csv("https://bit.ly/datablog-rtime")
-View(rtime)
-show_col_types = FALSE
-summary(rtime$score)
+bmi <- c(32,33,34,32,30,29,30,33,27,28)
+sex <- c(1,1,1,1,1,2,2,2,2,2)
+df <- data.frame(bmi,sex)
+print(df)
 ```
+
+Prior to running the Student's t-test for independent means, I will check for the assumption of equal variances between the two groups.
+
+This can be done with the `var.test()` function in R. With the variance test, we want the p-value to be above 0.05, which would indicate that the variance between the two groups is not statistically significant.
+
+If the `var.test()` were found to be statistically significant, the Welch's Two Sample t-test must be used in place of the Independent-Samples t-test.
+
+```{r}
+var.test(bmi ~ sex)
+```
+
+Since the calculated p-value is above 0.05 (0.4153), there is no evidence the variance between the two groups is different. We can now proceed to with the t-test.
+
+```{r}
+t.test(bmi ~ sex, var.equal=TRUE)
+```
+
+To conclude, the Student's Independent-Samples t-test was used to compare the BMI mean values between boys (M = 32.2) and girls (M = 29.4). No significant difference was found between the groups, *t*(8) = 2.2862, p-value \< 0.05.

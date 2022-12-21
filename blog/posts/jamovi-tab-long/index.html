@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Ovande Furtado Jr">
-<meta name="dcterms.date" content="2022-12-20">
+<meta name="dcterms.date" content="2022-05-16">
 
-<title>Dr.&nbsp;Furtado - An Introduction to p-value</title>
+<title>Dr.&nbsp;Furtado - ‘Fixing’ long tables in jamovi</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -22,69 +22,6 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1.6em;
   vertical-align: middle;
 }
-pre > code.sourceCode { white-space: pre; position: relative; }
-pre > code.sourceCode > span { display: inline-block; line-height: 1.25; }
-pre > code.sourceCode > span:empty { height: 1.2em; }
-.sourceCode { overflow: visible; }
-code.sourceCode > span { color: inherit; text-decoration: inherit; }
-div.sourceCode { margin: 1em 0; }
-pre.sourceCode { margin: 0; }
-@media screen {
-div.sourceCode { overflow: auto; }
-}
-@media print {
-pre > code.sourceCode { white-space: pre-wrap; }
-pre > code.sourceCode > span { text-indent: -5em; padding-left: 5em; }
-}
-pre.numberSource code
-  { counter-reset: source-line 0; }
-pre.numberSource code > span
-  { position: relative; left: -4em; counter-increment: source-line; }
-pre.numberSource code > span > a:first-child::before
-  { content: counter(source-line);
-    position: relative; left: -1em; text-align: right; vertical-align: baseline;
-    border: none; display: inline-block;
-    -webkit-touch-callout: none; -webkit-user-select: none;
-    -khtml-user-select: none; -moz-user-select: none;
-    -ms-user-select: none; user-select: none;
-    padding: 0 4px; width: 4em;
-    color: #aaaaaa;
-  }
-pre.numberSource { margin-left: 3em; border-left: 1px solid #aaaaaa;  padding-left: 4px; }
-div.sourceCode
-  {   }
-@media screen {
-pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
-}
-code span.al { color: #ff0000; font-weight: bold; } /* Alert */
-code span.an { color: #60a0b0; font-weight: bold; font-style: italic; } /* Annotation */
-code span.at { color: #7d9029; } /* Attribute */
-code span.bn { color: #40a070; } /* BaseN */
-code span.bu { color: #008000; } /* BuiltIn */
-code span.cf { color: #007020; font-weight: bold; } /* ControlFlow */
-code span.ch { color: #4070a0; } /* Char */
-code span.cn { color: #880000; } /* Constant */
-code span.co { color: #60a0b0; font-style: italic; } /* Comment */
-code span.cv { color: #60a0b0; font-weight: bold; font-style: italic; } /* CommentVar */
-code span.do { color: #ba2121; font-style: italic; } /* Documentation */
-code span.dt { color: #902000; } /* DataType */
-code span.dv { color: #40a070; } /* DecVal */
-code span.er { color: #ff0000; font-weight: bold; } /* Error */
-code span.ex { } /* Extension */
-code span.fl { color: #40a070; } /* Float */
-code span.fu { color: #06287e; } /* Function */
-code span.im { color: #008000; font-weight: bold; } /* Import */
-code span.in { color: #60a0b0; font-weight: bold; font-style: italic; } /* Information */
-code span.kw { color: #007020; font-weight: bold; } /* Keyword */
-code span.op { color: #666666; } /* Operator */
-code span.ot { color: #007020; } /* Other */
-code span.pp { color: #bc7a00; } /* Preprocessor */
-code span.sc { color: #4070a0; } /* SpecialChar */
-code span.ss { color: #bb6688; } /* SpecialString */
-code span.st { color: #4070a0; } /* String */
-code span.va { color: #19177c; } /* Variable */
-code span.vs { color: #4070a0; } /* VerbatimString */
-code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warning */
 </style>
 
 
@@ -208,11 +145,10 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <header id="title-block-header" class="quarto-title-block default page-columns page-full">
   <div class="quarto-title-banner page-columns page-full">
     <div class="quarto-title column-page-left">
-      <h1 class="title">An Introduction to p-value</h1>
+      <h1 class="title">‘Fixing’ long tables in jamovi</h1>
                                 <div class="quarto-categories">
-                <div class="quarto-category">p-value</div>
-                <div class="quarto-category">statistics</div>
-                <div class="quarto-category">hypothesis testing</div>
+                <div class="quarto-category">jamovi</div>
+                <div class="quarto-category">tables</div>
               </div>
                   </div>
   </div>
@@ -230,7 +166,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
       <div>
       <div class="quarto-title-meta-heading">Published</div>
       <div class="quarto-title-meta-contents">
-        <p class="date">December 20, 2022</p>
+        <p class="date">May 16, 2022</p>
       </div>
     </div>
     
@@ -246,7 +182,9 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#an-example-using-r" id="toc-an-example-using-r" class="nav-link active" data-scroll-target="#an-example-using-r">An example using R</a></li>
+  <li><a href="#motivation" id="toc-motivation" class="nav-link active" data-scroll-target="#motivation">Motivation</a></li>
+  <li><a href="#understanding-the-problem" id="toc-understanding-the-problem" class="nav-link" data-scroll-target="#understanding-the-problem">Understanding the problem</a></li>
+  <li><a href="#the-solution" id="toc-the-solution" class="nav-link" data-scroll-target="#the-solution">The solution</a></li>
   </ul>
 </nav>
     </div>
@@ -256,79 +194,65 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 
 
 
-<p>P-value is a statistical measure that is widely used in the field of bioestatistics. It is a probability that represents the likelihood of obtaining a result that is at least as extreme as the one observed, if the null hypothesis (the hypothesis that there is no relationship between the variables being studied) is true.</p>
-<p>In other words, the p-value helps researchers determine whether the results of their study are statistically significant or not. A p-value of less than 0.05 is generally considered to be statistically significant, meaning that there is a less than 5% chance that the observed results occurred by chance. On the other hand, a p-value of greater than 0.05 suggests that the observed results could have occurred by chance and are not statistically significant.</p>
-<p>However, it is important to note that the p-value is not a direct measure of the size or strength of the relationship between the variables being studied. It only provides information about the statistical significance of the results. Therefore, it is important to interpret the p-value in the context of the study and to consider other factors, such as the sample size, the magnitude of the effect, and the relevance of the results to the research question.</p>
-<p>In addition, it is important to note that the p-value should not be used as the sole criterion for determining whether a result is statistically significant or not. Other statistical measures, such as confidence intervals and effect sizes, can provide additional information about the strength and magnitude of the relationship between the variables being studied.</p>
-<p>Overall, the p-value is a valuable tool for assessing the statistical significance of research results in the field of bioestatistics. It helps researchers determine whether their results are likely to be true or simply due to chance, and it is an important factor to consider when interpreting and communicating the results of a study.</p>
-<section id="an-example-using-r" class="level2">
-<h2 class="anchored" data-anchor-id="an-example-using-r">An example using R</h2>
-<p>A researcher wanted to investigate if boys and girls differ on body mass index (BMI). She collected data on five boys (2) and five girls (1).</p>
-<div class="cell">
-<div class="cell-output cell-output-stdout">
-<pre><code>   bmi sex
-1   32   1
-2   33   1
-3   34   1
-4   32   1
-5   30   1
-6   29   2
-7   30   2
-8   33   2
-9   27   2
-10  28   2</code></pre>
+<section id="motivation" class="level3">
+<h3 class="anchored" data-anchor-id="motivation">Motivation</h3>
+<p>This post<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a> shows two different ways to format descriptive tables in jamovi.</p>
+</section>
+<section id="understanding-the-problem" class="level3">
+<h3 class="anchored" data-anchor-id="understanding-the-problem">Understanding the problem</h3>
+<p>When creating <code>descriptive tables</code> in jamovi<a href="#fn2" class="footnote-ref" id="fnref2" role="doc-noteref"><sup>2</sup></a> , you can either select to display variables across columns or across rows. Depending on your choice, tables may not fit your needs.</p>
+<p>Below are two examples of descriptive tables generated in <code>jamovi</code>. <a href="#fig-column">Figure&nbsp;1</a> shows a table with variables across columns and <a href="#fig-row">Figure&nbsp;2</a> shows a table with variables across rows.</p>
+<p>Learn how to choose either format by watching the video at the end of this post.</p>
+<div class="callout-tip callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Tip
 </div>
 </div>
-<p>Prior to running the Student’s t-test for independent means, I will check for the assumption of equal variances between the two groups.</p>
-<p>This can be done with the <code>var.test()</code> function in R. With the variance test, we want the p-value to be above 0.05, which would indicate that the variance between the two groups is not statistically significant.</p>
-<p>If the <code>var.test()</code> were found to be statistically significant, the Welch’s Two Sample t-test must be used in place of the Independent-Samples t-test.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">var.test</span>(bmi <span class="sc">~</span> sex)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>
-    F test to compare two variances
-
-data:  bmi by sex
-F = 0.41509, num df = 4, denom df = 4, p-value = 0.4153
-alternative hypothesis: true ratio of variances is not equal to 1
-95 percent confidence interval:
- 0.0432186 3.9867860
-sample estimates:
-ratio of variances 
-         0.4150943 </code></pre>
+<div class="callout-body-container callout-body">
+<p>Instead of copying a table from the output, you can export the table as PDF. Some journal articles require authors to save tables as PDF and submit them as separate files.</p>
 </div>
 </div>
-<p>Since the calculated p-value is above 0.05 (0.4153), there is no evidence the variance between the two groups is different. We can now proceed to with the t-test.</p>
-<div class="cell">
-<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(bmi <span class="sc">~</span> sex, <span class="at">var.equal=</span><span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
-<div class="cell-output cell-output-stdout">
-<pre><code>
-    Two Sample t-test
-
-data:  bmi by sex
-t = 2.2862, df = 8, p-value = 0.05157
-alternative hypothesis: true difference in means between group 1 and group 2 is not equal to 0
-95 percent confidence interval:
- -0.02426674  5.62426674
-sample estimates:
-mean in group 1 mean in group 2 
-           32.2            29.4 </code></pre>
+<div id="fig-column" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p></p><figcaption class="figure-caption">Figure&nbsp;1: Descriptive table with variables across columns</figcaption><p></p>
+<p><img src="jamov-tab-desc-column.png" class="img-fluid figure-img" style="width:42.0%"></p>
+</figure>
 </div>
+<div id="fig-row" class="quarto-figure quarto-figure-center anchored">
+<figure class="figure">
+<p></p><figcaption class="figure-caption">Figure&nbsp;2: Descriptive table with variables across rows</figcaption><p></p>
+<p><img src="jamov-tab-desc-row.png" class="img-fluid figure-img"></p>
+</figure>
 </div>
-<p>To conclude, the Student’s Independent-Samples t-test was used to compare the BMI mean values between boys (M = 32.2) and girls (M = 29.4). No significant difference was found between the groups, <em>t</em>(8) = 2.2862, p-value &lt; 0.05.</p>
+</section>
+<section id="the-solution" class="level3">
+<h3 class="anchored" data-anchor-id="the-solution">The solution</h3>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0scXP8rycpw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
 
 
 </section>
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{furtadojr2022,
+
+<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+
+<ol>
+<li id="fn1">Illustration by <a href="https://icons8.com/illustrations/author/TQQ1qAnr9rn5">Oleg Shcherba</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></li>
+<li id="fn2"><p>Click <a href="https://www.jamovi.org">here</a> to learn more about jamovi.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
+</ol>
+</section><section class="quarto-appendix-contents"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{furtadojr2022,
   author = {Ovande Furtado Jr},
-  title = {An {Introduction} to p-Value},
-  date = {2022-12-20},
+  title = {“{Fixing}” Long Tables in Jamovi},
+  date = {2022-05-16},
   langid = {en}
 }
 </code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-furtadojr2022" class="csl-entry quarto-appendix-citeas" role="doc-biblioentry">
-Ovande Furtado Jr. 2022. <span>“An Introduction to p-Value.”</span>
-December 20, 2022.
+Ovande Furtado Jr. 2022. <span>“<span>‘Fixing’</span> Long Tables in
+Jamovi.”</span> May 16, 2022.
 </div></div></section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
