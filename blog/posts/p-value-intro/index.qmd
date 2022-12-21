@@ -57,4 +57,4 @@ Since the calculated p-value is above 0.05 (0.4153), there is no evidence the va
 t.test(bmi ~ sex, var.equal=TRUE)
 ```
 
-To conclude, the Student's Independent-Samples t-test was used to compare the BMI mean values between boys (M = 32.2) and girls (M = 29.4). No significant difference was found between the groups, *t*(8) = 2.2862, p-value \< 0.05.
+To conclude, the Student's Independent-Samples t-test was used to compare the BMI mean values between boys (M = 32.2) and girls (M = 29.4). No significant difference was found between the groups, *t*(8) = 2.2862, p-value \> 0.05.
