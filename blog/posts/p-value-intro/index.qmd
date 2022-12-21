@@ -20,6 +20,18 @@ bibliography: ../biblio.bib
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
+## Learning Objectives
+
+1.  Understand what a p-value is and how it is used in statistical analysis.
+
+2.  Know how to calculate a p-value and interpret the results.
+
+3.  Understand the limitations of p-values, including the fact that they do not provide a direct measure of effect size or the probability that the results are due to chance.
+
+4.  Be able to evaluate the appropriateness of using a p-value in a particular research study.
+
+5.  Understand how to communicate the results of a statistical analysis that includes a p-value in a clear and accurate way.
+
 P-value is a statistical measure that is widely used in the field of bioestatistics. It is a probability that represents the likelihood of obtaining a result that is at least as extreme as the one observed, if the null hypothesis (the hypothesis that there is no relationship between the variables being studied) is true.
 
 In other words, the p-value helps researchers determine whether the results of their study are statistically significant or not. A p-value of less than 0.05 is generally considered to be statistically significant, meaning that there is a less than 5% chance that the observed results occurred by chance. On the other hand, a p-value of greater than 0.05 suggests that the observed results could have occurred by chance and are not statistically significant.
