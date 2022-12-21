@@ -12,6 +12,8 @@ image: feature.png
 author:
   - name: Ovande Furtado Jr
     url: https://drfurtado.us
+    orcid: 0000-0003-3847-6314
+    affiliations: Cal State Northridge
 citation: true
 bibliography: ../biblio.bib
 ---
