@@ -4,6 +4,7 @@ categories:
   - p-value
   - statistics
   - hypothesis testing
+  - probability
 date: "12/20/2022"
 draft: false
 fig-cap-location: top
