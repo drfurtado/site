@@ -77,7 +77,7 @@ If the `var.test()` were found to be statistically significant, the Welch's Two 
 var.test(bmi ~ sex)
 ```
 
-Since the calculated p-value is above 0.05 (0.4153), there is no evidence the variance between the two groups is different. We can now proceed to with the t-test.
+Since the calculated p-value is above 0.05 (0.4153), there is no evidence the variance between the two groups is different. We can now proceed to with the Independent-Samples t-test.
 
 ```{r}
 t.test(bmi ~ sex, var.equal=TRUE)
