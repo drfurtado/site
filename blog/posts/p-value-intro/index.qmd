@@ -48,7 +48,7 @@ Overall, the p-value is a valuable tool for assessing the statistical significan
 
 ## Controversy
 
-However, there has been a growing controversy surrounding the use of p-values in scientific research, as some argue that they can be misused or misinterpreted, leading to erroneous conclusions.
+There has been a growing controversy surrounding the use of p-values in scientific research, as some argue that they can be misused or misinterpreted, leading to erroneous conclusions.
 
 One of the main criticisms of p-values is that they can be easily misused to "cherry pick" results that support a particular hypothesis, while ignoring results that do not. This can lead to a biased interpretation of the data and a distorted view of the underlying phenomenon being studied.
 

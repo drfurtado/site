@@ -1,0 +1,154 @@
+---
+title: "One Sample t-test & z test"
+---
+
+## Learning Objectives
+
+...
+
+## Introduction
+
+A one-sample t-test is a statistical test used to determine whether the mean of a population differs from a known value. It is often used to determine whether the mean of a sample differs significantly from a hypothesized value, such as the mean of a control group or a population mean. The formula to calculate the one-sample t-test by hand is provided below.
+
+$$
+t = \frac{m-\mu}{s/\sqrt{n}}
+$$ {#eq-1sample-t}\
+Where,
+
+-   $m$ = the sample mean
+
+-   $\mu$ = the hypothesized population value
+
+-   $s$ = standard deviation
+
+-   $n$ = the sample size
+
+The denominator in Equation 1 is also refered to the standard error of the mean.
+
+$$
+\sigma_{\bar{x}}=\frac{s}{\sqrt{n}}
+$$ {#eq-sem}
+
+Where,
+
+-   s is the standard deviation of the sample
+-   n is the sample size
+
+To perform a one-sample t-test, you will need a sample of data and a hypothesized mean. You will also need to decide on the level of significance, or alpha, that you will use to determine whether the differences between the sample mean and the hypothesized mean are statistically significant.
+
+## Steps
+
+Here are the steps to perform a one-sample t-test:
+
+1.  Calculate the mean of the sample.
+
+2.  Calculate the standard deviation of the sample.
+
+3.  Calculate the standard error of the mean, which is the standard deviation divided by the square root of the sample size.
+
+4.  Check for normality
+
+5.  Calculate the t-value by subtracting the hypothesized mean from the sample mean and dividing the result by the standard error of the mean.
+
+6.  Look up the t-value in a t-distribution table or use a statistical software package to determine the p-value, which is the probability that the difference between the sample mean and the hypothesized mean is due to random chance.
+
+7.  Compare the p-value to the level of significance. If the p-value is less than the level of significance, you can conclude that the difference between the sample mean and the hypothesized mean is statistically significant.
+
+To interpret the results of a one-sample t-test, you will need to consider the p-value and the level of significance that you chose. If the p-value is less than the level of significance, you can conclude that the difference between the sample mean and the hypothesized mean is statistically significant, and you can reject the null hypothesis. This means that you can be confident that the difference between the sample mean and the hypothesized mean is not due to random chance.
+
+On the other hand, if the p-value is greater than the level of significance, you cannot reject the null hypothesis. This means that the difference between the sample mean and the hypothesized mean is likely due to random chance, and you cannot be confident that the sample mean differs significantly from the hypothesized mean.
+
+It is important to note that a one-sample t-test is sensitive to the sample size, and larger sample sizes are generally more powerful. It is also important to choose an appropriate level of significance, as this will affect the power of the test and the probability of making a type I error (rejecting the null hypothesis when it is true).
+
+In summary, a one-sample t-test is a statistical test used to determine whether the mean of a sample differs significantly from a hypothesized mean. To perform a one-sample t-test, you will need a sample of data, a hypothesized mean, and a level of significance. You can then calculate the t-value and the p-value, and compare the p-value to the level of significance to determine whether the difference between the sample mean and the hypothesized mean is statistically significant.
+
+## Example
+
+Dr Lynx wanted to compare the mean reaction time from his class to a population value. He asked 10 students to take the Reaction Time test found at [HumanBenchmark](http://humanbenchmark.com). He then compared the mean value from his class to that of all those who took the test online.
+
+Mean reaction time from those who took the test online = 284 milliseconds
+
+Sample data (`rtime`) from Dr. Lynx class:
+
+rtime = 278,288,300,322,273,290,344,240,234,222
+
+```{r, echo=FALSE}
+rtime <- c(278,288,300,322,273,290,344,240,234,222)
+df <- data.frame(rtime)
+```
+
+### Steps 1-3: $m$, $s$, $sem$
+
+I used R to calculate the sample mean, standard deviation, and the SEM (standard error of the mean (279.1) for Dr. Lynx class. The SEM is simply SD/N. The larger the SEM the more spread out the values are.
+
+```{r, echo=FALSE}
+mean(rtime)
+sd(rtime)
+
+```
+
+### Step 4: Normality
+
+Before we run the one-sample t-test, we will verify if the sample data is normality distributed. We can test for normality using the Shapiro-Wilk test in R.
+
+The results from the test below indicate no evidence ($W$ = 0.964, p-value \> 0.05) the sample distribution is significantly different from a normal distribution. We can proceed to run the one-sample t-test.
+
+```{r}
+shapiro.test(rtime)
+```
+
+### Step 5: Run the test
+
+We can use the equation @eq-1sample-t calculate the t-value by subtracting the hypothesized mean from the sample mean and dividing the result by the standard deviation over the square-root of the sample size.
+
+## The z test
+
+In the example above, the population standard deviation ($\sigma$) is unknown, which is typically the case. In cases where the $\sigma$ is known, we use the z test.
+
+The z test is....
+
+The equation for the z test is provided below.
+
+$$
+z = \frac{m-\mu}{\sigma/\sqrt{n}}
+$$ {#eq-ztest}
+
+where:
+
+-   z refers to the distance between a selected value, designated x ̄, and the mean μ divided by the standard error of the mean √σ as in formula
+
+-   n - x ̄ refers for the sample mean. - μ refers to the population mean. - σ refers to the population standard deviation. - n refers to the sample size.
+
+v2
+
+A one-sample t-test is a statistical test used to compare the mean of a sample to a known population mean. This test is often used to determine whether there is a significant difference between the sample mean and the population mean.
+
+To perform a one-sample t-test, you will need a sample of data and a hypothesis about the mean of the population. The null hypothesis for a one-sample t-test is that the sample mean is equal to the population mean. The alternative hypothesis is that the sample mean is not equal to the population mean.
+
+Here are the steps for running a one-sample t-test:
+
+1.  Collect a sample of data. The sample should be representative of the population you are interested in.
+
+2.  Calculate the mean of the sample.
+
+3.  Calculate the standard deviation of the sample.
+
+4.  Calculate the standard error of the mean (SEM). The SEM is a measure of the precision of the sample mean and is calculated as the standard deviation of the sample divided by the square root of the sample size.
+
+5.  Calculate the t-value. The t-value is calculated by taking the difference between the sample mean and the population mean, and dividing it by the SEM.
+
+6.  Determine the degrees of freedom (df). The degrees of freedom is the number of observations in the sample minus one.
+
+7.  Look up the t-value in a t-table or use a t-test calculator to find the p-value. The p-value is the probability that the difference between the sample mean and the population mean occurred by chance.
+
+To interpret the results of a one-sample t-test, you will need to compare the p-value to a significance level, typically 0.05. If the p-value is less than the significance level, you can reject the null hypothesis and conclude that there is a significant difference between the sample mean and the population mean. If the p-value is greater than the significance level, you cannot reject the null hypothesis and must conclude that there is not a significant difference between the sample mean and the population mean.
+
+It is important to note that the one-sample t-test assumes that the sample is drawn from a normally distributed population. If the sample is not normally distributed, you may need to use a different statistical test.
+
+In summary, a one-sample t-test is a statistical test used to determine whether there is a significant difference between the mean of a sample and a known population mean. To perform a one-sample t-test, you will need a sample of data and a hypothesis about the mean of the population. You will then need to calculate the t-value and look up the p-value in a t-table or use a t-test calculator. The p-value can be compared to a significance level to determine whether the difference between the sample mean and the population mean is significant.
+
+```{r}
+# use pt() to find probability under the $t$-distribution
+pt(-2.10, df = 18)
+#> [1] 0.025
+```

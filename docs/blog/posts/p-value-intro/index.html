@@ -284,7 +284,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 </section>
 <section id="controversy" class="level2">
 <h2 class="anchored" data-anchor-id="controversy">Controversy</h2>
-<p>However, there has been a growing controversy surrounding the use of p-values in scientific research, as some argue that they can be misused or misinterpreted, leading to erroneous conclusions.</p>
+<p>There has been a growing controversy surrounding the use of p-values in scientific research, as some argue that they can be misused or misinterpreted, leading to erroneous conclusions.</p>
 <p>One of the main criticisms of p-values is that they can be easily misused to “cherry pick” results that support a particular hypothesis, while ignoring results that do not. This can lead to a biased interpretation of the data and a distorted view of the underlying phenomenon being studied.</p>
 <p>Another concern is that p-values are often used as a “cut-off” point, with results that have a p-value of less than 0.05 being considered statistically significant and worthy of publication, while those with a p-value greater than 0.05 are deemed not statistically significant and are often ignored. This can lead to a “publication bias,” where studies with statistically significant results are more likely to be published, while those with non-significant results are less likely to be published. This can lead to an inflated view of the reliability of certain findings, as the published literature may not accurately reflect the true state of the underlying phenomena being studied.</p>
 <p>There have been a number of proposals for alternative approaches to p-values, including the use of confidence intervals, Bayesian statistics, and other methods. Some argue that these approaches are more robust and less prone to misuse than p-values. However, there is ongoing debate about the appropriateness of these alternatives and how they should be implemented in scientific research.</p>
@@ -326,7 +326,7 @@ ratio of variances
          0.4150943 </code></pre>
 </div>
 </div>
-<p>Since the calculated p-value is above 0.05 (0.4153), there is no evidence the variance between the two groups is different. We can now proceed to with the t-test.</p>
+<p>Since the calculated p-value is above 0.05 (0.4153), there is no evidence the variance between the two groups is different. We can now proceed to with the Independent-Samples t-test.</p>
 <div class="cell">
 <div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">t.test</span>(bmi <span class="sc">~</span> sex, <span class="at">var.equal=</span><span class="cn">TRUE</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 <div class="cell-output cell-output-stdout">
