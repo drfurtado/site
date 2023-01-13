@@ -9,5 +9,5 @@ title: "KIN 377: Motor Learning"
 Study of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.
 
 ::: callout
-All the study content for this course will be available here. I use Canvas (CSUN's Learning Management System) for `1) assignment submission`, `2) posting grades`, `3) discussions`, and `4) Announcements`
+All the study content for this course will be available here. I use Canvas (CSUN's Learning Management System) for `1) assignment submission`, `2) posting grades`, `3) discussions`, and `4) Announcements.`
 :::

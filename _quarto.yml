@@ -17,7 +17,7 @@ website:
         menu: 
           - text: "KIN 610"
             icon: "graph-up"
-            href: courses/610/index.qmd
+            href: https://drfurtado.github.io/kin610/
           - text: "KIN 377"
             icon: "intersect"
             href: courses/377/index.qmd
@@ -34,19 +34,6 @@ website:
         href: https://github.com/drfurtado
 
   sidebar:
-    - id: 610-intro
-      collapse-level: 1
-      style: "docked"
-      contents:
-        - text: "KIN 610 Intro"
-          href: courses/610/index.qmd
-        - text: "Syllabus"
-          href: courses/610/syllabus.qmd
-        - section: "Lessons"
-          contents:
-            - text: "Lesson-01"
-              href: courses/610/les01.qmd
-
     - id: 377-intro
       collapse-level: 1
       style: "docked"

@@ -43,7 +43,8 @@ See @sec-office-hours for more information
 ## Contact Info
 
 Email: ovandef\@csun.edu\
-Office: Redwood Hall 289
+Office: Redwood Hall 289\
+Course's Site: <https://drfurtado.github.io/site/courses/377/>
 
 ::: callout-note
 For course-related questions, please use our mailing list. This way other students will benefit when I answer your question(s). Refer to Canvas for the mailing list email address.
