@@ -1,6 +1,8 @@
 ---
 title: "Blog"
 subtitle: Academic-related posts & more
+site-url: https://drfurtado.github.io/qacademic/blog/
+feed: true
 sidebar: false
 page-layout: full
 title-block-banner: "#EDF3F9"
@@ -14,4 +16,8 @@ listing:
   sort-ui: false
   image-align: right
   max-description-length: 100
+navbar:
+    right:
+      - icon: rss
+        href: index.xml
 ---

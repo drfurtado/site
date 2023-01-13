@@ -22,6 +22,10 @@ As part of Lesson 1, you will be asked to complete several cognitive tests. The 
 
 ### Tests
 
+$$
+\bar{x}=\frac{\sum x}{n}
+$$ {#eq-sample-mean}
+
 While in class, you will be asked to complete a set of cognitive tests. The data collected from these tests will be used throughout the semester for various purposes. The tests will be completed in class, and your names will not be associated with the results. I will keep the data anonymous.
 
 Results

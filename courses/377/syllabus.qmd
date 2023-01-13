@@ -2,7 +2,7 @@
 title:  'KIN 377: Motor Learning'
 subtitle: |
   | Department of Kinesiology, Cal State Northridge
-  | Syllabus - Fall 2022 (Online)
+  | Syllabus - Spring 2023 (Online and Face-to-Face)
 latex-auto-mk: true
 format:
   html:
@@ -26,7 +26,7 @@ table-striped: true
 
 ------------------------------------------------------------------------
 
-Formats: [HTML](syllabus.html) \| [PDF](syllabus.pdf)
+[Syllabus in PDF format](syllabus.pdf)
 
 # Instructor Info {#sec-instructor-info}
 
@@ -45,11 +45,23 @@ See @sec-office-hours for more information
 Email: ovandef\@csun.edu\
 Office: Redwood Hall 289
 
+::: callout-note
+For course-related questions, please use our mailing list. This way other students will benefit when I answer your question(s). Refer to Canvas for the mailing list email address.
+
+Hint: Add the email to your contacts for easy access throughout the semester.
+:::
+
 # General Information
 
 ## Course Description
 
-Study of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.
+Study of principles , theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.
+
+-   teaching
+-   examples of principles
+-   educational and clinical settings
+-   include both catalog and my own description
+-   do the same with the other items from the excel file
 
 ## Course Prerequisite
 
@@ -96,7 +108,7 @@ At the conclusion of this course, students should be able to:
 
 ## Textbook
 
-Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education.
+Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications (12th Ed.). McGraw-Hill Education.
 
 Link to Matador Bookstore: <https://bit.ly/37yiD7u>
 
@@ -111,8 +123,8 @@ The program below is only available during the Fall and Spring semesters.
 3.  Some or all of your materials for this course are being provided digitally through the *MCDA* program.
 4.  ALL enrolled students will have access to the materials through Canvas by the 1st day of class, *but more likely earlier*.
 5.  If you want to keep access throughout the semester, you need do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.
-6.  If you choose to obtain your materials elsewhere you have until **`9/25/22`** to Opt-Out (see instructions below). Those who Opt-Out by **`9/25/22`** will lose access and will **not be charged**.
-7.  Anyone who does not Opt-Out by the **`9/25/22`** deadline will be charged and those charges **will not be reversible**.
+6.  If you choose to obtain your materials elsewhere you have until **`02/17/23`** to Opt-Out (see instructions below). Those who Opt-Out by **`02/17/23`** will lose access and will **not be charged**.
+7.  Anyone who does not Opt-Out by the **`02/17/23`** deadline will be charged and those charges **will not be reversible**.
 8.  [Click here for more information](https://bit.ly/3pcWcfb).
 
 ### Price
@@ -123,19 +135,12 @@ To see how much you will be billed if you opt-in, click the link below:
 
 ### Opt-out Instructions
 
-If you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by **`9/25/22`**:
+If you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by **`02/17/23`**:
 
 1.  Go to <https://accessportal.follett.com/0150>
 2.  Click on Create an Account on the lower right
 3.  Create an account using your CSUN email account
 4.  Select the course(s) you wish to Opt-Out from
-
-You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: <https://bit.ly/3pcWcfb>
-
-1.  Go to <https://accessportal.follett.com/0150>;
-2.  Click on Create an Account on the lower right;
-3.  Create an account using your CSUN email account'
-4.  Select the course(s) you wish to Opt-Out from.
 
 ::: callout-note
 You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: <https://bit.ly/3pcWcfb>
@@ -152,7 +157,7 @@ Although not required, it is suggested that you have access to a computer (not s
 One of the requirements of this course is to learn a motor skill. If you select juggling, I suggest you to acquire the [mini juggling balls](http://goo.gl/X3EjLE), which are small and have the recommended weight for beginners.
 
 ::: callout-important
-If you choose to use any object other than the mini juggling balls, then you understand that your performance may be negativelly affected by it. When performing the exchange technique (required for this activity), at a given point, performers need to hold two objects in one hand. This becomes a problem if large objects are being used; i.e., tennis balls.
+If you choose to use any object other than the mini juggling balls, understand that your performance may be **negatively affected** by it. When performing the exchange technique (required for this activity), at a given point, performers need to hold two objects in one hand. This becomes a problem if large objects are being used; i.e., tennis balls.
 :::
 
 ### Speed Stacks Sport Stacking Set
@@ -189,7 +194,7 @@ A 93.00-100.00 \| A- 90.00-92.99 B+ 87.00-89.99 \| B 83.00-86.99 \| B- 80.00-82.
 In recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a "round up" rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.
 :::
 
-::: aside
+::: callout-important
 Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
 :::
 
@@ -207,13 +212,13 @@ If your message concerns a non-private matter (i.e., assignments, content, deadl
 
 ## Office Hours {#sec-office-hours}
 
-### In-person
+#### In-person
 
-Tuesdays from 9-11 am at RE 289.
+Thursdays from 2-4 pm at RE 289.
 
-### Online via Zoom
+#### Online via Zoom
 
-By appointment only via <https://bit.ly/drfurtado-bookme>
+By appointment only: [www.calendly.com/drfurtado](www.calendly.com/drfurtado)
 
 ## Make-Up Exam Policy
 
@@ -401,14 +406,16 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 
 -   [Emergency MataCare grants](https://www.csun.edu/financialaid/matacare-emergency-grant), one-time grants to prevent evictions, urgent childcare issues, etc.
 
-# Class Sequence
+# Course Sequence
 
 {{< include sequence.qmd >}}
 
 # Appendices
 
-## Appendix A, B, C
+It is crucial you study the content of these three appendices. **Appendix A** covers the main instructions related to the LEARNING TASK ASSIGNMENT. In **Appendix B**, you find useful tutorials for both Juggling and Cup Stacking. You will choose one of these two skills to practice and learn throughout the term (Fall, Spring, Summer, or Winter). **Appendix C** covers the Motor Learning Principles (MLP) you will be introduced in this course. The MLP will be crucial when learning your chosen skill (either juggling or cup stacking).
 
-Not provide here. Please, refer to our Canvas page. The material associated with these appendices are related to the Learning Task Assignment, which accounts for 50% of the final grade. ***THIS MEANS YOU MUST READ AND STUDY THE CONTENT OF APPENDIX A, B, AND C.***
+This the major assignment for this course and accounts fo **50% of the final grade**. Thus, it's crucial you study the content of these three appendices.
+
+{{< include 377-appendix-a_b_c.qmd >}}
 
 {{< include 377-appendix-d.qmd >}}

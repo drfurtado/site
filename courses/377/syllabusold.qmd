@@ -26,6 +26,8 @@ table-striped: true
 
 ------------------------------------------------------------------------
 
+Formats: [HTML](syllabus.html) \| [PDF](syllabus.pdf)
+
 # Instructor Info {#sec-instructor-info}
 
 ## Brief Bio
@@ -43,27 +45,11 @@ See @sec-office-hours for more information
 Email: ovandef\@csun.edu\
 Office: Redwood Hall 289
 
-::: callout-note
-For course-related questions, please use our mailing list. This way other students will benefit when I answer your question(s). Refer to Canvas for the mailing list email address.
-
-Hint: Add the email to your contacts for easy access throughout the semester.
-:::
-
 # General Information
 
 ## Course Description
 
-Study of principles , theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.
-
--   teaching
-
--   examples of principles
-
--   educational and clinical settings
-
--   include both catalog and my own description
-
--   do the same with the other items from the excel file
+Study of principles, theories, and research evidence regarding the nature of motor performance and learning with particular emphasis on factors that impact learning a skill through practice.
 
 ## Course Prerequisite
 
@@ -110,7 +96,7 @@ At the conclusion of this course, students should be able to:
 
 ## Textbook
 
-Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications (12th Ed.). McGraw-Hill Education.
+Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications. McGraw-Hill Education.
 
 Link to Matador Bookstore: <https://bit.ly/37yiD7u>
 
@@ -166,7 +152,7 @@ Although not required, it is suggested that you have access to a computer (not s
 One of the requirements of this course is to learn a motor skill. If you select juggling, I suggest you to acquire the [mini juggling balls](http://goo.gl/X3EjLE), which are small and have the recommended weight for beginners.
 
 ::: callout-important
-If you choose to use any object other than the mini juggling balls, understand that your performance may be **negatively affected** by it. When performing the exchange technique (required for this activity), at a given point, performers need to hold two objects in one hand. This becomes a problem if large objects are being used; i.e., tennis balls.
+If you choose to use any object other than the mini juggling balls, then you understand that your performance may be negativelly affected by it. When performing the exchange technique (required for this activity), at a given point, performers need to hold two objects in one hand. This becomes a problem if large objects are being used; i.e., tennis balls.
 :::
 
 ### Speed Stacks Sport Stacking Set
@@ -203,7 +189,7 @@ A 93.00-100.00 \| A- 90.00-92.99 B+ 87.00-89.99 \| B 83.00-86.99 \| B- 80.00-82.
 In recognition of the fact that grading, however carefully done, will always be imperfect, this class will utilize a "round up" rule for assigning final grades. I will round up from .5% and above, but anything below this will round down. In other words, 79.5 will round up to 80, while 79.4 will round down to 79 even.
 :::
 
-::: callout-important
+::: aside
 Requests for an Incomplete (I) must conform to [university policies](https://bit.ly/3bDxwZi). Among other requirements, "I" is possible only for instances in which you are demonstrating passing work in the class.
 :::
 
@@ -421,10 +407,8 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 
 # Appendices
 
-{{< include 377-appendix-a_b_c.qmd >}}
+## Appendix A, B, C
 
-It is crucial you study the content of these three appendices. **Appendix A** covers the main instructions related to the LEARNING TASK ASSIGNMENT. In **Appendix B**, you find useful tutorials for both Juggling and Cup Stacking. You will choose one of these two skills to practice and learn throughout the term (Fall, Spring, Summer, or Winter). **Appendix C** covers the Motor Learning Principles (MLP) you will be introduced in this course. The MLP will be crucial when learning your chosen skill (either juggling or cup stacking).
-
-This the major assignment for this course and accounts fo **50% of the final grade**. Thus, it's crucial you study the content of these three appendices.
+Not provide here. Please, refer to our Canvas page. The material associated with these appendices are related to the Learning Task Assignment, which accounts for 50% of the final grade. ***THIS MEANS YOU MUST READ AND STUDY THE CONTENT OF APPENDIX A, B, AND C.***
 
 {{< include 377-appendix-d.qmd >}}
