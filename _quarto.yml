@@ -42,6 +42,8 @@ website:
           href: courses/377/index.qmd
         - text: "Syllabus"
           href: courses/377/syllabus.qmd
+        - text: "Course Sequence"
+          href: courses/377/sequence.qmd
           
     - id: 477-intro
       collapse-level: 1

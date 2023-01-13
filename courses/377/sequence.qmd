@@ -12,7 +12,7 @@ csl: ../apa.csl
 
 Required textbook: @magill2020
 
-[Lectures in PDF](https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/EgvTsxjz9lxPs8aAE9d58KYBXMYMqbVpou6BhML72o8kJw?e=JVYhdJ)
+[Lectures notes in PDF](https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/EgvTsxjz9lxPs8aAE9d58KYBXMYMqbVpou6BhML72o8kJw?e=JVYhdJ)
 
 +---------------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
 |                     | Week of      | Study Content[^1]                                                                                                                                                                   | Assignments[^2]               |
