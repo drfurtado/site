@@ -72,7 +72,21 @@ Study of principles , theories, and research evidence regarding the nature of mo
 
 This course consists of readings, written assignments, weekly responses, and check-ins on our Canvas page.
 
-This is a Fully Online class (OF) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.
+I teach two modes of KIN 377, traditional (face-to-face) and online.
+
+### Hybrid Sections
+
+A Hybrid class (OH) in which students attend class sessions on campus and in an online environment. The class typically meets approximately half online and half on campus.
+
+-   **KIN 377 MOTOR LEARNING - (19392-SP2023)**
+
+### Online Sections
+
+A fully Online class (OF) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.
+
+-   **KIN 377 MOTOR LEARNING - (19430-SP2023)**
+
+-   **KIN 377 MOTOR LEARNING - (19780-SP2023)**
 
 For this course, lessons are pre-recorded and students go over the material on their own pace. However, assignments related to each module are due at the end of each week during the semester (see course sequence).
 
@@ -82,7 +96,7 @@ This course is not self-paced and is not the "softer, easier way"! This means th
 
 ## Required Technology Resources {#sec-required-technology-resources}
 
-This course will be taught completely online (no campus meetings will be required), in an asynchronous format (this course will not have scheduled live meeting times). All activities, assignments and exams in this course will be completed via Canvas. To succeed in this course, you must have reliable access to a computer and internet connection. CSUN offers currently enrolled students the option to borrow devices such as computers and internet hotspots through its [Device Loaner Program](https://www.csun.edu/it/device-loaner-program).
+This course will be taught completely online (no campus meetings will be required), in an asynchronous format (this course will not have scheduled live meeting times). All activities, assignments and exams in this course will be completed via Canvas. To succeed in this course, you must have reliable access to a computer and internet connection. CSUN offers currently enrolled students the option to borrow devices such as computers and internet `hotspots` through its [Device Loaner Program](https://www.csun.edu/it/device-loaner-program).
 
 ## Course Expectations and Goals
 

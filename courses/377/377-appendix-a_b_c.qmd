@@ -1,3 +1,7 @@
+---
+bibliography: references.bib
+---
+
 ## Appendix A
 
 One of the major requirements of this course is to learn how to perform a motor skill (either **Hand Juggling** or **Speed Cup Stacking**). You will be required to practice, learn, **and show proof of mastery for the selected skill by video recording your performance.**
@@ -48,7 +52,7 @@ The "exchange continuous" technique is the **only technique that will be accept
 Below are some examples of techniques that you should NOT use. Although it is possible to "juggle" using different techniques, the alternative techniques discussed below WILL NOT be accepted. If you are unsure, contact Dr. Furtado to verify if the technique you are practicing will be accepted.
 
 | [Juggling with a pause](https://youtu.be/whiwiYz20Fo)                                                                                                                                                                  | [Juggling in circling motion](https://youtu.be/sFSHpxQQchQ)                                                                                                                                                                   |
-|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|-----------------------------------|------------------------------------|
 | Some might use this technique during the early stages of skill learning, as a practice technique. However, **the videos recorded for the learning updates and the final submission should not depict this technique.** | Again, some might use this technique during the early stages of skill learning, as a practice technique. However, the videos recorded **for the learning updates and the final submission should not depict this technique.** |
 
 #### Before you start practicing **Juggling**
@@ -61,11 +65,11 @@ Below are some examples of techniques that you should NOT use. Although it is p
 
 4.  I've put together a tutorial (APPENDIX B) that is meant to help you before and after you start practicing.
 
-#### Things to consider when practicing **Juggling**
+#### Things to consider when practicing **Juggling**
 
 1.  Practice a few hours per day. Learning a motor skill takes time and practice. Waiting until the end of the term to begin practicing **is a really bad idea**.
-2.  As you practice the skill, use the Motor Learning Principles (APPENDIX C) that will be taught in this course. For example, jugglers use the **Principle of Simplification** when learning to juggle 3 objects:
-3.  They begin by tossing a single object up with one hand and catching with the opposite hand. Then, they proceed by using 2 objects, and then 3 objects. There are many other Motor Learning Principles that can be used when learning the skill of juggling. Note that this technique SHOULD NOT be used when recording the Update or Final video performance; this technique should only be used for training purposes. 
+2.  As you practice the skill, use the Motor Learning Principles ([APPENDIX C](#sec-appendix-c)) that will be taught in this course. For example, jugglers use the **Principle of Simplification** when learning to juggle 3 objects:
+3.  They begin by tossing a single object up with one hand and catching with the opposite hand. Then, they proceed by using 2 objects, and then 3 objects. There are many other Motor Learning Principles that can be used when learning the skill of juggling. Note that this technique SHOULD NOT be used when recording the Update or Final video performance; this technique should only be used for training purposes. 
 4.  To earn the full points for TIME, student must juggle continuously for 5 seconds or more. The full evaluation criteria will be released soon.
 
 ### Speed Cup Stacking
@@ -79,7 +83,7 @@ Visit the link below for an example that depicts the technique you will be requi
 #### Before you start practicing **Cup Stacking**
 
 1.  Purchase a set of 12 professional cups online or from a local toy store. Amazon sells a set of 12 cups for about \$10 → <https://goo.gl/q1kKiw>
-2.  I've put together a tutorial that is meant to help you before and after you start practicing: [click here to access the tutorial](https://canvas.csun.edu/courses/114152/pages/appendix-b-lt-tutorials "Appendix B: LT Tutorials")
+2.  I've put together a tutorial that is meant to help you before and after you start practicing: [click here to access the tutorial](#sec-appendix-b "Appendix B: LT Tutorials")
 
 #### Things to consider when practicing **Cup Stacking**
 
@@ -157,7 +161,7 @@ You must follow the instructions outlined above for video recording (Juggling a
 
 This is the last update before you submit your video performance at the end of the semester (6-week period for summer sessions). You will be required to do the following:
 
-1.  Pick TWO of the [Principles of Motor Learning](https://canvas.csun.edu/courses/114152/pages/appendix-c-principles-of-motor-learning "Appendix C: Principles of Motor Learning") you have been using to learn your selected motor skill (juggling or speed cut stacking).
+1.  Pick TWO of the [Principles of Motor Learning](#sec-appendix-c) you have been using to learn your selected motor skill (juggling or speed cut stacking).
 
 2.  For EACH, provide the following:
 
@@ -167,13 +171,13 @@ This is the last update before you submit your video performance at the end of t
 
 5.  The hurdles you have faced when trying to employ the principle as a learning strategy (BE SPECIFIC)
 
-### Reflection Paper
+### Reflection Paper {#sec-reflection-paper}
 
 [Reflection Paper Template](https://mycsun.box.com/shared/static/tpz3htwr2ntzvssetdpj5bvl7jroelnu.docx)
 
 #### Instructions
 
-In addition to performing the chosen task, you will be required to write a reflection piece describing your learning experience. You must include at least 3 Motor Learning Principles (MLP) as part of your reflection in addition to discuss the three stages of learning from Fitts and Posner (refer to Chapter 12 on our textbook). Read Appendix C for further information regarding the MLPs.
+In addition to performing the chosen task, you will be required to write a reflection piece describing your learning experience. You must include at least 3 Motor Learning Principles (MLP) as part of your reflection in addition to discuss the three stages of learning from Fitts and Posner (refer to Chapter 12 on our textbook). Read [Appendix C](#sec-appendix-c) for further information regarding the MLPs.
 
 #### For the skill selected, do the following:
 
@@ -203,9 +207,9 @@ I have created a [template](https://mycsun.box.com/shared/static/tpz3htwr2ntzvs
 #### Referencing Sources in APA Style
 
 -   You MUST cite (ONLY PARAPHRASES OR DIRECT QUOTES -  40 WORDS OR LESS) ALL sources utilized and this has to be done following the APA style format. 
--   IMPORTANT:  You will NOT be required to cite sources other than Magill and Anderson (YYYY) and/or Danny (2010). PLEASE, DO NOT CITE MY SLIDES. THE INFORMATION CONTAINED IN THE SLIDES WAS TAKEN FROM MAGILL AND ANDERSON (2017).
+-   IMPORTANT: You will NOT be required to cite sources other than Magill and Anderson (YYYY) and/or Danny (2010). PLEASE, DO NOT CITE MY SLIDES. THE INFORMATION IN THE SLIDES WAS TAKEN FROM @magill2020
 
-## Appendix B
+## Appendix B {#sec-appendix-b}
 
 ### Tutorial for Juggling
 
@@ -215,7 +219,7 @@ I have created a [template](https://mycsun.box.com/shared/static/tpz3htwr2ntzvs
 
 [Click here to open the tutorial](https://csun.h5p.com/content/1291224630470015058)
 
-## Appendix C
+## Appendix C {#sec-appendix-c}
 
 ### **A few things to consider:**
 
