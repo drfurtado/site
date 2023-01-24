@@ -32,7 +32,7 @@ table-striped: true
 
 ## Brief Bio
 
-Ovande Furtado Jr., Ph.D
+Ovande Furtado Jr., Ph.D.
 
 Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado's line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition.
 
