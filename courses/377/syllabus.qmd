@@ -2,7 +2,7 @@
 title:  'KIN 377: Motor Learning'
 subtitle: |
   | Department of Kinesiology, Cal State Northridge
-  | Syllabus - Spring 2023 (Online and Face-to-Face)
+  | Syllabus - Spring 2023 (Online and Hybrid)
 latex-auto-mk: true
 format:
   html:
