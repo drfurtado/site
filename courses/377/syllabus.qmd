@@ -88,8 +88,6 @@ A fully Online class (OF) in which all class sessions and exams are presented in
 
 -   **KIN 377 MOTOR LEARNING - (19780-SP2023)**
 
-For this course, lessons are pre-recorded and students go over the material on their own pace. However, assignments related to each module are due at the end of each week during the semester (see course sequence).
-
 ::: callout-warning
 This course is not self-paced and is not the "softer, easier way"! This means that you have to **1) check in regularly and 2) respond to the weekly assignments.**
 :::
