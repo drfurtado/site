@@ -17,6 +17,10 @@ Required textbook: @magill2020
 {{< bi laptop >}} : Online via Zoom\
 {{< bi person >}} : On Campus
 
+::: callout-important
+I suggest you to read and study the assigned content (chapters, videos, eFlashcards, etc.) first, then watch the video/audio lectures
+:::
+
 +--------------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
 | Mode[^1]           | Week of      | Study Content[^2]                                                                                                                                                                   | Assignments[^3]               |
 +====================+==============+=====================================================================================================================================================================================+===============================+
@@ -24,9 +28,9 @@ Required textbook: @magill2020
 |                    |              | [APA Style Tutorial](https://docs.google.com/document/d/e/2PACX-1vQg7XJ-Z5619v-v9uCbS_5QjpYIfXH2Q1amid7Wcv6cmBMj-cMPpdJ2wK4NwU6H53LLbbgusqxxqXC6/pub)                               |                               |
 +--------------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
 | {{< bi laptop >}}  | 01/30/23     | [Ch01](https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/EgvTsxjz9lxPs8aAE9d58KYBXMYMqbVpou6BhML72o8kJw?e=JVYhdJ): The classification of motor skills\   | Quiz                          |
-|                    |              | Video/Audio Lecture (link coming soon)\                                                                                                                                             |                               |
 |                    |              | [How to learn anything](https://youtu.be/5MgBikgcWnY)\                                                                                                                              |                               |
-|                    |              | [eFlashcards](https://quizlet.com/_zs84k?x=1jqt&i=dj5)                                                                                                                              |                               |
+|                    |              | [eFlashcards](https://quizlet.com/_zs84k?x=1jqt&i=dj5)\                                                                                                                             |                               |
+|                    |              | Video/Audio Lecture (link coming soon)[^4]                                                                                                                                          |                               |
 +--------------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
 | {{< bi person >}}  | 02/06/23     | [Ch11](https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/EgvTsxjz9lxPs8aAE9d58KYBXMYMqbVpou6BhML72o8kJw?e=JVYhdJ): Defining and assessing learning       | Quiz; Discussion              |
 +--------------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
@@ -66,3 +70,5 @@ Required textbook: @magill2020
 [^2]: In addition to the main reading [@magill2020], students are responsible for other materials assigned each week. This may include videos, articles, and eFlahscards.
 
 [^3]: Students taking this course face-to-face must complete the quizzes before the `first meeting` of the week (Tuesday).
+
+[^4]: Typically posted on Wednesday of each week. This gives you time to read and study the content (assigned chapter, videos, etc.) before going over the video/audio lecture.
