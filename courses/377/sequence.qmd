@@ -17,7 +17,23 @@ Required textbook: @magill2020
 {{< bi laptop >}} : Online via Zoom {{< bi person >}} : On Campus
 
 ::: callout-important
-I suggest you to read and study the assigned content (chapters, videos, eFlashcards, etc.) first, then watch the video/audio lectures
+I suggest you to read and study the assigned content (chapters, videos, eFlashcards, etc.) first, then watch the video/audio lectures.
+:::
+
+::: callout-warning
+f your original section was 
+
+-   **KIN 377 MOTOR LEARNING - (19430-SP2023); or**
+
+-   **KIN 377 MOTOR LEARNING - (19780-SP2023)**
+
+**Then, THERE ARE NO ON-CAMPUS OR ONLINE MEETINGS. You are enrolled in a FULLY online (asynchronous) course. Please, refer to the CSUN Portal.**
+
+If your original section was 
+
+-   **KIN 377 MOTOR LEARNING - (19392-SP2023)**
+
+**Then, there will be online and on-campus meetings.**
 :::
 
 +-------------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
