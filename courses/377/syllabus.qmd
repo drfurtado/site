@@ -285,19 +285,21 @@ Quizzes will be administered via Canvas and will assess the student's understand
 
 *Here are some other useful information about quizzes:*
 
-1.  When taking quizzes, the questions will appear one at a time and locked after being answered. Thus, students are not allowed to go back and review answers after saving each question.
+1.  Quizzes are posted on Monday and remain open until Sunday at 11:59 pm. Once started, students have 20 minutes to complete and submit the each quiz.
 
-2.  Correct answers will only be shown to students after the deadline of each quiz.
+2.  When taking quizzes, the questions will appear one at a time and locked after being answered. Thus, students are not allowed to go back and review answers after saving each question.
 
-3.  Refer to `Canvas` and the course sequence for due dates. Please, avoid waiting until the "last minute" to take the quiz. Taking the quizzes earlier will give you enough time to troubleshoot potential technical problems; therefore, plan accordingly.
+3.  Correct answers will only be shown to students after the deadline of each quiz.
 
-4.  You will be given a **single** attempt on each quiz. This means you need to study the material before taking each quiz. All quizzes are timed. Students will be given 20 minutes to finish and submit a quiz.
+4.  Refer to `Canvas` and the course sequence for due dates. Please, avoid waiting until the "last minute" to take the quiz. Taking the quizzes earlier will give you enough time to troubleshoot potential technical problems; therefore, plan accordingly.
 
-5.  A quiz will only start if the student has a JavaScript-enabled web-browser. Contact [CSUN IT](https://www.csun.edu/it) should you run into technical issues when taking quizzes.
+5.  You will be given a **single** attempt on each quiz. This means you need to study the material before taking each quiz. All quizzes are timed. Students will be given 20 minutes to finish and submit a quiz.
 
-6.  Once opened, a quiz will appear in a full-screen pop-up window that covers all the other windows and has no navigation control
+6.  A quiz will only start if the student has a JavaScript-enabled web-browser. Contact [CSUN IT](https://www.csun.edu/it) should you run into technical issues when taking quizzes.
 
-7.  It should be noted that the content of each quiz belongs to [McGraw Hill](https://www.mheducation.com/) (the publisher of our text). Therefore, federal copyright laws prohibit the dissemination of this material. It includes, but is not limited to, posting the quiz online and/or sharing the quiz with someone outside of the classroom.
+7.  Once opened, a quiz will appear in a full-screen pop-up window that covers all the other windows and has no navigation control
+
+8.  It should be noted that the content of each quiz belongs to [McGraw Hill](https://www.mheducation.com/) (the publisher of our text). Therefore, federal copyright laws prohibit the dissemination of this material. It includes, but is not limited to, posting the quiz online and/or sharing the quiz with someone outside of the classroom.
 
 ## Online Discussions
 
