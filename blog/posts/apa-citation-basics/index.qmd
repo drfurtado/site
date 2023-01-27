@@ -108,3 +108,7 @@ In-text citations are used in conjunction with a reference list. Every source ci
 Scribbr has a useful tool that helps you to create list of references. Click the link below to access the tool.
 
 [Scribbr APA Citation Generator](https://www.scribbr.com/citation/generator/apa/)
+
+```{=html}
+Illustration by <a href="https://icons8.com/illustrations/author/lZpGtGw5182N">Elisabet Guba</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+```
