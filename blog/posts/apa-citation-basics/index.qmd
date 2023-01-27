@@ -4,42 +4,86 @@ categories:
   - apa style
   - citations
   - references
-date: "5/31/2022"
-draft: true
+date: "1/27/2023"
+draft: false
 fig-cap-location: top
 image: feature.png
 author:
   - name: Ovande Furtado Jr
-    url: https://drfurtado.us
+    url: http://drfurtado.us
 citation: true
 bibliography: ../biblio.bib
 ---
 
-This article is meant to help students properly cite sources according the APA Style 7th ed...
+APA style in-text citation is a method of giving credit to sources within the text of a paper by including the author's last name, publication year, and page number for direct quotes, and the author's last name and publication year for paraphrases or summaries, in conjunction with a reference list at the end of the paper.
 
 ## Objectives
 
 After reading this articles, you will be able to:
 
-1.  recognize the different types of in-text citation;
-2.  properly cite sources following the APA Style 7th ed.;
-3.  ...
+1.  Understand the purpose and importance of in-text citations in academic writing.
+2.  Learn the proper format for citing direct quotes, paraphrases, and summaries in APA style 7th edition.
+3.  Understand how to cite sources with multiple authors and no authors.
+4.  Learn how to cite sources with no date.
+5.  Understand how to create a reference list at the end of a paper.
+6.  Learn how to use citation management tools to help create in-text citations and reference lists.
+7.  Understand the difference between primary and secondary sources and how to cite them in APA style.
+8.  Understand the ethical implications of plagiarism and how to avoid it through proper in-text citation.
 
-## Basic principles
+## Basic principles {#sec-basic-principles}
 
-The "APA Style uses the [author--date citation system](https://apastyle.apa.org/style-grammar-guidelines/citations/basic-principles/author-date), in which a brief in-text citation directs readers to a full reference list entry". (ref) Note that you must include each work cited in the reference list.
+APA style 7th edition in-text citation refers to the way in which sources are cited within the text of a paper. In-text citations are used to give credit to the sources that were used to support the author's ideas or arguments.
 
-It's common for APA Style in-text citation to be associated with signal phrases. A signal phrase is a phrase, clause, or even sentence which leads into a quotation or paraphrase. These generally include the speaker/author's name and some justification for using him or her as an expert in this context; it may also help establish the context for the quotation. Below are some examples.
+In APA style 7th edition, in-text citations are formatted as follows:
 
-> *According to researchers Furtado and Gallagher, "..."*
->
-> *Campos and Mazzardo point out that "..."*
+-   For a `direct quote`, include the author's last name, the publication year, and the page number. For example: (Smith, 2020, p. 5)
+-   For a `paraphrase` or summary, include the author's last name and the publication year. For example: (Smith, 2020)
+-   For 2 authors, include the last names of both authors and the publication year. For example:
+    -   According to Smith and Jones (2020), ...
 
-The examples above do not conform (yet) with APA Style 7th ed. To do so, we need to add `year` and `page numbers`.
+    -   ... (Smith & Jones, 2020)
+-   For 3+ authors, include the first authors' last name followed by `et al.` and the publication year. For example: (Smith, et al., 2020)
+-   For sources with no author, include the title and the publication year. For example: ("Title of the Article," 2020)
+-   For sources with no date, include the author's last name and the date the source was accessed. For example: (Smith, n.d.)
 
-> *According to researchers Furtado and Gallagher (**2020)**, "..."* **(p. 23).**
->
-> *Campos and Mazzardo **(1990)** point out that "..."* **(pp. 22-23).**
+Examples:
+
+-   According to Smith (2020), "the use of technology in education has increased significantly in recent years" (p. 10).
+-   The study found that students who use technology in the classroom tend to have better learning outcomes (Smith, 2020).
+-   According to Smith and Jones (2020), physical activity helps memory optimization.
+-   The research conducted by Smith et al. (2020) suggests that technology can be an effective tool for enhancing student engagement.
+-   According to the article "The Impact of Technology on Learning" (2020), the use of technology in education can lead to improved student achievement.
+-   The study by Smith (n.d.) found that students who use technology in the classroom tend to have better learning outcomes.
+
+It is important to note that in-text citations should be used in conjunction with a reference list at the end of the paper, where all sources cited in the text are listed in alphabetical order by author's last name. The reference list should include all the information needed to locate the source, such as the author's name, publication date, title, and publication details.
+
+## Parenthetical vs. Narrative citations
+
+| Author type           | Parenthetical citation      | Narrative citation           |
+|:----------------------|:----------------------------|:-----------------------------|
+| One author            | (Furtado, 2020)             | Furtado (2020)               |
+| Two authors           | (Furtado & Gallagher, 2020) | Furtado and Gallagher (2020) |
+| Three or more authors | (Furtado et al., 2020)      | Furtado et al. (2020)        |
+| Organization          | (Quarto, 2020)              | Quarto (2020)                |
+
+## Secondary sources {#sec-secondary-sources}
+
+In APA style 7th edition, when citing a source that was found within another source, it is known as a "secondary source." The in-text citation for a secondary source includes the author's last name and the year of publication of the original source, in parentheses, followed by the page number (if applicable) where the information was found. Here is an example:
+
+Original source:
+Jones, T. (2020). The effects of exercise on mental health. Journal of Psychology, 55(3), 189-202.
+
+Secondary source:
+Smith, J. (2021). The benefits of regular exercise. In J. Smith, The complete guide to physical and mental wellness (pp. 45-56). New York: Random House.
+
+In-text citation:
+
+-   According to `Jones (2020)`, regular exercise has positive effects on mental health `(as cited in Smith, 2021, p. 50).`
+-   According to `Jones (2020)`, cited in `Smith (2021)`, the rise of obesity has become a growing concern.
+
+Note that in the reference list of your paper, you only need to include the original source, Jones (2020) and not the secondary source, Smith (2021).
+
+## Verbs in narratives {#sec-verbs-in-narratives}
 
 Below are some examples of verbs commonly used in signal phrases.
 
@@ -57,31 +101,10 @@ Below are some examples of verbs commonly used in signal phrases.
 | Reports      | Responds | Suggests   |
 | Thinks       | Writes   | Adds       |
 
-##  
+## Reference lists
 
-Examples of APA Style in-text citation
+In-text citations are used in conjunction with a reference list. Every source cited in the text must appear in the reference list.
 
-Author(s) named in the signal phrase - **Paraphrase**
+Scribbr has a useful tool that helps you to create list of references. Click the link below to access the tool.
 
-> Magill and Anderson (2021) argues that motor learning is an important aspect of a child's life.
->
-> According to Magill and Anderson (2021), motor learning is an important aspect of a child's life.
-
-In both examples above, 
-
--   APA does not require page numbers where the information is found in the source
-
--   When authors are not inside the
-
-Author(s) named in the signal phrase - **Direct quote**
-
-Consider the following regarding APA style in-text citation:
-
-resources:
-
-[Six steps to proper citation](https://apastyle.apa.org/instructional-aids/six-steps-proper-citation.pdf)
-
-[In-text citation checklist](https://apastyle.apa.org/instructional-aids/six-steps-proper-citation.pdf)
-
-\
-\
+[Scribbr APA Citation Generator](https://www.scribbr.com/citation/generator/apa/)
