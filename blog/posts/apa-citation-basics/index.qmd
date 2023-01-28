@@ -7,6 +7,7 @@ categories:
 date: "1/27/2023"
 draft: false
 fig-cap-location: top
+link-external-newwindow: true
 image: feature.png
 author:
   - name: Ovande Furtado Jr
@@ -60,7 +61,7 @@ It is important to note that in-text citations should be used in conjunction wit
 ## Parenthetical vs. Narrative citations
 
 | Author type           | Parenthetical citation      | Narrative citation           |
-|:----------------------|:----------------------------|:-----------------------------|
+|:--------------------|:-------------------------|:-------------------------|
 | One author            | (Furtado, 2020)             | Furtado (2020)               |
 | Two authors           | (Furtado & Gallagher, 2020) | Furtado and Gallagher (2020) |
 | Three or more authors | (Furtado et al., 2020)      | Furtado et al. (2020)        |
@@ -70,11 +71,9 @@ It is important to note that in-text citations should be used in conjunction wit
 
 In APA style 7th edition, when citing a source that was found within another source, it is known as a "secondary source." The in-text citation for a secondary source includes the author's last name and the year of publication of the original source, in parentheses, followed by the page number (if applicable) where the information was found. Here is an example:
 
-Original source:
-Jones, T. (2020). The effects of exercise on mental health. Journal of Psychology, 55(3), 189-202.
+Original source: Jones, T. (2020). The effects of exercise on mental health. Journal of Psychology, 55(3), 189-202.
 
-Secondary source:
-Smith, J. (2021). The benefits of regular exercise. In J. Smith, The complete guide to physical and mental wellness (pp. 45-56). New York: Random House.
+Secondary source: Smith, J. (2021). The benefits of regular exercise. In J. Smith, The complete guide to physical and mental wellness (pp. 45-56). New York: Random House.
 
 In-text citation:
 
@@ -82,6 +81,42 @@ In-text citation:
 -   According to `Jones (2020)`, cited in `Smith (2021)`, the rise of obesity has become a growing concern.
 
 Note that in the reference list of your paper, you only need to include the original source, Jones (2020) and not the secondary source, Smith (2021).
+
+## Common mistakes
+
+### & or and
+
+`&` is used wit parenthetical citations while `and` is used with narrative citations.
+
+Furtado `and` Gallagher (2000) noted that....
+
+... FMS are the building block of further motor skill development (Furtado `&` Gallagher, 2000).
+
+### Period placement
+
+The period is placed after the parentheses (parenthetical citations), not before.
+
+{{< bi emoji-smile >}} … FMS are the building block of further motor skill development (Furtado & Gallagher, 2000).
+
+{{< bi emoji-frown >}} … FMS are the building block of further motor skill development. (Furtado & Gallagher, 2000)
+
+### Secondary sources
+
+Refer to @sec-secondary-sources.
+
+### Improper use of `et al.`
+
+Use the last of the first author followed by `et al.` when the source has 3+ authors.
+
+::: callout-warning
+Use comma after `et al.` when parenthetical citations and omit comma in narrative citations.
+
+Example:
+
+Furtado `et al.` (2002) noted that...
+
+... (Furtado `et al.,` 2002).
+:::
 
 ## Verbs in narratives {#sec-verbs-in-narratives}
 

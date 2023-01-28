@@ -41,6 +41,7 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<link href="../../../site_libs/quarto-contrib/bootstrap-icons-1.9.1/all.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -187,6 +188,13 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#sec-basic-principles" id="toc-sec-basic-principles" class="nav-link" data-scroll-target="#sec-basic-principles">Basic principles</a></li>
   <li><a href="#parenthetical-vs.-narrative-citations" id="toc-parenthetical-vs.-narrative-citations" class="nav-link" data-scroll-target="#parenthetical-vs.-narrative-citations">Parenthetical vs.&nbsp;Narrative citations</a></li>
   <li><a href="#sec-secondary-sources" id="toc-sec-secondary-sources" class="nav-link" data-scroll-target="#sec-secondary-sources">Secondary sources</a></li>
+  <li><a href="#common-mistakes" id="toc-common-mistakes" class="nav-link" data-scroll-target="#common-mistakes">Common mistakes</a>
+  <ul class="collapse">
+  <li><a href="#or-and" id="toc-or-and" class="nav-link" data-scroll-target="#or-and">&amp; or and</a></li>
+  <li><a href="#period-placement" id="toc-period-placement" class="nav-link" data-scroll-target="#period-placement">Period placement</a></li>
+  <li><a href="#secondary-sources" id="toc-secondary-sources" class="nav-link" data-scroll-target="#secondary-sources">Secondary sources</a></li>
+  <li><a href="#improper-use-of-et-al." id="toc-improper-use-of-et-al." class="nav-link" data-scroll-target="#improper-use-of-et-al.">Improper use of <code>et al.</code></a></li>
+  </ul></li>
   <li><a href="#sec-verbs-in-narratives" id="toc-sec-verbs-in-narratives" class="nav-link" data-scroll-target="#sec-verbs-in-narratives">Verbs in narratives</a></li>
   <li><a href="#reference-lists" id="toc-reference-lists" class="nav-link" data-scroll-target="#reference-lists">Reference lists</a></li>
   </ul>
@@ -246,7 +254,7 @@ ul.task-list li input[type="checkbox"] {
 <colgroup>
 <col style="width: 28%">
 <col style="width: 35%">
-<col style="width: 36%">
+<col style="width: 35%">
 </colgroup>
 <thead>
 <tr class="header">
@@ -290,6 +298,45 @@ ul.task-list li input[type="checkbox"] {
 <li>According to <code>Jones (2020)</code>, cited in <code>Smith (2021)</code>, the rise of obesity has become a growing concern.</li>
 </ul>
 <p>Note that in the reference list of your paper, you only need to include the original source, Jones (2020) and not the secondary source, Smith (2021).</p>
+</section>
+<section id="common-mistakes" class="level2">
+<h2 class="anchored" data-anchor-id="common-mistakes">Common mistakes</h2>
+<section id="or-and" class="level3">
+<h3 class="anchored" data-anchor-id="or-and">&amp; or and</h3>
+<p><code>&amp;</code> is used wit parenthetical citations while <code>and</code> is used with narrative citations.</p>
+<p>Furtado <code>and</code> Gallagher (2000) noted that….</p>
+<p>… FMS are the building block of further motor skill development (Furtado <code>&amp;</code> Gallagher, 2000).</p>
+</section>
+<section id="period-placement" class="level3">
+<h3 class="anchored" data-anchor-id="period-placement">Period placement</h3>
+<p>The period is placed after the parentheses (parenthetical citations), not before.</p>
+<p><i class="bi-emoji-smile" style="" role="img" aria-hidden="true"></i> … FMS are the building block of further motor skill development (Furtado &amp; Gallagher, 2000).</p>
+<p><i class="bi-emoji-frown" style="" role="img" aria-hidden="true"></i> … FMS are the building block of further motor skill development. (Furtado &amp; Gallagher, 2000)</p>
+</section>
+<section id="secondary-sources" class="level3">
+<h3 class="anchored" data-anchor-id="secondary-sources">Secondary sources</h3>
+<p>Refer to <a href="#sec-secondary-sources">Section&nbsp;4</a>.</p>
+</section>
+<section id="improper-use-of-et-al." class="level3">
+<h3 class="anchored" data-anchor-id="improper-use-of-et-al.">Improper use of <code>et al.</code></h3>
+<p>Use the last of the first author followed by <code>et al.</code> when the source has 3+ authors.</p>
+<div class="callout-warning callout callout-style-default callout-captioned">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-caption-container flex-fill">
+Warning
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Use comma after <code>et al.</code> when parenthetical citations and omit comma in narrative citations.</p>
+<p>Example:</p>
+<p>Furtado <code>et al.</code> (2002) noted that…</p>
+<p>… (Furtado <code>et al.,</code> 2002).</p>
+</div>
+</div>
+</section>
 </section>
 <section id="sec-verbs-in-narratives" class="level2">
 <h2 class="anchored" data-anchor-id="sec-verbs-in-narratives">Verbs in narratives</h2>
@@ -508,6 +555,20 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       });
     }
   }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+    var links = window.document.querySelectorAll('a:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+          // target, if specified
+          link.setAttribute("target", "_blank");
+      }
+    }
 });
 </script>
 </div> <!-- /content -->
