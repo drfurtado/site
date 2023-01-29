@@ -58,14 +58,22 @@ Examples:
 
 It is important to note that in-text citations should be used in conjunction with a reference list at the end of the paper, where all sources cited in the text are listed in alphabetical order by author's last name. The reference list should include all the information needed to locate the source, such as the author's name, publication date, title, and publication details.
 
-## Parenthetical vs. Narrative citations
-
 | Author type           | Parenthetical citation      | Narrative citation           |
 |:--------------------|:-------------------------|:-------------------------|
 | One author            | (Furtado, 2020)             | Furtado (2020)               |
 | Two authors           | (Furtado & Gallagher, 2020) | Furtado and Gallagher (2020) |
 | Three or more authors | (Furtado et al., 2020)      | Furtado et al. (2020)        |
 | Organization          | (Quarto, 2020)              | Quarto (2020)                |
+
+## Parenthetical vs. Narrative citations
+
+In APA style, there are two main types of in-text citations: parenthetical and narrative.
+
+Parenthetical citations are brief citations that are included within parentheses in the text of the paper. They include the author's last name and the publication year. For example: (Smith, 2020).
+
+Narrative citations are integrated into the text of the paper, rather than being enclosed in parentheses. They include the author's last name and the publication year. For example, according to Smith (2020), \....
+
+The main difference between the two is how they are presented within the text, with Parenthetical citations appearing within the parentheses and Narrative citations being integrated into the text. Both types of citation provide the necessary information for the reader to locate the source in the reference list. It is important to note that Parenthetical citations are preferred in APA style, but the narrative citations are also acceptable as long as they are clear and consistent throughout the paper.
 
 ## Secondary sources {#sec-secondary-sources}
 
