@@ -12,7 +12,7 @@ csl: ../apa.csl
 
 Required textbook: @magill2020
 
-[Lectures notes in PDF](https://drive.google.com/drive/folders/1Gx8mK7HJAO8x-5gzIEwfKhBizZZ2bgvU?usp=share_link)
+[Lectures notes in PDF](https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv)
 
 {{< bi laptop >}} : Online via Zoom {{< bi person >}} : On Campus
 
@@ -29,9 +29,9 @@ So, if the CSUN Portal says you are in 
 
 -   **KIN 377 MOTOR LEARNING - (19780-SP2023)**
 
-**Then, THERE ARE NO ON-CAMPUS OR ONLINE MEETINGS. You are enrolled in a FULLY online (asynchronous) course. Please, refer to the CSUN Portal.**
+**Then, THERE ARE NO ON-CAMPUS OR ONLINE MEETINGS. You are enrolled in a FULLY online (asynchronous) course.**
 
-And if the CSUN Portal says you are in  was 
+And if the CSUN Portal says you are in
 
 -   **KIN 377 MOTOR LEARNING - (19392-SP2023)**
 
