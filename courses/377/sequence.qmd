@@ -86,6 +86,6 @@ And if the CSUN Portal says you are in
 
 [^2]: In addition to the main reading [@magill2020], students are responsible for other materials assigned each week. This may include videos, articles, and eFlahscards.
 
-[^3]: Students taking this course face-to-face must complete the quizzes before the `first meeting` of the week (Tuesday).
+[^3]: ~~Students taking this course face-to-face must complete the quizzes before the `first meeting` of the week (Tuesday).~~
 
 [^4]: Typically posted on Wednesday of each week. This gives you time to read and study the content (assigned chapter, videos, etc.) before going over the video/audio lecture.
