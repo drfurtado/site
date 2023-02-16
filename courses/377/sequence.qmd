@@ -39,7 +39,7 @@ And if the CSUN Portal says you are in
 :::
 
 +-------------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
-| Mode[^1]          | Week of      | Study Content[^2]                                                                                                                                                                   | Assignments[^3]               |
+| Mode[^1]          | Week of      | Study Content[^2]                                                                                                                                                                   | Assignments                   |
 +===================+==============+=====================================================================================================================================================================================+===============================+
 | {{< bi laptop >}} | 01/23/23     | Intro to Course & Survival Skills\                                                                                                                                                  | Read and study the Syllabus   |
 |                   |              | [APA Style Article](https://drfurtado.github.io/site/blog/posts/apa-citation-basics/)                                                                                               |                               |
@@ -47,7 +47,7 @@ And if the CSUN Portal says you are in
 | {{< bi laptop >}} | 01/30/23     | [Ch01](https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv): The classification of motor skills\   | Quiz                          |
 |                   |              | [How to learn anything](https://youtu.be/5MgBikgcWnY)\                                                                                                                              |                               |
 |                   |              | [eFlashcards](https://quizlet.com/_zs84k?x=1jqt&i=dj5)\                                                                                                                             |                               |
-|                   |              | Video/Audio Lecture (link coming soon)[^4]                                                                                                                                          |                               |
+|                   |              | Video/Audio Lecture (link coming soon)[^3]                                                                                                                                          |                               |
 +-------------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
 | {{< bi person >}} | 02/06/23     | [Ch11](https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv): Defining and assessing learning       | Quiz; Discussion              |
 +-------------------+--------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
@@ -88,6 +88,4 @@ And if the CSUN Portal says you are in
 
 [^2]: In addition to the main reading [@magill2020], students are responsible for other materials assigned each week. This may include videos, articles, and eFlahscards.
 
-[^3]: ~~Students taking this course face-to-face must complete the quizzes before the `first meeting` of the week (Tuesday).~~
-
-[^4]: Typically posted on Wednesday of each week. This gives you time to read and study the content (assigned chapter, videos, etc.) before going over the video/audio lecture.
+[^3]: Typically posted on Wednesday of each week. This gives you time to read and study the content (assigned chapter, videos, etc.) before going over the video/audio lecture.
