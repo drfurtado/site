@@ -1,12 +1,15 @@
 ---
 page-layout: full
-bibliography: references.bib
+format: 
+   html: default
+   pdf: default
 citations-hover: true
 link-external-icon: false
 link-external-newwindow: true
 links-as-notes: true
 tbl-colwidths: [10,10,50,30]
 identifier-prefix: sch
+bibliography: references.bib
 csl: ../apa.csl
 ---
 
