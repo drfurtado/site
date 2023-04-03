@@ -1,5 +1,7 @@
 ---
-Title: Learning Task Update 2
+title: "Learning Task Update 2"
+subtitle: |
+           KIN 377 - Motor Learning (Dr. Furtado)
 format: 
   html: default
   pdf: default
