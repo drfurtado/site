@@ -72,11 +72,25 @@ Narrative citations are integrated into the text of the paper, rather than being
 The main difference between the two is how they are presented within the text, with Parenthetical citations appearing within the parentheses and Narrative citations being integrated into the text. Both types of citation provide the necessary information for the reader to locate the source in the reference list. It is important to note that Parenthetical citations are preferred in APA style, but the narrative citations are also acceptable as long as they are clear and consistent throughout the paper.
 
 | Author type           | Parenthetical citation      | Narrative citation           |
-|:--------------------|:------------------------|:-------------------------|
+|:----------------------|:----------------------------|:-----------------------------|
 | One author            | (Furtado, 2020)             | Furtado (2020)               |
 | Two authors           | (Furtado & Gallagher, 2020) | Furtado and Gallagher (2020) |
 | Three or more authors | (Furtado et al., 2020)      | Furtado et al. (2020)        |
 | Organization          | (Quarto, 2020)              | Quarto (2020)                |
+
+## Uses of page numbers {#sec-uses-of-page-numbers}
+
+Page numbers are an essential component of APA Style 7th edition when citing sources in academic writing. They serve a crucial function in in-text citations and reference list entries.
+
+In in-text citations, page numbers allow readers to locate the exact spot within a source where the information being cited can be found. This is especially important for direct quotes and paraphrased material. Examples of in-text citations with page numbers include: (Smith, 2019, p. 27) and (Jones & Lee, 2020, pp. 45-46).
+
+In reference list entries, page numbers allow readers to locate the specific pages or range of pages on which the information being cited appears. Examples of reference list entries with page numbers include:
+
+-   Journal article: Smith, J. D. (2019). The effects of caffeine on sleep patterns. Journal of Sleep Research, 28(3), 25-34.
+
+-   Book chapter: Jones, T. K., & Lee, S. M. (2020). The impact of technology on education. In P. Singh (Ed.), Trends and issues in education for the 21st century (pp. 45-68). Sage Publications.
+
+In both cases, page numbers provide readers with the information they need to locate and verify the accuracy of the information being presented. When including page numbers in citations, use "p." or "pp." to indicate a single page or range of pages, respectively.
 
 ## Secondary sources {#sec-secondary-sources}
 
@@ -107,9 +121,9 @@ Furtado `and` Gallagher (2000) noted that....
 
 The period is placed after the parentheses (parenthetical citations), not before.
 
-{{< bi emoji-smile >}} … FMS are the building block of further motor skill development (Furtado & Gallagher, 2000).
+{{< bi emoji-smile >}} ... FMS are the building block of further motor skill development (Furtado & Gallagher, 2000).
 
-{{< bi emoji-frown >}} … FMS are the building block of further motor skill development. (Furtado & Gallagher, 2000)
+{{< bi emoji-frown >}} ... FMS are the building block of further motor skill development. (Furtado & Gallagher, 2000)
 
 ### Secondary sources
 

@@ -1,14 +1,6 @@
-## Appendix D
-
-Below you will find the evaluation rubrics used in KIN 377.
-
-### Online Discussions
-
-![](images/paste-CCDC1445.png)
-
-### Learning Task - Update 2 & Final Video[^377-appendix-d-1]
-
-[^377-appendix-d-1]: The evaluation rubric for the `Update 2` covers score describers 1-4 while for the `Final Video` it covers 1-6.
+---
+Title: "Evaluation Rubric - Learning Task Update 2"
+---
 
 | **Criteria**             | **Score 1: Early Cognitive**    | **Score 2: Late Cognitive**        | **Score 3: Early Associative**                 | **Score 4: Late Associative**      | **Score 5: Early Autonomous**    | **Score 6: Late Autonomous**     |
 |--------------------------|---------------------------------|------------------------------------|------------------------------------------------|------------------------------------|----------------------------------|----------------------------------|
@@ -36,7 +28,3 @@ Below you will find the evaluation rubrics used in KIN 377.
 
 6.  Tactical Decision Making:
     This criterion evaluates the student's ability to make effective tactical decisions while performing the motor skill. In the early stages of learning, students may have limited tactical awareness. As they progress, they develop better tactical understanding, which allows them to make advanced and exceptional decisions during performance.
-
-### Reflection Paper
-
-![](images/paste-3AE7E91C.png)
