@@ -4,39 +4,20 @@ Below you will find the evaluation rubrics used in KIN 377.
 
 ### Online Discussions
 
-![](images/paste-CCDC1445.png)
+{{< include rubric-discussion.qmd >}}
 
-### Learning Task - Update 2 & Final Video[^377-appendix-d-1]
+### LT - Update 2
 
-[^377-appendix-d-1]: The evaluation rubric for the `Update 2` covers score describers 1-4 while for the `Final Video` it covers 1-6.
+{{< include rubric-update2.qmd >}}
 
-| **Criteria**             | **Score 1: Early Cognitive**    | **Score 2: Late Cognitive**        | **Score 3: Early Associative**                 | **Score 4: Late Associative**      | **Score 5: Early Autonomous**    | **Score 6: Late Autonomous**     |
-|--------------------------|---------------------------------|------------------------------------|------------------------------------------------|------------------------------------|----------------------------------|----------------------------------|
-| Attention Demands        | High cognitive demand           | Moderate cognitive demand          | Low cognitive demand                           | Minimal cognitive demand           | Minimal cognitive demand         | Minimal cognitive demand         |
-| Control of Movement      | Conscious control               | Mixed conscious & automatic        | Mostly automatic control                       | Mostly automatic control           | Automatic control                | Automatic control                |
-| Execution Speed          | Slow and hesitant               | Increased speed                    | Moderate speed                                 | Faster speed                       | Optimal speed                    | Exceptional speed                |
-| Fluidity & Efficiency    | Slow, inconsistent, inefficient | Improved fluidity & efficiency     | Greater fluidity & efficiency                  | Reliable, efficient                | Highly efficient                 | Superior efficiency              |
-| Precision & Consistency  | Low precision & consistency     | Developing precision & consistency | Links precision & consistency with performance | Consistent precision & performance | Accurate precision & performance | Superior precision & performance |
-| Tactical Decision Making | Limited tactical awareness      | Basic tactical awareness           | Developing tactical awareness                  | Good tactical awareness            | Advanced tactical awareness      | Exceptional tactical awareness   |
+### LT - Update 3
 
-1.  Attention Demands:
-    This criterion evaluates the amount of cognitive effort required by the student to perform the motor skill. In the early stages of learning, a significant amount of cognitive activity is needed to understand and execute the skill. As the student progresses, the cognitive demand decreases, allowing them to perform the skill more automatically.
+{{< include rubric-discussion.qmd >}}
 
-2.  Control of Movement:
-    This criterion assesses the level of conscious and automatic control over the motor skill. In the initial learning stages, students rely heavily on conscious control. As they gain experience, the control of movement transitions to being more automatic, allowing for smoother execution.
+### LT - Video Performance
 
-3.  Execution Speed:
-    This criterion evaluates the speed at which the student can perform the motor skill. Early in the learning process, students may perform the skill slowly and hesitantly. As they become more proficient, their execution speed increases, ultimately reaching an optimal or exceptional level.
+{{< include rubric-performance.qmd >}}
 
-4.  Fluidity & Efficiency:
-    This criterion measures the smoothness, consistency, and efficiency of the student's movements. In the beginning stages, students may struggle with fluidity and efficiency, but as they progress, their movements become more reliable and efficient, eventually reaching a superior level.
-
-5.  Precision & Consistency:
-    This criterion assesses the student's ability to perform the motor skill with accuracy and consistency. Early learners often struggle with precision and consistency, but as they progress, they develop the ability to link these elements with their performance, ultimately achieving a high level of accuracy and consistency.
-
-6.  Tactical Decision Making:
-    This criterion evaluates the student's ability to make effective tactical decisions while performing the motor skill. In the early stages of learning, students may have limited tactical awareness. As they progress, they develop better tactical understanding, which allows them to make advanced and exceptional decisions during performance.
-
-### Reflection Paper
+### LT - Reflection Paper
 
 ![](images/paste-3AE7E91C.png)
