@@ -1,5 +1,11 @@
 ---
 bibliography: references.bib
+format:
+   html:
+     number-sections: true
+   pdf:
+    toc: true
+    number-sections: true
 ---
 
 ## Appendix A
