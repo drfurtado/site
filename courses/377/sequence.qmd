@@ -89,6 +89,8 @@ And if the CSUN Portal says you are in
 | {{< bi laptop >}} | 05/15/23\    | Finish and submit the reflection paper\                                                                                                                                              | Finish and submit assignments |
 |                   | Final's Week | Record and submit the performance video\                                                                                                                                             |                               |
 |                   |              | `Refer to Appendices A, B, C`                                                                                                                                                        |                               |
+|                   |              |                                                                                                                                                                                      |                               |
+|                   |              | `Assignment are due on 05/19/23`                                                                                                                                                     |                               |
 +-------------------+--------------+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------+
 
 [^1]: Only applies to Hybrid sections. Fully Online (OF) sections do not meet online or on campus.
