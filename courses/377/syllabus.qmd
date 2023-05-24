@@ -1,8 +1,10 @@
 ---
-title:  'KIN 377: Motor Learning'
+title:  'Course Syllabus'
 subtitle: |
-  | Department of Kinesiology, Cal State Northridge
-  | Syllabus - Spring 2023 (Online and Hybrid)
+            KIN 377 - Motor Learning\
+            Department of Kinesiology\
+            Cal State Northridge\
+            Summer 2023
 latex-auto-mk: true
 format:
   html:
@@ -24,10 +26,6 @@ csl: apa-numeric-superscript-brackets.csl
 table-striped: true
 ---
 
-------------------------------------------------------------------------
-
-[Syllabus in PDF format](syllabus.pdf)
-
 # Instructor Info {#sec-instructor-info}
 
 ## Brief Bio
@@ -44,11 +42,10 @@ See @sec-office-hours for more information
 
 Email: ovandef\@csun.edu\
 Office: Redwood Hall 289\
-Course's Site: <https://drfurtado.github.io/site/courses/377/>
 
-::: callout-note
 For course-related questions, please use our mailing list. This way, other students will benefit when I answer your question(s). Refer to Canvas for the mailing list email address.
 
+::: callout-note
 Hint: Add the email to your contacts for easy access throughout the semester.
 :::
 
@@ -70,23 +67,7 @@ Study of principles , theories, and research evidence regarding the nature of mo
 
 ## Course Format
 
-This course consists of readings, written assignments, weekly responses, and check-ins on our Canvas page.
-
-I teach two modes of KIN 377, hybrid and online.
-
-### Hybrid Sections
-
-A Hybrid class (OH) in which students attend class sessions on campus and in an online environment. The class typically meets approximately half online and half on campus.
-
--   **KIN 377 MOTOR LEARNING - (19392-SP2023)**
-
-### Online Sections
-
-A fully Online class (OF) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.
-
--   **KIN 377 MOTOR LEARNING - (19430-SP2023)**
-
--   **KIN 377 MOTOR LEARNING - (19780-SP2023)**
+This is a fully online class (OF) in which all class sessions and exams are presented in an online environment; OF courses have no on-campus meetings.
 
 ::: callout-warning
 This course is not self-paced and is not the "softer, easier way"! This means that you have to **1) check in regularly and 2) respond to the weekly assignments.**
@@ -121,43 +102,7 @@ At the conclusion of this course, students should be able to:
 
 ## Textbook
 
-Magill, R. A., & Anderson, D. (2020). Motor learning and control: concepts and applications (12th Ed.). McGraw-Hill Education.
-
-Link to Matador Bookstore: <https://bit.ly/37yiD7u>
-
-::: callout-note
-The program below is only available during the Fall and Spring semesters.
-:::
-
-### myCSUNDigitalAccess Program {#sec-mycsundigitalaccess}
-
-1.  You are enrolled in a course which is part of the myCSUNDigitalAccess (MCDA) program.
-2.  The *MCDA* program provides digital materials to students at a deeply discounted price.
-3.  Some or all of your materials for this course are being provided digitally through the *MCDA* program.
-4.  ALL enrolled students will have access to the materials through Canvas by the 1st day of class, *but more likely earlier*.
-5.  If you want to keep access throughout the semester, you need do nothing. A charge will be placed on your CSUN student portal account (just like tuition, but a separate charge) around the 5th or 6th week of classes. You will then be responsible for paying the university.
-6.  If you choose to obtain your materials elsewhere you have until **`02/17/23`** to Opt-Out (see instructions below). Those who Opt-Out by **`02/17/23`** will lose access and will **not be charged**.
-7.  Anyone who does not Opt-Out by the **`02/17/23`** deadline will be charged and those charges **will not be reversible**.
-8.  [Click here for more information](https://bit.ly/3pcWcfb).
-
-### Price
-
-To see how much you will be billed if you opt-in, click the link below:
-
-<https://bit.ly/3PDiGCx>
-
-### Opt-out Instructions
-
-If you wish to opt out of this program and not purchase access to the required digital materials you will need to follow the steps below by **`02/17/23`**:
-
-1.  Go to <https://accessportal.follett.com/0150>
-2.  Click on Create an Account on the lower right
-3.  Create an account using your CSUN email account
-4.  Select the course(s) you wish to Opt-Out from
-
-::: callout-note
-You will receive an email confirming your Opt Out selection, access will be removed and you will need to purchase the materials elsewhere on your own. For more information about this program, please visit the following link: <https://bit.ly/3pcWcfb>
-:::
+{{< include inc_text-suwi.qmd >}}
 
 ## Additional resources
 
@@ -185,15 +130,15 @@ I will detail the policy for this course below. Basically, don't cheat and try t
 
 ## Grading Policy
 
--   **25%**: Weekly Quizzes \[SLO's 1\].
+-   **30%**: [Online Quizzes] \[SLO's 1\].
 
--   **25%**: Online Discussions \[SLO's 2\].
+-   **30%**: [Online Discussions] \[SLO's 2\].
 
--   **20%**: Learning Task Performance (final video submission) \[SLO's 1, 2, 4\].
+-   **15%**: [Learning Task Performance] (final video submission) \[SLO's 1, 2, 4\].
 
--   **20%**: Learning Task Reflection Paper \[SLO's 1, 2, 4\].
+-   **15%**: [Learning Task Reflection] \[SLO's 1, 2, 4\].
 
--   **10%**: Learning Task Updates \[SLO's 1, 2, 4\].
+-   **10%**: [Learning Task Updates] \[SLO's 1, 2, 4\].
 
 ::: callout-note
 One quiz and one discussion with the lowest score will be dropped at the end of the term.
@@ -225,10 +170,6 @@ If your message concerns a non-private matter (i.e., assignments, content, deadl
 
 ## Office Hours {#sec-office-hours}
 
-#### In-person
-
-Thursdays from 2-4 pm at RE 289.
-
 #### Online via Zoom
 
 By appointment only: [www.calendly.com/drfurtado](https://calendly.com/drfurtado)
@@ -239,11 +180,11 @@ Unless the student has discussed the situation with the instructor before the as
 
 ## Late Assignments
 
-Unless you have made previous arrangements, a late assignments will be docked off 5% per day (first 4 days) it is late. All assignments are closed after the 4th day.
+In case you haven't made any prior arrangements, submitting a late assignment will result in a 5% deduction per day for the first four days it is overdue. After the fourth day, all assignments will be considered closed.
 
 ## Extra Credit
 
-With the exception of the extra 5 points awarded to the final video performance - LINK (either juggling or cup stacking), there is no individual extra credit granted.
+With the exception of the extra 10 points awarded to the final video performance (either juggling or cup stacking), there is no individual extra credit granted.
 
 ## Disabilities Policy {#sec-disabilities-policy}
 
@@ -279,7 +220,7 @@ You should be aware that the Reflection Paper will be submitted via Canvas, whic
 
 To succeed in this course, you will be required to complete several assignments. To avoid surprises, be proactive and review these assignments.
 
-## Quizzes
+## Online Quizzes {#sec-quizzes}
 
 Quizzes will be administered via Canvas and will assess the student's understanding of the topic covered each week. Students are allowed to utilize class notes and the course text to answer the questions; however, **collaboration with other students is not allowed**.
 
@@ -313,13 +254,16 @@ I know how important it is for you to know your current grade in the class. That
 If your grades are not posted within a week after the deadline, or you believe the grade is inaccurate, feel free to email me about the status of your grade.
 :::
 
-## Learning Task Performance & Reflection Paper
+## Learning Task Performance
 
 *Refer to Canvas for full requirements, but basically:*
 
 -   You will be asked to choose either the 3-object Juggling or Cup Speed Stacking activity;
 -   Then, you will be required to practice and learn the selected activity;
--   Before the end of the term (see Calendar for deadlines), you will be asked to video-record yourself performing the skill you have learned. This is the **Performance** portion of this assignment and accounts for 20% of the final grade;
+-   Before the end of the term (see [Course Sequence]), you will be asked to video-record yourself performing the skill you have learned. This is the **Performance** portion of this assignment and accounts for 15% of the final grade;
+
+## Learning Task Reflection
+
 -   The 2nd part of this assignment is a **Reflection Paper**, which also accounts for 20% of the final grade. As you practice and learn the selected skill, you will be advised to use the Motor Learning Principles (full details on Canvas) you will be exposed to while taking this course.
 -   Throughout the term, you will be required to update me on your progress toward learning the selected skill (juggling or cup stacking). See Learning Task Updates below.
 
@@ -423,11 +367,11 @@ CSUN has a range of resources to support your academic goals, engagement with ca
 
 # Course Sequence
 
-{{< include sequence.qmd >}}
+{{< include sequence-su.qmd >}}
 
 # Appendices
 
-It is crucial you study the content of these three appendices. **Appendix A** covers the main instructions related to the LEARNING TASK ASSIGNMENT. In **Appendix B**, you find useful tutorials for both Juggling and Cup Stacking. You will choose one of these two skills to practice and learn throughout the term (Fall, Spring, Summer, or Winter). **Appendix C** covers the Motor Learning Principles (MLP) you will be introduced in this course. The MLP will be crucial when learning your chosen skill (either juggling or cup stacking).
+It is crucial you study the content of these three appendices. **Appendix A** covers the main instructions related to the LEARNING TASK ASSIGNMENT. In **Appendix B**, you find useful tutorials for both Juggling and Cup Stacking. You will choose one of these two skills to practice and learn throughout the term (Fall, Spring, Summer, or Winter). **Appendix C** covers the Motor Learning Principles (MLP) you will be introduced in this course. The MLP will be crucial when learning your chosen skill (either juggling or cup stacking).
 
 This the major assignment for this course and accounts fo **50% of the final grade**. Thus, it's crucial you study the content of these three appendices.
 

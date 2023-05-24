@@ -14,4 +14,6 @@ All the study content for this course will be available here. I use Canvas (CSUN
 
 Getting Started
 
-To get started, read and study the syllabus.
+To get started, read and study the [syllabus](syllabus.qmd). The course sequence is presented below.
+
+{{< include sequence-su.qmd >}}
