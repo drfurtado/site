@@ -20,7 +20,7 @@ website:
             href: https://drfurtado.github.io/kin610/
           - text: "KIN 377"
             icon: "intersect"
-            href: courses/377/index.qmd
+            href: https://drfurtado.github.io/kin377/
           - text: "KIN 477"
             icon: "book"
             href: courses/477/index.qmd

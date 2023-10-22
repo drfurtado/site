@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.353">
+<meta name="generator" content="quarto-1.4.429">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -39,14 +39,19 @@ ul.task-list li input[type="checkbox"] {
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
 <link href="../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
-<link href="../../site_libs/quarto-contrib/bootstrap-icons-1.9.1/all.css" rel="stylesheet">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -56,7 +61,8 @@ ul.task-list li input[type="checkbox"] {
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
     "search-detached-cancel-button-title": "Cancel",
-    "search-submit-button-title": "Submit"
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
 
@@ -70,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
   <header id="quarto-header" class="headroom fixed-top">
     <nav class="navbar navbar-expand-lg navbar-dark ">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
     <span class="navbar-title">Dr.&nbsp;Furtado</span>
     </a>
@@ -82,56 +88,56 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../../index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="../../index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="button" data-bs-toggle="dropdown" aria-expanded="false" rel="" target="">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-teaching" role="button" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">Teaching</span>
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-teaching">    
         <li>
-    <a class="dropdown-item" href="https://drfurtado.github.io/kin610/" rel="" target=""><i class="bi bi-graph-up" role="img">
+    <a class="dropdown-item" href="https://drfurtado.github.io/kin610/"><i class="bi bi-graph-up" role="img">
 </i> 
  <span class="dropdown-text">KIN 610</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../courses/377/index.html" rel="" target=""><i class="bi bi-intersect" role="img">
+    <a class="dropdown-item" href="https://drfurtado.github.io/kin377/"><i class="bi bi-intersect" role="img">
 </i> 
  <span class="dropdown-text">KIN 377</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../../courses/477/index.html" rel="" target=""><i class="bi bi-book" role="img">
+    <a class="dropdown-item" href="../../courses/477/index.html"><i class="bi bi-book" role="img">
 </i> 
  <span class="dropdown-text">KIN 477</span></a>
   </li>  
     </ul>
   </li>
   <li class="nav-item">
-    <a class="nav-link" href="../../blog/index.html" rel="" target="">
- <span class="menu-text">Blog</span></a>
+    <a class="nav-link" href="../../blog/index.html"> 
+<span class="menu-text">Blog</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
-    <a class="nav-link" href="https://twitter.com/ofurtado" rel="" target=""><i class="bi bi-twitter" role="img">
+    <a class="nav-link" href="https://twitter.com/ofurtado"> <i class="bi bi-twitter" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
   <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/drfurtado" rel="" target=""><i class="bi bi-github" role="img">
+    <a class="nav-link" href="https://github.com/drfurtado"> <i class="bi bi-github" role="img">
 </i> 
- <span class="menu-text"></span></a>
+<span class="menu-text"></span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools">
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
   <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
   <div class="quarto-reader-toggle-btn">
   <i class="bi"></i>
   </div>
 </a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
   <nav class="quarto-secondary-nav">
@@ -139,9 +145,9 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-      <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../courses/377/index.html">Course Information</a></li><li class="breadcrumb-item"><a href="../../courses/377/index.html">Introduction</a></li></ol></nav>
-      <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
-      </a>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../courses/377/index.html">Course Information</a></li><li class="breadcrumb-item"><a href="../../courses/377/index.html">Introduction</a></li></ol></nav>
+        <a class="flex-grow-1" role="button" data-bs-toggle="collapse" data-bs-target="#quarto-sidebar,#quarto-sidebar-glass" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
+        </a>
     </div>
   </nav>
 </header>
@@ -208,7 +214,7 @@ ul.task-list li input[type="checkbox"] {
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
-<header id="title-block-header" class="quarto-title-block default">
+<header id="title-block-header" class="quarto-title-block default"><nav class="quarto-page-breadcrumbs quarto-title-breadcrumbs d-none d-lg-block" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../../courses/377/index.html">Course Information</a></li><li class="breadcrumb-item"><a href="../../courses/377/index.html">Introduction</a></li></ol></nav>
 <div class="quarto-title">
 <h1 class="title">KIN 377: Motor Learning</h1>
 </div>
@@ -223,7 +229,9 @@ ul.task-list li input[type="checkbox"] {
   </div>
   
 
+
 </header>
+
 
 <p><a href="https://catalog.csun.edu/academics/kin/courses/kin-377/">KIN 377</a> is a course I teach at California State Northridge. The course is offered through the Department of Kinesiology and is required by all KIN majors. In addition to fall and spring semesters, KIN 377 is offered through Tseng College during the <a href="https://tsengcollege.csun.edu/programs/winter">winter</a> and <a href="https://tsengcollege.csun.edu/programs/summer">summer</a>.</p>
 <p><strong>Course description</strong></p>
@@ -242,133 +250,94 @@ ul.task-list li input[type="checkbox"] {
 <p>To get started, read and study the <a href="../../courses/377/syllabus.html">syllabus</a>. The course sequence is presented below.</p>
 <p>Required textbook: <span class="citation" data-cites="magill2020">@magill2020</span></p>
 <table class="table">
+<colgroup>
+<col style="width: 7%">
+<col style="width: 14%">
+<col style="width: 39%">
+<col style="width: 36%">
+</colgroup>
 <thead>
 <tr class="header">
 <th>Week</th>
 <th>Date</th>
-<th>Study Content<a href="#fn1" class="footnote-ref" id="fnref1" role="doc-noteref"><sup>1</sup></a></th>
-<th>To-do</th>
+<th>Study Content</th>
+<th>Assignments</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><h5 id="sec-wk1" class="anchored">WK1</h5></td>
+<td><code>WK1</code></td>
 <td>May 30 - Jun 4</td>
-<td>Intro to Course &amp; Survival Skills<br>
-<a href="https://drfurtado.github.io/site/blog/posts/apa-citation-basics/">APA Style Article</a></td>
-<td>Read and study the Syllabus</td>
+<td>Intro to Course &amp; Survival Skills</td>
+<td>Read and study the Syllabus + Appendices</td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><i class="bi-book" style="" role="img" aria-hidden="true"></i> Read: Ch01 - The classification of motor skills <span class="citation" data-cites="magill2020">@magill2020</span><br>
-<i class="bi-youtube" style="" role="img" aria-hidden="true"></i> Watch: How to learn anything <span class="citation" data-cites="tedxtalks2013">@tedxtalks2013</span></p>
-<p><br>
-<i class="bi-youtube" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-filetype-pdf" style="" role="img" aria-hidden="true"></i> <a href="https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv">Slides</a><br>
-<i class="bi-card-list" style="" role="img" aria-hidden="true"></i> <a href="https://quizlet.com/_zs84k?x=1jqt&amp;i=dj5">eFlashcards</a></p></td>
+<td>Ch01 - The classification of motor skills</td>
 <td>Quiz</td>
 </tr>
 <tr class="odd">
 <td><code>WK2</code></td>
 <td>Ju 5-11</td>
-<td><p><i class="bi-book" style="" role="img" aria-hidden="true"></i> Ch11: Defining and assessing learning<br>
-<i class="bi-filetype-pdf" style="" role="img" aria-hidden="true"></i> <a href="https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv">Slides</a><br>
-<i class="bi-youtube" style="" role="img" aria-hidden="true"></i> Mini Lecture<br>
-<i class="bi-card-list" style="" role="img" aria-hidden="true"></i> eFlashcards</p>
-<p><br>
-</p></td>
-<td>Quiz</td>
+<td>Ch11: Defining and assessing learning</td>
+<td>Quiz; Discussion 1</td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><i class="bi-book" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-filetype-pdf" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-youtube" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-card-list" style="" role="img" aria-hidden="true"></i></p>
-<p><a href="https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv">Ch12</a>: The stages of learning</p></td>
+<td>Ch12: The stages of learning</td>
 <td>Quiz; LT-Update 1</td>
 </tr>
 <tr class="odd">
 <td><code>WK3</code></td>
 <td>Jun 12-18</td>
-<td><p><i class="bi-book" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-filetype-pdf" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-youtube" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-card-list" style="" role="img" aria-hidden="true"></i></p>
-<p><a href="https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv">Ch14</a>: Demonstration and verbal instructions</p></td>
-<td>Quiz</td>
+<td>Ch14: Demonstration and verbal instructions</td>
+<td>Quiz; Discussion 2</td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><i class="bi-book" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-filetype-pdf" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-youtube" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-card-list" style="" role="img" aria-hidden="true"></i></p>
-<p><a href="https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv">Ch15</a>: Augmented feedback<br>
-<a href="https://canvas.csun.edu/courses/129516/discussion_topics/1581354">Mini-Lectures</a></p></td>
+<td>Ch15: Augmented feedback</td>
 <td>Quiz</td>
 </tr>
 <tr class="odd">
 <td><code>WK4</code></td>
 <td>Jun 19-25</td>
-<td><p><i class="bi-book" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-filetype-pdf" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-youtube" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-card-list" style="" role="img" aria-hidden="true"></i></p>
-<p><a href="https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv">Ch16</a>: Practice variability<br>
-<a href="https://canvas.csun.edu/courses/129516/discussion_topics/1584152">Mini-Lecture</a></p></td>
+<td>Ch16: Practice variability</td>
 <td>Quiz</td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><a href="https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv">Ch17</a>: The amount &amp; distribution of practice<br>
-<a href="https://canvas.csun.edu/courses/129516/discussion_topics/1588276">Mini-Lecture</a></td>
+<td>Ch17: The amount &amp; distribution of practice</td>
 <td>Quiz;<br>
 LT-Update 2</td>
 </tr>
 <tr class="odd">
 <td><code>WK5</code></td>
 <td>Jun 26 - Jul 2</td>
-<td><p><i class="bi-book" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-filetype-pdf" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-youtube" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-card-list" style="" role="img" aria-hidden="true"></i></p>
-<p><a href="https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv">Ch18</a>: Whole and part-practice</p></td>
-<td>Quiz</td>
+<td>Ch18: Whole and part-practice</td>
+<td>Quiz; Discussion 3</td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p><i class="bi-book" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-filetype-pdf" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-youtube" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-card-list" style="" role="img" aria-hidden="true"></i></p>
-<p>Ch09: Attention<br>
-<a href="https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv">Slides</a><br>
-<a href="https://canvas.csun.edu/courses/129516/discussion_topics/1597472">Mini Lecture</a></p></td>
+<td>Ch09: Attention</td>
 <td>Quiz</td>
 </tr>
 <tr class="odd">
 <td><code>WK6</code></td>
 <td>Jul 3-11</td>
-<td><p><i class="bi-book" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-filetype-pdf" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-youtube" style="" role="img" aria-hidden="true"></i><br>
-<i class="bi-card-list" style="" role="img" aria-hidden="true"></i></p>
-<p><a href="https://mycsunemail-my.sharepoint.com/:f:/g/personal/ovande_furtado_csun_edu/Ev6ETvvCJWBKjDvloNKf4eUBh_daD-cgTZsITXFjmVaJwA?e=xEtHUv">Ch13</a>: Transfer of learning</p></td>
+<td>Ch13: Transfer of learning</td>
 <td>Quiz</td>
 </tr>
 <tr class="even">
 <td></td>
 <td></td>
-<td><p>Finish and submit the reflection paper<br>
+<td>Finish and submit the reflection paper<br>
 Record and submit the performance video<br>
-<code>Refer to Appendices A, B, C</code></p>
-<p><code>Assignments are due on 05/19/23</code></p></td>
+Refer to Appendices A, B, C</td>
 <td>Finish and submit assignments</td>
 </tr>
 </tbody>
@@ -376,13 +345,7 @@ Record and submit the performance video<br>
 
 
 
-
-<div id="quarto-appendix" class="default"><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
-
-<ol>
-<li id="fn1"><p>In addition to the main reading <span class="citation" data-cites="magill2020">[@magill2020]</span>, students are responsible for other materials assigned each week. This may include videos, articles, and eFlahscards.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
-</ol>
-</section></div></main> <!-- /main -->
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -462,10 +425,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -475,8 +437,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -489,6 +460,128 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    const typesetMath = (el) => {
+      if (window.MathJax) {
+        // MathJax Typeset
+        window.MathJax.typeset([el]);
+      } else if (window.katex) {
+        // KaTeX Render
+        var mathElements = el.getElementsByClassName("math");
+        var macros = [];
+        for (var i = 0; i < mathElements.length; i++) {
+          var texText = mathElements[i].firstChild;
+          if (mathElements[i].tagName == "SPAN") {
+            window.katex.render(texText.data, mathElements[i], {
+              displayMode: mathElements[i].classList.contains('display'),
+              throwOnError: false,
+              macros: macros,
+              fleqn: false
+            });
+          }
+        }
+      }
+    }
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        for (let i = 0; i < 2; i++) {
+          container.appendChild(note.children[i].cloneNode(true));
+        }
+        typesetMath(container);
+        return container.innerHTML
+      } else {
+        typesetMath(note);
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      typesetMath(note);
+      return note.innerHTML;
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -532,6 +625,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -557,6 +651,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -617,6 +737,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 

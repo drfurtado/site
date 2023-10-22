@@ -1,0 +1,68 @@
+---
+name: Ovande
+surname: Furtado Jr
+position: "Associate Professor"
+address: "Department of Kinesiology, California State University-Northridge"
+phone: +1 818 677 5968
+profilepic: furtado_portrait.jpeg
+www: drfurtado.us
+email: "ovandef@csun.edu"
+twitter: ofurtado
+github: drfurtado
+date: "`r format(Sys.time(), '%B %Y')`"
+aboutme: "Dr. Furtado received a B.A. in Physical Education from the Federal University of Parana, Curitiba, PR - Brazil. He earned his M.S. and Ph.D. degrees in Motor Behavior from the University of Pittsburgh, PA. Dr. Furtado’s line of research focuses on two main areas: (1) validation of observational models in psychomotor assessment instruments and (2) the relationship between motor skill competence, perceived motor competence, physical activity levels, and body composition."
+output: vitae::twentyseconds
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
+library(vitae)
+```
+
+# Education
+
+```{r}
+library(tibble)
+tribble(
+  ~ Degree, ~ Year, ~ Institution, ~ Where,
+  "Ph.D. Motor Behavior", "2009", "Universityh of Pittsburgh", "Pittsburgh, PA",
+  "M.S. Motor Behavior", "2004", "Universityh of Pittsburgh", "Pittsburgh, PA",
+  "B.A Kinesiology", "1997", "Federal Univertsity of Paraná", "Curitiba, Brazil"
+) %>% 
+  detailed_entries(Degree, Year, Institution, Where)
+```
+
+# Professional Appointments
+
+-   2013-Present: Associate Professor, California State University-Northridge
+-   2007-2013: Associate Professor, Eastern Illinois University
+-   2006-2007: K-8 Physical Education Teacher, Falk School
+-   2001-2005: Program Co-Director, Kinder Kinetics Movement Program
+
+# Frequently Taught Courses (CSUN)
+
+-   KIN 377 Motor Learning and Control
+-   KIN 477 Motor Development
+-   KIN 610 Quantitative Analysis of Research in Kinesiology
+
+# Selected Publications
+
+Azurdia, D., Acuña, S. M., Narasaki-Jara, M., Furtado Jr, O., & Jung, T. (2022). Effects of virtual reality-based aerobic exercise on perceptions of pain and fatigue in individuals with spinal cord injury. Games for Health Journal, 11(4), 236--241. <https://doi.org/10.1089/g4h.2021.0151>
+
+Ladewig, I., Boell, I. B., Pereira, B. O., Spinelli, A. H., Franz, L. G., & Furtado Jr, O. (2019). The efficacy of using learning cues to teach children perform the backhand. Journal of Physical Education and Sports Management, 6(1). <https://doi.org/10.15640/jpesm.v6n1a6>
+
+Mazzardo, O., Fontana, F. E., Furtado Jr, O., & Gallagher, J. D. (2018). The relationship of movement skills with habitual and organized physical activity in seven and eight-year-old children. Pensar a Prática, 21(1), 135--146. <https://doi.org/10.5216/rpp.v21i1.42360>
+
+Beals, T., Furtado Jr, O., & Fontana, F. E. (2018). Relative age effect and academic timing in american junior college baseball. Perceptual and Motor Skills, 125(1), 147--161. <https://doi.org/10.1177/0031512517724260>
+
+Furtado Jr, O., & Gallagher, J. D. (2018). Expert-rater agreement and inter-/intrarater reliability for the Furtado--Gallagher Computerized Observational Movement Pattern Assessment System. Perceptual and Motor Skills, 125(3), 423--437. <https://doi.org/10.1177/0031512518769205>
+
+Fontana, F. E., Furtado Jr, O., Mazzardo, O., Hong, D., & Campos, W. de. (2017). Anti-fat bias by professors teaching physical education majors. European Physical Education Review, 23(1), 127--138. <https://doi.org/10.1177/1356336X16643304>
+
+Fontana, F. E., Furtado Jr, O., Marston, R., Mazzardo, O., & Gallagher, J. D. (2013). Anti-fat bias among physical education teachers and majors. The Physical Educator, 70(1), 15--31.
+
+Furtado Jr, O., & Gallagher, J. D. (2012). The reliability of classification decisions for the Furtado-Gallagher Computerized Observational Movement Pattern Assessment System---FG-COMPASS. Research Quarterly for Exercise and Sport, 83(3), 383--390. <https://doi.org/10.1080/02701367.2012.10599872>
+
+Fontana, F. E., Mazzardo, O., Furtado Jr, O., & Gallagher, J. D. (2009). Whole and part practice: A meta-analysis. Perceptual and Motor Skills, 109(2), 517--530. <https://doi.org/10.2466/pms.109.2.517-530>
+
+Fontana, F. E., Mazzardo, O., Mokgothu, C., Furtado Jr, O., & Gallagher, J. D. (2009). Influence of exercise intensity on the decision-making performance of experienced and inexperienced soccer players. Journal of Sport & Exercise Psychology, 31(2), 135--151.
