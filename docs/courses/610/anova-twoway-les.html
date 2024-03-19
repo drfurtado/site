@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.429">
+<meta name="generator" content="quarto-1.4.550">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -80,6 +80,7 @@ div.csl-indent {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -103,6 +104,33 @@ div.csl-indent {
   </script>
   <script>window.define = window.backupDefine; window.backupDefine = undefined;</script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css">
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="../../styles.css">
 <link rel="stylesheet" href="styles.css">
 </head>
@@ -111,7 +139,7 @@ div.csl-indent {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../../index.html">
@@ -381,9 +409,9 @@ div.csl-indent {
 <p><em>Set up</em></p>
 <p>In jamovi, choose <code>Analyses</code> &gt; <code>ANOVA</code> &gt; <code>ANOVA</code>. Then, move <code>Throwing Accuracy</code> to the <strong>Dependent Variable</strong> box. Finally, move <code>Experience</code> and <code>Practice</code> to the <strong>Fixed Factors</strong> box.</p>
 <p>Because we have more that one factor, we want to use the partial eta-squared (<span class="math inline">\eta^2</span>) as a measure of effect size. Simply check the box <code>Partial</code> <span class="math inline">\eta^2</span> under <strong>Effect Size</strong>.</p>
-<div id="fig-fanova-setup" class="quarto-figure quarto-figure-center anchored" width="450">
+<div id="fig-fanova-setup" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-float-fig figure">
-<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-fanova-setup-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-fanova-setup-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;1: Between-Between F-ANOVA test set up
 </figcaption>
 <div aria-describedby="fig-fanova-setup-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -391,9 +419,9 @@ Figure&nbsp;1: Between-Between F-ANOVA test set up
 </div>
 </figure>
 </div>
-<div id="fig-fanova-table" class="quarto-figure quarto-figure-center anchored" width="550">
+<div id="fig-fanova-table" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-float-fig figure">
-<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-fanova-table-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-fanova-table-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;2: F-ANOVA table
 </figcaption>
 <div aria-describedby="fig-fanova-table-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -420,21 +448,21 @@ Figure&nbsp;2: F-ANOVA table
 <p><img src="images/paste-B99A52A5.png" class="img-fluid" width="650"></p>
 <p><strong>Main effect for <code>Experience</code></strong></p>
 <p>By looking at the table above, and conclude that there is a Main Effect for factor A (Experience), <em>F</em>(12, 1) = 13.50, <em>p</em> = .003. This indicates that for all three levels of factor B combined, athletes scored significantly better than non-athletes (see <a href="#fig-main-a" class="quarto-xref">Figure&nbsp;3</a>).</p>
-<div id="fig-main-a" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="450">
+<div id="fig-main-a" class="quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
-<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-main-a-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-main-a-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;3: Main effect for Experience
 </figcaption>
 <div aria-describedby="fig-main-a-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="images/paste-2755AF96.png" class="img-fluid quarto-figure-left figure-img" width="450">
+<img src="images/paste-2755AF96.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="450">
 </div>
 </figure>
 </div>
 <p><strong>Main effect for <code>Practice</code></strong></p>
 <p>There was also a main effect for factor B (Practice), <em>F</em>(12, 2) = 30.29, <em>p</em> &lt; .001. This indicates that for both levels of A combined, a significant difference exists somewhere among the three levels of B. By looking at</p>
-<div id="fig-main-b" class="quarto-figure quarto-figure-center anchored" width="450">
+<div id="fig-main-b" class="quarto-figure quarto-figure-center quarto-float anchored">
 <figure class="quarto-float quarto-float-fig figure">
-<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-main-b-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-main-b-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;4: Main effect for Practice
 </figcaption>
 <div aria-describedby="fig-main-b-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
@@ -455,13 +483,13 @@ Figure&nbsp;4: Main effect for Practice
 F across A at B2 &gt; p = .008<br>
 F across A at B3 &gt; p = .004</p>
 <p><img src="images/paste-006DA8EB.png" class="img-fluid"></p>
-<div id="fig-interaction" class="quarto-figure quarto-figure-left anchored" data-fig-align="left" width="500">
+<div id="fig-interaction" class="quarto-figure quarto-figure-left quarto-float anchored" data-fig-align="left">
 <figure class="quarto-float quarto-float-fig figure">
-<figcaption class="figure quarto-float-caption quarto-float-fig" id="fig-interaction-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
+<figcaption class="quarto-float-caption-top quarto-float-caption quarto-float-fig" id="fig-interaction-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
 Figure&nbsp;5: Interaction effect
 </figcaption>
 <div aria-describedby="fig-interaction-caption-0ceaefa1-69ba-4598-a22c-09a6ac19f8ca">
-<img src="images/paste-51EBEF6D.png" class="img-fluid quarto-figure-left figure-img" width="500">
+<img src="images/paste-51EBEF6D.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="500">
 </div>
 </figure>
 </div>
@@ -481,7 +509,7 @@ Figure&nbsp;5: Interaction effect
 </section>
 
 
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" role="doc-bibliography" id="quarto-bibliography"><h2 class="anchored quarto-appendix-heading">References</h2><div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
 <div id="ref-navarro2022a" class="csl-entry" role="listitem">
 1. Navarro, D. J., &amp; Foxcroft, D. R. (2022). <em>Learning statistics with jamovi: A tutorial for psychology students and other beginners (version 0.75)</em>. Danielle J. Navarro; David R. Foxcroft. <a href="https://doi.org/10.24384/HGC3-7P15">https://doi.org/10.24384/HGC3-7P15</a>
 </div>
@@ -491,14 +519,14 @@ Figure&nbsp;5: Interaction effect
 <div id="ref-two-way" class="csl-entry" role="listitem">
 3. <em>Two-way ANOVA in SPSS statistics - step-by-step procedure including testing of assumptions | laerd statistics</em>. (n.d.). <a href="https://statistics.laerd.com/spss-tutorials/two-way-anova-using-spss-statistics.php">https://statistics.laerd.com/spss-tutorials/two-way-anova-using-spss-statistics.php</a>
 </div>
-</div></section><aside id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
+</div></section><section id="footnotes" class="footnotes footnotes-end-of-document" role="doc-endnotes"><h2 class="anchored quarto-appendix-heading">Footnotes</h2>
 
 <ol>
 <li id="fn1"><p>The effect of one independent variable does not depend on the effect of the other independent variable.<a href="#fnref1" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn2"><p>These assumptions are specific to the Between-Between F-ANOVA.<a href="#fnref2" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 <li id="fn3"><p>The effect of one independent variable does not depend on the effect of the other independent variable.<a href="#fnref3" class="footnote-back" role="doc-backlink">↩︎</a></p></li>
 </ol>
-</aside></div></main> <!-- /main -->
+</section></div></main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -627,38 +655,28 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    const typesetMath = (el) => {
-      if (window.MathJax) {
-        // MathJax Typeset
-        window.MathJax.typeset([el]);
-      } else if (window.katex) {
-        // KaTeX Render
-        var mathElements = el.getElementsByClassName("math");
-        var macros = [];
-        for (var i = 0; i < mathElements.length; i++) {
-          var texText = mathElements[i].firstChild;
-          if (mathElements[i].tagName == "SPAN") {
-            window.katex.render(texText.data, mathElements[i], {
-              displayMode: mathElements[i].classList.contains('display'),
-              throwOnError: false,
-              macros: macros,
-              fleqn: false
-            });
-          }
-        }
-      }
-    }
     if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
         }
-        typesetMath(container);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
         return container.innerHTML
       } else {
-        typesetMath(note);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -667,8 +685,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
-      typesetMath(note);
-      return note.innerHTML;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {

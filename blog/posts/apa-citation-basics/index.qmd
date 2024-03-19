@@ -8,7 +8,6 @@ date: "1/27/2023"
 draft: false
 fig-cap-location: top
 link-external-newwindow: true
-image: feature.png
 format:
    pdf: default
    html: default 
@@ -72,7 +71,7 @@ Narrative citations are integrated into the text of the paper, rather than being
 The main difference between the two is how they are presented within the text, with Parenthetical citations appearing within the parentheses and Narrative citations being integrated into the text. Both types of citation provide the necessary information for the reader to locate the source in the reference list. It is important to note that Parenthetical citations are preferred in APA style, but the narrative citations are also acceptable as long as they are clear and consistent throughout the paper.
 
 | Author type           | Parenthetical citation      | Narrative citation           |
-|:----------------------|:----------------------------|:-----------------------------|
+|:--------------------|:-------------------------|:-------------------------|
 | One author            | (Furtado, 2020)             | Furtado (2020)               |
 | Two authors           | (Furtado & Gallagher, 2020) | Furtado and Gallagher (2020) |
 | Three or more authors | (Furtado et al., 2020)      | Furtado et al. (2020)        |
@@ -161,6 +160,20 @@ Below are some examples of verbs commonly used in signal phrases.
 | Reports      | Responds | Suggests   |
 | Thinks       | Writes   | Adds       |
 
+## Knowledge test
+
+```{r}
+# echo = FALSE, results = 'asis'
+opts <- c("install.package", 
+            "install.packages", 
+            answer = "library", 
+            "libraries")
+
+q1 <- mcq(opts)
+
+cat("What function loads a package that is already on your computer?", q1)
+```
+
 ## Reference lists
 
 In-text citations are used in conjunction with a reference list. Every source cited in the text must appear in the reference list.
@@ -168,9 +181,3 @@ In-text citations are used in conjunction with a reference list. Every source ci
 Scribbr has a useful tool that helps you create list of references. Click the link below to access the tool.
 
 [Scribbr APA Citation Generator](https://www.scribbr.com/citation/generator/apa/)
-
-#### Image credit {.appendix}
-
-```{=html}
-Illustration by <a href="https://icons8.com/illustrations/author/lZpGtGw5182N">Elisabet Guba</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
-```

@@ -20,159 +20,155 @@ execute:
 
 # Concept: Classifying skills into general categories helps us to understand the demands those skills place on the performer/learner.
 
-Copyright © 2021 McGraw\-Hill Education\. All rights reserved\. No reproduction or distribution without the prior written consent of McGraw\-Hill Education\.
+Copyright © 2021 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.
 
 # Learning Objectives
 
-Define and distinguish the terms  _actions_ \,  _movements_ \, and  _neuromotor processes_  and give examples of each\.
+Define and distinguish the terms *actions* , *movements* , and *neuromotor processes* and give examples of each.
 
-Describe the one common motor skill characteristic for each of three motor skill classification systems\, the two categories of skills in each system\, and examples of skills in each category of each system\.
+Describe the one common motor skill characteristic for each of three motor skill classification systems, the two categories of skills in each system, and examples of skills in each category of each system.
 
-Describe the two dimensions used to classify skills in the Gentile taxonomy of motor skills and the classification characteristic included within each dimension\.
+Describe the two dimensions used to classify skills in the Gentile taxonomy of motor skills and the classification characteristic included within each dimension.
 
-Discuss ways to use the Gentile taxonomy of motor skills in physical rehabilitation or physical education and sport contexts\.
+Discuss ways to use the Gentile taxonomy of motor skills in physical rehabilitation or physical education and sport contexts.
 
 # Why Study Motor Learning?
 
-* We are born to move but  <span style="color:#E21A23">learn</span>  to move  __skillfully__ \.
-* Skill is a biological imperative; without it\, we would quickly perish\.
-  * Skill is vital to our sense of control of the world around us\.
-  * We depend on our capacity to learn and perform motor skills\.
-* Humans are unrivaled in their capacity for acquiring skill\.
+-   We are born to move but [learn]{style="color:#E21A23"} to move **skillfully** .
+-   Skill is a biological imperative; without it, we would quickly perish.
+    -   Skill is vital to our sense of control of the world around us.
+    -   We depend on our capacity to learn and perform motor skills.
+-   Humans are unrivaled in their capacity for acquiring skill.
 
 # The Study of Motor Skills: Motor Learning, Control, and Development 1
 
-* <span style="color:#E21A23"> __Motor learning __ </span> involves the study of:
-  * The acquisition of motor skills\.
-  * The performance enhancement of learned or highly experienced motor skills\.
-  * The  <span style="color:#FF0000">re</span> acquisition of skills following injury\, disease\, and the like\.
-
-* <span style="color:#E21A23"> __Motor control __ </span> involves the study of:
-  * How the neuromuscular system functions to activate and coordinate the muscles and limbs involved in the performance of a motor skill\.
-    * While learning a new skill\.
-    * While performing a well\-learned skill\.
-* <span style="color:#E21A23"> __Motor development __ </span> involves the study of:
-  * Motor behavior and human development from infancy through old age\.
+-   [**Motor learning**]{style="color:#E21A23"} involves the study of:
+    -   The acquisition of motor skills.
+    -   The performance enhancement of learned or highly experienced motor skills.
+    -   The [re]{style="color:#FF0000"} acquisition of skills following injury, disease, and the like.
+-   [**Motor control**]{style="color:#E21A23"} involves the study of:
+    -   How the neuromuscular system functions to activate and coordinate the muscles and limbs involved in the performance of a motor skill.
+        -   While learning a new skill.
+        -   While performing a well-learned skill.
+-   [**Motor development**]{style="color:#E21A23"} involves the study of:
+    -   Motor behavior and human development from infancy through old age.
 
 # Figure 1.1: Three Influences on How We Perform a Motor Skill
 
 # Skills and Actions
 
-* <span style="color:#E21A23"> __Skills__ </span>  <span style="color:#E21A23">: </span> Tasks or activities that have specific goals to achieve \(action goals\)\.
-  * Require voluntary control over movements of the joints and body segments\.
-* <span style="color:#E21A23"> __Actions__ </span>  <span style="color:#E21A23">: </span> Term often used synonymously with the term  _motor skills_ \.
+-   [**Skills**]{style="color:#E21A23"} [:]{style="color:#E21A23"} Tasks or activities that have specific goals to achieve (action goals).
+    -   Require voluntary control over movements of the joints and body segments.
+-   [**Actions**]{style="color:#E21A23"} [:]{style="color:#E21A23"} Term often used synonymously with the term *motor skills* .
 
 # Characteristics of Skills and Actions
 
-There is a goal to achieve\.
+There is a goal to achieve.
 
-Types of motor skills of interest are performed voluntarily\.
+Types of motor skills of interest are performed voluntarily.
 
-Motor skills require movement of joints and body segments to accomplish task goals\.
+Motor skills require movement of joints and body segments to accomplish task goals.
 
-Skills need to be learned\, or relearned\.
+Skills need to be learned, or relearned.
 
 # Movements and Neuromotor Processes
 
-<span style="color:#E21A23"> __Movements__ </span>  <span style="color:#E21A23">: </span> Specific patterns of motion among joints and body segments\.
+[**Movements**]{style="color:#E21A23"} [:]{style="color:#E21A23"} Specific patterns of motion among joints and body segments.
 
-<span style="color:#E21A23"> __Neuromotor processes__ </span>  <span style="color:#E21A23">: </span> Mechanisms within the nervous and muscular systems that underlie the control of movements and actions\.
+[**Neuromotor processes**]{style="color:#E21A23"} [:]{style="color:#E21A23"} Mechanisms within the nervous and muscular systems that underlie the control of movements and actions.
 
 # Why Distinguish Actions, Movements, and Neuromotor Processes 1
 
-* Actions\, movements\, and neuromotor processes represent the order in which motor control & learning are prioritized\.
-  * People initially learn to achieve action goals\.
-  * People use a variety of movements to discover the best movement to accomplish the action goal\.
-  * People modify neuromotor processes by refining the movement and making it more efficient\.
+-   Actions, movements, and neuromotor processes represent the order in which motor control & learning are prioritized.
+    -   People initially learn to achieve action goals.
+    -   People use a variety of movements to discover the best movement to accomplish the action goal.
+    -   People modify neuromotor processes by refining the movement and making it more efficient.
 
-Not all people can accomplish the action goal using the same movement pattern\.
+Not all people can accomplish the action goal using the same movement pattern.
 
-Different measures are used to evaluate actions\, movements\, and neuromotor processes\.
+Different measures are used to evaluate actions, movements, and neuromotor processes.
 
 # Why Classify Motor Skills?
 
-Provides basis for identifying similarities/differences among skills\.
+Provides basis for identifying similarities/differences among skills.
 
-Helps identify demands different skills place on performer/learner\.
+Helps identify demands different skills place on performer/learner.
 
-Provides basis for developing principles related to performing and learning motor skills\.
+Provides basis for developing principles related to performing and learning motor skills.
 
 # One-Dimension System: Size of Primary Musculature Required
 
-* <span style="color:#000000">Two categories\.</span>
-  * <span style="color:#E21A23"> __Gross motor skills__ </span>  <span style="color:#E21A23">: </span>  <span style="color:#000000">Require the use of large musculature to achieve the goal of the skill\.</span>
-    * <span style="color:#000000"> Example: Walking\, jumping\, et cetera\. </span>
-  * <span style="color:#E21A23"> __Fine motor skills__ </span>  <span style="color:#E21A23">: </span>  <span style="color:#000000">Require control of the small muscles to achieve the goal of the skill\.</span>
-    * <span style="color:#000000">Example: Skills involving hand\-eye coordination\.</span>
+-   [Two categories.]{style="color:#000000"}
+    -   [**Gross motor skills**]{style="color:#E21A23"} [:]{style="color:#E21A23"} [Require the use of large musculature to achieve the goal of the skill.]{style="color:#000000"}
+        -   [Example: Walking, jumping, et cetera.]{style="color:#000000"}
+    -   [**Fine motor skills**]{style="color:#E21A23"} [:]{style="color:#E21A23"} [Require control of the small muscles to achieve the goal of the skill.]{style="color:#000000"}
+        -   [Example: Skills involving hand-eye coordination.]{style="color:#000000"}
 
 # One-Dimension System: Specificity of Where Movement of a Skill Begins and Ends 1
 
-* <span style="color:#000000">Two main categories\.</span>
-  * <span style="color:#E21A23"> __Discrete motor skills__ </span>  <span style="color:#E21A23">: </span>  <span style="color:#000000">Specified beginning and end points\, usually require a simple movement\.</span>
-    * <span style="color:#000000"> Example: Flipping a light switch\.</span>
-  * <span style="color:#E21A23"> __Continuous motor skills__ </span>  <span style="color:#E21A23">: </span>  <span style="color:#000000">Arbitrary movement beginning and end points; usually involve repetitive movements\.</span>
-    * <span style="color:#000000">Example: Steering a car\.</span>
-
-* Combination category:  <span style="color:#E21A23"> __Serial motor skills__ </span> \.
-  * Involve a continuous series of discrete movements\.
-    * Example: Shifting gears in a stick shift car\.
+-   [Two main categories.]{style="color:#000000"}
+    -   [**Discrete motor skills**]{style="color:#E21A23"} [:]{style="color:#E21A23"} [Specified beginning and end points, usually require a simple movement.]{style="color:#000000"}
+        -   [Example: Flipping a light switch.]{style="color:#000000"}
+    -   [**Continuous motor skills**]{style="color:#E21A23"} [:]{style="color:#E21A23"} [Arbitrary movement beginning and end points; usually involve repetitive movements.]{style="color:#000000"}
+        -   [Example: Steering a car.]{style="color:#000000"}
+-   Combination category: [**Serial motor skills**]{style="color:#E21A23"} .
+    -   Involve a continuous series of discrete movements.
+        -   Example: Shifting gears in a stick shift car.
 
 # One-Dimension System: Stability of the Environmental Context 1
 
-* <span style="color:#E21A23"> __Environmental context__ </span>  <span style="color:#E21A23">: </span>  <span style="color:#000000">The physical location / setting in which a skill is performed\.</span>
-  * <span style="color:#000000">Three specific features\.</span>
-    * <span style="color:#000000">Supporting surface\.</span>
-    * <span style="color:#000000">Objects involved\.</span>
-    * <span style="color:#000000">Other people or animals\.</span>
-
-* Two main categories\.
-  * <span style="color:#E21A23"> __Closed motor skills__ </span>  <span style="color:#E21A23">: </span> Involve a stationary supporting surface\, object\, and/or other people/animal; performer determines when to begin the action\.
-    * Example: Picking up a cup while seated at a table\.
-  * <span style="color:#E21A23"> __Open motor skills__ </span>  <span style="color:#E21A23">: </span> Performed in an environment in which supporting surfaces\, objects\, and/or other people or animals are in motion; environmental context in motion determines when to begin the action\.
-    * Example: Catching a thrown ball\.
+-   [**Environmental context**]{style="color:#E21A23"} [:]{style="color:#E21A23"} [The physical location / setting in which a skill is performed.]{style="color:#000000"}
+    -   [Three specific features.]{style="color:#000000"}
+        -   [Supporting surface.]{style="color:#000000"}
+        -   [Objects involved.]{style="color:#000000"}
+        -   [Other people or animals.]{style="color:#000000"}
+-   Two main categories.
+    -   [**Closed motor skills**]{style="color:#E21A23"} [:]{style="color:#E21A23"} Involve a stationary supporting surface, object, and/or other people/animal; performer determines when to begin the action.
+        -   Example: Picking up a cup while seated at a table.
+    -   [**Open motor skills**]{style="color:#E21A23"} [:]{style="color:#E21A23"} Performed in an environment in which supporting surfaces, objects, and/or other people or animals are in motion; environmental context in motion determines when to begin the action.
+        -   Example: Catching a thrown ball.
 
 # Gentile’s Two-Dimensional Taxonomy
 
-<span style="color:#E21A23"> __Taxonomy__ </span>  <span style="color:#E21A23">: </span>  <span style="color:#000000">A classification system that is organized according to relationships among the component characteristics of whatever is being classified\.</span>
+[**Taxonomy**]{style="color:#E21A23"} [:]{style="color:#E21A23"} [A classification system that is organized according to relationships among the component characteristics of whatever is being classified.]{style="color:#000000"}
 
 # Gentile’s Taxonomy of Tasks 1
 
-* Environmental context\.
-  * <span style="color:#E21A23"> __Regulatory conditions__ </span>  <span style="color:#E21A23">: </span> Features of environmental context\* to which movements must conform to achieve the action goal\.
-    * They regulate spatial and temporal aspects of the movement as well as the forces that underlie these characteristics\.
-    * \*Objects\, surfaces\, or other people\.
-  * <span style="color:#E21A23"> __Nonregulatory conditions__ </span>  <span style="color:#E21A23">: </span> Features of environment that have no influence or only an indirect influence on movement characteristics\.
-
-* Environmental context\.
-  * <span style="color:#E21A23"> __Intertrial variability__ </span>  <span style="color:#E21A23">: </span> Variations in the regulatory conditions associated with the performance of a skill change or stay the same from one trial to the next\.
-  * Example: When someone walks through a room several times in which various objects are located in different places each time because each walk through requires the person to walk with different movements to avoid colliding with the objects\.
+-   Environmental context.
+    -   [**Regulatory conditions**]{style="color:#E21A23"} [:]{style="color:#E21A23"} Features of environmental context\* to which movements must conform to achieve the action goal.
+        -   They regulate spatial and temporal aspects of the movement as well as the forces that underlie these characteristics.
+        -   \*Objects, surfaces, or other people.
+    -   [**Nonregulatory conditions**]{style="color:#E21A23"} [:]{style="color:#E21A23"} Features of environment that have no influence or only an indirect influence on movement characteristics.
+-   Environmental context.
+    -   [**Intertrial variability**]{style="color:#E21A23"} [:]{style="color:#E21A23"} Variations in the regulatory conditions associated with the performance of a skill change or stay the same from one trial to the next.
+    -   Example: When someone walks through a room several times in which various objects are located in different places each time because each walk through requires the person to walk with different movements to avoid colliding with the objects.
 
 # Table 1.2: Taxonomy of Motor Skills Based on the Environmental Context Dimension of Gentile’s Two-Dimensions Taxonomy
 
-| Stationary Regulatory Conditions | No intertrial variability. | Free throws in basketball.<br />Walking in an uncluttered hallway. |
-| :-: | :-: | :-: |
-| Stationary Regulatory Conditions | Inter-trial variability. | Golf shots during a round of golf<br />Taking several drinks of water from the same glass. |
-| In-Motion Regulatory Conditions | No inter-trial variability. | Hitting tennis balls projected at the same speed from a ball machine.<br />Walking on a treadmill at a constant speed. |
-| In-Motion Regulatory Conditions<br /> | Intertrial variability. | Hitting tennis balls during a rally in a game.<br />Walking in a hallway crowded with moving people. |
+|   Stationary Regulatory Conditions    | No intertrial variability.  |                           Free throws in basketball.<br />Walking in an uncluttered hallway.                           |
+|:-------------------------------------:|:---------------------------:|:----------------------------------------------------------------------------------------------------------------------:|
+|   Stationary Regulatory Conditions    |  Inter-trial variability.   |               Golf shots during a round of golf<br />Taking several drinks of water from the same glass.               |
+|    In-Motion Regulatory Conditions    | No inter-trial variability. | Hitting tennis balls projected at the same speed from a ball machine.<br />Walking on a treadmill at a constant speed. |
+| In-Motion Regulatory Conditions<br /> |   Intertrial variability.   |          Hitting tennis balls during a rally in a game.<br />Walking in a hallway crowded with moving people.          |
 
 # Gentile’s Taxonomy of Tasks
 
-* Function of the action\.
-  * <span style="color:#E21A23">Body stability: </span> Skills that involve no change in body location during the performance of the skill\.
-  * <span style="color:#E21A23">Body transport: </span> Includes active and passive changes of body locations\.
-  * <span style="color:#E21A23">Object manipulation: </span> Maintaining/changing the position of moveable objects\.
+-   Function of the action.
+    -   [Body stability:]{style="color:#E21A23"} Skills that involve no change in body location during the performance of the skill.
+    -   [Body transport:]{style="color:#E21A23"} Includes active and passive changes of body locations.
+    -   [Object manipulation:]{style="color:#E21A23"} Maintaining/changing the position of moveable objects.
 
 # Table 1.1: Gentile’s Taxonomy of Motor Skills 1
 
-| Environmental Context | Intertrial Variability (ITV) | Body Stability: No Object Manipulation | Body Stability: Object Manipulation | Body Transport: No Object Manipulation | Body Transport: Object Manipulation |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| Stationary<br />Regulatory<br />Conditions | <br />No ITV | 1A | 1B | 1C | 1D |
-| Stationary<br />Regulatory<br />Conditions | ITV | 2A | 2B | 2C | 2D |
+|           Environmental Context            | Intertrial Variability (ITV) | Body Stability: No Object Manipulation | Body Stability: Object Manipulation | Body Transport: No Object Manipulation | Body Transport: Object Manipulation |
+|:------------------------------------------:|:----------------------------:|:--------------------------------------:|:-----------------------------------:|:--------------------------------------:|:-----------------------------------:|
+| Stationary<br />Regulatory<br />Conditions |         <br />No ITV         |                   1A                   |                 1B                  |                   1C                   |                 1D                  |
+| Stationary<br />Regulatory<br />Conditions |             ITV              |                   2A                   |                 2B                  |                   2C                   |                 2D                  |
 
-| Environmental Context | Intertrial Variability (ITV) | Body Stability: No Object Manipulation | Body Stability: Object Manipulation | Body Transport: No Object Manipulation | Body Transport: Object Manipulation |
-| :-: | :-: | :-: | :-: | :-: | :-: |
-| In-Motion<br />Regulatory<br />Conditions | No ITV | 3A | 3B | 3C | 3D |
-| In-Motion<br />Regulatory<br />Conditions | ITV | 4A | 4B | 4C | 4D |
+|           Environmental Context           | Intertrial Variability (ITV) | Body Stability: No Object Manipulation | Body Stability: Object Manipulation | Body Transport: No Object Manipulation | Body Transport: Object Manipulation |
+|:-----------------------------------------:|:----------------------------:|:--------------------------------------:|:-----------------------------------:|:--------------------------------------:|:-----------------------------------:|
+| In-Motion<br />Regulatory<br />Conditions |            No ITV            |                   3A                   |                 3B                  |                   3C                   |                 3D                  |
+| In-Motion<br />Regulatory<br />Conditions |             ITV              |                   4A                   |                 4B                  |                   4C                   |                 4D                  |
 
 # How Would You Classify This Task? 1
 
@@ -180,21 +176,20 @@ David Madison/Digital Vision/Getty Images; Halfdark/Getty Images
 
 # Characteristics of Gentile’s Taxonomy
 
-* Each skill category poses different demands on the performer\.
-* Skills that demand the least of the performer are the simplest; those that demand the most are the most complex\.
-  * Skill categories begin at the top leftmost category with the simplest skills and progress to the most complex in the bottom rightmost category\.
-* Environmental context dimension and the action function dimension form the basis for creating sixteen categories of motor skills\.
+-   Each skill category poses different demands on the performer.
+-   Skills that demand the least of the performer are the simplest; those that demand the most are the most complex.
+    -   Skill categories begin at the top leftmost category with the simplest skills and progress to the most complex in the bottom rightmost category.
+-   Environmental context dimension and the action function dimension form the basis for creating sixteen categories of motor skills.
 
 # Practical Application of the Taxonomy
 
-* Can be used for evaluating a learner’s movement capabilities and limitations\.
-* Becomes a valuable tool for systematically selecting a progression of functionally appropriate activities to:
-  * Increase person’s performance capabilities\.
-  * Help the person overcome his or her performance deficiencies\.
-* Charts a person’s progress\.
-  * Creates a  <span style="color:#E21A23">profile of competencies</span> \.
+-   Can be used for evaluating a learner’s movement capabilities and limitations.
+-   Becomes a valuable tool for systematically selecting a progression of functionally appropriate activities to:
+    -   Increase person’s performance capabilities.
+    -   Help the person overcome his or her performance deficiencies.
+-   Charts a person’s progress.
+    -   Creates a [profile of competencies]{style="color:#E21A23"} .
 
 # End of Main Content
 
-Copyright © 2021 McGraw\-Hill Education\. All rights reserved\. No reproduction or distribution without the prior written consent of McGraw\-Hill Education\.
-
+Copyright © 2021 McGraw-Hill Education. All rights reserved. No reproduction or distribution without the prior written consent of McGraw-Hill Education.

@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.429">
+<meta name="generator" content="quarto-1.4.550">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -62,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -106,14 +107,41 @@ ul.task-list li input[type="checkbox"] {
   <script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script>
   <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
 <link rel="stylesheet" href="../styles.css">
 </head>
 
 <body class="nav-fixed">
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="../index.html">
@@ -155,6 +183,10 @@ ul.task-list li input[type="checkbox"] {
   <li class="nav-item">
     <a class="nav-link active" href="../blog/index.html" aria-current="page"> 
 <span class="menu-text">Blog</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../cv/cv-website.html"> 
+<span class="menu-text">CV</span></a>
   </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
@@ -223,18 +255,18 @@ ul.task-list li input[type="checkbox"] {
     </div>
 </div>
 <div class="list quarto-listing-default">
-<div class="quarto-post image-right" data-index="0" data-categories="apa style,citations,references" data-listing-date-sort="1674806400000" data-listing-file-modified-sort="1680117929129" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1676">
+<div class="quarto-post image-right" data-index="0" data-categories="apa style,citations,references" data-listing-date-sort="1674806400000" data-listing-file-modified-sort="1710803895792" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="9" data-listing-word-count-sort="1666">
 <div class="thumbnail">
-<p><a href="../blog/posts/apa-citation-basics/index.html"></a></p><a href="../blog/posts/apa-citation-basics/index.html">
-<p><img src="../blog/posts/apa-citation-basics/feature.png" class="thumbnail-image"></p>
-</a><p><a href="../blog/posts/apa-citation-basics/index.html"></a></p>
+<p><a href="../blog/posts/apa-citation-basics/index.html" class="no-external"></a></p><a href="../blog/posts/apa-citation-basics/index.html" class="no-external">
+<div class="listing-item-img-placeholder card-img-top" >&nbsp;</div>
+</a><p><a href="../blog/posts/apa-citation-basics/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../blog/posts/apa-citation-basics/index.html">Basics of APA in-text citation</a>
+<a href="../blog/posts/apa-citation-basics/index.html" class="no-external">Basics of APA in-text citation</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../blog/posts/apa-citation-basics/index.html"></a>
+<a href="../blog/posts/apa-citation-basics/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('apa style'); return false;">
@@ -248,11 +280,11 @@ references
 </div>
 </div>
 <div class="listing-description">
-<a href="../blog/posts/apa-citation-basics/index.html"><!-- desc(5A0113B34292)[max=100]:blog/posts/apa-citation-basics/index.html --></a>
+<a href="../blog/posts/apa-citation-basics/index.html" class="no-external">APA style in-text citation is a method of giving credit to sources within the text of a paper by…</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../blog/posts/apa-citation-basics/index.html">
+<a href="../blog/posts/apa-citation-basics/index.html" class="no-external">
 <div class="listing-date">
 Jan 27, 2023
 </div>
@@ -264,16 +296,16 @@ Ovande Furtado Jr
 </div>
 <div class="quarto-post image-right" data-index="1" data-categories="statistics,percentile,percentile rank" data-listing-date-sort="1672387200000" data-listing-file-modified-sort="1677393159806" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="14" data-listing-word-count-sort="2656">
 <div class="thumbnail">
-<p><a href="../blog/posts/percentile/index.html"></a></p><a href="../blog/posts/percentile/index.html">
+<p><a href="../blog/posts/percentile/index.html" class="no-external"></a></p><a href="../blog/posts/percentile/index.html" class="no-external">
 <p><img src="../blog/posts/percentile/feature.png" class="thumbnail-image"></p>
-</a><p><a href="../blog/posts/percentile/index.html"></a></p>
+</a><p><a href="../blog/posts/percentile/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../blog/posts/percentile/index.html">Percentiles</a>
+<a href="../blog/posts/percentile/index.html" class="no-external">Percentiles</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../blog/posts/percentile/index.html"></a>
+<a href="../blog/posts/percentile/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('statistics'); return false;">
@@ -287,11 +319,11 @@ percentile rank
 </div>
 </div>
 <div class="listing-description">
-<a href="../blog/posts/percentile/index.html"><!-- desc(5A0113B34292)[max=100]:blog/posts/percentile/index.html --></a>
+<a href="../blog/posts/percentile/index.html" class="no-external">A percentile is a measure used in statistics that indicates the value below which a certain…</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../blog/posts/percentile/index.html">
+<a href="../blog/posts/percentile/index.html" class="no-external">
 <div class="listing-date">
 Dec 30, 2022
 </div>
@@ -303,16 +335,16 @@ Ovande Furtado Jr
 </div>
 <div class="quarto-post image-right" data-index="2" data-categories="p-value,statistics,hypothesis testing,probability" data-listing-date-sort="1671523200000" data-listing-file-modified-sort="1677393159806" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="5" data-listing-word-count-sort="849">
 <div class="thumbnail">
-<p><a href="../blog/posts/p-value-intro/index.html"></a></p><a href="../blog/posts/p-value-intro/index.html">
+<p><a href="../blog/posts/p-value-intro/index.html" class="no-external"></a></p><a href="../blog/posts/p-value-intro/index.html" class="no-external">
 <p><img src="../blog/posts/p-value-intro/feature.png" class="thumbnail-image"></p>
-</a><p><a href="../blog/posts/p-value-intro/index.html"></a></p>
+</a><p><a href="../blog/posts/p-value-intro/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../blog/posts/p-value-intro/index.html">An Introduction to p-value</a>
+<a href="../blog/posts/p-value-intro/index.html" class="no-external">An Introduction to p-value</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../blog/posts/p-value-intro/index.html"></a>
+<a href="../blog/posts/p-value-intro/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('p-value'); return false;">
@@ -329,11 +361,11 @@ probability
 </div>
 </div>
 <div class="listing-description">
-<a href="../blog/posts/p-value-intro/index.html"><!-- desc(5A0113B34292)[max=100]:blog/posts/p-value-intro/index.html --></a>
+<a href="../blog/posts/p-value-intro/index.html" class="no-external">Understand what a p-value is and how it is used in statistical analysis.</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../blog/posts/p-value-intro/index.html">
+<a href="../blog/posts/p-value-intro/index.html" class="no-external">
 <div class="listing-date">
 Dec 20, 2022
 </div>
@@ -345,16 +377,16 @@ Ovande Furtado Jr
 </div>
 <div class="quarto-post image-right" data-index="3" data-categories="jamovi,tables" data-listing-date-sort="1652684400000" data-listing-file-modified-sort="1677393159805" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="168">
 <div class="thumbnail">
-<p><a href="../blog/posts/jamovi-tab-long/index.html"></a></p><a href="../blog/posts/jamovi-tab-long/index.html">
+<p><a href="../blog/posts/jamovi-tab-long/index.html" class="no-external"></a></p><a href="../blog/posts/jamovi-tab-long/index.html" class="no-external">
 <p><img src="../blog/posts/jamovi-tab-long/feature.png" class="thumbnail-image"></p>
-</a><p><a href="../blog/posts/jamovi-tab-long/index.html"></a></p>
+</a><p><a href="../blog/posts/jamovi-tab-long/index.html" class="no-external"></a></p>
 </div>
 <div class="body">
 <h3 class="no-anchor listing-title">
-<a href="../blog/posts/jamovi-tab-long/index.html">‘Fixing’ long tables in jamovi</a>
+<a href="../blog/posts/jamovi-tab-long/index.html" class="no-external">‘Fixing’ long tables in jamovi</a>
 </h3>
 <div class="listing-subtitle">
-<a href="../blog/posts/jamovi-tab-long/index.html"></a>
+<a href="../blog/posts/jamovi-tab-long/index.html" class="no-external"></a>
 </div>
 <div class="listing-categories">
 <div class="listing-category" onclick="window.quartoListingCategory('jamovi'); return false;">
@@ -365,11 +397,11 @@ tables
 </div>
 </div>
 <div class="listing-description">
-<a href="../blog/posts/jamovi-tab-long/index.html"><!-- desc(5A0113B34292)[max=100]:blog/posts/jamovi-tab-long/index.html --></a>
+<a href="../blog/posts/jamovi-tab-long/index.html" class="no-external">This post<sup>1</sup> shows two different ways to format descriptive tables in jamovi.</a>
 </div>
 </div>
 <div class="metadata">
-<a href="../blog/posts/jamovi-tab-long/index.html">
+<a href="../blog/posts/jamovi-tab-long/index.html" class="no-external">
 <div class="listing-date">
 May 16, 2022
 </div>
@@ -512,38 +544,28 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       }
     }
     stripColumnClz(note)
-    const typesetMath = (el) => {
-      if (window.MathJax) {
-        // MathJax Typeset
-        window.MathJax.typeset([el]);
-      } else if (window.katex) {
-        // KaTeX Render
-        var mathElements = el.getElementsByClassName("math");
-        var macros = [];
-        for (var i = 0; i < mathElements.length; i++) {
-          var texText = mathElements[i].firstChild;
-          if (mathElements[i].tagName == "SPAN") {
-            window.katex.render(texText.data, mathElements[i], {
-              displayMode: mathElements[i].classList.contains('display'),
-              throwOnError: false,
-              macros: macros,
-              fleqn: false
-            });
-          }
-        }
-      }
-    }
     if (id === null || id.startsWith('sec-')) {
       // Special case sections, only their first couple elements
       const container = document.createElement("div");
       if (note.children && note.children.length > 2) {
-        for (let i = 0; i < 2; i++) {
-          container.appendChild(note.children[i].cloneNode(true));
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
         }
-        typesetMath(container);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
         return container.innerHTML
       } else {
-        typesetMath(note);
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
         return note.innerHTML;
       }
     } else {
@@ -552,8 +574,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       if (anchorLink) {
         anchorLink.remove();
       }
-      typesetMath(note);
-      return note.innerHTML;
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
     }
   }
   for (var i=0; i<xrefs.length; i++) {

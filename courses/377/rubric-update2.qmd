@@ -1,5 +1,5 @@
 | **Criteria**             | **Score 1: Early Cognitive**    | **Score 2: Late Cognitive**        | **Score 3: Early Associative**                 | **Score 4: Late Associative**      |
-|-----------|-----------|-----------|-----------|-----------|
+|--------------------------|---------------------------------|------------------------------------|------------------------------------------------|------------------------------------|
 | Attention Demands        | High cognitive demand           | Moderate cognitive demand          | Low cognitive demand                           | Minimal cognitive demand           |
 | Control of Movement      | Conscious control               | Mixed conscious & automatic        | Mostly automatic control                       | Mostly automatic control           |
 | Execution Speed          | Slow and hesitant               | Increased speed                    | Moderate speed                                 | Faster speed                       |
