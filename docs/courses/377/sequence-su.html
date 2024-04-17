@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.550">
+<meta name="generator" content="quarto-1.4.553">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -138,6 +138,10 @@ div.csl-indent {
     <a class="nav-link" href="../../blog/index.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../cv/cv-website.html"> 
+<span class="menu-text">CV</span></a>
+  </li>  
 </ul>
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item compact">
@@ -270,7 +274,7 @@ Refer to Appendices A, B, C</td>
 </tbody>
 </table>
 <div id="schquarto-navigation-envelope" class="hidden">
-<p><span class="hidden" data-render-id="quarto-int-sidebar-title">Dr.&nbsp;Furtado</span> <span class="hidden" data-render-id="quarto-int-navbar-title">Dr.&nbsp;Furtado</span> <span class="hidden" data-render-id="quarto-int-navbar:Home">Home</span> <span class="hidden" data-render-id="quarto-int-navbar:/index.html">/index.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Teaching">Teaching</span> <span class="hidden" data-render-id="quarto-int-navbar:KIN 610">KIN 610</span> <span class="hidden" data-render-id="quarto-int-navbar:https://drfurtado.github.io/kin610/">https://drfurtado.github.io/kin610/</span> <span class="hidden" data-render-id="quarto-int-navbar:KIN 377">KIN 377</span> <span class="hidden" data-render-id="quarto-int-navbar:https://drfurtado.github.io/kin377/">https://drfurtado.github.io/kin377/</span> <span class="hidden" data-render-id="quarto-int-navbar:KIN 477">KIN 477</span> <span class="hidden" data-render-id="quarto-int-navbar:/courses/477/index.html">/courses/477/index.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Blog">Blog</span> <span class="hidden" data-render-id="quarto-int-navbar:/blog/index.html">/blog/index.html</span> <span class="hidden" data-render-id="quarto-int-navbar:https://twitter.com/ofurtado">https://twitter.com/ofurtado</span> <span class="hidden" data-render-id="quarto-int-navbar:https://github.com/drfurtado">https://github.com/drfurtado</span></p>
+<p><span class="hidden" data-render-id="quarto-int-sidebar-title">Dr.&nbsp;Furtado</span> <span class="hidden" data-render-id="quarto-int-navbar-title">Dr.&nbsp;Furtado</span> <span class="hidden" data-render-id="quarto-int-navbar:Home">Home</span> <span class="hidden" data-render-id="quarto-int-navbar:/index.html">/index.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Teaching">Teaching</span> <span class="hidden" data-render-id="quarto-int-navbar:KIN 610">KIN 610</span> <span class="hidden" data-render-id="quarto-int-navbar:https://drfurtado.github.io/kin610/">https://drfurtado.github.io/kin610/</span> <span class="hidden" data-render-id="quarto-int-navbar:KIN 377">KIN 377</span> <span class="hidden" data-render-id="quarto-int-navbar:https://drfurtado.github.io/kin377/">https://drfurtado.github.io/kin377/</span> <span class="hidden" data-render-id="quarto-int-navbar:KIN 477">KIN 477</span> <span class="hidden" data-render-id="quarto-int-navbar:/courses/477/index.html">/courses/477/index.html</span> <span class="hidden" data-render-id="quarto-int-navbar:Blog">Blog</span> <span class="hidden" data-render-id="quarto-int-navbar:/blog/index.html">/blog/index.html</span> <span class="hidden" data-render-id="quarto-int-navbar:CV">CV</span> <span class="hidden" data-render-id="quarto-int-navbar:/cv/cv-website.html">/cv/cv-website.html</span> <span class="hidden" data-render-id="quarto-int-navbar:https://twitter.com/ofurtado">https://twitter.com/ofurtado</span> <span class="hidden" data-render-id="quarto-int-navbar:https://github.com/drfurtado">https://github.com/drfurtado</span></p>
 </div>
 <div id="schquarto-meta-markdown" class="hidden">
 <p><span class="hidden" data-render-id="quarto-metatitle">Dr.&nbsp;Furtado</span> <span class="hidden" data-render-id="quarto-twittercardtitle">Dr.&nbsp;Furtado</span> <span class="hidden" data-render-id="quarto-ogcardtitle">Dr.&nbsp;Furtado</span> <span class="hidden" data-render-id="quarto-metasitename">Dr.&nbsp;Furtado</span> <span class="hidden" data-render-id="quarto-twittercarddesc"></span> <span class="hidden" data-render-id="quarto-ogcardddesc"></span></p>
@@ -372,6 +376,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     for (var i=0; i<links.length; i++) {
       const link = links[i];
       if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
           // target, if specified
           link.setAttribute("target", "_blank");
           if (link.getAttribute("rel") === null) {
@@ -413,7 +422,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
