@@ -26,8 +26,8 @@ website:
             href: courses/477/index.qmd
       - text: "Blog"
         href: blog/index.qmd
-      - text: "CV"
-        href: cv/cv-website.Rmd
+#      - text: "CV"
+#        href: cv/cv-website.Rmd
         
   
     right:
