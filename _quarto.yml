@@ -24,8 +24,8 @@ website:
           - text: "KIN 477"
             icon: "book"
             href: courses/477/index.qmd
-      - text: "Blog"
-        href: blog/index.qmd
+#      - text: "Blog"
+#        href: blog/index.qmd
 
   
     right:

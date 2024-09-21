@@ -4,7 +4,7 @@ categories:
   - jamovi
   - tables
 date: "5/16/2022"
-draft: false
+draft: true
 fig-cap-location: top
 image: feature.png
 author:
