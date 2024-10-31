@@ -1,0 +1,937 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
+
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.5.57">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
+
+<meta name="author" content="Ovande Furtado Jr">
+<meta name="dcterms.date" content="2022-12-30">
+
+<title>Percentiles – Dr.&nbsp;Furtado</title>
+<style>
+code{white-space: pre-wrap;}
+span.smallcaps{font-variant: small-caps;}
+div.columns{display: flex; gap: min(4vw, 1.5em);}
+div.column{flex: auto; overflow-x: auto;}
+div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+ul.task-list{list-style: none;}
+ul.task-list li input[type="checkbox"] {
+  width: 0.8em;
+  margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
+  vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
+}
+</style>
+
+
+<script src="../../../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../../../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../../../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../../../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../../../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../../../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../../../">
+<script src="../../../site_libs/quarto-html/quarto.js"></script>
+<script src="../../../site_libs/quarto-html/popper.min.js"></script>
+<script src="../../../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../../../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../../../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../../../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../../../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../../../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script id="quarto-search-options" type="application/json">{
+  "location": "navbar",
+  "copy-button": false,
+  "collapse-after": 3,
+  "panel-placement": "end",
+  "type": "overlay",
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
+  "language": {
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
+  }
+}</script>
+<style>
+
+      .quarto-title-block .quarto-title-banner {
+        background: #EDF3F9;
+      }
+</style>
+
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="stylesheet" href="../../../styles.css">
+</head>
+
+<body class="nav-fixed">
+
+<div id="quarto-search-results"></div>
+  <header id="quarto-header" class="headroom fixed-top quarto-banner">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
+      <div class="navbar-container container-fluid">
+      <div class="navbar-brand-container mx-auto">
+    <a class="navbar-brand" href="../../../index.html">
+    <span class="navbar-title">Dr.&nbsp;Furtado</span>
+    </a>
+  </div>
+            <div id="quarto-search" class="" title="Search"></div>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+  <span class="navbar-toggler-icon"></span>
+</button>
+          <div class="collapse navbar-collapse" id="navbarCollapse">
+            <ul class="navbar-nav navbar-nav-scroll me-auto">
+  <li class="nav-item">
+    <a class="nav-link" href="../../../index.html"> 
+<span class="menu-text">Home</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../teaching.html"> 
+<span class="menu-text">Teaching</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../../../blog/index.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
+</ul>
+            <ul class="navbar-nav navbar-nav-scroll ms-auto">
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://twitter.com/ofurtado"> <i class="bi bi-twitter" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+  <li class="nav-item compact">
+    <a class="nav-link" href="https://github.com/drfurtado"> <i class="bi bi-github" role="img">
+</i> 
+<span class="menu-text"></span></a>
+  </li>  
+</ul>
+          </div> <!-- /navcollapse -->
+            <div class="quarto-navbar-tools">
+  <a href="" class="quarto-reader-toggle quarto-navigation-tool px-1" onclick="window.quartoToggleReader(); return false;" title="Toggle reader mode">
+  <div class="quarto-reader-toggle-btn">
+  <i class="bi"></i>
+  </div>
+</a>
+</div>
+      </div> <!-- /container-fluid -->
+    </nav>
+</header>
+<!-- content -->
+<header id="title-block-header" class="quarto-title-block default page-columns page-full">
+  <div class="quarto-title-banner page-columns page-full">
+    <div class="quarto-title column-page-left">
+      <h1 class="title">Percentiles</h1>
+                                <div class="quarto-categories">
+                <div class="quarto-category">statistics</div>
+                <div class="quarto-category">percentile</div>
+                <div class="quarto-category">percentile rank</div>
+              </div>
+                  </div>
+  </div>
+    
+  <div class="quarto-title-meta-author column-page-left">
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-heading">Affiliation</div>
+    
+      <div class="quarto-title-meta-contents">
+      <p class="author"><a href="https://drfurtado.us">Ovande Furtado Jr</a> <a href="https://orcid.org/0000-0003-3847-6314" class="quarto-title-author-orcid"> <img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA2ZpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuMC1jMDYwIDYxLjEzNDc3NywgMjAxMC8wMi8xMi0xNzozMjowMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDo1N0NEMjA4MDI1MjA2ODExOTk0QzkzNTEzRjZEQTg1NyIgeG1wTU06RG9jdW1lbnRJRD0ieG1wLmRpZDozM0NDOEJGNEZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wTU06SW5zdGFuY2VJRD0ieG1wLmlpZDozM0NDOEJGM0ZGNTcxMUUxODdBOEVCODg2RjdCQ0QwOSIgeG1wOkNyZWF0b3JUb29sPSJBZG9iZSBQaG90b3Nob3AgQ1M1IE1hY2ludG9zaCI+IDx4bXBNTTpEZXJpdmVkRnJvbSBzdFJlZjppbnN0YW5jZUlEPSJ4bXAuaWlkOkZDN0YxMTc0MDcyMDY4MTE5NUZFRDc5MUM2MUUwNEREIiBzdFJlZjpkb2N1bWVudElEPSJ4bXAuZGlkOjU3Q0QyMDgwMjUyMDY4MTE5OTRDOTM1MTNGNkRBODU3Ii8+IDwvcmRmOkRlc2NyaXB0aW9uPiA8L3JkZjpSREY+IDwveDp4bXBtZXRhPiA8P3hwYWNrZXQgZW5kPSJyIj8+84NovQAAAR1JREFUeNpiZEADy85ZJgCpeCB2QJM6AMQLo4yOL0AWZETSqACk1gOxAQN+cAGIA4EGPQBxmJA0nwdpjjQ8xqArmczw5tMHXAaALDgP1QMxAGqzAAPxQACqh4ER6uf5MBlkm0X4EGayMfMw/Pr7Bd2gRBZogMFBrv01hisv5jLsv9nLAPIOMnjy8RDDyYctyAbFM2EJbRQw+aAWw/LzVgx7b+cwCHKqMhjJFCBLOzAR6+lXX84xnHjYyqAo5IUizkRCwIENQQckGSDGY4TVgAPEaraQr2a4/24bSuoExcJCfAEJihXkWDj3ZAKy9EJGaEo8T0QSxkjSwORsCAuDQCD+QILmD1A9kECEZgxDaEZhICIzGcIyEyOl2RkgwAAhkmC+eAm0TAAAAABJRU5ErkJggg=="></a></p>
+    </div>
+    <div class="quarto-title-meta-contents">
+          <p class="affiliation">
+              Cal State Northridge
+            </p>
+        </div>
+    </div>
+
+  <div class="quarto-title-meta column-page-left">
+
+        
+      <div>
+      <div class="quarto-title-meta-heading">Published</div>
+      <div class="quarto-title-meta-contents">
+        <p class="date">December 30, 2022</p>
+      </div>
+    </div>
+    
+      
+    </div>
+    
+  
+  </header><div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<!-- sidebar -->
+<!-- margin-sidebar -->
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#learning-objectives" id="toc-learning-objectives" class="nav-link active" data-scroll-target="#learning-objectives">Learning Objectives</a></li>
+  <li><a href="#introduction-to-percentiles" id="toc-introduction-to-percentiles" class="nav-link" data-scroll-target="#introduction-to-percentiles">Introduction to percentiles</a>
+  <ul class="collapse">
+  <li><a href="#definition-of-percentiles" id="toc-definition-of-percentiles" class="nav-link" data-scroll-target="#definition-of-percentiles">Definition of percentiles</a></li>
+  <li><a href="#how-to-calculate-percentiles" id="toc-how-to-calculate-percentiles" class="nav-link" data-scroll-target="#how-to-calculate-percentiles">How to calculate percentiles</a></li>
+  </ul></li>
+  <li><a href="#uses-of-percentiles" id="toc-uses-of-percentiles" class="nav-link" data-scroll-target="#uses-of-percentiles">Uses of percentiles</a>
+  <ul class="collapse">
+  <li><a href="#understanding-the-distribution-of-data" id="toc-understanding-the-distribution-of-data" class="nav-link" data-scroll-target="#understanding-the-distribution-of-data">Understanding the distribution of data</a></li>
+  <li><a href="#comparing-data-sets" id="toc-comparing-data-sets" class="nav-link" data-scroll-target="#comparing-data-sets">Comparing data sets</a></li>
+  </ul></li>
+  <li><a href="#percentile-rank" id="toc-percentile-rank" class="nav-link" data-scroll-target="#percentile-rank">Percentile rank</a>
+  <ul class="collapse">
+  <li><a href="#definition-of-percentile-rank" id="toc-definition-of-percentile-rank" class="nav-link" data-scroll-target="#definition-of-percentile-rank">Definition of percentile rank</a></li>
+  <li><a href="#how-to-calculate-percentile-rank" id="toc-how-to-calculate-percentile-rank" class="nav-link" data-scroll-target="#how-to-calculate-percentile-rank">How to calculate percentile rank</a></li>
+  <li><a href="#example-of-finding-the-percentile-rank-for-a-given-score" id="toc-example-of-finding-the-percentile-rank-for-a-given-score" class="nav-link" data-scroll-target="#example-of-finding-the-percentile-rank-for-a-given-score">Example of finding the percentile rank for a given score</a></li>
+  </ul></li>
+  <li><a href="#percentiles-in-statistics-software" id="toc-percentiles-in-statistics-software" class="nav-link" data-scroll-target="#percentiles-in-statistics-software">Percentiles in statistics software</a>
+  <ul class="collapse">
+  <li><a href="#calculating-percentiles-in-excel" id="toc-calculating-percentiles-in-excel" class="nav-link" data-scroll-target="#calculating-percentiles-in-excel">Calculating percentiles in Excel</a></li>
+  <li><a href="#calculating-percentiles-in-spss" id="toc-calculating-percentiles-in-spss" class="nav-link" data-scroll-target="#calculating-percentiles-in-spss">Calculating percentiles in SPSS</a></li>
+  <li><a href="#calculating-percentiles-in-jamovi" id="toc-calculating-percentiles-in-jamovi" class="nav-link" data-scroll-target="#calculating-percentiles-in-jamovi">Calculating percentiles in jamovi</a></li>
+  <li><a href="#calculating-percentiles-in-r" id="toc-calculating-percentiles-in-r" class="nav-link" data-scroll-target="#calculating-percentiles-in-r">Calculating percentiles in R</a></li>
+  </ul></li>
+  <li><a href="#conclusion" id="toc-conclusion" class="nav-link" data-scroll-target="#conclusion">Conclusion</a>
+  <ul class="collapse">
+  <li><a href="#recap-of-key-points" id="toc-recap-of-key-points" class="nav-link" data-scroll-target="#recap-of-key-points">Recap of key points</a></li>
+  <li><a href="#applications-of-percentiles-in-real-world-situations" id="toc-applications-of-percentiles-in-real-world-situations" class="nav-link" data-scroll-target="#applications-of-percentiles-in-real-world-situations">Applications of percentiles in real-world situations</a></li>
+  <li><a href="#further-resources-for-learning-about-percentiles" id="toc-further-resources-for-learning-about-percentiles" class="nav-link" data-scroll-target="#further-resources-for-learning-about-percentiles">Further resources for learning about percentiles</a></li>
+  </ul></li>
+  </ul>
+</nav>
+    </div>
+<!-- main -->
+<main class="content quarto-banner-title-block column-page-left" id="quarto-document-content">
+
+
+
+
+
+<section id="learning-objectives" class="level2">
+<h2 class="anchored" data-anchor-id="learning-objectives">Learning Objectives</h2>
+<ol type="1">
+<li>Understand what percentiles are and how they are used to measure and compare the distribution of a data set.</li>
+<li>Know how to calculate the percentile rank of a given value within a data set.</li>
+<li>Understand how to use percentiles to compare values within a data set and to compare data sets.</li>
+<li>Know how to use percentiles to communicate the distribution of a data set in a clear and concise way.</li>
+<li>Understand how to use percentiles to make informed decisions based on data.</li>
+<li>Be able to interpret and analyze percentile data in the context of real-world situations.</li>
+</ol>
+</section>
+<section id="introduction-to-percentiles" class="level2">
+<h2 class="anchored" data-anchor-id="introduction-to-percentiles">Introduction to percentiles</h2>
+<section id="definition-of-percentiles" class="level3">
+<h3 class="anchored" data-anchor-id="definition-of-percentiles">Definition of percentiles</h3>
+<p>A percentile is a measure used in statistics that indicates the value below which a certain percentage of observations in a group fall. For example, the 20th percentile is the value below which 20% of the observations may be found. Percentiles can be used to compare the relative standing of a value within a dataset.</p>
+<p>For example, if a student’s test score is in the 90th percentile, it means that the student scored higher than 90% of the other students who took the test. Percentiles can also be used to determine the distribution of values within a dataset. For example, if the majority of scores fall within the lower percentiles, it may indicate that the scores are generally lower, while if the majority of scores fall within the higher percentiles, it may indicate that the scores are generally higher.</p>
+<p>Percentiles can be calculated using a variety of methods, but one common method is to first arrange the data in order from smallest to largest and then identify the value that corresponds to the desired percentile.</p>
+</section>
+<section id="how-to-calculate-percentiles" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-calculate-percentiles">How to calculate percentiles</h3>
+<p>To calculate percentiles, you need to follow these steps:</p>
+<ol type="1">
+<li>Rank the data: Arrange the data in numerical order from smallest to largest.</li>
+<li>Determine the percentile rank: Percentile rank refers to the percentage of values in the data set that are less than or equal to a particular value. To determine the percentile rank for a specific value, divide the number of values that are less than or equal to the value by the total number of values in the data set, and then multiply by 100.</li>
+<li>Find the corresponding value: Once you have determined the percentile rank, you can use it to find the corresponding value in the data set. For example, if the percentile rank is 75, then the corresponding value would be the value that is greater than or equal to 75% of the values in the data set.</li>
+</ol>
+<p>Here’s an example to illustrate the process:</p>
+<p>Suppose you have the following data set:</p>
+<p>2, 3, 4, 5, 6, 7, 8, 9, 10</p>
+<p>To calculate the 75th percentile, you would first rank the data:</p>
+<p>2, 3, 4, 5, 6, 7, 8, 9, 10</p>
+<p>Then, you would determine the percentile rank for the 75th percentile:</p>
+<p>75th percentile rank = (75/100) * 9 = 6.75</p>
+<p>This means that the value that is greater than or equal to 75% of the values in the data set is the 7th value in the ranked data set (since the ranks start at 1). Therefore, the 75th percentile for this data set is 7.</p>
+</section>
+</section>
+<section id="uses-of-percentiles" class="level2">
+<h2 class="anchored" data-anchor-id="uses-of-percentiles">Uses of percentiles</h2>
+<section id="understanding-the-distribution-of-data" class="level3">
+<h3 class="anchored" data-anchor-id="understanding-the-distribution-of-data">Understanding the distribution of data</h3>
+<p>Percentile can be used to understand the distribution of data. It indicates the value below which a certain percentage of data falls. For example, if the 50th percentile of a dataset is 50, it means that 50% of the data falls below that value.</p>
+<p>To understand the distribution of data using percentile, we can calculate the percentiles for different values in the dataset. For example, if we have a dataset of 100 values, we can calculate the 10th percentile, 25th percentile, 50th percentile (also known as the median), 75th percentile, and 90th percentile. These values will give us an idea of how the data is distributed.</p>
+<p>For example, if the 10th percentile is 20 and the 90th percentile is 80, it means that 10% of the data falls below 20 and 90% of the data falls below 80. This indicates that the data is distributed relatively evenly, with a few outliers on either side. On the other hand, if the 10th percentile is 20 and the 90th percentile is 90, it means that there is a larger concentration of data towards the higher end of the scale.</p>
+<p>Using percentile can help us understand the distribution of data and identify patterns or trends in the data. It can also be used to compare different datasets and see how they differ in terms of distribution.</p>
+</section>
+<section id="comparing-data-sets" class="level3">
+<h3 class="anchored" data-anchor-id="comparing-data-sets">Comparing data sets</h3>
+<p>Using percentiles can be a useful way to compare data sets because it allows you to see how a particular value in one dataset compares to values in another dataset. For example, if you have two datasets with different numbers of values, you can use percentiles to see how a particular value in one dataset compares to values in the other dataset. This can be especially useful when the datasets have different scales or units of measurement.</p>
+<p>For example:</p>
+<p>To calculate the percentile of a particular value in a dataset, you can use the following formula:</p>
+<p>Percentile = (Number of values below the given value / Total number of values) x 100</p>
+<p>For example, let’s say you have a dataset with the following values: 3, 5, 7, 8, 9, 10</p>
+<p>To find the percentile of the value 7, you would count the number of values below 7, which is 2 (3 and 5). The total number of values in the dataset is 6. Plugging these values into the formula gives us:</p>
+<p>Percentile = (2 / 6) x 100 = 33.33</p>
+<p>This means that the value 7 is at the 33.33rd percentile in the dataset.</p>
+</section>
+</section>
+<section id="percentile-rank" class="level2">
+<h2 class="anchored" data-anchor-id="percentile-rank">Percentile rank</h2>
+<section id="definition-of-percentile-rank" class="level3">
+<h3 class="anchored" data-anchor-id="definition-of-percentile-rank">Definition of percentile rank</h3>
+<p>Percentile rank is a measure of the relative standing of a value in a dataset. It indicates the percentage of values in the dataset that are equal to or less than the value in question. For example, if a value has a percentile rank of 75, it means that 75% of the values in the dataset are equal to or less than that value.</p>
+<p>Percentile ranks are commonly used to describe how well a person has performed on a test or assessment relative to a group of people. For example, if a person scores in the 75th percentile on a test, it means that they scored higher than 75% of the people who took the test. Percentile ranks can also be used to compare the scores of different groups of people, such as comparing the scores of students in different schools or at different grade levels.</p>
+<p>It’s important to note that percentile rank is different from percentage. Percentile rank describes the relative standing of a value within a dataset, while percentage is a measure of the number of items in a set relative to the total number of items.</p>
+</section>
+<section id="how-to-calculate-percentile-rank" class="level3">
+<h3 class="anchored" data-anchor-id="how-to-calculate-percentile-rank">How to calculate percentile rank</h3>
+<p>Percentile rank is a way to determine the relative position of a score within a distribution of scores. It can be calculated by the following steps:</p>
+<ol type="1">
+<li><p>Organize the scores in the distribution in ascending order, with the lowest score at the bottom.</p></li>
+<li><p>Determine the position of the score in question within this ordered distribution. For example, if there are 100 scores in the distribution and the score in question is the 50th, it is at the 50th percentile.</p></li>
+<li><p>Calculate the percentile rank as a percentage by dividing the position of the score in the distribution by the total number of scores and multiplying by 100. For example, if the score in question is the 50th out of 100 scores, its percentile rank would be 50/100 * 100 = 50%.</p></li>
+</ol>
+</section>
+<section id="example-of-finding-the-percentile-rank-for-a-given-score" class="level3">
+<h3 class="anchored" data-anchor-id="example-of-finding-the-percentile-rank-for-a-given-score">Example of finding the percentile rank for a given score</h3>
+<p>It’s also possible to use a percentile rank calculator to determine the percentile rank for a given score and distribution of scores. These calculators can be found online or in statistical software.</p>
+<p>Here’s an example of how to calculate percentile rank:</p>
+<p>Suppose you have a distribution of scores for a group of students on a test, and you want to determine the percentile rank of a score of 80. The scores in the distribution are as follows:</p>
+<p>70, 72, 73, 75, 76, 78, 78, 79, 80, 81, 82, 82, 84, 85, 85, 87, 88, 88, 89, 90</p>
+<p>To find the percentile rank of a score of 80, you would first put the scores in ascending order:</p>
+<p>70, 72, 73, 75, 76, 78, 78, 79, 80, 81, 82, 82, 84, 85, 85, 87, 88, 88, 89, 90</p>
+<p>Then you would determine the position of the score of 80 in the distribution: it is the 10th score out of 20 scores.</p>
+<p>Finally, you would calculate the percentile rank as a percentage by dividing the position of the score in the distribution by the total number of scores and multiplying by 100:</p>
+<p>Percentile rank = 10/20 * 100 = 50%</p>
+<p>This means that a score of 80 is at the 50th percentile, which means that it is higher than 50% of the scores in the distribution.</p>
+</section>
+</section>
+<section id="percentiles-in-statistics-software" class="level2">
+<h2 class="anchored" data-anchor-id="percentiles-in-statistics-software">Percentiles in statistics software</h2>
+<section id="calculating-percentiles-in-excel" class="level3">
+<h3 class="anchored" data-anchor-id="calculating-percentiles-in-excel">Calculating percentiles in Excel</h3>
+<p>To calculate percentiles in Excel, you can use the <code>PERCENTILE</code> function. The <code>PERCENTILE</code> function takes two arguments: an array of data and the percentile value that you want to calculate.</p>
+<p>For example, suppose you have a range of data in cells A1:A10 and you want to calculate the 25th percentile. You can use the following formula:</p>
+<p><code>=PERCENTILE(A1:A10, 0.25)</code></p>
+<p>This will return the value at the 25th percentile of the data in the range A1:A10.</p>
+<p>You can also use the <code>PERCENTILE.INC</code> function to calculate percentiles, which is similar to the <code>PERCENTILE</code> function but calculates the percentile using inclusive interpolation. For example:</p>
+<p><code>=PERCENTILE.INC(A1:A10, 0.25)</code></p>
+<p>This will also return the value at the 25th percentile of the data in the range A1:A10, but using inclusive interpolation.</p>
+<p>You can use the <code>PERCENTILE</code> and <code>PERCENTILE.INC</code> functions to calculate other percentiles as well. Simply replace the percentile value in the formula with the desired percentile. For example, to calculate the 50th percentile (also known as the median), you can use:</p>
+<p><code>=PERCENTILE(A1:A10, 0.50)</code></p>
+<p>or</p>
+<p><code>=PERCENTILE.INC(A1:A10, 0.50)</code></p>
+<p>I hope this helps! Let me know if you have any other questions.</p>
+</section>
+<section id="calculating-percentiles-in-spss" class="level3">
+<h3 class="anchored" data-anchor-id="calculating-percentiles-in-spss">Calculating percentiles in SPSS</h3>
+<p>To calculate percentiles in SPSS, you can use the “Percentile” function. Here’s how:</p>
+<ol type="1">
+<li>Select “Transform” from the menu at the top of the SPSS window.</li>
+<li>Click “Rank Cases” from the dropdown menu.</li>
+<li>In the “Rank Cases” dialog box, select the variable that you want to calculate percentiles for from the “Numeric Expression” box.</li>
+<li>In the “Output Variable” box, enter a name for the new variable that will contain the percentile ranks.</li>
+<li>Click “OK” to compute the percentile ranks.</li>
+</ol>
+<p>Once the percentile ranks have been calculated, you can use the “Frequency” function to see the percentiles. To do this:</p>
+<ol type="1">
+<li>Select “Analyze” from the menu at the top of the SPSS window.</li>
+<li>Click “Descriptive Statistics” and then “Frequencies” from the dropdown menu.</li>
+<li>In the “Variable(s)” box, select the variable that contains the percentile ranks.</li>
+<li>Click “Statistics” and then check the “Percentiles” box.</li>
+<li>Click “OK” to see the percentiles in the output window.</li>
+</ol>
+<p>Alternatively, you can use the “Explore” function to see the percentiles. To do this:</p>
+<ol type="1">
+<li>Select “Analyze” from the menu at the top of the SPSS window.</li>
+<li>Click “Descriptive Statistics” and then “Explore” from the dropdown menu.</li>
+<li>In the “Dependent List” box, select the variable that you want to calculate percentiles for.</li>
+<li>In the “Statistics” box, check the “Percentiles” box.</li>
+<li>Click “OK” to see the percentiles in the output window.</li>
+</ol>
+</section>
+<section id="calculating-percentiles-in-jamovi" class="level3">
+<h3 class="anchored" data-anchor-id="calculating-percentiles-in-jamovi">Calculating percentiles in jamovi</h3>
+<p>To calculate percentiles in jamovi, you can use the “Quantiles” module in the “Descriptives” module.</p>
+<p>Here’s how you can use it:</p>
+<ol type="1">
+<li>Open the “Descriptives” module in jamovi.</li>
+<li>Select the “Quantiles” tab.</li>
+<li>In the “Variable” field, select the variable for which you want to calculate percentiles.</li>
+<li>In the “Quantiles” field, specify the percentiles you want to calculate. You can enter multiple percentiles separated by commas, or you can use the “All” option to calculate all percentiles from 0 to 100.</li>
+<li>Click the “Run” button to calculate the percentiles.</li>
+</ol>
+<p>The results will be displayed in a table, with one row for each percentile that you specified. The table will include the percentile value, as well as the count and percentage of observations that are below that percentile.</p>
+<p>You can also use the “Graph” tab in the “Descriptives” module to create a box plot or a histogram of the data, which can help you visualize the distribution of the data and identify any outliers.</p>
+</section>
+<section id="calculating-percentiles-in-r" class="level3">
+<h3 class="anchored" data-anchor-id="calculating-percentiles-in-r">Calculating percentiles in R</h3>
+<p>To calculate percentiles in R, you can use the <code>quantile()</code> function. This function takes a numeric vector as its first argument and a probability (or quantile) as its second argument. It returns the value at the specified quantile of the input vector.</p>
+<p>First, we will create a vector <code>x</code> with <span class="math inline">\(n\)</span> = 11.</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb1"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb1-1"><a href="#cb1-1" aria-hidden="true" tabindex="-1"></a>x <span class="ot">&lt;-</span> <span class="fu">c</span>(<span class="dv">2</span>,<span class="dv">4</span>,<span class="dv">5</span>,<span class="dv">8</span>,<span class="dv">10</span>,<span class="dv">11</span>,<span class="dv">14</span>,<span class="dv">16</span>,<span class="dv">3</span>,<span class="dv">4</span>,<span class="dv">5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+</div>
+<p>For example, to calculate the 50th percentile (i.e., the median) of a vector <code>x</code>, you can use the following code:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb2"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a><span class="fu">quantile</span>(x, <span class="fl">0.5</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>50% 
+  5 </code></pre>
+</div>
+</div>
+<p>To calculate other percentiles, you can specify the desired percentile as a decimal between 0 and 1. For example, to calculate the 75th percentile, you can use the following code:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb4"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb4-1"><a href="#cb4-1" aria-hidden="true" tabindex="-1"></a><span class="fu">quantile</span>(x, <span class="fl">0.75</span>)</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code> 75% 
+10.5 </code></pre>
+</div>
+</div>
+<p>You can also calculate multiple percentiles at once by passing a vector of probabilities to the <code>quantile()</code> function. For example, to calculate the 25th, 50th, and 75th percentiles, you can use the following code:</p>
+<div class="cell">
+<div class="sourceCode cell-code" id="cb6"><pre class="sourceCode r code-with-copy"><code class="sourceCode r"><span id="cb6-1"><a href="#cb6-1" aria-hidden="true" tabindex="-1"></a><span class="fu">quantile</span>(x, <span class="fu">c</span>(<span class="fl">0.25</span>, <span class="fl">0.5</span>, <span class="fl">0.75</span>))</span></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
+<div class="cell-output cell-output-stdout">
+<pre><code> 25%  50%  75% 
+ 4.0  5.0 10.5 </code></pre>
+</div>
+</div>
+</section>
+</section>
+<section id="conclusion" class="level2">
+<h2 class="anchored" data-anchor-id="conclusion">Conclusion</h2>
+<section id="recap-of-key-points" class="level3">
+<h3 class="anchored" data-anchor-id="recap-of-key-points">Recap of key points</h3>
+<ol type="1">
+<li>Percentiles are a way to rank data in a dataset.</li>
+<li>The nth percentile is the value below which n% of the data falls.</li>
+<li>Percentiles can be calculated using a formula that involves the size of the dataset, the rank of the value, and the value itself.</li>
+<li>Percentiles are useful for comparing values within a dataset and understanding how they relate to one another.</li>
+<li>Percentiles can be used to identify trends and patterns in data, such as identifying outliers or identifying where most of the data lies.</li>
+<li>Percentiles can be represented visually using a box plot or other graphical representation.</li>
+<li>Percentiles can be used in many different fields, including statistics, finance, and healthcare.</li>
+</ol>
+</section>
+<section id="applications-of-percentiles-in-real-world-situations" class="level3">
+<h3 class="anchored" data-anchor-id="applications-of-percentiles-in-real-world-situations">Applications of percentiles in real-world situations</h3>
+<ol type="1">
+<li>Determining athletic performance levels: Percentiles can be used to compare an athlete’s performance to their peers or to a larger group. For example, a coach may use percentiles to determine if an athlete’s vertical jump score is in the top 10% or 25% of their age group or sport.</li>
+<li>Assessing health and fitness levels: Percentiles can be used to determine if an individual’s body mass index (BMI), blood pressure, or other health markers are within a healthy range. For example, a healthcare provider may use percentiles to determine if a patient’s BMI is in the normal range (between the 5th and 85th percentile) or if they are at risk for obesity (above the 85th percentile).</li>
+<li>Evaluating physical therapy progress: Physical therapists may use percentiles to track an individual’s progress over time. For example, if a patient’s balance scores are in the 30th percentile at the start of physical therapy and improve to the 75th percentile after several weeks of treatment, this can be considered a significant improvement.</li>
+<li>Analyzing research results: Researchers may use percentiles to compare the results of their study to a larger population. For example, if a study found that the average running time for a group of athletes was in the 75th percentile compared to a larger population, this could suggest that the athletes were performing at a high level.</li>
+<li>Setting goals and targets: Percentiles can be used to set goals and targets for athletes or individuals looking to improve their health and fitness levels. For example, if a person’s BMI is in the 50th percentile, they may set a goal to improve to the 75th percentile to be considered in the “healthy” range.</li>
+</ol>
+</section>
+<section id="further-resources-for-learning-about-percentiles" class="level3">
+<h3 class="anchored" data-anchor-id="further-resources-for-learning-about-percentiles">Further resources for learning about percentiles</h3>
+<ul>
+<li><p><a href="https://www.socscistatistics.com/descriptive/percentile/default.aspx">Online percentile calculator</a></p></li>
+<li><p><a href="https://www.scribbr.com/statistics/quartiles-quantiles/">Percentiles on Scribbr</a></p></li>
+</ul>
+Illustration by <a href="https://icons8.com/illustrations/author/625472">Ekaterina Rogova</a> from <a href="https://icons8.com/illustrations">Ouch!</a>
+
+
+</section>
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@online{furtado_jr2022,
+  author = {Furtado Jr, Ovande},
+  title = {Percentiles},
+  date = {2022-12-30},
+  langid = {en}
+}
+</code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-furtado_jr2022" class="csl-entry quarto-appendix-citeas" role="listitem">
+Furtado Jr, Ovande. 2022. <span>“Percentiles.”</span> December 30, 2022.
+</div></div></section></div></main> <!-- /main -->
+<script id="quarto-html-after-body" type="application/javascript">
+window.document.addEventListener("DOMContentLoaded", function (event) {
+  const toggleBodyColorMode = (bsSheetEl) => {
+    const mode = bsSheetEl.getAttribute("data-mode");
+    const bodyEl = window.document.querySelector("body");
+    if (mode === "dark") {
+      bodyEl.classList.add("quarto-dark");
+      bodyEl.classList.remove("quarto-light");
+    } else {
+      bodyEl.classList.add("quarto-light");
+      bodyEl.classList.remove("quarto-dark");
+    }
+  }
+  const toggleBodyColorPrimary = () => {
+    const bsSheetEl = window.document.querySelector("link#quarto-bootstrap");
+    if (bsSheetEl) {
+      toggleBodyColorMode(bsSheetEl);
+    }
+  }
+  toggleBodyColorPrimary();  
+  const icon = "";
+  const anchorJS = new window.AnchorJS();
+  anchorJS.options = {
+    placement: 'right',
+    icon: icon
+  };
+  anchorJS.add('.anchored');
+  const isCodeAnnotation = (el) => {
+    for (const clz of el.classList) {
+      if (clz.startsWith('code-annotation-')) {                     
+        return true;
+      }
+    }
+    return false;
+  }
+  const onCopySuccess = function(e) {
+    // button target
+    const button = e.trigger;
+    // don't keep focus
+    button.blur();
+    // flash "checked"
+    button.classList.add('code-copy-button-checked');
+    var currentTitle = button.getAttribute("title");
+    button.setAttribute("title", "Copied!");
+    let tooltip;
+    if (window.bootstrap) {
+      button.setAttribute("data-bs-toggle", "tooltip");
+      button.setAttribute("data-bs-placement", "left");
+      button.setAttribute("data-bs-title", "Copied!");
+      tooltip = new bootstrap.Tooltip(button, 
+        { trigger: "manual", 
+          customClass: "code-copy-button-tooltip",
+          offset: [0, -8]});
+      tooltip.show();    
+    }
+    setTimeout(function() {
+      if (tooltip) {
+        tooltip.hide();
+        button.removeAttribute("data-bs-title");
+        button.removeAttribute("data-bs-toggle");
+        button.removeAttribute("data-bs-placement");
+      }
+      button.setAttribute("title", currentTitle);
+      button.classList.remove('code-copy-button-checked');
+    }, 1000);
+    // clear code selection
+    e.clearSelection();
+  }
+  const getTextToCopy = function(trigger) {
+      const codeEl = trigger.previousElementSibling.cloneNode(true);
+      for (const childEl of codeEl.children) {
+        if (isCodeAnnotation(childEl)) {
+          childEl.remove();
+        }
+      }
+      return codeEl.innerText;
+  }
+  const clipboard = new window.ClipboardJS('.code-copy-button:not([data-in-quarto-modal])', {
+    text: getTextToCopy
+  });
+  clipboard.on('success', onCopySuccess);
+  if (window.document.getElementById('quarto-embedded-source-code-modal')) {
+    // For code content inside modals, clipBoardJS needs to be initialized with a container option
+    // TODO: Check when it could be a function (https://github.com/zenorocha/clipboard.js/issues/860)
+    const clipboardModal = new window.ClipboardJS('.code-copy-button[data-in-quarto-modal]', {
+      text: getTextToCopy,
+      container: window.document.getElementById('quarto-embedded-source-code-modal')
+    });
+    clipboardModal.on('success', onCopySuccess);
+  }
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool):not(.about-link)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
+    const config = {
+      allowHTML: true,
+      maxWidth: 500,
+      delay: 100,
+      arrow: false,
+      appendTo: function(el) {
+          return el.parentElement;
+      },
+      interactive: true,
+      interactiveBorder: 10,
+      theme: 'quarto',
+      placement: 'bottom-start',
+    };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
+    window.tippy(el, config); 
+  }
+  const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
+  for (var i=0; i<noterefs.length; i++) {
+    const ref = noterefs[i];
+    tippyHover(ref, function() {
+      // use id or data attribute instead here
+      let href = ref.getAttribute('data-footnote-href') || ref.getAttribute('href');
+      try { href = new URL(href).hash; } catch {}
+      const id = href.replace(/^#\/?/, "");
+      const note = window.document.getElementById(id);
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
+    });
+  }
+      let selectedAnnoteEl;
+      const selectorForAnnotation = ( cell, annotation) => {
+        let cellAttr = 'data-code-cell="' + cell + '"';
+        let lineAttr = 'data-code-annotation="' +  annotation + '"';
+        const selector = 'span[' + cellAttr + '][' + lineAttr + ']';
+        return selector;
+      }
+      const selectCodeLines = (annoteEl) => {
+        const doc = window.document;
+        const targetCell = annoteEl.getAttribute("data-target-cell");
+        const targetAnnotation = annoteEl.getAttribute("data-target-annotation");
+        const annoteSpan = window.document.querySelector(selectorForAnnotation(targetCell, targetAnnotation));
+        const lines = annoteSpan.getAttribute("data-code-lines").split(",");
+        const lineIds = lines.map((line) => {
+          return targetCell + "-" + line;
+        })
+        let top = null;
+        let height = null;
+        let parent = null;
+        if (lineIds.length > 0) {
+            //compute the position of the single el (top and bottom and make a div)
+            const el = window.document.getElementById(lineIds[0]);
+            top = el.offsetTop;
+            height = el.offsetHeight;
+            parent = el.parentElement.parentElement;
+          if (lineIds.length > 1) {
+            const lastEl = window.document.getElementById(lineIds[lineIds.length - 1]);
+            const bottom = lastEl.offsetTop + lastEl.offsetHeight;
+            height = bottom - top;
+          }
+          if (top !== null && height !== null && parent !== null) {
+            // cook up a div (if necessary) and position it 
+            let div = window.document.getElementById("code-annotation-line-highlight");
+            if (div === null) {
+              div = window.document.createElement("div");
+              div.setAttribute("id", "code-annotation-line-highlight");
+              div.style.position = 'absolute';
+              parent.appendChild(div);
+            }
+            div.style.top = top - 2 + "px";
+            div.style.height = height + 4 + "px";
+            div.style.left = 0;
+            let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
+            if (gutterDiv === null) {
+              gutterDiv = window.document.createElement("div");
+              gutterDiv.setAttribute("id", "code-annotation-line-highlight-gutter");
+              gutterDiv.style.position = 'absolute';
+              const codeCell = window.document.getElementById(targetCell);
+              const gutter = codeCell.querySelector('.code-annotation-gutter');
+              gutter.appendChild(gutterDiv);
+            }
+            gutterDiv.style.top = top - 2 + "px";
+            gutterDiv.style.height = height + 4 + "px";
+          }
+          selectedAnnoteEl = annoteEl;
+        }
+      };
+      const unselectCodeLines = () => {
+        const elementsIds = ["code-annotation-line-highlight", "code-annotation-line-highlight-gutter"];
+        elementsIds.forEach((elId) => {
+          const div = window.document.getElementById(elId);
+          if (div) {
+            div.remove();
+          }
+        });
+        selectedAnnoteEl = undefined;
+      };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
+      // Attach click handler to the DT
+      const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
+      for (const annoteDlNode of annoteDls) {
+        annoteDlNode.addEventListener('click', (event) => {
+          const clickedEl = event.target;
+          if (clickedEl !== selectedAnnoteEl) {
+            unselectCodeLines();
+            const activeEl = window.document.querySelector('dt[data-target-cell].code-annotation-active');
+            if (activeEl) {
+              activeEl.classList.remove('code-annotation-active');
+            }
+            selectCodeLines(clickedEl);
+            clickedEl.classList.add('code-annotation-active');
+          } else {
+            // Unselect the line
+            unselectCodeLines();
+            clickedEl.classList.remove('code-annotation-active');
+          }
+        });
+      }
+  const findCites = (el) => {
+    const parentEl = el.parentElement;
+    if (parentEl) {
+      const cites = parentEl.dataset.cites;
+      if (cites) {
+        return {
+          el,
+          cites: cites.split(' ')
+        };
+      } else {
+        return findCites(el.parentElement)
+      }
+    } else {
+      return undefined;
+    }
+  };
+  var bibliorefs = window.document.querySelectorAll('a[role="doc-biblioref"]');
+  for (var i=0; i<bibliorefs.length; i++) {
+    const ref = bibliorefs[i];
+    const citeInfo = findCites(ref);
+    if (citeInfo) {
+      tippyHover(citeInfo.el, function() {
+        var popup = window.document.createElement('div');
+        citeInfo.cites.forEach(function(cite) {
+          var citeDiv = window.document.createElement('div');
+          citeDiv.classList.add('hanging-indent');
+          citeDiv.classList.add('csl-entry');
+          var biblioDiv = window.document.getElementById('ref-' + cite);
+          if (biblioDiv) {
+            citeDiv.innerHTML = biblioDiv.innerHTML;
+          }
+          popup.appendChild(citeDiv);
+        });
+        return popup.innerHTML;
+      });
+    }
+  }
+});
+</script>
+</div> <!-- /content -->
+
+
+
+
+</body></html>

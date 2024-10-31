@@ -14,18 +14,9 @@ website:
       - text: "Home"
         href: index.qmd
       - text: "Teaching"
-        menu: 
-          - text: "KIN 610"
-            icon: "graph-up"
-            href: https://drfurtado.github.io/kin610/
-          - text: "KIN 377"
-            icon: "intersect"
-            href: https://drfurtado.github.io/kin377/
-          - text: "KIN 477"
-            icon: "book"
-            href: courses/477/index.qmd
-#      - text: "Blog"
-#        href: blog/index.qmd
+        href: teaching.qmd
+      - text: "Blog"
+        href: blog/index.qmd
 
   
     right:
